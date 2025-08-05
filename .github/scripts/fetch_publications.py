@@ -22,6 +22,64 @@ def debug_log(message):
     if DEBUG:
         print(f"DEBUG: {message}")
 
+def calculate_summary_stats(publications):
+    """Calculate comprehensive publication statistics."""
+    if not publications:
+        return {
+            'total_papers': 0,
+            'total_citations': 0,
+            'h_index': 0,
+            'i10_index': 0,
+            'first_author_papers': 0,
+            'avg_citations_per_paper': 0.0,
+            'last_updated': datetime.now().strftime("%Y-%m-%d")
+        }
+    
+    total_papers = len(publications)
+    total_citations = sum(pub.get('citation_count', 0) for pub in publications)
+    
+    # H-index calculation
+    citations = sorted([pub.get('citation_count', 0) for pub in publications], reverse=True)
+    h_index = 0
+    for i, citation_count in enumerate(citations):
+        if citation_count >= i + 1:
+            h_index = i + 1
+        else:
+            break
+    
+    # i10-index (papers with 10+ citations)
+    i10_index = sum(1 for pub in publications if pub.get('citation_count', 0) >= 10)
+    
+    # First author papers - check if Yuan, Sihan appears first
+    # The author field format from ADS is "LastName, FirstName, ..."
+    first_author_papers = 0
+    for pub in publications:
+        authors = pub.get('authors', '')
+        if authors:
+            # Check if the first author is Yuan, S. or Yuan, Sihan
+            first_author = authors.split(',')[0:2]  # Get first two parts
+            if len(first_author) >= 2:
+                if first_author[0].strip().lower() == 'yuan' and \
+                   (first_author[1].strip().lower().startswith('s') or 
+                    first_author[1].strip().lower().startswith('sihan')):
+                    first_author_papers += 1
+                    # Add a flag to the publication for frontend filtering
+                    pub['is_first_author'] = True
+                else:
+                    pub['is_first_author'] = False
+    
+    avg_citations = round(total_citations / total_papers, 1) if total_papers > 0 else 0.0
+    
+    return {
+        'total_papers': total_papers,
+        'total_citations': total_citations,
+        'h_index': h_index,
+        'i10_index': i10_index,
+        'first_author_papers': first_author_papers,
+        'avg_citations_per_paper': avg_citations,
+        'last_updated': datetime.now().strftime("%Y-%m-%d")
+    }
+
 def main():
     try:
         # Get the ADS token from environment variables
@@ -152,12 +210,16 @@ def main():
                 
                 processed_publications.append(publication)
         
+        # Calculate stats before saving
+        summary_stats = calculate_summary_stats(processed_publications)
+        
         # Create output directory if it doesn't exist
         os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
         
-        # Save the result
+        # Save the result with summary stats
         output_data = {
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "summary_stats": summary_stats,
             "publications": processed_publications
         }
         
@@ -175,23 +237,27 @@ def main():
 
 def create_error_output(error_type, error_message, details=""):
     """Create a JSON file with error information."""
+    error_publications = [
+        {
+            "title": f"Error: {error_type}",
+            "authors": "Please check GitHub Actions logs for details",
+            "journal_info": f"Error message: {error_message}",
+            "year": datetime.now().year,
+            "ads_link": "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586",
+            "arxiv_link": "https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header",
+            "is_first_author": False
+        }
+    ]
+    
     error_data = {
         "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "summary_stats": calculate_summary_stats(error_publications),
         "error": {
             "type": error_type,
             "message": error_message,
             "details": details
         },
-        "publications": [
-            {
-                "title": f"Error: {error_type}",
-                "authors": "Please check GitHub Actions logs for details",
-                "journal_info": f"Error message: {error_message}",
-                "year": datetime.now().year,
-                "ads_link": "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586",
-                "arxiv_link": "https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header"
-            }
-        ]
+        "publications": error_publications
     }
     
     # Create output directory if it doesn't exist

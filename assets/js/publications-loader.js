@@ -1,147 +1,132 @@
-// Publications loader script
+// Global variables to store publication data
 let allPublications = [];
+let currentView = 'all'; // 'all' or 'first-author'
 
+// Load and display publications with summary statistics
 document.addEventListener('DOMContentLoaded', function() {
-  // Set up tab click handlers
-  document.getElementById('all-tab').addEventListener('click', function() {
-    setActiveTab('all-tab');
-    renderPublications(allPublications);
-  });
-  
-  document.getElementById('first-author-tab').addEventListener('click', function() {
-    setActiveTab('first-author-tab');
-    const firstAuthorPubs = filterFirstAuthorPublications(allPublications);
-    renderPublications(firstAuthorPubs);
-  });
-
-  loadPublications();
+    loadPublications();
+    setupTabListeners();
 });
 
-function setActiveTab(activeId) {
-  document.querySelectorAll('.tab-button').forEach(button => {
-    button.classList.remove('active');
-  });
-  document.getElementById(activeId).classList.add('active');
-}
-
-function filterFirstAuthorPublications(publications) {
-  return publications.filter(pub => {
-    const firstAuthor = pub.authors.split(',')[0].toLowerCase().trim();
-    return firstAuthor.includes('yuan');
-  });
-}
-
 function loadPublications() {
-  var baseUrl = '';
-  var isGitHubPages = window.location.hostname.indexOf('github.io') !== -1;
-  if (isGitHubPages) {
-    var pathSegments = window.location.pathname.split('/');
-    if (pathSegments.length > 1 && pathSegments[1]) {
-      baseUrl = '/' + pathSegments[1];
-    }
-  }
-
-  var possiblePaths = [
-    '/assets/js/publications.json',
-    baseUrl + '/assets/js/publications.json',
-    './assets/js/publications.json',
-    '../assets/js/publications.json'
-  ];
-
-  tryLoadPublications(possiblePaths, 0);
+    fetch('/assets/js/publications.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            // Store all publications globally
+            allPublications = data.publications || [];
+            
+            // Display summary statistics
+            displaySummaryStats(data.summary_stats);
+            
+            // Display publications based on current view
+            updatePublicationDisplay();
+        })
+        .catch(error => {
+            console.error('Error loading publications:', error);
+            displayError();
+        });
 }
 
-function tryLoadPublications(paths, index) {
-  if (index >= paths.length) {
-    var container = document.getElementById('publications-container');
-    if (container) {
-      container.innerHTML = '<p style="color: red;">Error: Could not load publications data.</p>';
-    }
-    return;
-  }
-
-  var path = paths[index];
-  fetch(path)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
-      return response.json();
-    })
-    .then(data => {
-      if (data && data.publications) {
-        allPublications = data.publications;
-        renderPublications(allPublications);
-      }
-    })
-    .catch(() => {
-      tryLoadPublications(paths, index + 1);
-    });
-}
-
-function renderPublications(publications) {
-  var container = document.getElementById('publications-container');
-  if (!container) return;
-
-  container.innerHTML = '';
-
-  // Add last updated info if available
-  if (publications.length > 0) {
-    var lastUpdated = document.createElement('div');
-    lastUpdated.className = 'last-updated';
-    lastUpdated.textContent = 'Last updated: ' + new Date().toLocaleDateString();
-    container.appendChild(lastUpdated);
-  }
-
-  var list = document.createElement('div');
-  list.className = 'publications-list';
-
-  publications.forEach(function(pub) {
-    var item = document.createElement('div');
-    item.className = 'publication-item';
-
-    var title = document.createElement('div');
-    title.className = 'publication-title';
+function displaySummaryStats(stats) {
+    if (!stats) return;
     
-    var titleLink = document.createElement('a');
-    titleLink.href = pub.ads_link;
-    titleLink.target = '_blank';
-    titleLink.textContent = pub.title;
-    title.appendChild(titleLink);
-    item.appendChild(title);
+    const statsSection = document.getElementById('publication-stats');
+    
+    document.getElementById('total-papers').textContent = stats.total_papers || 0;
+    document.getElementById('total-citations').textContent = stats.total_citations || 0;
+    document.getElementById('h-index').textContent = stats.h_index || 0;
+    document.getElementById('i10-index').textContent = stats.i10_index || 0;
+    document.getElementById('first-author-count').textContent = stats.first_author_papers || 0;
+    document.getElementById('avg-citations').textContent = stats.avg_citations_per_paper || 0;
+    document.getElementById('last-updated').textContent = stats.last_updated || 'Unknown';
+    
+    statsSection.style.display = 'block';
+}
 
-    var info = document.createElement('div');
-    info.className = 'publication-info';
-
-    var authors = document.createElement('div');
-    authors.className = 'publication-authors';
-    authors.textContent = pub.authors;
-    info.appendChild(authors);
-
-    if (pub.citation_count && pub.citation_count > 0) {
-      var citations = document.createElement('span');
-      citations.className = 'citation-count';
-      citations.textContent = pub.citation_count + ' citations';
-      info.appendChild(citations);
+function setupTabListeners() {
+    const allTab = document.getElementById('all-tab');
+    const firstAuthorTab = document.getElementById('first-author-tab');
+    
+    if (allTab) {
+        allTab.addEventListener('click', function() {
+            currentView = 'all';
+            allTab.classList.add('active');
+            firstAuthorTab.classList.remove('active');
+            updatePublicationDisplay();
+        });
     }
+    
+    if (firstAuthorTab) {
+        firstAuthorTab.addEventListener('click', function() {
+            currentView = 'first-author';
+            firstAuthorTab.classList.add('active');
+            allTab.classList.remove('active');
+            updatePublicationDisplay();
+        });
+    }
+}
 
-    item.appendChild(info);
+function updatePublicationDisplay() {
+    let publicationsToShow = allPublications;
+    
+    // Filter for first author if needed
+    if (currentView === 'first-author') {
+        publicationsToShow = allPublications.filter(pub => pub.is_first_author === true);
+    }
+    
+    displayPublications(publicationsToShow);
+}
 
-    var journal = document.createElement('div');
-    journal.className = 'publication-journal';
-    journal.textContent = pub.journal_info;
-    item.appendChild(journal);
+function displayPublications(publications) {
+    const container = document.getElementById('publications-container');
+    
+    if (!publications || publications.length === 0) {
+        container.innerHTML = currentView === 'first-author' 
+            ? '<p>No first-author publications found.</p>'
+            : '<p>No publications found.</p>';
+        return;
+    }
+    
+    let html = '<div class="publications-list">';
+    
+    publications.forEach((pub, index) => {
+        const firstAuthorBadge = pub.is_first_author ? '<span class="first-author-badge">First Author</span>' : '';
+        
+        html += `
+            <div class="publication-item">
+                <h3 class="publication-title">
+                    ${pub.title || 'Untitled'}
+                    ${firstAuthorBadge}
+                </h3>
+                <p class="publication-authors">${pub.authors || 'No authors listed'}</p>
+                <p class="publication-venue">${pub.journal_info || 'No venue information'}</p>
+                <div class="publication-metrics">
+                    ${pub.citation_count ? `<span class="metric">Citations: ${pub.citation_count}</span>` : ''}
+                    ${pub.read_count ? `<span class="metric">Reads: ${pub.read_count}</span>` : ''}
+                </div>
+                <div class="publication-links">
+                    ${pub.ads_link ? `<a href="${pub.ads_link}" target="_blank" class="btn btn-small">ADS</a>` : ''}
+                    ${pub.arxiv_link ? `<a href="${pub.arxiv_link}" target="_blank" class="btn btn-small">arXiv</a>` : ''}
+                </div>
+            </div>
+        `;
+    });
+    
+    html += '</div>';
+    container.innerHTML = html;
+}
 
-    list.appendChild(item);
-  });
-
-  if (publications.length === 0) {
-    var noResults = document.createElement('p');
-    noResults.style.color = '#666';
-    noResults.style.fontStyle = 'italic';
-    noResults.textContent = 'No publications found.';
-    list.appendChild(noResults);
-  }
-
-  container.appendChild(list);
-} 
+function displayError() {
+    const container = document.getElementById('publications-container');
+    container.innerHTML = `
+        <div class="error-message">
+            <p><strong>Unable to load publications.</strong></p>
+            <p>Please try refreshing the page or visit my <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">ADS profile</a> directly.</p>
+        </div>
+    `;
+}
