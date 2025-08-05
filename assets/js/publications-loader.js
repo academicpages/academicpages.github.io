@@ -92,12 +92,18 @@ function displaySummaryStats(stats) {
     return;
   }
   
-  document.getElementById('total-papers').textContent = stats.total_papers || 0;
-  document.getElementById('total-citations').textContent = stats.total_citations || 0;
-  document.getElementById('h-index').textContent = stats.h_index || 0;
-  document.getElementById('i10-index').textContent = stats.i10_index || 0;
+  const totalPapers = document.getElementById('total-papers');
+  const totalCitations = document.getElementById('total-citations');
+  const hIndex = document.getElementById('h-index');
+  const i10Index = document.getElementById('i10-index');
+  
+  if (totalPapers) totalPapers.textContent = stats.total_papers || 0;
+  if (totalCitations) totalCitations.textContent = stats.total_citations || 0;
+  if (hIndex) hIndex.textContent = stats.h_index || 0;
+  if (i10Index) i10Index.textContent = stats.i10_index || 0;
   
   console.log('Setting stats:', stats);
+  console.log('Elements found:', { totalPapers: !!totalPapers, totalCitations: !!totalCitations, hIndex: !!hIndex, i10Index: !!i10Index });
   statsSection.style.display = 'inline';
 }
 
