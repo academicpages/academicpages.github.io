@@ -134,7 +134,7 @@ The official package includes an example relevant for an LGO thesis: [`One_autho
 
     % Usage: \DegreeDate{Month}{year}
     % Valid degree months are September, February, or June.  
-    \DegreeDate{May}{2026}
+    \DegreeDate{June}{2026}
 
     % Date that final thesis is submitted to department
     \ThesisDate{May 8, 2026}
