@@ -87,13 +87,17 @@ function tryLoadPublications(paths, index) {
 
 function displaySummaryStats(stats) {
   const statsSection = document.getElementById('publication-summary-text');
-  if (!statsSection || !stats) return;
+  if (!statsSection || !stats) {
+    console.log('Missing element or stats:', { statsSection: !!statsSection, stats: !!stats });
+    return;
+  }
   
   document.getElementById('total-papers').textContent = stats.total_papers || 0;
   document.getElementById('total-citations').textContent = stats.total_citations || 0;
   document.getElementById('h-index').textContent = stats.h_index || 0;
   document.getElementById('i10-index').textContent = stats.i10_index || 0;
   
+  console.log('Setting stats:', stats);
   statsSection.style.display = 'inline';
 }
 
