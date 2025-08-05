@@ -244,6 +244,9 @@ defaults:
       comments: true
       share: true
       related: true
+      plotly: true
+      mermaid: true
+      mathjax: true
   # _pages
   - scope:
       path: ""
