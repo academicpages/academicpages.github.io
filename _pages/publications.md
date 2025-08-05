@@ -10,7 +10,9 @@ author_profile: true
 <link rel="stylesheet" href="{{ '/assets/css/publications.css' | relative_url }}">
 <script src="{{ '/assets/js/publications-loader.js' | relative_url }}" type="text/javascript"></script>
 
-Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586&sort=date%20desc%2C%20bibcode%20desc&p_=0) and here: [arXiv](https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header). <span id="publication-summary-text" style="display: none;">Summary: <span id="total-papers">-</span> publications, <span id="total-citations">-</span> citations, <span id="h-index">-</span> h-index, <span id="i10-index">-</span> i10-index.</span>
+Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586&sort=date%20desc%2C%20bibcode%20desc&p_=0) and here: [arXiv](https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header).
+
+<span id="publication-summary-text" style="display: none;">Summary: <span id="total-papers">-</span> publications, <span id="total-citations">-</span> citations, <span id="h-index">-</span> h-index, <span id="i10-index">-</span> i10-index.</span>
 
 <div class="publication-tabs">
   <button id="all-tab" class="tab-button active">All Publications</button>

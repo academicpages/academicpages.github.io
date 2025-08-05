@@ -87,10 +87,7 @@ function tryLoadPublications(paths, index) {
 
 function displaySummaryStats(stats) {
   const statsSection = document.getElementById('publication-summary-text');
-  if (!statsSection || !stats) {
-    console.log('Missing element or stats:', { statsSection: !!statsSection, stats: !!stats });
-    return;
-  }
+  if (!statsSection || !stats) return;
   
   const totalPapers = document.getElementById('total-papers');
   const totalCitations = document.getElementById('total-citations');
@@ -102,9 +99,7 @@ function displaySummaryStats(stats) {
   if (hIndex) hIndex.textContent = stats.h_index || 0;
   if (i10Index) i10Index.textContent = stats.i10_index || 0;
   
-  console.log('Setting stats:', stats);
-  console.log('Elements found:', { totalPapers: !!totalPapers, totalCitations: !!totalCitations, hIndex: !!hIndex, i10Index: !!i10Index });
-  statsSection.style.display = 'inline';
+  statsSection.style.display = 'block';
 }
 
 function renderPublications(publications) {
