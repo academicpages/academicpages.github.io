@@ -86,7 +86,7 @@ function tryLoadPublications(paths, index) {
 }
 
 function displaySummaryStats(stats) {
-  const statsSection = document.getElementById('publication-stats');
+  const statsSection = document.getElementById('publication-summary-text');
   if (!statsSection || !stats) return;
   
   document.getElementById('total-papers').textContent = stats.total_papers || 0;

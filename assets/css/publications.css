@@ -1,10 +1,6 @@
 /* Publication Statistics Styling - Inline */
-#publication-stats .stat-number {
+#publication-summary-text span {
     font-weight: bold;
-}
-
-#publication-stats .stat-label {
-    font-weight: normal;
 }
 
 /* Tab Navigation - Keep Original Style */
