@@ -16,11 +16,11 @@ author_profile: true
     <div class="stats-grid">
         <div class="stat-item">
             <span class="stat-number" id="total-papers">-</span>
-            <span class="stat-label">Publications</span>
+            <span class="stat-label">publications</span>
         </div>
         <div class="stat-item">
             <span class="stat-number" id="total-citations">-</span>
-            <span class="stat-label">Citations</span>
+            <span class="stat-label">citations</span>
         </div>
         <div class="stat-item">
             <span class="stat-number" id="h-index">-</span>
@@ -32,9 +32,9 @@ author_profile: true
         </div>
     </div>
     <div class="stats-secondary">
-        <span><strong>First author:</strong> <span id="first-author-count">-</span> papers</span>
-        <span><strong>Average citations:</strong> <span id="avg-citations">-</span> per paper</span>
-        <span class="last-updated">Updated: <span id="last-updated">-</span></span>
+        <span><span id="first-author-count">-</span> first author</span>
+        <span><span id="avg-citations">-</span> avg citations</span>
+        <span class="last-updated">Updated <span id="last-updated">-</span></span>
     </div>
 </div>
 

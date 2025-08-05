@@ -1,59 +1,47 @@
-/* Publication Statistics Styling */
+/* Publication Statistics Styling - Simplified */
 .publication-summary {
-    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-    padding: 2rem;
-    border-radius: 12px;
-    margin-bottom: 2rem;
-    border: 1px solid #dee2e6;
+    margin-bottom: 1.5rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid #eee;
 }
 
 .publication-summary h2 {
-    margin-top: 0;
-    margin-bottom: 1.5rem;
-    color: #2c3e50;
-    text-align: center;
+    margin: 0 0 0.75rem 0;
+    font-size: 1.2rem;
+    color: #333;
+    font-weight: 600;
 }
 
 .stats-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 1.5rem;
-    margin-bottom: 1.5rem;
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 0.75rem;
+    flex-wrap: wrap;
 }
 
 .stat-item {
-    text-align: center;
-    padding: 1rem;
-    background: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: left;
 }
 
 .stat-number {
-    display: block;
-    font-size: 2.2rem;
+    font-size: 1.4rem;
     font-weight: bold;
-    color: #3498db;
-    line-height: 1;
-    margin-bottom: 0.5rem;
+    color: #333;
+    margin-right: 0.25rem;
 }
 
 .stat-label {
-    display: block;
-    font-size: 0.85rem;
-    color: #7f8c8d;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    font-weight: 500;
+    font-size: 0.9rem;
+    color: #666;
+    font-weight: normal;
 }
 
 .stats-secondary {
     display: flex;
-    justify-content: center;
-    gap: 2rem;
+    gap: 1.5rem;
     flex-wrap: wrap;
-    font-size: 0.9rem;
-    color: #6c757d;
+    font-size: 0.85rem;
+    color: #777;
 }
 
 .last-updated {
@@ -164,17 +152,11 @@
 /* Responsive Design */
 @media (max-width: 768px) {
     .stats-grid {
-        grid-template-columns: repeat(2, 1fr);
         gap: 1rem;
     }
     
     .stats-secondary {
         flex-direction: column;
         gap: 0.5rem;
-        text-align: center;
-    }
-    
-    .publication-summary {
-        padding: 1.5rem;
     }
 }
