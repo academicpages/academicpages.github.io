@@ -1,8 +1,35 @@
 // Publications loader script
+let allPublications = [];
 
 document.addEventListener('DOMContentLoaded', function() {
+  // Set up tab click handlers
+  document.getElementById('all-tab').addEventListener('click', function() {
+    setActiveTab('all-tab');
+    renderPublications(allPublications);
+  });
+  
+  document.getElementById('first-author-tab').addEventListener('click', function() {
+    setActiveTab('first-author-tab');
+    const firstAuthorPubs = filterFirstAuthorPublications(allPublications);
+    renderPublications(firstAuthorPubs);
+  });
+
   loadPublications();
 });
+
+function setActiveTab(activeId) {
+  document.querySelectorAll('.tab-button').forEach(button => {
+    button.classList.remove('active');
+  });
+  document.getElementById(activeId).classList.add('active');
+}
+
+function filterFirstAuthorPublications(publications) {
+  return publications.filter(pub => {
+    const firstAuthor = pub.authors.split(',')[0].toLowerCase().trim();
+    return firstAuthor.includes('yuan');
+  });
+}
 
 function loadPublications() {
   var baseUrl = '';
@@ -43,7 +70,8 @@ function tryLoadPublications(paths, index) {
     })
     .then(data => {
       if (data && data.publications) {
-        renderPublications(data.publications);
+        allPublications = data.publications;
+        renderPublications(allPublications);
       }
     })
     .catch(() => {
@@ -106,6 +134,14 @@ function renderPublications(publications) {
 
     list.appendChild(item);
   });
+
+  if (publications.length === 0) {
+    var noResults = document.createElement('p');
+    noResults.style.color = '#666';
+    noResults.style.fontStyle = 'italic';
+    noResults.textContent = 'No publications found.';
+    list.appendChild(noResults);
+  }
 
   container.appendChild(list);
 } 

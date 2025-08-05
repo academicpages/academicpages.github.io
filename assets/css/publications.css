@@ -1,3 +1,30 @@
+.publication-tabs {
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ddd;
+}
+
+.tab-button {
+  padding: 0.5em 1em;
+  margin-right: 0.5em;
+  border: 1px solid #ddd;
+  background: #f8f9fa;
+  cursor: pointer;
+  border-radius: 4px 4px 0 0;
+  position: relative;
+  top: 1px;
+}
+
+.tab-button:hover {
+  background: #e9ecef;
+}
+
+.tab-button.active {
+  background: white;
+  border-bottom: 1px solid white;
+  color: #2c3e50;
+  font-weight: bold;
+}
+
 .publications-list {
   padding: 0;
   counter-reset: publication-counter;
