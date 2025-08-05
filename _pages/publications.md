@@ -10,7 +10,7 @@ author_profile: true
 <link rel="stylesheet" href="{{ '/assets/css/publications.css' | relative_url }}">
 <script src="{{ '/assets/js/publications-loader.js' | relative_url }}" type="text/javascript"></script>
 
-<!-- Summary Statistics Section -->
+<!-- Summary Statistics Section (will be shown when data is available) -->
 <div id="publication-stats" class="publication-summary" style="display: none;">
     <h2>Research Impact</h2>
     <div class="stats-grid">
