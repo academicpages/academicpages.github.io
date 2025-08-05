@@ -1,51 +1,10 @@
-/* Publication Statistics Styling - Simplified */
-.publication-summary {
-    margin-bottom: 1.5rem;
-    padding: 1rem 0;
-    border-bottom: 1px solid #eee;
-}
-
-.publication-summary h2 {
-    margin: 0 0 0.75rem 0;
-    font-size: 1.2rem;
-    color: #333;
-    font-weight: 600;
-}
-
-.stats-grid {
-    display: flex;
-    gap: 2rem;
-    margin-bottom: 0.75rem;
-    flex-wrap: wrap;
-}
-
-.stat-item {
-    text-align: left;
-}
-
-.stat-number {
-    font-size: 1.4rem;
+/* Publication Statistics Styling - Inline */
+#publication-stats .stat-number {
     font-weight: bold;
-    color: #333;
-    margin-right: 0.25rem;
 }
 
-.stat-label {
-    font-size: 0.9rem;
-    color: #666;
+#publication-stats .stat-label {
     font-weight: normal;
-}
-
-.stats-secondary {
-    display: flex;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-    font-size: 0.85rem;
-    color: #777;
-}
-
-.last-updated {
-    font-style: italic;
 }
 
 /* Tab Navigation - Keep Original Style */
@@ -149,14 +108,3 @@
   line-height: 1.2;
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
-    .stats-grid {
-        gap: 1rem;
-    }
-    
-    .stats-secondary {
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-}

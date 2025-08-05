@@ -93,11 +93,8 @@ function displaySummaryStats(stats) {
   document.getElementById('total-citations').textContent = stats.total_citations || 0;
   document.getElementById('h-index').textContent = stats.h_index || 0;
   document.getElementById('i10-index').textContent = stats.i10_index || 0;
-  document.getElementById('first-author-count').textContent = stats.first_author_papers || 0;
-  document.getElementById('avg-citations').textContent = stats.avg_citations_per_paper || 0;
-  document.getElementById('last-updated').textContent = stats.last_updated || 'Unknown';
   
-  statsSection.style.display = 'block';
+  statsSection.style.display = 'inline';
 }
 
 function renderPublications(publications) {
