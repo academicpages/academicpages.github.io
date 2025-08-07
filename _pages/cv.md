@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="cv-container" style="margin-top: -0.5em;">
-  <iframe src="{{ base_path }}/files/CV1.pdf" style="width: 100%; height: 85vh; border: none;"></iframe>
-  
+  <iframe src="{{ base_path }}/files/CV1.pdf"></iframe>
 </div>
 
 <div style="margin-top: 10px; text-align: center;">
