@@ -1,0 +1,18 @@
+items:
+  - id: b2p-challenge
+    type: paper
+    title: "A Parameter-Masked Mock Data Challenge for Beyond-Two-Point Galaxy Clustering Statistics"
+    arxiv: 2405.02252 
+    pdf: files/b2p.pdf
+    preferred_figures:
+      - page: 5
+    tags: [large-scale-structure, statistical validation]
+
+  - id: rb
+    type: repo
+    github: https://github.com/Christine8888/researchbench
+    preferred_images:
+      - files/rb_flow.pdf
+    tags: [forecasting, pipeline]
+
+

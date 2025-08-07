@@ -1,2 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+markdown_generator/highlights_report.json
 _site/
 
