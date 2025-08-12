@@ -18,9 +18,13 @@ Education
   
 Teaching
 ======
-* First-Year Writing I (WRS105-A2), University of Miami (Fall 2022, Fall 2023)
+* First-Year Writing I (WRS105-A2), University of Miami (Fall 2022)
 * First-Year Writing II (WRS106-N3), University of Miami (Sprin 2023, "Monstrous Others and Us")
 * First-Year Writing I (WRS105-A4), University of Miami (Fall 2023)
+* First-Year Writing II (WRS106-S4), University of Miami (Spring 2024, "Monstrous Others and Us")
+* First-Year Writing I (WRS105-J1), University of Miami (Fall 2024)
+* First-Year Writing II (WRS106-HI3), University of Miami (Spring 2025, "Monstrous Others and Us")
+* First-Year Writing I (WRS105-HI4), University of Miami (Fall 2025)
 
   
 Work Experience
