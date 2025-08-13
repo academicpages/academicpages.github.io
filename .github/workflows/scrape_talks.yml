@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'talks/**'
+      - '_talks/**'
       - 'talkmap.ipynb'
 
 jobs:
