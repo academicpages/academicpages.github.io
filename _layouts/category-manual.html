@@ -1,0 +1,28 @@
+---
+layout: archive
+---
+
+{% include base_path %}
+<h1 class="archive__title">Category: {{ page.title }}</h1>
+
+{% comment %}
+_posts + study + project + snack 을 합쳐서 page.category 포함 글만 필터링
+{% endcomment %}
+{% assign col_posts  = site.posts %}
+{% assign col_study  = site.study  | default: "" %}
+{% assign col_proj   = site.project | default: "" %}
+{% assign col_snack  = site.snack  | default: "" %}
+{% assign combined   = col_posts | concat: col_study | concat: col_proj | concat: col_snack %}
+
+{% assign filtered = "" | split: "" %}
+{% for p in combined %}
+  {% if p.categories contains page.category or p.category == page.category %}
+    {% assign filtered = filtered | push: p %}
+  {% endif %}
+{% endfor %}
+
+{% assign filtered = filtered | sort: "date" | reverse %}
+
+{% for post in filtered %}
+  {% include archive-single.html %}
+{% endfor %}
