@@ -361,6 +361,11 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+  collections:
+    - posts
+    - study
+    - project
+    - snack
 
 
 # HTML Compression
