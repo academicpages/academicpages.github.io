@@ -17,9 +17,10 @@ sidebar_main: true
        {% assign posts = group_items[forloop.index0] %}
        <!--<li><a href="#{{ category | slugify }}">{{ category }}: {{ posts | size }}</a></li>-->
        <li>
-        <a href="{{ '/categories/' | append: category | slugify | append: '/' | relative_url }}">
+        <a href="{{ site.baseurl }}/categories/{{ category | slugify }}/">
           {{ category }}: {{ posts | size }}
         </a>
+
       </li>
      {% endfor %}
    </ul>
