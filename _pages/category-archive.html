@@ -1,29 +1,26 @@
 ---
 layout: archive
-permalink: /categories/
-title: "Posts by Category"
-author_profile: true
-sidebar_main: true
 ---
+
 {% include base_path %}
- {% assign combined_collection = site.study | concat: site.project | concat: site.snack %}
- {% include group-by-array collection=combined_collection field="categories" %}
 
- <!-- 카테고리별 게시물 수 요약 -->
- <div class="categories-summary">
-   <h2>Category Summary</h2>
-   <ul>
-     {% for category in group_names %}
-       {% assign posts = group_items[forloop.index0] %}
-       <li><a href="#{{ category | slugify }}">{{ category }}: {{ posts | size }}</a></li>
-     {% endfor %}
-   </ul>
- </div>
+<h1 class="archive__title">Category: {{ page.title }}</h1>
 
- {% for category in group_names %}
-   {% assign posts = group_items[forloop.index0] %}
-   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% comment %}
+  site.study / site.project / site.snack을 합쳐서
+  page.category가 포함된 포스트만 필터링
+{% endcomment %}
+{% assign combined_collection = site.study | concat: site.project | concat: site.snack %}
+
+{% assign filtered = "" | split: "" %}
+{% for post in combined_collection %}
+  {% if post.categories contains page.category %}
+    {% assign filtered = filtered | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% assign filtered = filtered | sort: 'date' | reverse %}
+
+{% for post in filtered %}
+  {% include archive-single.html %}
 {% endfor %}
