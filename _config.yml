@@ -214,13 +214,13 @@ collections:
     permalink: /:collection/:path/
   study:
     output: true
-    premalink: /:collection/:path/
+    permalink: /:collection/:path/
   project:
     output: true
-    premalink: /:collection/:path/
+    permalink: /:collection/:path/
   snack:
     output: true
-    premalink: /:collection/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
