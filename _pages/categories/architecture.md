@@ -1,6 +1,6 @@
 ---
 layout: category-manual
 title: "CA"
-permalink: /categories/computerarchitecure/
+permalink: /categories/computerarchitecture/
 category: ComputerArchitecure
 ---
