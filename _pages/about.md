@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-👋🏼 Hello there, I’m Apo !
+👋🏼 Hello there, I’m Apo ! I’m an undergraduate student currently pursuing a double Bachelor’s degree in Mathematics and Physics at Université Paris-Saclay.
 <figure class="article-image-right">
     <img src="/images/Carina-Nebula-Cosmic-Cliffs-NGC-3324-James-Webb-Space-Telescope-NIRCam.png" alt="The Cosmic Cliffs of the Carina Nebula">
 </figure>
-🎓 I’m an undergraduate student currently pursuing a double Bachelor’s degree in Mathematics and Physics at Université Paris-Saclay.
 
 🌌  My intellectual curiosity is rooted in the deep structures of physical reality. I’m especially drawn to theoretical/mathematical physics, cosmology and anything that blurs the line between mathematics and physics. Right now, I'm exploring how the universe might be accelerating under the influence of dark energy and I'm proposing a scalar field approach to explain this acceleration — and how we can model that from first principles.
 
