@@ -29,17 +29,6 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-.article-image-right {
-  float: right; 
-  width: 35%; /* Adjust this percentage as needed */
-  margin-left: 20px; 
-  margin-bottom: 10px;
-}
-
-.article-image-right img {
-  width: 100%;
-  height: auto;
-}
     "layout/forms",
 
     "layout/page",
@@ -51,3 +40,14 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+.article-image-right {
+  float: right;
+  width: 35%; /* Adjust this percentage as needed */
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.article-image-right img {
+  width: 100%;
+  height: auto;
+}
