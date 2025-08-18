@@ -5,19 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
-    .article-image-right {
-  float: right; 
-  width: 35%; /* Adjust this percentage to make the image smaller or larger */
-  margin-left: 20px; 
-  margin-bottom: 10px;
-}
-
-/* This rule ensures the image scales correctly within its container */
-.article-image-right img {
-  width: 100%;
-  height: auto;
-}
 ---
 
 👋🏼 Hello there, I’m Apo !
