@@ -20,15 +20,16 @@ author_profile: true
 
 ## Teaching Experience
 * **Invited Lecturer** - Amirkabir University of Technology (Tehran Polytechnic) <br>
-  * **CSE112: Computer Architecture Lab**, <a href="https://github.com/AUT-CALab/Spring-2025/tree/main" style="color: #0011DB; text-decoration: underline;">(Spring 2025)</a>
+  * **CSE304: Operating System Lab**, <a href="https://github.com/aut-ce/CE304-OS-Lab" style="color: #0011DB; text-decoration: underline;">(Fall 2026)</a>
+  * **CSE112: Computer Architecture Lab**, <a href="https://github.com/aut-ce/CE208-CA-Lab" style="color: #0011DB; text-decoration: underline;">(Spring 2025)</a>
   * **CSE105: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Spring-2024/tree/main" style="color: #0011DB; text-decoration: underline;">(Spring 2024)</a>
   * **CSE105: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Fall-2023" style="color: #0011DB; text-decoration: underline;">(Fall 2023)</a>
 
 
 * **Teaching Assistant** - Amirkabir University of Technology (Tehran Polytechnic) <br>
-  * **Embedded Systems Design & Modeling**, Instructor: <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a>, <a href="https://ce5439-aut.github.io/webpage" style="color: #0011DB; text-decoration: underline;"> (Spring 2025) </a>
+  * **CE5439: Embedded Systems Design & Modeling**, Instructor: <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a>, <a href="https://ce5439-aut.github.io/webpage" style="color: #0011DB; text-decoration: underline;"> (Spring 2025) </a>
 
-  * **Digital Logic Design**, Instructors: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Saheb zamani </a> and <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a>, <a href="https://ce201-aut.github.io/" style="color: #0011DB; text-decoration: underline;"> (Fall 2024) </a>
+  * **CE201: Digital Logic Design**, Instructors: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Saheb zamani </a> and <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a>, <a href="https://ce201-aut.github.io/" style="color: #0011DB; text-decoration: underline;"> (Fall 2024) </a>
 
 
 * **Teaching Assistant** - Shahrood University of Technology <br>
