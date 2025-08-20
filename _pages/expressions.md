@@ -22,7 +22,7 @@ author_profile: true
 * **Invited Lecturer** - Amirkabir University of Technology (Tehran Polytechnic) <br>
   * **CSE304: Operating System Lab**, <a href="https://github.com/aut-ce/CE304-OS-Lab" style="color: #0011DB; text-decoration: underline;">(Fall 2026)</a>
   * **CSE112: Computer Architecture Lab**, <a href="https://github.com/aut-ce/CE208-CA-Lab" style="color: #0011DB; text-decoration: underline;">(Spring 2025)</a>
-  * **CSE105: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Spring-2024/tree/main" style="color: #0011DB; text-decoration: underline;">(Spring 2024)</a>
+  * **CSE105: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Spring-2024/tree/main" style="color: #0011DB; text-decoration: underline;">(Spring 2024)</a>, <a href="https://github.com/AUT-LCLab/Fall-2023" style="color: #0011DB; text-decoration: underline;">(Fall 2023)</a>
   * **CSE105: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Fall-2023" style="color: #0011DB; text-decoration: underline;">(Fall 2023)</a>
 
 
