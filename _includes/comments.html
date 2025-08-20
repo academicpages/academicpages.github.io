@@ -6,6 +6,7 @@
   {% when "disqus" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section id="disqus_thread"></section>
+    {% include /comments-providers/disqus.html %}
   {% when "facebook" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="fb-comments" data-href="{{ base_path }}{{ page.url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
@@ -76,6 +77,8 @@
       {% endif %}
     </section>
   {% when "custom" %}
+    <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section id="comments"></section>
+    {% include /comments-providers/scripts.html %}
   {% endcase %}
 </div>
