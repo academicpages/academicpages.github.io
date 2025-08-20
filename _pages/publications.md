@@ -9,13 +9,17 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-(Equal contribution\*. Corresponding author†.)
+(\*Equal contribution. †Corresponding author.)
 
 **Generation**
 
 * **IDEATION: Diversifying Ad Text Generation in Sponsored Search with Latent Diffusion**  
 **Penghui Wei**  
-**WWW ’25** Companion: Companion Proceedings of the ACM Web Conference 2025, Short Research Paper. Sydney, NSW, Australia, April 28-May 2, 2025.  
+**WWW ’25** Companion: Companion Proceedings of the ACM Web Conference 2025, Short Research Paper, pages 1394-1397. Sydney, NSW, Australia, April 28-May 2, 2025.  
+
+* **Perspective-driven Preference Optimization with Dispersed Representations for Diverse Argument Generation**  
+Yilin Cao, Ruike Zhang, **Penghui Wei**†, Qingchao Kong, Wenji Mao  
+**EMNLP ’25**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2025, to appear. Suzhou, China, November 5–9, 2025.  
 
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
@@ -69,7 +73,7 @@ Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu, Liang Wang, Bo Zheng
 
 * **An LLM-Enabled Knowledge Elicitation and Retrieval Framework for Zero-Shot Cross-Lingual Stance Identification**  
 Ruike Zhang, Yuan Tian, **Penghui Wei**†, Daniel Zeng, Wenji Mao  
-**EMNLP ’24**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2024, to appear. Miami, Florida, USA, November 12–16, 2024.  
+**EMNLP ’24**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2024, pages 12253-12266. Miami, Florida, USA, November 12–16, 2024.  
 
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
