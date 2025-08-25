@@ -22,6 +22,5 @@ I have authored and co-authored publications in journals including *Nature Commu
 
 📧 [Email](mailto:kxu@ccny.cuny.edu)  
 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=DCqmV4AAAAAJ)  
-💻 [Github](https://github.com/QiuDi233)  
+💻 [Github](https://github.com/kangXu90)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kang-xu-bbba19251)  
-✍️ [CSDN Blog](https://blog.csdn.net/qd1813100174)
