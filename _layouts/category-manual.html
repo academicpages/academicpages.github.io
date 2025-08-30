@@ -21,7 +21,8 @@ _posts + study + project + snack 을 합쳐서 page.category 포함 글만 필�
   {% endif %}
 {% endfor %}
 
-{% assign filtered = filtered | sort: "date" | reverse %}
+<!-- {% assign filtered = filtered | sort: "date" | reverse %} -->
+{% assign filtered = filtered | sort: "title" %}
 
 {% for post in filtered %}
   {% include archive-single.html %}
