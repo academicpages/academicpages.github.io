@@ -15,7 +15,17 @@
   font-size: 20px;
 }
 
-/* Only apply wider layout to pages with class 'wide-about' */
-.wide-about .wrapper {
-  max-width: 1500px;
+/* Widen the layout ONLY for the about page (or others with 'wide-page' class) */
+body.wide-page .page {
+  max-width: 1500px !important;
+  width: 95%;
+}
+
+body.wide-page .page__inner-wrap {
+  max-width: 1400px !important;
+}
+
+body.wide-page .page__content {
+  max-width: 100% !important;
+  width: 100% !important;
 }
