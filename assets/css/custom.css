@@ -17,5 +17,5 @@
 
 /* Only apply wider layout to pages with class 'wide-about' */
 .wide-about .wrapper {
-  max-width: 1200px;
+  max-width: 1500px;
 }
