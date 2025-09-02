@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi, I’m **Pingping Wang**, currently a **PhD student at TU Wien (Vienna University of Technology)**, working at the intersection of **sustainability** and **process systems engineering**.
+Hi, I’m **Pingping Wang**, currently a **PhD student at TU Wien (Vienna)**, working at the intersection of **sustainability** and **process systems engineering**.
 
 My research focuses on the **integration of carbon capture and storage/utilization (CCS/CCU)** into current and future industrial infrastructures. I am developing a **prospective life cycle optimization framework** to evaluate and deploy CCS/CCU as well as **carbon dioxide removal (CDR)** technologies to mitigate **CO₂ emissions** from *heavy industries* and the *atmosphere*.
 
