@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pingping Wang/ Blog"
+title                    : "Pingping Wang/ Page"
 title_separator          : "-"
 name                     : &name "Pingping Wang"
 description              : &description "PhD Candidate at TU Wien"
