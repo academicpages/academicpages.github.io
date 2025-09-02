@@ -14,3 +14,8 @@
 .page__content h3 {
   font-size: 20px;
 }
+
+/* Only apply wider layout to pages with class 'wide-about' */
+.wide-about .wrapper {
+  max-width: 1200px;
+}
