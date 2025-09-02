@@ -309,3 +309,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+minimal_mistakes_skin: default
+
+custom_css:
+  - /assets/css/custom.css

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pingping's academic page"
+title: "🌱 About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## 🌱 About Me
+
 
 Hi, I’m **Pingping Wang**, currently a **PhD student at TU Wien (Vienna University of Technology)**, working at the intersection of **sustainability** and **process systems engineering**.
 

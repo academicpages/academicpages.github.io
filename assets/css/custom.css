@@ -1,0 +1,16 @@
+/* General font size for all pages */
+.page__content {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Optional: reduce headings */
+.page__content h1 {
+  font-size: 28px;
+}
+.page__content h2 {
+  font-size: 24px;
+}
+.page__content h3 {
+  font-size: 20px;
+}
