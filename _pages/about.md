@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "🌱 About Me"
-classes: wide-page
+classes: fullwidth-about
 author_profile: true
 redirect_from: 
   - /about/

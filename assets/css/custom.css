@@ -1,7 +1,7 @@
 /* General font size for all pages */
 .page__content {
-  font-size: 14px;
-  line-height: 1.6;
+  font-size: 12px;
+  line-height: 1.5;
 }
 
 /* Optional: reduce headings */
@@ -35,4 +35,28 @@ body.wider-page .page__content {
 /* Optional: limit super-wide paragraphs */
 body.wider-page .page__content p {
   max-width: 1000px;
+}
+
+/* === Make 2-column layout wider for pages with 'fullwidth-about' class === */
+
+body.fullwidth-about .layout--split {
+  max-width: 1500px !important;   /* default is ~960px */
+  width: 95% !important;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 300px auto;  /* sidebar + content */
+  column-gap: 60px;                   /* spacing between them */
+}
+
+/* Optional: increase content text width even further */
+body.fullwidth-about .page__content {
+  max-width: 100% !important;
+  width: 100% !important;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Optional: prevent super-wide lines from being hard to read */
+body.fullwidth-about .page__content p {
+  max-width: 1200px;
 }
