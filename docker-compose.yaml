@@ -5,4 +5,5 @@ services:
     volumes: [ .:/usr/src/app ]
     ports: [ 4000:4000 ]
     user: 1000:1000
-    command: jekyll serve -H 0.0.0.0 -w
+    environment: [ JEKYLL_ENV=docker ]
+    command: jekyll serve -H 0.0.0.0 -w --config _config.yml,_config_docker.yml
