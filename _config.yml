@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "David A. Marinelarena "
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Biological Researcher"
+  location         : "CA"
+  employer         : "QiyunLab"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "andy.marine99@gmail.com" 
 
   # Academic websites
   academia         : # URL
