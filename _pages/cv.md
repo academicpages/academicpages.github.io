@@ -33,11 +33,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+Bioinformatics
+  RNA-Seq
+  Metagenomics
+Wet-Lab
+Digital PCR
+Library-Prep
 * Skill 3
 
 Publications
