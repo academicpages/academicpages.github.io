@@ -215,11 +215,56 @@ int *a;
 ## Pointer Exercise
 
 ```c
-int main(){
-  int A1[3];
-  int *A2[3];
-  int (*A3)[3];
+#include <stdio.h>
+
+int main(void) {
+    int A1[3] = {1, 2, 3};
+    int *A2[3];
+    int arr[3] = {10, 20, 30};
+    int (*A3)[3] = &arr;
+
+    // === An ===
+    A1;                                  // 1. A1 컴파일 여부
+    int x1 = A1[0];                      // 2. A1 런타임 접근
+    printf("%zu\n", sizeof(A1));         // 3. A1 sizeof
+
+    A2;                                  // 4. A2 컴파일 여부
+    int *p2 = A2[0];                     // 5. A2 런타임 접근 (미초기화 시 위험)
+    printf("%zu\n", sizeof(A2));         // 6. A2 sizeof
+
+    A3;                                  // 7. A3 컴파일 여부
+    int (*p3)[3] = A3;                   // 8. A3 런타임 접근
+    printf("%zu\n", sizeof(A3));         // 9. A3 sizeof
+
+    // === *An ===
+    *A1;                                 // 10. *A1 컴파일 여부
+    int x4 = *A1;                        // 11. *A1 런타임 접근
+    printf("%zu\n", sizeof(*A1));        // 12. *A1 sizeof
+
+    *A2;                                 // 13. *A2 컴파일 여부
+    int *p4 = *A2;                       // 14. *A2 런타임 접근
+    printf("%zu\n", sizeof(*A2));        // 15. *A2 sizeof
+
+    *A3;                                 // 16. *A3 컴파일 여부
+    int x5 = (*A3)[0];                   // 17. *A3 런타임 접근
+    printf("%zu\n", sizeof(*A3));        // 18. *A3 sizeof
+
+    // === **An ===
+    **A1;                                // 19. **A1 컴파일 여부 (컴파일 에러)
+    int x6 = **A1;                       // 20. **A1 런타임 접근 (불가능)
+    printf("%zu\n", sizeof(**A1));       // 21. **A1 sizeof (불가능)
+
+    **A2;                                // 22. **A2 컴파일 여부
+    int x7 = **A2;                       // 23. **A2 런타임 접근 (미초기화 시 위험)
+    printf("%zu\n", sizeof(**A2));       // 24. **A2 sizeof
+
+    **A3;                                // 25. **A3 컴파일 여부
+    int x8 = **A3;                       // 26. **A3 런타임 접근
+    printf("%zu\n", sizeof(**A3));       // 27. **A3 sizeof
+
+    return 0;
 }
+
 ```
 
 위와 같이 3개의 변수를 선언했을 때 다음 표를 채워보자.
@@ -227,7 +272,7 @@ int main(){
 |              |          |                  An                  |        |          |                 *An                  |        |          |                 **An                 |        |
 | :----------: | :------: | :----------------------------------: | :----: | :------: | :----------------------------------: | :----: | :------: | :----------------------------------: | :----: |
 |              | Compiles | Potential runtime error in accessing | sizeof | Compiles | Potential runtime error in accessing | sizeof | Compiles | Potential runtime error in accessing | sizeof |
-|  int A1[3]   |          |                                      |        |          |                                      |        |          |                                      |        |
+|  int A1[3]   |    O     |                  X                   |   12   |          |                                      |        |          |                                      |        |
 |  int *A2[3]  |          |                                      |        |          |                                      |        |          |                                      |        |
 | int (*A3)[3] |          |                                      |        |          |                                      |        |          |                                      |        |
 
