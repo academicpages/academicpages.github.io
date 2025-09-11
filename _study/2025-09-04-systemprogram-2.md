@@ -1,5 +1,5 @@
 ---
-title: "[System Programming] 02 "
+title: "[System Programming] 02 Writing Good Code, Pointer"
 date: 2025-09-04
 permalink: /study/2025-09-04-systemprogram-2
 categories: SystemProgramming
@@ -165,8 +165,38 @@ scanf("%d", &p); // no crash, but not ok
 
 마지막 줄을 보면, `p` 의 메모리 주소도 OS에서 할당된 영역이기 때문에 crash가 나지는 않지만 논리적으로 우리가 하려는 일과 맞지 않다.
 
+## Array and Pointer Relationship
 
+이에 관한 내용은 <a href = "https://arcstone09.github.io/study/2025-09-03-java-5"> 여기 </a> 참고 바람.
+
+추가적으로, array 변수의 경우 함수 인자로 전달될 때, (마치 포인터처럼) 그 주소 값이 전달되는 반면, Structure 의 경우는 다르다. Structure 를 저장하는 변수는 (Java 에서의 객체와 달리) 그 주소값을 저장하고 있는 것이 아니라 Structure 필드의 값들을 바로 저장하고 있다.(물론 array도 이 지점은 마찬가지이다.) 따라서, 함수 파라미터로 Structure 를 저장하는 변수를 넘기면, Structure 의 값이 전부 복사되어 전달된다. 
 
 ## Pointer Arithmetic
 
 If `p` points to `a[i]`, then, `p+j` points to `a[i+j]`. 
+
+More on next lecture. 
+
+
+
+## Q&A
+
+Below is question I had during the lecture and professor's answer. 
+
+```c
+int *max(int a, int b){
+  return (a > b) ? &a : &b;
+}
+
+int *p, i, j;
+...
+p = max(i, j);
+```
+
+02.Pointers slide 17pg 에서, p = max(i, j); 는 메모리 영역에 read/write access 하는 것이 아니므로 crash 가 나지 않지만, *p = 3 이라고 하면 crash가 난다고 하셨던 것 같습니다. 저는 crash 를 CPU가 특정 가상 주소를 읽거나 쓸 때 하드웨어가 page fault 예외를 내는 것으로 이해했는데, 그렇다면 *p = 3의 경우에도 max 함수의 스택은 사라졌지만 process 전체의 스택 영역 아니므로 crash가 안나지 않나요? 
+
+In slide 17 of *02.Pointers*, it was mentioned that `p = max(i, j);` does not cause a crash since it does not perform read/write access to memory, but `*p = 3;` would cause a crash. I understood a crash as the hardware raising a page fault exception when CPU tries to read or write a certain virtual address. If that is the case, then in the situation of `*p = 3`, even though the stack frame of the `max` function has disappeared, it is still within the process’s overall stack region, so wouldn’t that mean it should not crash?
+
+- *p = 3; won't crash at the time of executing this statement. But the program could eventually crash if p happens to have the address of a pointer that is dereferenced later in another function call. You can think of other such cases as well.  Sorry for the confusion. 
+- The default stack size of a Linux process is 8MB, so you use all the memory (by recurve calls, etc.), your process ends up accessing a memory area that's not allocated and it would crash.
+
