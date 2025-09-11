@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4219.jpeg"
+  avatar           : "Andy_IMG.png"
   name             : "David A. Marinelarena "
   pronouns         : # example: "she/her"  
   bio              : "Biological Researcher"
