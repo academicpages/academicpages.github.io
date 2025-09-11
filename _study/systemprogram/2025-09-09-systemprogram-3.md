@@ -218,10 +218,11 @@ int *a;
 #include <stdio.h>
 
 int main(void) {
-    int A1[3] = {1, 2, 3};
-    int *A2[3];
-    int arr[3] = {10, 20, 30};
-    int (*A3)[3] = &arr;
+  	int x = 1, y = 1, z= 1;
+  
+    int A1[3] = {x, y, z};
+    int *A2[3] = {&x, &y, &z};
+    int (*A3)[3] = &A1;
 
     // === An ===
     A1;                                  // 1. A1 컴파일 여부
@@ -269,12 +270,12 @@ int main(void) {
 
 위와 같이 3개의 변수를 선언했을 때 다음 표를 채워보자.
 
-|              |          |                  An                  |        |          |                 *An                  |        |          |                 **An                 |        |
-| :----------: | :------: | :----------------------------------: | :----: | :------: | :----------------------------------: | :----: | :------: | :----------------------------------: | :----: |
-|              | Compiles | Potential runtime error in accessing | sizeof | Compiles | Potential runtime error in accessing | sizeof | Compiles | Potential runtime error in accessing | sizeof |
-|  int A1[3]   |    O     |                  X                   |   12   |          |                                      |        |          |                                      |        |
-|  int *A2[3]  |          |                                      |        |          |                                      |        |          |                                      |        |
-| int (*A3)[3] |          |                                      |        |          |                                      |        |          |                                      |        |
+|                |          |                  An                  |        |          |                 *An                  |        |          |                 **An                 |        |
+| :------------: | :------: | :----------------------------------: | :----: | :------: | :----------------------------------: | :----: | :------: | :----------------------------------: | :----: |
+|                | Compiles | Potential runtime error in accessing | sizeof | Compiles | Potential runtime error in accessing | sizeof | Compiles | Potential runtime error in accessing | sizeof |
+|  `int A1[3]`   |    O     |                  X                   |   12   |          |                                      |        |          |                                      |        |
+|  `int *A2[3]`  |    O     |                  X                   |   24   |          |                                      |        |          |                                      |        |
+| `int (*A3)[3]` |    O     |                  X                   |   8    |          |                                      |        |          |                                      |        |
 
 
 
