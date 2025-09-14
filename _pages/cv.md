@@ -20,6 +20,9 @@ redirect_from:
 
 ## Work experience
 
+### [Nike](https://about.nike.com/)
+* Research Fellow (Internship), _2025_
+
 ### [SoundHound AI](https://soundhound.com)
 * Senior Software Engineer / Tech Lead, _2023 - 2024_
 * Software Engineer II / Tech Lead, _2020 - 2023_

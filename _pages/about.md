@@ -20,7 +20,7 @@ At school, I’ve turned on my **breadth-first search** mode.
 
 * **AI & ML** – especially representation learning, negotiation agents, and vision-language models
 * **Autonomy & Machine Vision** – applied to vehicles and beyond
-* **Game Theory & Multi-Agent Systems**
+* **Game Theory & Multi-Agent Systems** - this is what my ongoing internship at Nike as a Research Fellow focuses on
 * **Human-AI Interaction**
 * **Navigating MIT** – as an LGO, EECS, or MBA student
 * **Startup Ideas** – where AI meets the real world
