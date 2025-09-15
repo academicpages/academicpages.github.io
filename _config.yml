@@ -23,7 +23,7 @@ repository               : "WZHBKD.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfphoto.png"
   name             : "Zhaohui Wang"
   pronouns         : # example: "she/her"  
   bio              : "Beijing Aerospace Propulsion Research Institute"
