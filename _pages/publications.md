@@ -17,7 +17,7 @@ author_profile: true
 **Penghui Wei**  
 **WWW ’25** Companion: Companion Proceedings of the ACM Web Conference 2025, Short Research Paper, pages 1394-1397. Sydney, NSW, Australia, April 28-May 2, 2025.  
 
-* **Perspective-driven Preference Optimization with Dispersed Representations for Diverse Argument Generation**  
+* **Perspective-driven Preference Optimization with Entropy Maximization for Diverse Argument Generation**  
 Yilin Cao, Ruike Zhang, **Penghui Wei**†, Qingchao Kong, Wenji Mao  
 **EMNLP ’25**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2025, to appear. Suzhou, China, November 5–9, 2025.  
 
