@@ -39,5 +39,6 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Service and leadership
+* Reviewing: New Perspectives in Graph Machine Learning (NPGML) workshop, NeurIPS 2025.
 * De la Haute-Savoie aux grandes écoles
 * Imperial College Oenology Society
