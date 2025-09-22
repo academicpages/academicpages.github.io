@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-02-13-paper-title-number-1
 excerpt: 'This paper is about higher-order information in relational learning.'
 date: 2025-02-13
-venue: 'In review'
+venue: 'NeurIPS 2025'
 paperurl: https://arxiv.org/pdf/2502.09570
 ---
 
