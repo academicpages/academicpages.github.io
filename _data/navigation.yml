@@ -15,13 +15,13 @@ main:
     url: /Seminar/    
     
   - title: "Tech Study"
-    url: /Tech Study/
+    url: /Tech_Study/
         
   - title: "War Game"
-    url: /War Game/
+    url: /War_Game/
     
   - title: "Other Study"
-    url: /Other Study/
+    url: /Other_Study/
     
   # - title: "CV"
   #   url: /cv-json/
