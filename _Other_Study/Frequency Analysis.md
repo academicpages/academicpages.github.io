@@ -57,6 +57,6 @@ I'll always look forward to it!'''
 ------
 {% include base_path %}
 
-{% for post in site.War_Game reversed %}
+{% for post in site.Other_Study reversed %}
   {% include archive-single.html %}
 {% endfor %}
