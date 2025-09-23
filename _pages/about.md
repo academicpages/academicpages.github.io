@@ -1,7 +1,11 @@
-
-
-
-# Whoiam
+---
+permalink: /
+title: "Whoami"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 ### Name
 O-Jeon
