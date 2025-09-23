@@ -25,10 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "O-Jeon"
   pronouns         : # example: "she/her"  
-  bio              : |
-                      SWUFORCE 4th
-                      Information Security
-                      Seoul Women's University
+  bio              : "SWUFORCE 4th"
   affiliation      : "Information Security, Seoul Women's University"
   uri              : # URL
   email            : "o_jeon92@naver.com" 
