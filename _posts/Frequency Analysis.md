@@ -2,7 +2,7 @@
 title: 'SuNiNaTaS 26'
 date: 2025-09-23
 collection: Other Study
-permalink /Other_Study
+permalink: /Other_Study
 tags:
   - SWUFOCE
   - SuNiNaTaS
