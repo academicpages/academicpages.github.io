@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.Seminar reversed %}
+{% for post in site.Other_Study reversed %}
   {% include archive-single.html %}
 {% endfor %}
