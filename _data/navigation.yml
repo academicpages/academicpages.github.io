@@ -20,8 +20,8 @@ main:
   - title: "War Game"
     url: /War Game/
     
-#  - title: "CV"
- #   url: /cv/
+  - title: "Other Study"
+    url: /Other Study/
     
   # - title: "CV"
   #   url: /cv-json/
