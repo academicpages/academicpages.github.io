@@ -1,5 +1,5 @@
 ---
-title: ' Frequency Analysis'
+title: ' Frequency Analysi'
 date: 2025-09-23
 permalink: /Other_Study/
 tags:
