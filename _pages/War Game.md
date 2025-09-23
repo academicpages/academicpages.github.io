@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "War Game"
-permalink: /War Game/
+permalink: /War_Game/
 author_profile: true
 ---
 
