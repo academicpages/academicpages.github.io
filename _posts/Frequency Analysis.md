@@ -1,13 +1,13 @@
 ---
-title: ' Frequency Analysis'
+title: 'SuNiNaTaS 26'
 date: 2025-09-23
 permalink: /War_Game/
 tags:
   - SWUFOCE
-  - SuNiNaTaS_26
+  - SuNiNaTaS
   - Forensics
-  - Crypto
 ---
+
 ## Frequency Analysis(빈도분석)
 특정 변수의 데이터 값들이 얼마나 자주 나타나는지와 전체에서 차지하는 비율을 파악하는 통계 분석 방법.   
 특히, 암호학에서의 빈도분석은 평문과 암호문에 사용되는 문자 또는 문자열의 출현빈도를 단서로 이용하는 암호 해독을 의미함.
