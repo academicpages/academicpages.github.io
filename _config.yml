@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ojeon / a.m."
+title                    : "Ojeon'log"
 title_separator          : "-"
 name                     : &name "O-Jeon"
 description              : &description "o-jeon's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "O-Jeon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "SWUFORCE 4th, Information Security, Seoul Women's University"
   affiliation      : "Information Security, Seoul Women's University"
   uri              : # URL
   email            : "o_jeon92@naver.com" 
