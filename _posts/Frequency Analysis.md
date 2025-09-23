@@ -1,7 +1,7 @@
 ---
-title: ' Frequency Analysi'
+title: ' Frequency Analysis'
 date: 2025-09-23
-permalink: /Other_Study/
+permalink: /War_Game/
 tags:
   - SWUFOCE
   - SuNiNaTaS_26
@@ -56,6 +56,6 @@ I'll always look forward to it!'''
 ------
 {% include base_path %}
 
-{% for post in site.Other_Study reversed %}
+{% for post in site.War_Game reversed %}
   {% include archive-single.html %}
 {% endfor %}
