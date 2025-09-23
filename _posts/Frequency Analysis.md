@@ -47,6 +47,10 @@ If you'd like to talk with me, please contact me through the email linked to my 
 I'll always look forward to it!'''  
 
 위에서 소개한 코드로 해당 평문을 돌려 보면 아래와 같은 결과를 확인할 수 있다.  
+<img width="1168" height="323" alt="image" src="https://github.com/user-attachments/assets/07c030c2-068d-4cd3-8180-2eef246126cd" />
+위의 암호문을 quip quip을 이용해 복호화하면 아래와 같이 복호화 됨을 확인할 수 있다.
+<img width="1117" height="238" alt="image" src="https://github.com/user-attachments/assets/5a74e760-20d3-47d3-932b-88e1334f0498" />
+
 
 
 ------
