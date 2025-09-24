@@ -1,0 +1,44 @@
+---
+title: 'SuNiNaTaS 26'
+date: 2025-09-23
+permalink: /War_Game/
+tags:
+  - SWUFOCE
+  - SuNiNaTaS
+  - Forensics
+---
+
+### Cipher III : Frequency analysis
+This challenge is to recover the plaintext from the following ciphertext using frequency analysis:
+ 
+```szqkagczvcvyabpsyincgozdainvscbnivpnzvbpnyfkqhzmmpcqhzygzgfcxznvvzgdfnvbpnjyifxmpcqhzygbpnoyaimygbzgn   gbvmpcqhzygcbpinnbzqndicgxhiztozgcfmpcqhzygbpnjyifxeagzyimpcqhzygbpneagzyidicgxhiztozgcfmpcqhzygcgxcoyai   bzqnvyabpsyincggcbzygcfmpcqhzygszqzvbpnozivbvyabpsyincgozdainvscbnibyjzgcqnxcfcbcgzvaeagzyiyivngzyidicgx   hiztnungbzvampcqhzygvpzhcgxbpnyfkqhzmdcqnvvpnzvbpnozivbonqcfnvscbnibyjzgbpnyfkqhzmdcqnvbpnjyifxmpcqhzygv   pzhvbpnoyaimygbzgngbvmpcqhzygvpzhvcgxbpndicgxhiztozgcfvpnzvygnyobpnqyvbpzdpfkinmydgzlnxcbpfnbnvcgxqnxzco   zdainvzgvyabpsyinccvyochizfbpzvkncivpnzvicgsnxvnmygxzgbpnjyifxrkbpnzgbnigcbzygcfvscbzgdagzygvpnzvbpnmaii   ngbinmyixpyfxnioyifcxznvzgbpnvpyibhiydicqbpnoinnvscbzgdcgxbpnmyqrzgnxbybcfagxnibpnzvaeaxdzgdvkvbnqvpnzvc   fvybpnozivbonqcfnvscbnibyvaihcvvbpnbjypaxincxhyzgbqcisagxnibpnzvaeaxdzgdvkvbnqvpnpcvgnunirnnghfcmnxyoobpnhyxzaqzgpningbzinmcinni```
+
+Note that we have omitted the blank letters and punctuation marks of the plaintext.
+
+### 풀이
+#### 빈도 분석이란?
+특정 변수의 데이터 값들이 얼마나 자주 나타나는지와 전체에서 차지하는 비율을 파악하는 통계 분석 방법
+특히, 암호학에서의 빈도분석은 평문과 암호문에 사용되는 문자 또는 문자열의 출현빈도를 단서로 이용하는 암호 해독을 의미함.
+
+주로 문자 빈도 파악, 언어별 빈도 비교, 대응 관계 추론 등의 방식으로 접근할 수 있음.
+
+#### 툴 사용
+- https://quipqiup.com/
+  <img width="1257" height="784" alt="image" src="https://github.com/user-attachments/assets/0c065d71-f0ee-495a-a301-de2c41afadbe" />
+
+  ##### 결과
+  ```kim yuna is a south korean figure skater she is the olympic champion in ladies singles the world champion the four continents champion a three time grand prix final champion the world junior champion the junior grand prix final champion and a four time south korean national champion kim is the first south korean figure skater to win a medal at an isu junior or senior grand prix event is u championship and the olympic games she is the first female skater to win the olympic games the world championships the four continents championships and the grand prix finals he is one of the most highly recognized athletes and media figures in south korea as of april this year she is ranked second in the world by the international skating union she is the current record holder for ladies in the short program the free skating and the combined total under the isu judging systems he is also the first female skater to surpass the two hu dread point mark under the isu judging systems he has never been placed off the podium in her entire career```
+
+### Input Flag
+<img width="909" height="296" alt="image" src="https://github.com/user-attachments/assets/05471a53-6449-491a-ad8c-3c100d42a8a7" />
+
+
+  
+
+
+------
+{% include base_path %}
+
+{% for post in site.War_Game reversed %}
+  {% include archive-single.html %}
+{% endfor %}
