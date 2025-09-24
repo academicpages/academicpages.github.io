@@ -48,10 +48,13 @@ Among forensics, I'm especially interested in mobile forensics.
 If you'd like to talk with me, please contact me through the email linked to my blog.  
 I'll always look forward to it!'''  
 
-위에서 소개한 코드로 해당 평문을 돌려 보면 아래와 같은 결과를 확인할 수 있다.  
+위에서 소개한 코드로 해당 평문을 돌려 보면 아래와 같은 결과를 확인할 수 있다.
+
 <img width="1152" height="288" alt="image" src="https://github.com/user-attachments/assets/99b14afc-7367-4d32-b667-74592d7fcc6c" />
 
+
 위의 암호문을 quip quip을 이용해 복호화하면 아래와 같이 복호화 됨을 확인할 수 있다.
+
 <img width="1152" height="230" alt="image" src="https://github.com/user-attachments/assets/0b2689ac-3162-425f-a93c-eca1b95b4f64" />
 
 
