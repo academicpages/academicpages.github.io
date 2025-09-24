@@ -1,12 +1,12 @@
 ---
-title: 'SuNiNaTaS 26'
+title: 'Frequency Analysis'
 date: 2025-09-23
 collection: Other Study
 permalink: /Other_Study
 tags:
   - SWUFOCE
-  - SuNiNaTaS
-  - Forensics
+  - SuNiNaTaS_26
+  - Crypto
 ---
 
 ## Frequency Analysis(빈도분석)
