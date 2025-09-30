@@ -53,5 +53,4 @@ _Good luck!_
 
 ---
 
-The best way to send me a "thank you note" is to **🌟 Star** my [GitHub repository]
-(https://github.com/junruren/MIT-Classes/) that hosts all these cheatsheets 😉 so... my thanks to you!
+The best way to send me a "thank you note" is to **🌟 Star** my [GitHub repository](https://github.com/junruren/MIT-Classes/) that hosts all these cheatsheets 😉 so... my thanks to you!
