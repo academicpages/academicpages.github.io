@@ -13,7 +13,7 @@ title                    : "Ballai Website"
 title_separator          : "-"
 name                     : &name "Ballai"
 description              : &description "Ballai's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://academicpages.github.io" # The base hostname & protocol for your site
+url                      : "https://ballaii.github.io/ballai.github.io/" # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ballaii/ballai.github.io"
 
