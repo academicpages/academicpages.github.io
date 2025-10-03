@@ -7,14 +7,27 @@ author_profile: true
 
 
 <style>
-      sakktabla {
-        border: 2px solid rgb(0, 0, 0);
+    #sakktabla {
+        border: 2px solid black;
         border-collapse: collapse;
-        margin: auto;
-      }
-      td:nth-child(2) {
-            background-color: white;
-      }
+        margin: 20px 0;
+    }
+    #sakktabla td {
+        width: 60px;
+        height: 60px;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 24px;
+        font-weight: bold;
+    }
+    #sakktabla tr:nth-child(even) td:nth-child(odd),
+    #sakktabla tr:nth-child(odd) td:nth-child(even) {
+        background-color: #769656; /* Dark squares */
+    }
+    #sakktabla tr:nth-child(even) td:nth-child(even),
+    #sakktabla tr:nth-child(odd) td:nth-child(odd) {
+        background-color: #eeeed2; /* Light squares */
+    }
 </style>
 
 <table id='sakktabla' cellspacing=0>
