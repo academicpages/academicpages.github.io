@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "UMFST - Informatika"
+excerpt: "Ez az impozáns épület egy neves informatikai egyetemnek ad otthont, ahol klasszikus környezetben találkozik a modern technológia és az innováció. A hallgatók itt nemcsak elméleti tudást szereznek, hanem gyakorlati projekteken keresztül készülnek fel a digitális jövő kihívásaira.<br/><img src='/images/epulet.jpg'>"
 collection: portfolio
 ---
 
