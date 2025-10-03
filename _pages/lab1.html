@@ -1,6 +1,27 @@
 <!-- _pages/lab1.html -->
 
 <style>
+    #sakktabla {
+    width: 320px;
+    height: 320px;
+    border: 2px solid #333;
+  }
+
+  #sakktabla td {
+    width: 40px;
+    height: 40px;
+  }
+
+  #sakktabla tr:nth-child(even) td:nth-child(odd),
+  #sakktabla tr:nth-child(odd) td:nth-child(even) {
+    background-color: #000;
+  }
+
+  #sakktabla tr:nth-child(even) td:nth-child(even),
+  #sakktabla tr:nth-child(odd) td:nth-child(odd) {
+    background-color: #fff;
+  }
+
 </style>
 
 <table id='sakktabla' cellspacing=0>
