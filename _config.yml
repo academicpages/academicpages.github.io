@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jomagam.jpeg"
   name             : "Csipkey Tamás-István"
   pronouns         : # example: "she/her"  
   bio              : "Informatika szakos hallgatóként szenvedélyesen foglalkozom web- és alkalmazásfejlesztéssel. Célom, hogy letisztult, felhasználóbarát megoldásokkal formáljam a digitális világot."
