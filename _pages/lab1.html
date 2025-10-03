@@ -8,26 +8,32 @@ author_profile: true
 
 <style>
     #sakktabla {
-        border: 2px solid black;
-        border-collapse: collapse;
-        margin: 20px 0;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 90vw;
+    max-width: 600px;
+    aspect-ratio: 1 / 1;
     }
+
     #sakktabla td {
-        width: 50px;
-        height: 60px;
-        text-align: center;
-        vertical-align: middle;
-        font-size: 24px;
-        font-weight: bold;
+    width: 12.5%;
+    height: 12.5%;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 3vw;
+    font-weight: bold;
     }
+
     #sakktabla tr:nth-child(even) td:nth-child(odd),
     #sakktabla tr:nth-child(odd) td:nth-child(even) {
-        background-color: #2e4516; /* Dark squares */
+    background-color: #2e4516;
     }
-    #sakktabla tr:nth-child(even) td:nth-child(even),
-    #sakktabla tr:nth-child(odd) td:nth-child(odd) {
-        background-color: #eeeed2; /* Light squares */
-    }
+
+#sakktabla tr:nth-child(even) td:nth-child(even),
+#sakktabla tr:nth-child(odd) td:nth-child(odd) {
+    background-color: #eeeed2;
+}
 </style>
 
 <table id='sakktabla' cellspacing=0>
