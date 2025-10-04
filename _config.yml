@@ -12,8 +12,8 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Peiran Liu"
 title_separator          : "-"
 name                     : &name "Peiran Liu"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Peiran Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://niunaicoke.github.io/peiranliu.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peiranliu.github.io"
