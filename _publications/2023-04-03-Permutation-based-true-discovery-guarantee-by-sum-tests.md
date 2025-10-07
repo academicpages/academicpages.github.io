@@ -2,9 +2,9 @@
 title: "Permutation-based true discovery guarantee by sum tests"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-Permutation-based-true-discovery-guarantee-by-sum-tests
+permalink: /publication/2023-04-03-Permutation-based-true-discovery-guarantee-by-sum-tests
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-04-03
 venue: 'Journal of the Royal Statistical Society, Series B (Statistical Methodology)'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
