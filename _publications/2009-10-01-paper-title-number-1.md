@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Permutation-based true discovery guarantee by sum tests"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-Permutation-based-true-discovery-guarantee-by-sum-tests
+excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023
+venue: 'Journal of the Royal Statistical Society, Series B (Statistical Methodology)'
+slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+paperurl: #'http://academicpages.github.io/files/paper1.pdf'
+bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Anna Vesely, Livio Finos, Jelle J. Goeman (2023). &quot;Permutation-based true discovery guarantee by sum tests&quot; <i>Journal of the Royal Statistical Society, Series B (Statistical Methodology)</i> 85(3).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Sum-based global tests are highly popular in multiple hypothesis testing. In this paper, we propose a general closed testing procedure for sum tests, which provides lower confidence bounds for the proportion of true discoveries (TDPs), simultaneously over all subsets of hypotheses. These simultaneous inferences come for free, i.e., without any adjustment of the α-level, whenever a global test is used. Our method allows for an exploratory approach, as simultaneity ensures control of the TDP even when the subset of interest is selected post hoc. It adapts to the unknown joint distribution of the data through permutation testing. Any sum test may be employed, depending on the desired power properties. We present an iterative shortcut for the closed testing procedure, based on the branch and bound algorithm, which converges to the full closed testing results, often after few iterations; even if it is stopped early, it controls the TDP. We compare the properties of different choices for the sum test through simulations, then we illustrate the feasibility of the method for high-dimensional data on brain imaging and genomics data.
