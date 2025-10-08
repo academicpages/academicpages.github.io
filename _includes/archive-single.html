@@ -80,5 +80,21 @@
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
 
+{% if post.arxivurl or post.journalurl %}
+  <p>
+    {% if post.arxivurl %}
+      <a href="{{ post.arxivurl }}">arXiv</a>
+    {% endif %}
+    {% if post.arxivurl and post.journalurl %}
+      |
+    {% endif %}
+    {% if post.journalurl %}
+      <a href="{{ post.journalurl }}">Journal</a>
+    {% endif %}
+  </p>
+{% endif %}
+
+
+
   </article>
 </div>
