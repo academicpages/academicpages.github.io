@@ -7,7 +7,7 @@ excerpt: #
 date: 2022-01-12
 venue: #
 slidesurl: #
-paperurl: #'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://annavesely.github.io/files/thesis_Anna_Vesely.pdf'
 bibtexurl: #
 arxivurl: #
 journalurl: #
