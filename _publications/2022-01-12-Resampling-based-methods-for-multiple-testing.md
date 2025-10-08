@@ -5,7 +5,7 @@ category: thesis
 permalink: /publication/2022-01-12-Resampling-based-methods-for-multiple-testing
 excerpt: #
 date: 2022-01-12
-venue: #
+venue: "Department of Statistical Sciences, University of Padua"
 slidesurl: #
 paperurl: 'http://annavesely.github.io/files/thesis_Anna_Vesely.pdf'
 bibtexurl: #
