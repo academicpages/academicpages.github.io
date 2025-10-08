@@ -52,45 +52,41 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation and post.paperurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% elsif post.citation and post.slidesurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl}}">Download Bibtex</a></p>
-    {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl and post.bibtexurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
-    {% elsif post.slidesurl and post.bibtexurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.bibtexurl %}
-      <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% comment %}
+  Compact publication info block — includes citation, download, slides, BibTeX, arXiv, journal
+{% endcomment %}
+
+{% assign has_links = post.paperurl or post.slidesurl or post.bibtexurl or post.arxivurl or post.journalurl %}
+
+{% if post.citation or has_links %}
+  <p style="font-size: smaller">
+    {% if post.citation %}
+      Recommended citation: {{ post.citation }}<br />
     {% endif %}
 
-{% if post.arxivurl or post.journalurl %}
-  <p>
-    {% if post.arxivurl %}
-      <a href="{{ post.arxivurl }}">arXiv</a>
+    {% assign links = "" %}
+
+    {% if post.paperurl %}
+      {% assign links = links | append: '<a href="' | append: post.paperurl | append: '">Download Paper</a>' %}
     {% endif %}
-    {% if post.arxivurl and post.journalurl %}
-      |
+    {% if post.slidesurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: post.slidesurl | append: '">Download Slides</a>' %}
+    {% endif %}
+    {% if post.bibtexurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: post.bibtexurl | append: '">Download Bibtex</a>' %}
+    {% endif %}
+    {% if post.arxivurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: post.arxivurl | append: '">arXiv</a>' %}
     {% endif %}
     {% if post.journalurl %}
-      <a href="{{ post.journalurl }}">Journal</a>
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: post.journalurl | append: '">Journal</a>' %}
     {% endif %}
+
+    {{ links | raw }}
   </p>
 {% endif %}
 
