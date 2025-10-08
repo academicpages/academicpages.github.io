@@ -47,31 +47,44 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation and page.paperurl and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
-        {% elsif page.citation and page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.paperurl and page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-        {% elsif page.slidesurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% endif %}
+{% comment %}
+  Publication links: citation, downloads, slides, bibtex, arxiv, journal
+{% endcomment %}
+
+{% assign has_links = page.paperurl or page.slidesurl or page.bibtexurl or page.arxivurl or page.journalurl %}
+
+{% if page.citation or has_links %}
+  <p style="font-size: smaller">
+    {% if page.citation %}
+      Recommended citation: {{ page.citation }}<br />
+    {% endif %}
+
+    {% assign links = "" %}
+
+    {% if page.paperurl %}
+      {% assign links = links | append: '<a href="' | append: page.paperurl | append: '">Download Paper</a>' %}
+    {% endif %}
+    {% if page.slidesurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: page.slidesurl | append: '">Download Slides</a>' %}
+    {% endif %}
+    {% if page.bibtexurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: page.bibtexurl | append: '">Download Bibtex</a>' %}
+    {% endif %}
+    {% if page.arxivurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: page.arxivurl | append: '">arXiv</a>' %}
+    {% endif %}
+    {% if page.journalurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: page.journalurl | append: '">Journal</a>' %}
+    {% endif %}
+
+    {{ links | raw }}
+  </p>
+{% endif %}
+
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
