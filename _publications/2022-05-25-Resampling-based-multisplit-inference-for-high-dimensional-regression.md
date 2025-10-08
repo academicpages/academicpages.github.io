@@ -5,7 +5,7 @@ category: preprint
 permalink: /publication/2022-05-25-Resampling-based-multisplit-inference-for-high-dimensional-regression
 excerpt: #
 date: 2022-05-25
-venue: #
+venue: 'arXiv (pre-print)'
 slidesurl: #
 paperurl: #
 bibtexurl: #

@@ -5,7 +5,7 @@ category: preprint
 permalink: /publication/2025-08-05-A-new-approach-to-PC-analysis-in-neuroimaging
 excerpt: #
 date: 2025-08-05
-venue: #
+venue: 'arXiv (pre-print)'
 slidesurl: #
 paperurl: #
 bibtexurl: #

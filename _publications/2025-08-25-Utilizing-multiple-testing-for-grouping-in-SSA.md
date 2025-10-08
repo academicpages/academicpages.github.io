@@ -5,7 +5,7 @@ category: preprint
 permalink: /publication/2025-08-25-Utilizing-multiple-testing-for-grouping-in-SSA
 excerpt: #
 date: 2025-08-25
-venue: #
+venue: 'arXiv (pre-print)'
 slidesurl: #
 paperurl: #
 bibtexurl: #
