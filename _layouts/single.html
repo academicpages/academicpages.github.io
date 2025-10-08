@@ -18,75 +18,78 @@ layout: default
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
-    {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.title %}
+      <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% endif %}
+    {% if page.excerpt %}
+      <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% endif %}
+    {% if page.date %}
+      <meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">
+    {% endif %}
+    {% if page.modified %}
+      <meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">
+    {% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          {% if page.title %}
+            <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+          {% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
-        {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-        
-        {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}    
+          {% if page.modified %}
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+          {% endif %}
+
+          {% if page.collection == 'teaching' %}
+            <p>{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+          {% elsif page.venue and page.date %}
+            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+          {% elsif page.date %}
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+          {% endif %}
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
 
-{% comment %}
-  Publication links: citation, downloads, slides, bibtex, arxiv, journal
-{% endcomment %}
+        {% comment %}
+          Publication links: citation, downloads, slides, bibtex, arxiv, journal, conference book
+        {% endcomment %}
 
-{% assign has_links = page.paperurl or page.slidesurl or page.bibtexurl or page.arxivurl or page.journalurl %}
+        {% assign has_links = page.paperurl or page.slidesurl or page.bibtexurl or page.arxivurl or page.journalurl or page.proceedingsbookurl %}
 
-{% if page.citation or has_links %}
-  <p style="font-size: smaller">
-    {% if page.citation %}
-      Recommended citation: {{ page.citation }}<br />
-    {% endif %}
+        {% if page.citation or has_links %}
+          <p style="font-size: smaller">
+            {% if page.citation %}
+              Recommended citation: {{ page.citation }}<br />
+            {% endif %}
 
-    {% assign links = "" %}
+            {% assign links = "" %}
+            {% assign url_labels = "paperurl:Download Paper,slidesurl:Download Slides,bibtexurl:Download Bibtex,arxivurl:arXiv,journalurl:Journal,proceedingsbookurl:Conference Book" | split: "," %}
 
-    {% if page.paperurl %}
-      {% assign links = links | append: '<a href="' | append: page.paperurl | append: '">Download Paper</a>' %}
-    {% endif %}
-    {% if page.slidesurl %}
-      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-      {% assign links = links | append: '<a href="' | append: page.slidesurl | append: '">Download Slides</a>' %}
-    {% endif %}
-    {% if page.bibtexurl %}
-      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-      {% assign links = links | append: '<a href="' | append: page.bibtexurl | append: '">Download Bibtex</a>' %}
-    {% endif %}
-    {% if page.arxivurl %}
-      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-      {% assign links = links | append: '<a href="' | append: page.arxivurl | append: '">arXiv</a>' %}
-    {% endif %}
-    {% if page.journalurl %}
-      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-      {% assign links = links | append: '<a href="' | append: page.journalurl | append: '">Journal</a>' %}
-    {% endif %}
+            {% for pair in url_labels %}
+              {% assign parts = pair | split: ":" %}
+              {% assign url_field = parts[0] %}
+              {% assign label = parts[1] %}
 
-    {{ links | raw }}
-  </p>
-{% endif %}
+              {% if page[url_field] %}
+                {% if links != "" %}{% assign links = links | append: " | " %}{% endif %}
+                {% assign links = links | append: '<a href="' | append: page[url_field] | append: '">' | append: label | append: '</a>' %}
+              {% endif %}
+            {% endfor %}
 
+            {{ links | raw }}
+          </p>
+        {% endif %}
 
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.link %}
+          <div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">
@@ -96,7 +99,9 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+      {% if page.share %}
+        {% include social-share.html %}
+      {% endif %}
 
       {% include post_pagination.html %}
     </div>
@@ -106,7 +111,6 @@ layout: default
     {% endif %}
   </article>
 
-  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
       {% if site.data.ui-text[site.locale].related_label %}
