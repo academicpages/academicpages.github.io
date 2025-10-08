@@ -1,28 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Afrasiyab Khalili - Data & AI Enthusiast"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Afrasiyab Khalili, a Research Associate with a background in data and software engineering, and a bit of AI. Previously based in Tallinn, Estonia, I mainly worked on building scalable marketing data pipelines, cloud-native solutions, and non-prod machine learning applications. My work focuses on optimizing data infrastructure to drive business insights and efficiency.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+Professional Background
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I was a Data Engineer at Bally’s Interactive in Tallinn, Estonia (October 2022 - Present), where we (multiple data teams, I was part of marketing) built real‑time data platform powering systematic operations, advanced AI/ML capabilities, real‑time decision‑making, marketing optimisation, and personalised player experiences. The main project was the migration of legacy IBM data warehouses to cloud-native lakehouse - Databricks, AWS. This initiative is expected to reduce infrastructure costs by half. I also enhance team tooling with automation, participate in on-call shifts, contribute to data architecture discussions, and design end-to-end pipelines following the Medallion architecture. My toolkit includes Apache Spark/PySpark, Apache Airflow, AWS, Google Cloud Platform, SQL, Python, Docker, and more.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Previously, I served as a Data Engineer at Solita in Tallinn (September 2021 - September 2022), developing ETL solutions with Apache Airflow, automating data migrations, and supporting datawarehouse design and transformations/analysis in Redshift.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+I also worked as a Software Engineer at Sigma Technical Services LLC in Baku (September 2020 - August 2021), developing system with 2D LIDAR on Raspberry Pi, visualizing real-time data with PyQt, and implementing object tracking using clustering algorithms and motors in static/dynamic environment.
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -54,3 +51,47 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+ -->
+
+Education
+======
+Master of Science in Computer Systems Engineering, Tallinn University of Technology (TalTech), Tallinn, Estonia (September 2021 - 2024), GPA: 4.278.
+Received tuition fee waiver (2 years) and excellence scholarships (twice). Honored with an invitation to the Presidential Rose Garden reception from the President of Estonia and Minister of Education.
+Bachelor of Science in Computer Science, University of Strasbourg/Azerbaijan State Oil and Industry University, Baku, Azerbaijan (September 2016 - June 2020), GPA: B+.
+Relevant coursework: Data Structures and Algorithms, Parallel Programming, Signal Processing, Computer Architecture, Operating Systems, Networks, Combinatorics, Linear Algebra, Quantum Mechanics.
+Received government scholarships (tuition fee waiver + monthly stipendium for 4 years) and selected for Thales Group certification courses (only top 10 students were chosen).
+
+Projects
+======
+From Pixels to Patterns: Automated Classification of Fish Swarms in Underwater Videos (Funded by BfG): Developed an explainable machine learning system for classifying fish behaviors in fishways, reducing manual observation and costs.
+Golf Course Management Subsystem: Built conceptual data models, CRUD matrices, and database implementations using Enterprise Architect, incorporating business rules.
+ANN Library in C: Implemented a neural network with ReLU and Sigmoid activations for hidden and output layers.
+LIDAR System for Object Detection and Tracking: Created a security application on Raspberry Pi using Python/C, with real-time data visualization and clustering.
+Predicting Heart Disease Risk: Trained MLP models on the Cleveland Heart Disease dataset using Python/Java.
+Design of Interlocking System for Metro Station (Thales Project): Visualized and simulated metro interlocking systems in Python.
+Classification using Decision Tree and K-means++: Implemented classification and clustering algorithms in Python/Java.
+Panorama: 3D to 2D Image Stitching: Merged 360-degree photos into a single BMP using C, with shift detection and resizing.
+Image Processing - Strip Extraction: Extracted image strips in C for archaeological applications.
+
+
+Skills and Certifications
+------
+Programming Languages: Python, SQL, Java, C, Shell.
+Technologies: AWS, Redshift, Airflow, Linux/Ubuntu, Weka, Git, LaTeX, JIRA, MIRO, Bitbucket, Agile, Apache Spark/PySpark, Apache Kafka, Docker, Continuous Integration/Deployment (CI/CD).
+Certifications:
+
+Apache Kafka - Administration & Development
+AWS Certified Cloud Practitioner
+Databricks Lakehouse Fundamentals
+Apache Airflow Astronomer Certification (DAG Authoring & Fundamentals)
+What is Data Science? (Coursera, IBM)
+Neural Networks and Deep Learning (Coursera, DeepLearning.AI)
+Automation and Computer Technologies in Transport (THALES Group)
+
+Languages
+------
+Azerbaijani (Native)
+Turkish (Advanced)
+English (Advanced)
+French (Intermediate)
