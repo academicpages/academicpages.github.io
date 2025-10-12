@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. 
+# `jekyll serve -l -H localhost`.
 # If you change this file, please restart the server process.
 
 # Basic Site Settings
@@ -13,7 +13,7 @@ title                    : "Onno Kampman"
 title_separator          : "-"
 name                     : &name "Onno Kampman"
 description              : &description "Cognitive Scientist"
-url                      : https://onnokampman.github.io  # the base hostname & protocol for your site
+url                      : https://onnokampman.com  # the base hostname & protocol for your site
 baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : "OnnoKampman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
