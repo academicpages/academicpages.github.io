@@ -1,152 +1,214 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Deng Pan",
+    "email": "dpan@nd.edu",
+    "phone": "+1 (313) 985 6017",
+    "website": "https://pd90506.github.io",
+    "summary": "Postdoctoral Associate at University of Notre Dame. Researcher in Responsible AI, focusing on explainability, fairness, robustness, and security.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "South Bend, IN",
       "countryCode": "US",
-      "region": ""
+      "region": "Indiana"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Deng Pan",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "pd90506",
+        "url": "https://github.com/pd90506"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of Notre Dame",
+      "position": "Postdoctoral Associate",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Collaborating on projects aimed at advancing medical equality in low- and middle-income countries through the application of AI tools, including Large Language Models (LLMs). Enhancing the fairness and transparency of contemporary AI systems by investigating the interpretability and explainability of generative AI models, with a focus on Large Language Models.",
+      "highlights": []
+    },
+    {
+      "company": "AntGroup Inc.",
+      "position": "Applied Scientist",
+      "website": "",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Participated in the development of the Ant Model Risk Evaluation system. Designed and developed advanced solutions to enhance security within the Alipay ecosystem, including creating anti-cheating algorithms for online transactions, building a robust risk transaction detection system, and developing algorithms to detect and mitigate malicious accounts.",
+      "highlights": []
+    },
+    {
+      "company": "Wayne State University",
+      "position": "Graduate Teaching Assistant",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "2022",
+      "summary": "Assessed assignments and exams, provided guidance to students, and conducted research in areas encompassing recommender systems, explainable AI, Natural Language Processing, and related domains.",
+      "highlights": []
+    },
+    {
+      "company": "AntGroup Inc.",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Designed interpretable anti-cheat algorithms for transaction sequences.",
+      "highlights": []
+    },
+    {
+      "company": "Quicken Loans Inc.",
+      "position": "Data Mining Engineer Intern",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "Worked with a group on the client retention project.",
+      "highlights": []
+    },
+    {
+      "company": "China Minsheng Bank",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Wayne State University",
+      "area": "Computer Science",
+      "studyType": "Ph.D. & Master",
+      "startDate": "2015",
+      "endDate": "2022",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "highlights": ["Dissertation: Interpretable Machine Learning and Applications"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Southern University of Science and Technology",
+      "area": "Financial Mathematics",
+      "studyType": "B.S.",
+      "startDate": "2011",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "TensorFlow", "PyTorch", "scikit-learn"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": [
+        "Interpretable Machine Learning",
+        "Adversarial Robustness",
+        "Anomaly Detection",
+        "Graph Neural Networks",
+        "Large Language Models",
+        "Convolutional Neural Networks",
+        "Recommender Systems"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Explainable Machine Learning",
+        "Fairness in AI",
+        "Adversarial Robustness",
+        "Anomaly Detection",
+        "Large Language Models"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Context Attribution with Multi-Armed Bandit Optimization",
+      "publisher": "Preprint",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Novel approach to context attribution using multi-armed bandit optimization techniques."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Fast Explanations via Policy Gradient-Optimized Explainer",
+      "publisher": "IJCAI-25",
+      "releaseDate": "2025-01-02",
+      "website": "",
+      "summary": "Policy gradient-based approach for generating fast explanations of machine learning models."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Negative Flux Aggregation to Estimate Feature Attributions",
+      "publisher": "IJCAI-23",
+      "releaseDate": "2023-08-01",
+      "website": "",
+      "summary": "Novel method using negative flux aggregation to estimate feature attributions in neural networks."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Learning Compact Features via In-Training Representation Alignment",
+      "publisher": "AAAI-23",
+      "releaseDate": "2023-02-01",
+      "website": "",
+      "summary": "Method for learning compact features through in-training representation alignment."
+    },
+    {
+      "name": "AttCAT: Explaining Transformers via Attentive Class Activation Tokens",
+      "publisher": "NeurIPS-22",
+      "releaseDate": "2022-12-01",
+      "website": "",
+      "summary": "Method for explaining transformer models using attentive class activation tokens."
+    },
+    {
+      "name": "Explaining Deep Neural Network Models with Adversarial Gradient Integration",
+      "publisher": "IJCAI-21",
+      "releaseDate": "2021-08-01",
+      "website": "",
+      "summary": "Method for explaining deep neural networks using adversarial gradient integration."
+    },
+    {
+      "name": "Improving adversarial robustness via probabilistically compact loss with logit constraints",
+      "publisher": "AAAI-21",
+      "releaseDate": "2021-02-02",
+      "website": "",
+      "summary": "Method to improve adversarial robustness using probabilistically compact loss with logit constraints."
+    },
+    {
+      "name": "Defending against adversarial attacks on medical imaging AI system, classification or detection?",
+      "publisher": "ISBI-21",
+      "releaseDate": "2021-04-01",
+      "website": "",
+      "summary": "Investigation of defense strategies against adversarial attacks on medical imaging AI systems."
+    },
+    {
+      "name": "Explainable recommendation via interpretable feature mapping and evaluating explainability",
+      "publisher": "IJCAI-20",
+      "releaseDate": "2020-07-01",
+      "website": "",
+      "summary": "Approach for explainable recommendation systems using interpretable feature mapping."
+    },
+    {
+      "name": "On the learning behavior of logistic and softmax losses for deep neural networks",
+      "publisher": "AAAI-20",
+      "releaseDate": "2020-02-01",
+      "website": "",
+      "summary": "Analysis of the learning behavior of logistic and softmax losses in deep neural networks."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
