@@ -1,82 +1,89 @@
 ---
-title: "A Non‑EECS PhD's Guide to Engaging MIT CS/AI"
+title: "Networking Beyond Your Home Department: An MIT CS/AI Case Study"
 date: 2025-10-14
 permalink: /posts/2025/10/mit-cs-ai-engagement/
 tags:
   - mit
+  - networking
+  - grad-school
 ---
 
-How can non-PhD students participate meaningfully in MIT’s CS and AI research community? Drawing on my experience as an EECS SM and MBA student, I share practical ways to get involved, from joining the right mailing lists to attending CSAIL seminars, along with lessons learned about curiosity, humility, and showing up even when you don’t understand everything.
+How do you build real connections **outside** your home academic program or department, especially in a place like MIT? This post shares a simple playbook for doing exactly that, using my own path into the CS/AI community as a case study. The short version: find the right announcement surfaces, **show up** (even when you won't understand everything), and keep the curiosity dial set to "loud."
 
-## An SM's "Identity Crisis"
+## Case Study Set‑Up: An SM's "Identity Crisis"
 
-When I first arrived at MIT as an **EECS Master of Science (SM) and MBA dual-degree** candidate, I had a brief _identity crisis_ about being an EECS SM student.
+When I first arrived at MIT as an **EECS Master of Science (SM)** and **MBA dual-degree** candidate, I had a brief identity crisis about where I fit.
 
-Conversations with other students or faculty often went something like this:
+Conversations with other students or faculty often went like this:
 
-* **Who's your PI (principal investigator)?**
-* I don't have one. I'm a master's student.
-* **Oh, so you're an MEng (Master of Engineering) student then?**
-* No, I'm MS (or SM) 😂.
+> **Who's your PI (principal investigator)?**  
+> I don't have one. I'm a master's student.  
+> **Oh, so you're an MEng student then?**  
+> No, I'm SM 😅.
 
-This happens because **the majority of EECS graduate students are PhD students**, followed by MIT undergrads continuing for their MEng. That makes being an EECS SM both rare and meaningful. In my case, I had to clear multiple MIT admission committees (three, in fact: EECS, Sloan MBA, and LGO) 😎
+This happens because **the majority of EECS graduate students are PhD students**, followed by MIT undergrads continuing for their MEng. That makes being an EECS SM both rare and meaningful. In my case, I cleared multiple admission committees (three, in fact: **EECS, Sloan MBA, and LGO**) 😎.
 
-> "Application is for the doctoral program only — there is no terminal masters degree, but all PhD students earn a masters degree as they work towards PhD. A Masters of Engineering is only available for qualified MIT EECS undergraduates."
->
-> -- [MIT EECS Graduate Programs: Admission Process](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/#:~:text=Application%20is%20for%20the%20doctoral%20program%20only%20%E2%80%94%20there%20is%20no%20terminal%20masters%20degree%2C%20but%20all%20PhD%20students%20earn%20a%20masters%20degree%20as%20they%20work%20towards%20PhD.%20%C2%A0A%20Masters%20of%20Engineering%20is%20only%20available%20for%20qualified%20MIT%20EECS%20undergraduates.)
-
-
-
-So, with no lab affiliation, no RA-ship, and no matched thesis advisor (well, now I do 😉), I still wanted to engage with the **CS and AI research communities at MIT**.
+With no lab affiliation, no RA-ship, and no matched thesis advisor (well, now I do 😉), I still wanted to engage with the **CS and AI research communities at MIT**.
 
 _I want to be in the room where it happens._
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5jYjdxZm96OGd3ajFkZG03YmY1aXhnZGlkNzU2dm9mdTVjcnRoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CYopbqdiUv4xJf7T6/giphy.gif)
 
-## "The Room Where It _Announces_"
+---
 
-First things first: **access to information**.
+## The Playbook: How to Network Outside Your Home Program
 
-As an EECS student, albeit an SM, I do receive the daily **EECS Grad Announcements** from department staff, which is great. But to me, _the room_ of AI at MIT is the [**Computer Science & Artificial Intelligence Laboratory (CSAIL)**](https://www.csail.mit.edu/).
+### 1. Set one clear objective
 
-While exploring, I stumbled upon CSAIL's [Popular Lab Mailing Lists](https://tig.csail.mit.edu/email-communicating/popular-lab-mailing-lists/) page, maintained by The Infrastructure Group (TIG).
+I decided one of my main grad school objectives would be to **attend as many research seminars, talks, and guest lectures as possible**. That single choice simplified a lot of decisions later (see: calendar collisions and FOMO).
 
-CSAIL members are automatically subscribed to most of these lists, but anyone with an `@mit.edu` email can request to join several public ones. Some lists (like `csail-all` and `csail-internal`) are restricted; I successfully joined:
+### 2. Find the "Room Where It _Announces_"
 
-* [`csail-announce`](https://lists.csail.mit.edu/mailman/listinfo/csail-announce)
-* [`seminars`](https://lists.csail.mit.edu/mailman/listinfo/seminars)
-* [`social`](https://lists.csail.mit.edu/mailman/listinfo/social)
+Every community has places where information lands first: department‑wide digests, lab/center mailing lists, seminar calendars, student collectives, Slack/Discord, and newsletters.
 
-These are great channels for learning about technical and social events across CSAIL.
+Your job is to **discover and subscribe**. (My MIT‑specific examples are in the appendix.)
 
-Outside of official CSAIL channels, I highly recommend [Scale ML](https://scale-ml.org/), a cross-lab MIT AI graduate student collective. They host biweekly seminars featuring phenomenal speakers from both MIT and industry labs. Just last month, they hosted [**Horace He**](https://x.com/chhillee), who co-authored [_"Defeating Nondeterminism in LLM Inference"_](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), the very first blog post from Thinking Machines.
+### 3. Go to the Rooms Where It Happens
 
-Also check out the [MIT NLP Meetings Seminar Series](https://mitnlp.notion.site/).
 
-Both Scale ML and MIT NLP seem to advertise their events via the CSAIL mailing lists. But I still want to call them out in case you have a focused interest.
+Zoom is useful, but the hallway chat, the post‑talk question, and the walk‑and‑talk to the elevator are where many connections start.
 
-## Go to the Rooms Where It Happens
+In my first fall semester, I _sometimes_ skipped a class (yes, one with attendance) to catch a talk.
 
-Now that you know where interesting events are announced, the next step is to **actually go** — even when FOMO (fear of missing out) hits hard.
+Make your own call, but don't sleep on the compounding value of being in the room.
 
-During my first fall semester, I _sometimes_ skipped a class (yes, one that took attendance) to attend an exciting talk. You have to make your own judgment call here…
+### 4. Give yourself permission **not** to understand everything
+Do I always understand the talks? Absolutely not.
 
-But seriously — **go in person** whenever you can. Being in the room lets you engage with speakers and other attendees in ways that Zoom never will.
+But every time, I leave with something new: a topic to Google later, a name to follow, a feel for where the field is heading. Even if I can't follow the proofs, I can still catch the pulse, and that alone is worth being in the room.
 
-## Be in the Room — Even If You Don't Understand Everything
+For example, in one seminar, I heard ["Machine **Unlearning**"](https://arxiv.org/abs/2407.06460) for the first time! That's mind-opening when I was overwhelmingly exposed to "learning".
 
-I made it one of my main objectives in grad school to attend as many research seminars, talks, and guest lectures as possible.
+---
 
-Do I always understand them? Absolutely not.
+So if you also feel "between the labs," don't wait for an official invitation. Just show up. Sit in. Be curious.
 
-In fact, for most seminars I find interesting, I usually lose the thread as soon as the math starts flying or the speaker dives into a domain I've never even heard of.
+If you've found other ways to engage (clubs, reading groups, random Slack channels, or secret pizza seminars) I'd love to hear them.  
+[Drop me a note](mailto:ren@mit.edu), and maybe I'll see you in **one of those rooms where it happens**.
 
-But that's okay, and that's kind of the point.
+---
 
-Every time I attend, I walk away with something new: a fresh research topic to Google later ([Machine Unlearning](https://arxiv.org/abs/2407.06460), anyone?), or a glimpse into how people think about training entire video foundation models from scratch. Even if I can't follow the proofs, I can still feel the pulse of where the field is heading, and that alone is worth being in the room.
+## Appendix: MIT CS/AI Links (Examples)
 
-So if you're another non-PhD student (or anyone at MIT who feels "between the labs"), don't wait for an official invitation. Just show up. Sit in. Be curious.
+**Disclaimer.** All links below point to **public pages** already available via CSAIL's TIG website or public org pages. I'm **re‑summarizing** them here as examples, not advocating misuse. Please be respectful of list policies and norms. If a CSAIL administrator would prefer these subscription links not be referenced here, email me and I'll remove them promptly.
+{: .notice}
 
-And if you've found other ways to engage with the MIT CS/AI community — clubs, reading groups, random Slack channels, or secret pizza seminars — I'd love to hear them.
+- **CSAIL (MIT Computer Science & Artificial Intelligence Laboratory)**  
+  - CSAIL homepage: <https://www.csail.mit.edu/>  
+  - TIG: Popular Lab Mailing Lists: <https://tig.csail.mit.edu/email-communicating/popular-lab-mailing-lists/>
+  - Note: some lists (e.g., `csail-all`, `csail-internal`) are restricted.
 
-[Drop me a note](mailto:ren@mit.edu), and maybe I'll see you in _one of those rooms where it happens_.
+- **Student & Research Collectives**  
+  - Scale ML (cross‑lab MIT AI student collective): <https://scale-ml.org/>.
+    * Just last month, they hosted [**Horace He**](https://x.com/chhillee), who co-authored [_"Defeating Nondeterminism in LLM Inference"_](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), the very first blog post from Thinking Machines.
+  - MIT NLP Meetings Seminar Series: <https://mitnlp.notion.site/>
+
+- **Context**  
+  - MIT EECS Graduate Programs - Admission Process (why SM/MEng confusion happens):  
+    <https://www.eecs.mit.edu/academics/graduate-programs/admission-process/>
+
