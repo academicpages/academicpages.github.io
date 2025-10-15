@@ -90,15 +90,6 @@ publication_category:
   thesis:
     title: 'PhD thesis'
 
-talk_category:
-  invited:
-    title: 'Invited talks'
-  contributed:
-    title: 'Contributed talks'
-  poster:
-    title: 'Poster presentations'
-
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
