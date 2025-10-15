@@ -6,6 +6,8 @@ tags:
   - mit
 ---
 
+How can non-PhD students participate meaningfully in MIT’s CS and AI research community? Drawing on my experience as an EECS SM and MBA student, I share practical ways to get involved, from joining the right mailing lists to attending CSAIL seminars, along with lessons learned about curiosity, humility, and showing up even when you don’t understand everything.
+
 ## An SM's "Identity Crisis"
 
 When I first arrived at MIT as an **EECS Master of Science (SM) and MBA dual-degree** candidate, I had a brief _identity crisis_ about being an EECS SM student.
