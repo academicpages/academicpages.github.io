@@ -17,16 +17,17 @@ Conversations with other students or faculty often went something like this:
 * **Who's your PI (principal investigator)?**
 * I don't have one. I'm a master's student.
 * **Oh, so you're an MEng (Master of Engineering) student then?**
-* No, I didn't go to MIT for undergrad, and only MIT EECS undergrads are eligible for the MEng.
+* No, I'm MS (or SM) 😂.
 
-
-This happens because **the majority of EECS graduate students are PhDs**, followed by MIT undergrads continuing for their MEng. As the department website clearly states:
+This happens because **the majority of EECS graduate students are PhD students**, followed by MIT undergrads continuing for their MEng. That makes being an EECS SM both rare and meaningful. In my case, I had to clear multiple MIT admission committees (three, in fact: EECS, Sloan MBA, and LGO) 😎
 
 > "Application is for the doctoral program only — there is no terminal masters degree, but all PhD students earn a masters degree as they work towards PhD. A Masters of Engineering is only available for qualified MIT EECS undergraduates."
 >
 > -- [MIT EECS Graduate Programs: Admission Process](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/#:~:text=Application%20is%20for%20the%20doctoral%20program%20only%20%E2%80%94%20there%20is%20no%20terminal%20masters%20degree%2C%20but%20all%20PhD%20students%20earn%20a%20masters%20degree%20as%20they%20work%20towards%20PhD.%20%C2%A0A%20Masters%20of%20Engineering%20is%20only%20available%20for%20qualified%20MIT%20EECS%20undergraduates.)
 
-So, with no lab affiliation, no RA-ship, and no matched thesis advisor (yet), I still wanted to engage with the **CS and AI research communities at MIT**.
+
+
+So, with no lab affiliation, no RA-ship, and no matched thesis advisor (well, now I do 😉), I still wanted to engage with the **CS and AI research communities at MIT**.
 
 _I want to be in the room where it happens._
 
@@ -50,9 +51,9 @@ These are great channels for learning about technical and social events across C
 
 Outside of official CSAIL channels, I highly recommend [Scale ML](https://scale-ml.org/), a cross-lab MIT AI graduate student collective. They host biweekly seminars featuring phenomenal speakers from both MIT and industry labs. Just last month, they hosted [**Horace He**](https://x.com/chhillee), who co-authored [_"Defeating Nondeterminism in LLM Inference"_](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), the very first blog post from Thinking Machines.
 
-Also check out: [MIT NLP Meetings Seminar Series](https://mitnlp.notion.site/).
+Also check out the [MIT NLP Meetings Seminar Series](https://mitnlp.notion.site/).
 
-Both Scale ML and MIT NLP seem to advertise their events via the CSAIL mailing lists too. But I still want to call them out in case you have a focused interest.
+Both Scale ML and MIT NLP seem to advertise their events via the CSAIL mailing lists. But I still want to call them out in case you have a focused interest.
 
 ## Go to the Rooms Where It Happens
 
