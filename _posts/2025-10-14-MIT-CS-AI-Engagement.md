@@ -34,11 +34,11 @@ _I want to be in the room where it happens._
 
 First things first: **access to information**.
 
-As an EECS student, albeit a SM, I do receive the daily **EECS Grad Announcements** from department staff, which is great. But to me, _the room_ of AI at MIT is the [**Computer Science & Artificial Intelligence Laboratory (CSAIL)**](https://www.csail.mit.edu/).
+As an EECS student, albeit an SM, I do receive the daily **EECS Grad Announcements** from department staff, which is great. But to me, _the room_ of AI at MIT is the [**Computer Science & Artificial Intelligence Laboratory (CSAIL)**](https://www.csail.mit.edu/).
 
-While exploring, I stumbled upon CSAIL's [Popular Lab Mailing Lists](https://tig.csail.mit.edu/email-communicating/popular-lab-mailing-lists/) page maintained by The Infrastructure Group (TIG).
+While exploring, I stumbled upon CSAIL's [Popular Lab Mailing Lists](https://tig.csail.mit.edu/email-communicating/popular-lab-mailing-lists/) page, maintained by The Infrastructure Group (TIG).
 
-CSAIL members are automatically subscribed to most of these lists, but anyone with an `@mit.edu` email can request to join several public ones. Some lists (like `csail-all` and `csail-internal`) are restricted, but I successfully joined:
+CSAIL members are automatically subscribed to most of these lists, but anyone with an `@mit.edu` email can request to join several public ones. Some lists (like `csail-all` and `csail-internal`) are restricted; I successfully joined:
 
 * [`csail-announce`](https://lists.csail.mit.edu/mailman/listinfo/csail-announce)
 * [`seminars`](https://lists.csail.mit.edu/mailman/listinfo/seminars)
@@ -50,17 +50,17 @@ Outside of official CSAIL channels, I highly recommend [Scale ML](https://scale-
 
 Also check out: [MIT NLP Meetings Seminar Series](https://mitnlp.notion.site/).
 
-Both Scale ML and MIT NLP seem to also advertise their events to the CSAIL mailing lists. But I still want to call then out in case you have a focused interest.
+Both Scale ML and MIT NLP seem to advertise their events via the CSAIL mailing lists too. But I still want to call them out in case you have a focused interest.
 
 ## Go to the Rooms Where It Happens
 
-Now that you know where interesting events are announced, the next step is to **actually go** — even when FOMO ("Fear of Missing Out") hits hard.
+Now that you know where interesting events are announced, the next step is to **actually go** — even when FOMO (fear of missing out) hits hard.
 
 During my first fall semester, I _sometimes_ skipped a class (yes, one that took attendance) to attend an exciting talk. You have to make your own judgment call here…
 
 But seriously — **go in person** whenever you can. Being in the room lets you engage with speakers and other attendees in ways that Zoom never will.
 
-## Be in the Room -- Even If You Don't Understand Everything
+## Be in the Room — Even If You Don't Understand Everything
 
 I made it one of my main objectives in grad school to attend as many research seminars, talks, and guest lectures as possible.
 
@@ -70,7 +70,7 @@ In fact, for most seminars I find interesting, I usually lose the thread as soon
 
 But that's okay, and that's kind of the point.
 
-Every time I attend, I walk away with something new: a fresh research topic to Google later (["Machine Unlearning,"](https://arxiv.org/abs/2407.06460) anyone?), or a glimpse into how people think about training entire video foundation models from scratch. Even if I can't follow the proofs, I can still feel the pulse of where the field is heading, and that alone is worth being in the room.
+Every time I attend, I walk away with something new: a fresh research topic to Google later ([Machine Unlearning](https://arxiv.org/abs/2407.06460), anyone?), or a glimpse into how people think about training entire video foundation models from scratch. Even if I can't follow the proofs, I can still feel the pulse of where the field is heading, and that alone is worth being in the room.
 
 So if you're another non-PhD student (or anyone at MIT who feels "between the labs"), don't wait for an official invitation. Just show up. Sit in. Be curious.
 
