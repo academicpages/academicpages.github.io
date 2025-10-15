@@ -1,5 +1,5 @@
 ---
-title: "Resampling-based methods for multiple testing on high-dimensional data"
+title: "2022-01-12-Resampling-based-methods-for-multiple-testing"
 collection: publications
 category: thesis
 permalink: /publication/2022-01-12-Resampling-based-methods-for-multiple-testing
