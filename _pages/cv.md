@@ -18,10 +18,12 @@ redirect_from:
 ### University of California San Diego
 * B.S. in Computer Engineering, _June 2014_
 
+---
+
 ## Work experience
 
 ### [Nike](https://about.nike.com/)
-* Research Fellow (Internship), _2025_
+* Research Fellow, _2025_
 
 ### [SoundHound AI](https://soundhound.com)
 * Senior Software Engineer / Tech Lead, _2023 - 2024_
@@ -67,7 +69,13 @@ Teaching
   {% endfor %}</ul>
 --->
 
+---
+
 ## Service and leadership
+
+### MIT LGO Student Committee: China LGO Synergy
+* Co-chair, 2024: Curated 1-week itinerary for 25 visitors from Shanghai Jiao Tong University
+[CLGO program](https://clgo.sjtu.edu.cn/en/) and promoted mutual exchanges with MIT students in academic, professional, and social spectrums
 
 ### [IEEE UC San Diego Student Branch](https://ieeeucsd.org/)
 * Chair (President), June 2017 - June 2018
