@@ -10,25 +10,11 @@
 main:
   - title: "About"
     url: /about/
-
-  - title: "Projects"
-    url: /portfolio/      # uses the _portfolio collection
-
-  - title: "Publications"
-    url: /publications/   # uses the _publications collection
-
-  - title: "Talks"
-    url: /talks/          # uses the _talks collection
-
-  - title: "Teaching"
-    url: /teaching/       # uses the _teaching collection
-
-  - title: "Blog"
-    url: /posts/          # year archive of _posts (AcademicPages provides this)
-
+   - title: "Projects"
+     url: /portfolio/
   - title: "CV"
-    url: /cv/             # page you create in _pages (see below)
-
+    url: /cv/
   - title: "Contact"
-    url: /contact/        # page you create in _pages (see below)
+    url: /contact/
+
 
