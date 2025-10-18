@@ -21,7 +21,7 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
@@ -69,28 +69,28 @@
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
       "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
+      "website": "https://academicpages.github.io/files/paper1.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
       "name": "Paper Title Number 2",
       "publisher": "Journal 1",
       "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
+      "website": "https://academicpages.github.io/files/paper2.pdf",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
       "name": "Paper Title Number 3",
       "publisher": "Journal 1",
       "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "website": "https://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
       "name": "Paper Title Number 4",
       "publisher": "GitHub Journal of Bugs",
       "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "website": "https://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about fixing template issue #693."
     }
   ],

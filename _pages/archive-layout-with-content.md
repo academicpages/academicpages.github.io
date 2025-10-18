@@ -105,7 +105,7 @@ Make any link standout more when applying the `.btn` class.
 
 ### Anchor Tag (aka. Link)
 
-This is an example of a [link](http://github.com "GitHub").
+This is an example of a [link](https://github.com "GitHub").
 
 ### Abbreviation Tag
 
