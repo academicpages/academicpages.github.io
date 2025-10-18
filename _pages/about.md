@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "About"
+title: "About Me"
 permalink: /about/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## About Me
+
 **Hilal Gure** is a Registered Nurse and Electronics Engineering student specializing in **microtechnology and computer systems** at the University of South-Eastern Norway.
 
 With several years of experience from **Akershus University Hospital** and **Vestfold Hospital Trust**, I’ve worked across cardiology, endocrinology, gastroenterology, and infectious medicine.
