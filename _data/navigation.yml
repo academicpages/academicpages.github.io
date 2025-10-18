@@ -10,8 +10,8 @@
 main:
   - title: "About"
     url: /about/
-   - title: "Projects"
-     url: /portfolio/
+ #  - title: "Projects"
+#     url: /portfolio/
   - title: "CV"
     url: /cv/
   - title: "Contact"
