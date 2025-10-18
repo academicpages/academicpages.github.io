@@ -25,9 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hilal Gure"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Electronics Engineering Student | Registered NurseCombining clinical experience with technical skills to develop smart, human-centered healthcare technologies. Interested in sensors, IoT, and medical device innovation."
+  location         : "Horten, Norway"
   employer         : "University of South-Eastern Norway"
   uri              : # URL
   email            : "hilal_shide@live.com" 
@@ -35,12 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
