@@ -12,8 +12,8 @@ main:
   - title: "Essays"
     url: /year-archive/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Teaching"
     # url: /teaching/
