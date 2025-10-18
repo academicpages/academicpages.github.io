@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Gamma-Code Encoder on FPGA"
+excerpt: "VHDL-based FSM design for Gamma-code encoding and LED control."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Implementation of a Gamma-code encoder using VHDL on FPGA.
+[View project on GitHub →](https://github.com/hilalgure/gamma-code-encoder-fpga)
