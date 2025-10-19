@@ -301,15 +301,20 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Theme
+theme: null
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Plugins
 plugins:
+  - jekyll-include-cache   # ✅ required for Minimal Mistakes
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+
 
 # Mimic GitHub Pages with --safe
 whitelist:
