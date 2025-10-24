@@ -1,7 +1,21 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Introduction"
+excerpt: "Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This section is used to summarize some of the key concepts I have learned in the programm
+
+1. Reflection
+2. Learning Outcome
+3. [Text Here]
+4. Practical Application
+5. [Text Here]
+6. Critical Reflection
+7. [Text Here]
+8. Learning Process
+9. [Text Here]
+10. Broader Context
+11. [Text Here]
+12. Future Direction
+13. [Text Here]
