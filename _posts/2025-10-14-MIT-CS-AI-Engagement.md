@@ -81,6 +81,7 @@ If you've found other ways to engage (clubs, reading groups, random Slack channe
 - **Student & Research Collectives**  
   - Scale ML (cross‑lab MIT AI student collective): <https://scale-ml.org/>.
     * Just last month, they hosted [**Horace He**](https://x.com/chhillee), who co-authored [_"Defeating Nondeterminism in LLM Inference"_](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/), the very first blog post from Thinking Machines.
+  - ML Tea (informal machine learning talks with tea and usually snacks 😋): <https://projects.csail.mit.edu/ml-tea/>
   - MIT NLP Meetings Seminar Series: <https://mitnlp.notion.site/>
 
 - **Context**  
