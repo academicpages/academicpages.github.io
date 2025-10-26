@@ -12,8 +12,8 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "PolyU PAPER Group"
 title_separator          : "-"
 name                     : PolyU Group 
-description              : Lead by Dr. LIU Junwei   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : Leaded by Dr. LIU Junwei   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://xuwenjie404.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "a sentence to decipt Dr.Liu"
   location         : "Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : "PolyU"
   uri              : # URL
   email            : "junwei.jw.liu@polyu.edu.hk" 
 
@@ -42,19 +42,19 @@ author:
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
-  scopus           : https://ieeexplore.ieee.org/author/37085638549 # URL
+  IEEE           : "https://ieeexplore.ieee.org/author/37085638549" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -219,7 +219,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -228,7 +228,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
