@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "dark" # Currently available options are "default", "air"
 title                    : "A.Malka / MSc. Cyber Security e‑Portfolio"
 title_separator          : "-"
 name                     : &name "A.Malka"
