@@ -1,13 +1,47 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Launching into Computing"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: Essays
+excerpt: 'Launching into Computing, fundemenatls of computinmg - Python, OS, architecture, networking and data analytics.'
+filesurl: 'https://am25251.github.io/e-portfolio/files/file2.pdf'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This section is used to summarize some of the key concepts I have learned in the programm
+
+
+**[Text].**
+
+---
+
+
+## Learning Outcome
+
+[Text]
+
+## Practical Application
+
+[Text]
+
+## Critical Reflection
+
+[Text]
+
+## Learning Process
+
+[Text]
+
+## Broader Context
+
+[Text]
+
+## Future Direction
+
+[Text]
+
+**Evidence / Artefacts**
+
+**Essay**
+
+**[Chapter] Feedback (tutor)**
+
+**Result - [Text] **
