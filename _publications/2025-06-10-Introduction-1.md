@@ -6,8 +6,7 @@ excerpt: 'Intro into Cybersecurity - Cybersecurty, digital tech, programming and
 filesurl: 'https://am25251.github.io/e-portfolio/files/Induction.pdf'
 ---
 
-**Reflection - Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.**
------------
+# Reflection - Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.
 
 
 ## Learning Outcome
@@ -41,8 +40,3 @@ I plan to continue refining my academic writing style to make it more natural an
 **Introduction to IT and Cybersecurity Feedback (Sabeen)**
 
 **Result - Pass**
-
-
-
-
-
