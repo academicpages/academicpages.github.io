@@ -3,7 +3,7 @@ title: "Introduction"
 collection: publications
 category: Essays
 excerpt: 'Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.'
-slidesurl: 'https://am25251.github.io/e-portfolio/files/Induction.pdf'
+filesurl: 'https://am25251.github.io/e-portfolio/files/Induction.pdf'
 ---
 Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.
 
