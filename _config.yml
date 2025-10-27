@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "MSc. Cyber Security e‑Portfolio"
+title                    : "MSc. Cyber Security E‑Portfolio"
 title_separator          : "-"
 name                     : &name "A.Malka"
-description              : &description "MSc Cyber Security e‑Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "A.Malka - E‑Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://am25251.github.io/e-portfolio # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
