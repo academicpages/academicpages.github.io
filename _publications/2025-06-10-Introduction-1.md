@@ -2,7 +2,10 @@
 title: "Introduction"
 collection: publications
 category: Essays
+permalink: /files/Induction.pdf
 excerpt: 'Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.'
+date: 2025-06-10
+venue: 'GitHub Journal of Bugs'
 paperurl: 'https://am25251.github.io/e-portfolio/files/Induction.pdf'
 ---
 
