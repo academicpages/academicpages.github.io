@@ -11,8 +11,8 @@ main:
   - title: "Modules"
     url: /publications/
 
-  - title: "portfolio"
-    url: /portfolio/
+  # - title: "portfolio"
+  #  url: /portfolio/
     
   - title: "CV"
     url: /cv/
