@@ -19,10 +19,9 @@ I am currently pursuing postgraduate studies in Cybersecurity, with a specialize
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
-------
-##### MSc. Cyber Security e‑Portfolio
-##### Computer Science - Cyber Security
-##### https://am25251.github.io
-
-##### Site under construction
+###### Site under construction
