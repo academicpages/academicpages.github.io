@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. Coming soon
-* B.S. Coming soon
+* MSc.
+* BSc. 
 
 Work experience
 ======
