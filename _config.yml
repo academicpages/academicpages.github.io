@@ -33,7 +33,7 @@ author:
   email            : "junwei.jw.liu@polyu.edu.hk" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://ieeexplore.ieee.org/author/37085638549" # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=AG7oyZ8AAAAJ&hl=en"
   inspire-hep      : # URL
@@ -42,8 +42,7 @@ author:
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
-  IEEE           : "https://ieeexplore.ieee.org/author/37085638549" # URL
-
+ 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
