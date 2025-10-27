@@ -5,7 +5,7 @@ category: Essays
 permalink: 'https://am25251.github.io/e-portfolio/publications/Introduction'
 excerpt: 'Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.'
 date: 2025-06-10
-venue: 'GitHub Journal of Bugs'
+venue: 'Introduction to MSc. Cyber Security Programme'
 paperurl: 'https://am25251.github.io/e-portfolio/files/Induction.pdf'
 ---
 
