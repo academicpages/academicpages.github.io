@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "A.Malka - MSc. Cyber Security e‑Portfolio"
+title                    : "MSc. Cyber Security e‑Portfolio"
 title_separator          : "-"
 name                     : &name "A.Malka"
 description              : &description "MSc Cyber Security e‑Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
