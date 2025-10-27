@@ -42,6 +42,8 @@ This section is used to summarize some of the key concepts I have learned in the
 
 **Essay**
 
-**[Chapter] Feedback (tutor)**
+**Feedback (tutor)**
+You chose a highly relevant topic and structured your ideas clearly, While your content covers key shifts in computing, the summary lacked specific reflections on peers’ feedback. Try to go beyond general agreement and engage critically with opposing perspectives. Also, avoid repeating references.
 
-**Result - [Text] **
+**Result 72 % (Distinction)**
+
