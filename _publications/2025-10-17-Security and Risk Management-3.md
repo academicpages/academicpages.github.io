@@ -1,11 +1,10 @@
 ---
-title: "Launching into Computing"
+title: "Security and Risk Management"
 collection: publications
 category: Essays
-excerpt: 'Launching into Computing, fundemenatls of computinmg - Python, OS, architecture, networking and data analytics.'
+excerpt: 'Risk Management - Governance, laws, industry standards and Regulations, Threat modeling, and more.'
 paperurl: 'https://am25251.github.io/e-portfolio/files/file2.pdf'
 ---
-
 This section is used to summarize some of the key concepts I have learned in the programm
 
 
@@ -44,4 +43,3 @@ This section is used to summarize some of the key concepts I have learned in the
 **[Chapter] Feedback (tutor)**
 
 **Result - [Text] **
-
