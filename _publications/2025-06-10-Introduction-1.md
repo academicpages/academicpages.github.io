@@ -4,7 +4,7 @@ collection: publications
 category: Essays
 permalink: 'https://am25251.github.io/e-portfolio/publications/Introduction'
 excerpt: 'Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.'
-venue: 'Introduction to MSc. Cyber Security Programme'
+topic: 'Introduction to MSc. Cyber Security Programme'
 paperurl: 'https://am25251.github.io/e-portfolio/files/Induction.pdf'
 ---
 
