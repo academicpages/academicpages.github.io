@@ -53,9 +53,7 @@ This section is used to summarize some of the key concepts I have learned in the
 
 #### Posts
 
-- [Initial Post - The Evolution of Computing and Its Impact on Business and Society](https://am25251.github.io/e-portfolio/files/The_Evolution_of_Computing_Impact_Business_Society.pdf).
-
-
+- [Initial Post - The Evolution of Computing and Its Impact on Business and Society](https://am25251.github.io/e-portfolio/files/Initial_Post_Collaborative_Learning_Discussion_task.pdf).
 
 <br>
 <br>
@@ -69,5 +67,11 @@ You chose a highly relevant topic and structured your ideas clearly, While your 
 </details>
   
 #### Result 72 % (Distinction)
+
+- [Peer_Response_1_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_1_Collaborative_Learning_Discussion_task.pdf).
+
+- [Peer_Response_2_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_2_Collaborative_Learning_Discussion_task.pdf).
+
+- [Summary Post_Summary_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Summary_Collaborative_Learning_Discussion_task.pdf).
 
 
