@@ -5,12 +5,11 @@ category: Essays
 excerpt: 'Risk Management - Governance, laws, industry standards and Regulations, Threat modeling, and more.'
 paperurl: 'https://am25251.github.io/e-portfolio/files/file2.pdf'
 ---
-This section is used to summarize some of the key concepts I have learned in the programm
 
 
-**[Text].**
----
+This section is used to summarize some of the key concepts I have learned in the programme
 
+[Text]
 
 ## Learning Outcome
 
@@ -36,10 +35,38 @@ This section is used to summarize some of the key concepts I have learned in the
 
 [Text]
 
-**Evidence / Artefacts**
 
-**Essay**
+<br>
+<br>
 
-**[Chapter] Feedback (tutor)**
+#### Essays
 
-**Result - [Text] **
+[Text]
+
+
+#### Reports
+
+
+[Text]
+
+
+#### Posts
+
+- [Initial Post - text](https://am25251.github.io/e-portfolio/files/text.pdf).
+
+
+
+<br>
+<br>
+
+Feedback (tutor)
+
+<details>
+text text text
+
+
+</details>
+  
+#### Result XX % (text)
+
+
