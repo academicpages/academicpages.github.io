@@ -3,7 +3,6 @@ title: "Security and Risk Management"
 collection: publications
 category: Essays
 excerpt: 'Risk Management - Governance, laws, industry standards and Regulations, Threat modeling, and more.'
-paperurl: 'https://am25251.github.io/e-portfolio/files/file2.pdf'
 ---
 
 
