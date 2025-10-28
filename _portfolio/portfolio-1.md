@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 collection: Portfolio
-category: Essays
+category: Essays, Reports, Posts
 excerpt: 'Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.'
 ---
 
