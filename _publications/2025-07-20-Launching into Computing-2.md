@@ -38,9 +38,20 @@ This section is used to summarize some of the key concepts I have learned in the
 
 [Text]
 
-**Evidence / Artefacts**
+**Essays**
 
-**Essay**
+
+
+
+**Reports**
+
+
+
+
+
+**Posts**
+- [Initial Post - The Evolution of Computing and Its Impact on Business and Society](https://am25251.github.io/e-portfolio/files/The Evolution_of_Computing_Impact_Business_Society.pdf).
+
 
 **Feedback (tutor)**
 You chose a highly relevant topic and structured your ideas clearly, While your content covers key shifts in computing, the summary lacked specific reflections on peers’ feedback. Try to go beyond general agreement and engage critically with opposing perspectives. Also, avoid repeating references.
