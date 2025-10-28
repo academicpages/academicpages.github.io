@@ -18,4 +18,4 @@ excerpt: 'Intro into Cybersecurity - Cybersecurty, digital tech, programming and
 
 
 **Posts**
-- Initial Post - The Evolution of Computing and Its Impact on Business and Society [am25251.github.io](https://am25251.github.io/e-portfolio/portfolio/portfolio-1/).
+- [Initial Post - The Evolution of Computing and Its Impact on Business and Society](https://am25251.github.io/e-portfolio/portfolio/portfolio-1/).
