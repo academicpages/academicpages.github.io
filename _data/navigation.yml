@@ -11,8 +11,8 @@ main:
   - title: "Modules"
     url: /publications/
 
-  - title: "Artifacts"
-    url: /portfolio/
+  # - title: "Artifacts"
+  #  url: /portfolio/
     
   - title: "CV"
     url: /cv/
