@@ -1,16 +1,14 @@
 ---
-title: "Cloud Operations and Management"
+title: "Advanced Object-Oriented Design and Programming"
 collection: publications
 category: Essays
-excerpt: 'Cloud Operations and Management - cloud computing tools for scripting, GUI design and data analysis hybrid cloud, edge and fog computing, as well as emerging trends in the industry.'
-paperurl: 'https://am25251.github.io/e-portfolio/files/file6.pdf'
+excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practices within computer science, AI, cyber security and data science.'
 ---
 
-Hybrid cloud, edge and fog computing, as well as emerging trends in the industry.
 
-**[Text].**
----
+This section is used to summarize some of the key concepts I have learned in the programme
 
+[Text]
 
 ## Learning Outcome
 
@@ -36,10 +34,37 @@ Hybrid cloud, edge and fog computing, as well as emerging trends in the industry
 
 [Text]
 
-**Evidence / Artefacts**
 
-**Essay**
+<br>
+<br>
 
-**[Chapter] Feedback (tutor)**
+#### Essays
 
-**Result - [Text] **
+[Text]
+
+
+#### Reports
+
+
+[Text]
+
+
+#### Posts
+
+- [Initial Post - text](https://am25251.github.io/e-portfolio/files/text.pdf).
+
+
+
+<br>
+<br>
+
+Feedback (tutor)
+
+<details>
+text text text
+
+
+</details>
+  
+#### Result XX % (text)
+
