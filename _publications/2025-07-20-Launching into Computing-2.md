@@ -42,14 +42,17 @@ This section is used to summarize some of the key concepts I have learned in the
 
 #### Essays
 
+<details>
 [Text]
 
+</details>
 
 #### Reports
 
-
+<details>
 [Text]
 
+</details>
 
 #### Posts
 
@@ -58,15 +61,15 @@ This section is used to summarize some of the key concepts I have learned in the
 <br>
 <br>
 
-Feedback (tutor)
+#### Feedback (tutor)
 
 <details>
 You chose a highly relevant topic and structured your ideas clearly, While your content covers key shifts in computing, the summary lacked specific reflections on peers’ feedback. Try to go beyond general agreement and engage critically with opposing perspectives. Also, avoid repeating references.
 
-
+Result 72 % (Distinction)
 </details>
   
-#### Result 72 % (Distinction)
+
 
 - [Peer_Response_1_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_1_Collaborative_Learning_Discussion_task.pdf).
 
