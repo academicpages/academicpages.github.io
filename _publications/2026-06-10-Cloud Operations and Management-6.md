@@ -1,8 +1,8 @@
 ---
-title: "Advanced Object-Oriented Design and Programming"
+title: "Cloud Operations and Management"
 collection: publications
 category: Essays
-excerpt: 'Advanced Object-Oriented Design and Programming - secure coding practices within computer science, AI, cyber security and data science.'
+excerpt: 'Cloud Operations and Management - cloud computing tools for scripting, GUI design and data analysis hybrid cloud, edge and fog computing, as well as emerging trends in the industry.'
 ---
 
 
