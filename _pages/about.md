@@ -1,26 +1,69 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ze Rong | AI for Medical Imaging, Sports Analytics, and Representation Learning"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi! I’m **Ze Rong (荣泽)**, an undergraduate researcher (BSc in Computer Science, *Nantong University*) focusing on **AI for biomedical data**, **representation learning across modalities and scales**, and **soccer analytics**. My work blends solid engineering with method design, emphasizing **frequency-aware modeling**, **reconstruction-aided training**, and **multimodal alignment** for robust generalization.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **Email:** <ZeRong7777@gmail.com>  
+- **GitHub:** <https://github.com/ZeRong7777>  
+- **CV:** [PDF (latest)](/files/CV_rz.pdf)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+---
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+## Research interests
+- **Medical imaging:** frequency-domain segmentation, reconstruction-aided learning, small-sample/low-SNR regimes  
+- **Cross-modal & cross-scale representation:** token-level alignment, curriculum/adaptation, reliability-aware fusion  
+- **Sports analytics (soccer):** team affect & tactics, spatio-temporal graph models, broadcast audio/commentary fusion
+
+---
+
+## News & highlights
+- **Oct 2025** — *FaRMamba* accepted to **ICONIP 2025** (frequency-based learning + reconstruction-aided Vision-Mamba for medical segmentation).  
+- **2025** — *FIRM* accepted to **ACML 2025** (token-level alignment for unsupervised VI-ReID with prompt fusion + evolving memory).  
+- **Apr 2025** — **CN119762378A** invention patent published: unsupervised blind super-resolution & denoising for low-quality medical images.  
+- **2024** — *JMIR* systematic review on AI for acute stroke diagnosis published.
+
+> See more in [Publications](/publications/) and [Talks](/talks/).
+
+---
+
+## Selected publications
+**FaRMamba: Frequency-based Learning and Reconstruction-Aided Mamba for Medical Segmentation** (ICONIP 2025)  
+**FIRM: Fusion-Injected Residual Memory Brings Token-Level Alignment to Unsupervised VI-ReID** (ACML 2025)  
+*Plus a JMIR 2024 systematic review and additional works; full list on the* [Publications](/publications/) *page.*
+
+> Tip: Add each paper as a Markdown item in `_publications/` to enable the automatic publication list, per-paper pages, and BibTeX.
+
+---
+
+## Projects (engineering)
+- **3D Medical Image Interactive Analysis Platform**  
+  nnU-Net + axial PS attention; VTK.js/ITK.js visualization (3D tools, measurement, interaction).
+- **Ophthalmic Disease Diagnosis Platform**  
+  EfficientNet-V2 with vessel topology cues, HSV enhancement, CSRA; Vue + ElementUI full-stack web app.
+
+---
+
+## Awards
+- China Robot and Artificial Intelligence Competition (CRAIC) **2025 National Second Prize**  
+- CRAIC **2024 National First Prize**  
+- Chinese Collegiate Computing Competition **2024 National Second Prize**
+
+---
+
+## Get started / site notes
+This site is built with the **Academic Pages** template (Jekyll + GitHub Pages).  
+- Update global settings in [`_config.yml`](/_config.yml) and menu in [`_data/navigation.yml`](/_data/navigation.yml).  
+- Add publications to `_publications/`, talks to `_talks/`, posts to `_posts/`, and custom pages to `_pages/`.  
+- Put files (e.g., PDFs) in `/files/` and link as `/files/your_file.pdf`.
+
+*Last updated: {{ "now" | date: "%b %d, %Y" }}*
 
 Getting started
 ======
