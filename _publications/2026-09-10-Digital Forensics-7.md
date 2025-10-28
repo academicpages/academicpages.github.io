@@ -3,15 +3,11 @@ title: "Digital Forensics"
 collection: publications
 category: Essays
 excerpt: 'Digital Forensics - specialicse knowledge of legal and technical aspects of modern investigations, cloud storage and IoT devices.'
-paperurl: 'https://am25251.github.io/e-portfolio/files/file7.pdf'
 ---
 
-Data acquisition, extraction and analysis across different types of digital media such as hard-drives, solid-state drives mobile devices, cloud storage and IoT devices
+This section is used to summarize some of the key concepts I have learned in the programme
 
-
-**[Text].**
----
-
+[Text]
 
 ## Learning Outcome
 
@@ -37,11 +33,37 @@ Data acquisition, extraction and analysis across different types of digital medi
 
 [Text]
 
-**Evidence / Artefacts**
 
-**Essay**
+<br>
+<br>
 
-**[Chapter] Feedback (tutor)**
+#### Essays
 
-**Result - [Text] **
+[Text]
+
+
+#### Reports
+
+
+[Text]
+
+
+#### Posts
+
+- [Initial Post - text](https://am25251.github.io/e-portfolio/files/text.pdf).
+
+
+
+<br>
+<br>
+
+Feedback (tutor)
+
+<details>
+text text text
+
+
+</details>
+  
+#### Result XX % (text)
 
