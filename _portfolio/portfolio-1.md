@@ -2,7 +2,7 @@
 title: "Introduction"
 collection: Portfolio
 category: [Essays, Reports, Posts]
-excerpt: 'Intro into Cybersecurity - Cybersecurty, digital tech, programming and networking fundemenatls.'
+excerpt: 'Location for Essays, Reports and Posts'
 ---
 
 
