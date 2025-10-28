@@ -14,7 +14,12 @@ redirect_from:
 
 ### About Me
 ------
-I am currently pursuing postgraduate studies in Cybersecurity, with a specialized focus on the intersection between Artificial Intelligence (AI) and cybersecurity practices. This e-portfolio is designed to serve as a comprehensive and dynamic repository of my academic journey, showcasing key learning experiences, reflective insights, practical projects, and feedback that I have received throughout the course. It not only highlights my technical knowledge and skills but also demonstrates my ability to integrate cutting-edge AI technologies into the evolving landscape of cybersecurity. Through this portfolio, I aim to capture my growth, the challenges I’ve encountered, and the innovative solutions I have developed during my studies.
+Welcome to my electronic portfolio! I am currently pursuing postgraduate studies in Cybersecurity, with a specialized focus on the integration of Artificial Intelligence (AI) and Cybersecurity. In this academic journey, I am exploring how to better protect the industry. I am also exploring how AI can be leveraged to enhance security systems. I am looking at how AI can tackle emerging cyber threats in real time.
+
+Today’s digital landscape is being revolutionized by many technologies that bring both benefits and risks to the field of cybersecurity. My goal is to bridge the gap between these rapidly evolving fields by gaining an understanding of the complexities of cybersecurity, risk management, AI, object-oriented design and programming, data analytics, and more, while securing the development of innovative solutions to safeguard critical digital infrastructures.
+
+Throughout my studies, I have, and will gain more comprehensive knowledge in areas such as risk management, network security, machine learning algorithms, artificial intelligence, and cybersecurity.
+This e-portfolio showcases my academic progress, projects, and research endeavors, offering insight into my development as a cybersecurity and AI expert. I am engaged to continuously learning and evolving through hands-on projects, industry collaborations, and further exploration of the intersection between these two exciting fields.
 
 
 <br>
