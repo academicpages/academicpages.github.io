@@ -14,12 +14,12 @@ redirect_from:
 
 ### About Me
 ------
-Welcome to my electronic portfolio! I am currently pursuing postgraduate studies in Cybersecurity, with a specialized focus on the integration of Artificial Intelligence (AI) and Cybersecurity. In this academic journey, I am exploring how to better protect the industry. I am also exploring how AI can be leveraged to enhance security systems. I am looking at how AI can tackle emerging cyber threats in real time.
+Welcome to my electronic portfolio! I am currently pursuing postgraduate studies in Cybersecurity, with a specialized focus on the integration of Cybersecurity and Artificial Intelligence (AI). In this academic journey, I am exploring how to better protect the industry. I am also exploring how different, and emerging technologies can be leveraged to enhance security practices and protect assets. I am looking at how to tackle emerging cyber threats efficiently and cost-effectively in theory and in real world scenarios.
 
-Today’s digital landscape is being revolutionized by many technologies that bring both benefits and risks to the field of cybersecurity. My goal is to bridge the gap between these rapidly evolving fields by gaining an understanding of the complexities of cybersecurity, risk management, AI, object-oriented design and programming, data analytics, and more, while securing the development of innovative solutions to safeguard critical digital infrastructures.
+Today’s digital landscape is being revolutionized by many technologies that bring both benefits and risks. My goal is to bridge the gap between adopting evolving fields, addressing risk, and gaining a deep understanding of computer science, cybersecurity, risk management, AI, Computer programming, data analytics, and more, while securing the development of innovative solutions to safeguard critical digital infrastructures.
 
-Throughout my studies, I have, and will gain more comprehensive knowledge in areas such as risk management, network security, machine learning algorithms, artificial intelligence, and cybersecurity.
-This e-portfolio showcases my academic progress, projects, and research endeavors, offering insight into my development as a cybersecurity and AI expert. I am engaged to continuously learning and evolving through hands-on projects, industry collaborations, and further exploration of the intersection between these two exciting fields.
+Throughout my ongoing studies, I have, and will gain, more comprehensive knowledge in areas such as risk management, network security, machine learning algorithms, artificial intelligence, and cybersecurity. This e-portfolio displays my academic progress, projects, and research endeavors, offering insight into my development as a cybersecurity expert. I am engaged in continuous learning and evolving through firsthand projects, industry collaborations, and further exploration of the intersection between these two exciting fields.
+
 
 
 <br>
