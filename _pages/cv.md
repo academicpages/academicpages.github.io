@@ -16,7 +16,7 @@ redirect_from:
 * Master of Business Administration (MBA), _May 2026 (expected)_
 
 ### University of California San Diego
-* B.S. in Computer Engineering, _June 2014_
+* B.S. in Computer Engineering, _June 2018_
 
 ---
 
