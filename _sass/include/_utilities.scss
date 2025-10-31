@@ -325,6 +325,8 @@ body:hover .visually-hidden button {
 
 .navicon {
   position: relative;
+  display: inline-block;
+  vertical-align: middle;
   width: $navicon-width;
   height: $navicon-height;
   background: #fff;
