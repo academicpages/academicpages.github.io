@@ -37,6 +37,14 @@ I plan to further explore ethical AI, sustainable software engineering, and ente
 - [Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages](Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages.pdf).
 - [Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question](Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question.pdf)
 
+### Feedback (tutor)
+
+<details>
+Your reflective presentation shows a strong understanding of the complex ethical and security challenges associated with AI adoption. You have successfully structured your slides around key themes such as AI foundations, real-world applications, governance, and ethical concerns. The integration of references to real frameworks (like GDPR and the EU AI Act) and case studies (e.g., Estonia and healthcare hackathons) demonstrates critical engagement and depth. The use of citations throughout adds credibility, and the transcript aligns well with academic and professional expectations. The flow between slides was logical, and your conclusions showed mature reflection on balancing innovation with accountability. However, there are areas where further refinement would improve your work. For instance, while the content was well-researched, some parts of the transcript could be more concise or paraphrased to avoid repetition, particularly in slides 6 and 7. Also, though your sources are appropriate, ensure that all data points, especially claims made about leadership accountability and HITL (human-in-the-loop), are consistently backed with direct references. You might also consider strengthening the reflection by including more personal insights about how this research influenced your thinking or professional perspective. 
+
+Result 67 % (Merit)
+</details>
+
 ### Reports
 
 <details>
@@ -54,16 +62,8 @@ I plan to further explore ethical AI, sustainable software engineering, and ente
 
 - [Summary Post_Summary_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Summary_Collaborative_Learning_Discussion_task.pdf).
 
-<br>
-<br>
 
-### Feedback (tutor)
-
-<details>
-Your reflective presentation shows a strong understanding of the complex ethical and security challenges associated with AI adoption. You have successfully structured your slides around key themes such as AI foundations, real-world applications, governance, and ethical concerns. The integration of references to real frameworks (like GDPR and the EU AI Act) and case studies (e.g., Estonia and healthcare hackathons) demonstrates critical engagement and depth. The use of citations throughout adds credibility, and the transcript aligns well with academic and professional expectations. The flow between slides was logical, and your conclusions showed mature reflection on balancing innovation with accountability. However, there are areas where further refinement would improve your work. For instance, while the content was well-researched, some parts of the transcript could be more concise or paraphrased to avoid repetition, particularly in slides 6 and 7. Also, though your sources are appropriate, ensure that all data points, especially claims made about leadership accountability and HITL (human-in-the-loop), are consistently backed with direct references. You might also consider strengthening the reflection by including more personal insights about how this research influenced your thinking or professional perspective. 
-
-Result 67 % (Merit)
-</details>
+### Feedback (tutor
   
 <details>
 You chose a highly relevant topic and structured your ideas clearly, While your content covers key shifts in computing, the summary lacked specific reflections on peers’ feedback. Try to go beyond general agreement and engage critically with opposing perspectives. Also, avoid repeating references.
