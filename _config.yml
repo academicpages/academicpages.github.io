@@ -12,11 +12,11 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Diego Polanco"
-description              : &description "Website "   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Website"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://dpolanco.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dpolancon/dpolanco.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Diego Polanco"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a political economist and doctoral candidate at UMass Amherst, researching how capitalism develops, adapts, and represses—unevenly, historically, and relationally. My work bridges macroeconomics, historical political economy, and the political economy of law, with a focus on Latin America. I build datasets, formal models, and digital archives—not just to understand history, but to chase the present."
+  location         : "Santiago, Chile"
+  employer         : "Umass, Amherst"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dpolanconeco@umass.edu" 
 
   # Academic websites
   academia         : # URL
