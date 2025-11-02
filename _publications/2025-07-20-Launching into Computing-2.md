@@ -40,28 +40,34 @@ This section is used to summarize some of the key concepts I have learned in the
 <br>
 <br>
 
-#### Essays
+### Essays
 
 <details>
 [Text]
 
 </details>
 
-#### Reports
+### Reports
 
 <details>
 [Text]
 
 </details>
 
-#### Posts
+### Posts
 
 - [Initial Post - The Evolution of Computing and Its Impact on Business and Society](https://am25251.github.io/e-portfolio/files/Initial_Post_Collaborative_Learning_Discussion_task.pdf).
 
+- [Peer_Response_1_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_1_Collaborative_Learning_Discussion_task.pdf).
+
+- [Peer_Response_2_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_2_Collaborative_Learning_Discussion_task.pdf).
+
+- [Summary Post_Summary_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Summary_Collaborative_Learning_Discussion_task.pdf).
+
 <br>
 <br>
 
-#### Feedback (tutor)
+### Feedback (tutor)
 
 <details>
 You chose a highly relevant topic and structured your ideas clearly, While your content covers key shifts in computing, the summary lacked specific reflections on peers’ feedback. Try to go beyond general agreement and engage critically with opposing perspectives. Also, avoid repeating references.
@@ -70,11 +76,5 @@ Result 72 % (Distinction)
 </details>
   
 
-
-- [Peer_Response_1_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_1_Collaborative_Learning_Discussion_task.pdf).
-
-- [Peer_Response_2_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Peer_Response_2_Collaborative_Learning_Discussion_task.pdf).
-
-- [Summary Post_Summary_Collaborative_Learning_Discussion_task](https://am25251.github.io/e-portfolio/files/Summary_Collaborative_Learning_Discussion_task.pdf).
 
 
