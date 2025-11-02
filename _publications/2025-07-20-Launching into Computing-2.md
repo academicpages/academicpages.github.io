@@ -8,34 +8,25 @@ topic: 'Introduction to MSc. Cyber Security Programme'
 
 
 
-This section is used to summarize some of the key concepts I have learned in the programme
-
-[Text]
+## Launching into Computing - Summary
 
 ## Learning Outcome
-
-[Text]
+I gained foundational knowledge of core computing disciplines, including Software Engineering, Data Science, Artificial Intelligence, Cybersecurity, and Enterprise IT Management. I learned how these areas integrate to solve complex business and societal challenges while considering ethical, legal, and professional implications.
 
 ## Practical Application
-
-[Text]
+I applied computing principles to real-world enterprise problems, using methodologies like Agile and DevOps, data analytics, and cybersecurity frameworks. This strengthened my ability to design secure, efficient, and ethical computing solutions.
 
 ## Critical Reflection
-
-[Text]
+The module enhanced my critical thinking and problem-solving skills. I learned to assess the societal and ethical dimensions of technology, particularly regarding AI, data privacy, and equality in computing.
 
 ## Learning Process
-
-[Text]
+Through guided research, collaborative exercises, and case analysis, I developed the ability to synthesise information, evaluate methodologies, and apply theoretical knowledge to practical computing challenges.
 
 ## Broader Context
-
-[Text]
+The course deepened my understanding of computing’s role in driving digital transformation, fostering innovation, and promoting equality, diversity, and inclusion within enterprise and society.
 
 ## Future Direction
-
-[Text]
-
+I plan to further explore ethical AI, sustainable software engineering, and enterprise IT governance, focusing on how emerging technologies can support inclusive and responsible digital transformation.
 
 <br>
 <br>
