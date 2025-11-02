@@ -34,8 +34,8 @@ I plan to further explore ethical AI, sustainable software engineering, and ente
 <br>
 
 ### Essays
-- [Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages](Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages.pdf).
-- [Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question](Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question.pdf)
+- [Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages](https://am25251.github.io/e-portfolio/files/Part_A_Individual_Programming_Exercise_Comparing_Programming_Languages.pdf).
+- [Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question](https://am25251.github.io/e-portfolio/files/Part_B_Individual_Reflection_Presentation_on_a_Tutor-Specified_Question.pdf)
 
 ### Feedback (tutor)
 
