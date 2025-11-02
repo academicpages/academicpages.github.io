@@ -3,12 +3,14 @@ title: "Launching into Computing"
 collection: publications
 category: Essays
 excerpt: 'Launching into Computing, fundamentals of computing - Python, OS, architecture, networking and data analytics.'
-topic: 'Introduction to MSc. Cyber Security Programme'
 ---
 
 
 
-## Launching into Computing - Summary
+### Launching into Computing - Summary
+
+<br>
+<br>
 
 ## Learning Outcome
 I gained foundational knowledge of core computing disciplines, including Software Engineering, Data Science, Artificial Intelligence, Cybersecurity, and Enterprise IT Management. I learned how these areas integrate to solve complex business and societal challenges while considering ethical, legal, and professional implications.
