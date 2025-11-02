@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Diego Polanco, Phd (c) Economics"
 title_separator          : "-"
 name                     : &name "Diego Polanco"
 description              : &description "Website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "dpolancon/dpolanco.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Diego Polanco"
+  name             : "Bio"
   pronouns         : # example: "she/her"  
   bio              : "I am a political economist and doctoral candidate at UMass Amherst, researching how capitalism develops, adapts, and represses—unevenly, historically, and relationally. My work bridges macroeconomics, historical political economy, and the political economy of law, with a focus on Latin America. I build datasets, formal models, and digital archives—not just to understand history, but to chase the present."
   location         : "Santiago, Chile"
