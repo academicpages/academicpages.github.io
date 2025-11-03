@@ -13,10 +13,10 @@ excerpt: 'Launching into Computing, fundamentals of computing - Python, OS, arch
 <br>
 
 ## Learning Outcome
-I gained foundational knowledge of core computing disciplines, including Software Engineering, Data Science, Artificial Intelligence, Cybersecurity, and Enterprise IT Management. I learned how these areas integrate to solve complex business and societal challenges while considering ethical, legal, and professional implications.
+Throghout the unit I gained foundational knowledge of core computing disciplines, including Software Engineering, Data Science, Artificial Intelligence, Cybersecurity, and Enterprise IT Management. I learned how these areas integrate to solve complex business and societal challenges while considering ethical, legal, and professional implications.
 
 ## Practical Application
-I applied computing principles to real-world enterprise problems, using methodologies like Agile and DevOps, data analytics, and cybersecurity frameworks. This strengthened my ability to design secure, efficient, and ethical computing solutions.
+I applied practical computing principles to real-world problems, using methodologies like Agile and DevOps, data analytics, and cybersecurity frameworks, this had strengthened my ability to securly design efficient and ethical computing solutions.
 
 ## Critical Reflection
 The module enhanced my critical thinking and problem-solving skills. I learned to assess the societal and ethical dimensions of technology, particularly regarding AI, data privacy, and equality in computing.
@@ -25,7 +25,7 @@ The module enhanced my critical thinking and problem-solving skills. I learned t
 Through guided research, collaborative exercises, and case analysis, I developed the ability to synthesise information, evaluate methodologies, and apply theoretical knowledge to practical computing challenges.
 
 ## Broader Context
-The course deepened my understanding of computing’s role in driving digital transformation, fostering innovation, and promoting equality, diversity, and inclusion within enterprise and society.
+This unit deepened my understanding of computing’s role in driving digital transformation, fostering innovation, and promoting equality, diversity, and inclusion within enterprise and society.
 
 ## Future Direction
 I plan to further explore ethical AI, sustainable software engineering, and enterprise IT governance, focusing on how emerging technologies can support inclusive and responsible digital transformation.
