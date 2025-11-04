@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A.Sc. in Computer Engineering, The University of British Columbia, 2026 (Expected)
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Advanced Micro Devices (AMD)
+  * Co-op, May 2024 - Aug. 2025
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [UBC Sensing in Biomechanical Processes Lab](https://simpl.mech.ubc.ca/)
+  * Research Assistant, May 2023 - Dec. 2023
+  * Supervisor: Professor Lyndia Wu
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* UBC Department of Electrical and Computer Engineering
+  * Undergraduate Teaching Assitant, Sept. 2023 – Dec. 2023
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [UBC Sensorimotor Systems Lab](https://sensorimotor.cs.ubc.ca/)
+  * Research Assistant, May 2022 - Aug. 2022
+  * Supervisor: Professor Dinesh Pai
