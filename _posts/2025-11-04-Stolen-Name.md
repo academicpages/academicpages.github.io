@@ -9,6 +9,8 @@ tags:
 
 Names are one of the first things a system asks for, and one of the easiest ways it reveals what culture it was built for. This post looks at how seemingly harmless assumptions in software can quietly erase identity, using Chinese names as the primary case study.
 
+![Cover image by ChatGPT](/images/2025-11-04-Stolen-Name/Cover_by_ChatGPT.png)
+
 ---
 
 In my junior years as a software engineer designing APIs to relay user information for voice AI, my mentor, [David](https://www.ellipsix.net/index.html), shared a classic post: [_Falsehoods Programmers Believe About Names_](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/). It was humorously eye-opening at the time. My favorite is the last one:
