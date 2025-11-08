@@ -29,16 +29,16 @@ On my passport, my name is romanized as "Ren, Junru." That works fine in most We
 
 In reality, my given name is formed by two characters, Jun and Ru, as is common for many Han Chinese names. Mainland documents romanize those two characters as one token ("Junru"). Outside mainland China, though, it is common to romanize with a space (**"Jun Ru."**) or with a hyphen (**"Jun-Ru"**).
 
-Here's where the breakage starts. Many systems assume a first-space split and misinterpret the space as a boundary between first and middle names. As a result, one might be greeted as "Hi Jun!" instead of "Hi Jun Ru!" When others look up this name in a directory, they might see "Jun Ren" — effectively losing half of the given name.
+Here's where the breakage starts. Many systems assume a first-space split and misinterpret the space as a boundary between first and middle names, illustrated in this simple Python snippet:
 
 ```python
 first_name = full_name.split(" ")[0]
 last_name  = full_name.split(" ")[-1]
 ```
 
-Neat. Deterministic. And, for "Jun Ru Ren," it yields `first_name = "Jun"` and `last_name = "Ren"`, silently truncating half of my given name. The UI then tries to be friendly: "Hi Jun!" The directory shows "Jun Ren." A small bug becomes a small erasure.
+Neat. Deterministic. And, for "Jun Ru Ren," it yields `first_name = "Jun"` and `last_name = "Ren"`, silently truncating half of the given name. As a result, one might be greeted as "Hi Jun!" instead of "Hi Jun Ru!" When others look up this name in a directory, they might see "Jun Ren". A small bug becomes a small erasure.
 
-This happens to friends who grew up in North America with given names romanized as two words. The downstream effects are social as much as technical: some eventually go by the truncated first token; others adopt an English name to avoid constant friction. Technology didn't force the choice, but it nudged it.
+This happens to friends who grew up in North America with given names romanized as two words. The downstream effects are social as much as technical: **some eventually go by the truncated first token**; others adopt an English name to avoid constant friction. Technology didn't force the choice, but it nudged it.
 
 ## Beyond Chinese Names: A Global Pattern
 
