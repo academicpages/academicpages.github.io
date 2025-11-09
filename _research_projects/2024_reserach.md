@@ -4,6 +4,16 @@ title: "Research/Projects"
 permalink: /research_projects/
 author_profile: true
 ---
+![pique](https://vefaayyildiz.github.io/images/pique.png)
+
+## Pique Project (PIQuE – Panoptic Inspection & Quality Expert)  
+**Computer Vision Systems Engineer**  
+*April 2024 – Present*  
+
+- Developed a **360° AI-powered inspection system** featuring 3D laser triangulation and deep-learning models to identify scratches, dents, missing components, and barcode errors in high-speed production environments. :contentReference[oaicite:0]{index=0}  
+- Built in-vehicle and infrastructure setups using advanced image processing and multi-camera calibration pipelines to deliver full-coverage defect detection and object tracking.  
+- Engineered adaptive learning capabilities in the system so the AI improves continuously from historical inspection data, reducing false positives and enabling plug-and-play integration across automotive, electronics, medical device, and aerospace industries. :contentReference[oaicite:1]{index=1}  
+- Integrated real-time edge processing with cloud-based analysis and remote monitoring, ensuring scalable quality control with minimal downtime. :contentReference[oaicite:2]{index=2}  
 
 ![rese](https://vefaayyildiz.github.io/images/rese.png)  
 
