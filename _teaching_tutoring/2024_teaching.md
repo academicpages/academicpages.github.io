@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ![teac](https://vefaayyildiz.github.io/images/teac.png)  
+## Primary School English Literacy Tutoring  
+**Volunteer English Literacy Tutor for Turkish/Bilingual Students**  
+*Jacksonville, FL*  
+*November 2024 – March 2025*  
+
+- Volunteered as an English literacy tutor for primary school students, focusing on early language development for native Turkish or bilingual learners.  
+- Helped children learn **letters, colors, numbers, and basic vocabulary** through interactive reading and writing activities.  
+- Designed engaging lessons using songs, stories, and visual materials to build phonics awareness and word recognition.  
+- Encouraged students to speak and write in English with confidence by creating a fun and supportive environment.  
+- Worked closely with families to reinforce learning at home and track each student’s progress in reading and writing.  
 
 
 ## Middle/High School Math Tutoring  
