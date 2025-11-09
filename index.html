@@ -1,0 +1,99 @@
+---
+layout: archive
+title: "Inicio"
+permalink: /
+author_profile: true
+---
+
+<!-- 
+  index.html para academicpages.github.io
+  Compatible con las colecciones: projects, publications, talks, teaching, etc.
+-->
+
+<section id="About">
+  <h2>About</h2>
+  <p>
+    Soy {{ Angel Blasco Muñoz }}, {{ site.author.job_title | default: "investigador/a" }} en {{ site.author.affiliation | default: "una institución académica" }}.
+    Mi trabajo se centra en {{ site.author.research_interests | default: "la inteligencia artificial, el aprendizaje automático y la ciencia de datos." }}
+  </p>
+  <p>
+    Puedes encontrarme en:
+    <a href="{{ site.author.github }}" target="_blank">GitHub</a> •
+    <a href="{{ site.author.linkedin }}" target="_blank">LinkedIn</a> •
+    <a href="{{ site.author.orcid }}" target="_blank">ORCID</a> •
+    <a href="{{ site.author.google_scholar }}" target="_blank">Google Scholar</a>
+  </p>
+</section>
+
+<hr>
+
+<section id="news">
+  <h2>📰 Últimas noticias</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+      <li>
+        <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+        <br>
+        <small>{{ post.date | date: "%d %B %Y" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+  <p><a href="{{ '/blog/' | relative_url }}">Ver todas las noticias →</a></p>
+</section>
+
+<hr>
+
+<section id="projects">
+  <h2>🚀 Proyectos destacados</h2>
+  <ul>
+    {% for project in site.projects limit:3 %}
+      <li>
+        <strong><a href="{{ project.url | relative_url }}">{{ project.title }}</a></strong><br>
+        {{ project.description | markdownify }}
+      </li>
+    {% endfor %}
+  </ul>
+  <p><a href="{{ '/projects/' | relative_url }}">Ver todos los proyectos →</a></p>
+</section>
+
+<hr>
+
+<section id="publications">
+  <h2>📚 Publicaciones recientes</h2>
+  {% assign pubs = site.publications | sort: "year" | reverse %}
+  {% for pub in pubs limit:5 %}
+    <p>
+      <strong>{{ pub.title }}</strong><br>
+      <em>{{ pub.authors }}</em><br>
+      {{ pub.venue }}, {{ pub.year }}
+      {% if pub.doi %}
+        • <a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>
+      {% endif %}
+    </p>
+  {% endfor %}
+  <p><a href="{{ '/publications/' | relative_url }}">Ver todas las publicaciones →</a></p>
+</section>
+
+<hr>
+
+<section id="talks">
+  <h2>🎤 Charlas y conferencias</h2>
+  {% for talk in site.talks limit:3 %}
+    <p>
+      <strong>{{ talk.title }}</strong><br>
+      {{ talk.event }} — {{ talk.date | date: "%B %Y" }}<br>
+      <a href="{{ talk.url | relative_url }}">Ver más →</a>
+    </p>
+  {% endfor %}
+  <p><a href="{{ '/talks/' | relative_url }}">Ver todas las charlas →</a></p>
+</section>
+
+<hr>
+
+<section id="contact">
+  <h2>📬 Contacto</h2>
+  <p>
+    Puedes escribirme a <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    o seguirme en redes para conocer mis últimos proyectos.
+  </p>
+</section>
