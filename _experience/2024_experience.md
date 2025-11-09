@@ -5,12 +5,24 @@ permalink: /experience/
 author_profile: true
 ---
 ![work](https://vefaayyildiz.github.io/images/work.png)  
+##EZ Automation Systems LLC — Jacksonville, FL, USA  
+
+![ez](https://vefaayyildiz.github.io/images/ez.png)  
+**Computer Vision Engineer** 
+*October 2024 – Present*  
+
+- Designing and deploying **machine vision systems** for real-time industrial inspection.  
+- Developing **multi-camera calibration** and **3D reconstruction pipelines** for robotic arm guidance, achieving sub-millimeter precision.  
+- Building **contact lens inspection systems** to detect micro-defects, measure curvature, and verify optical alignment under **FDA/ISO-compliant** environments.  
+- Integrating **HALCON (v24.11)** and **Cognex VisionPro (v7.2)** with custom **C#/C++ wrappers** for production-ready automation.  
+- Implementing **UV + visible dual-imaging systems** for defect detection and material consistency verification across high-speed lines.  
+- Collaborating with **QA and hardware teams** to optimize illumination, synchronization, and throughput efficiency for scalable inspection systems.  
 
 ## Connected Wise LLC, Orlando, FL, USA  
 ![cv](https://vefaayyildiz.github.io/images/cv.png)  
 
 **Computer Vision Systems Engineer**  
-*December 2023 – Present*
+*December 2023 – September 2024*
 
 - Spearheaded several innovative AI-driven computer vision projects, focusing on autonomous vehicles and traffic management systems.
 - Engineered in-vehicle vision systems using CNN models alongside the BotSort algorithm. These systems enabled real-time detection and tracking of vehicles, pedestrians, and road signs, enhancing adaptive driving functions like cruise control and collision avoidance. Innovated methods for V2X message detection, pioneering a system that integrates vehicle communication with AI sensing.
