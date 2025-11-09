@@ -4,7 +4,8 @@ title: "Research/Projects"
 permalink: /research_projects/
 author_profile: true
 ---
-![pique](https://vefaayyildiz.github.io/images/pique.jpeg)
+![rese](https://vefaayyildiz.github.io/images/rese.png)  
+
 
 ## Pique Project (PIQuE – Panoptic Inspection & Quality Expert)  
 **Computer Vision Systems Engineer**  
@@ -15,7 +16,7 @@ author_profile: true
 - Engineered adaptive learning capabilities in the system so the AI improves continuously from historical inspection data, reducing false positives and enabling plug-and-play integration across automotive, electronics, medical device, and aerospace industries. :contentReference[oaicite:1]{index=1}  
 - Integrated real-time edge processing with cloud-based analysis and remote monitoring, ensuring scalable quality control with minimal downtime. :contentReference[oaicite:2]{index=2}  
 
-![rese](https://vefaayyildiz.github.io/images/rese.png)  
+![pique](https://vefaayyildiz.github.io/images/pique.jpeg)
 
 ## DOE Vector Project  
 **Computer Vision Systems Engineer**  
