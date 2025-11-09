@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 ![work](https://vefaayyildiz.github.io/images/work.png)  
-##EZ Automation Systems LLC — Jacksonville, FL, USA  
+## EZ Automation Systems LLC — Jacksonville, FL, USA  
 
 ![ez](https://vefaayyildiz.github.io/images/ez.png)  
 **Computer Vision Engineer** 
