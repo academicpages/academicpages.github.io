@@ -4,7 +4,7 @@ title: "Research/Projects"
 permalink: /research_projects/
 author_profile: true
 ---
-![pique](https://vefaayyildiz.github.io/images/pique.png)
+![pique](https://vefaayyildiz.github.io/images/pique.jpeg)
 
 ## Pique Project (PIQuE – Panoptic Inspection & Quality Expert)  
 **Computer Vision Systems Engineer**  
