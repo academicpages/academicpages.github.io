@@ -4,6 +4,14 @@ title: "Conferences/Events"
 permalink: /conferences_events/
 author_profile: true
 ---
+##  Publications  
+
+### Ayyildiz, D. V., Alnaser, A. J., Taj, S., Zakaria, M., & Jaimes, L. G. (2024).  
+**A Survey of Learning Techniques for Virtual Scene Generation**  
+*SAE International Journal of Connected and Automated Vehicles,* 8 (12-08-02-0017).  
+
+- Published research exploring learning-based methods for virtual scene generation and data synthesis for autonomous driving applications.
+
 
 ![conf](https://vefaayyildiz.github.io/images/conf.png)  
 
