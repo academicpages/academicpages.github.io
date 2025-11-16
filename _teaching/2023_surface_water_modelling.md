@@ -13,11 +13,11 @@ Practical sessions using the SWAT+ model for students following the IUPWARE prog
 ## Topics covered: 
 Hydrological processes, Setting up a SWAT+ model, model calibration and validation
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

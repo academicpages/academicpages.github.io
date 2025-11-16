@@ -10,11 +10,11 @@ location: "Brussels, Belgium"
 
 Supervising IUPWARE students during their academic fieldwork and modelling for evaluating water retention potential in a restored nature conservation area in Boechout, Province of Antwerp Belgium
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
