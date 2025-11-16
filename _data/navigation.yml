@@ -14,13 +14,13 @@ main:
   - title: "硬件"
     url: /talks/    
 
-  - title: "读书笔记"
+  - title: "笔记"
     url: /teaching/    
     
-  - title: "生活"
+  - title: "ToDo"
     url: /portfolio/
         
-  - title: "笔记"
+  - title: "life"
     url: /year-archive/
     
   - title: "CV"
