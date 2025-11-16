@@ -3,7 +3,7 @@ title: "A coupled mechanistic and in situ data approach to quantify the water re
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/EGU25
-venue: "European Geosciences Union"
+venue: "European Geosciences Union (EGU)"
 date: 2025-04-30"
 location: "Vienna, Austria"
 ---
