@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4527-5422"
   semantic         : # URL
-  Linkedin           : "https://www.linkedin.com/in/katoria-lekarkar-504839101/"
+  linkedin           : "https://www.linkedin.com/in/katoria-lekarkar-504839101/"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "klekarkar"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
