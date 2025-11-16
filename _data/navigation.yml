@@ -17,10 +17,10 @@ main:
   - title: "读书笔记"
     url: /teaching/    
     
-  - title: "个人所想"
+  - title: "生活"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "笔记"
     url: /year-archive/
     
   - title: "CV"
