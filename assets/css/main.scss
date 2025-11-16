@@ -71,3 +71,17 @@
   line-height: 1.5;
   color: var(--global-text-color-light);
 }
+
+/* === Align site title left and menu items to the right === */
+@media (min-width: 1024px) {  /* only on larger screens */
+
+  .masthead__inner-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  /* title left, menu right */
+  }
+
+  .masthead__menu {
+    margin-left: 0;   /* reset any previous tweaks */
+  }
+}
