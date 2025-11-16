@@ -23,7 +23,7 @@ repository               : "klekarkar/klekarkar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_portrait.jpg"
   name             : "Katoria Lekarkar"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at Vrije Universiteit Brussel"  # A short bio or tagline for the author
