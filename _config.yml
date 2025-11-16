@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "仰望星空，脚踏实地"
   location         : "湖北"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : https://kyro-qu.github.io/ # URL
   email            : "2258459541@qq.com" 
 
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -56,7 +56,7 @@ author:
   # Social media
   # 社交媒体账号（留空则不显示）
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
