@@ -62,6 +62,13 @@
   text-decoration: none !important;
 }
 
+.archive__item-excerpt,
+.archive__item .page__meta {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--global-text-color-light);
+}
+
 
 // /* lighter, smaller meta + excerpt text under titles */
 // .archive__item-excerpt,
