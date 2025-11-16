@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "About Katoria"
 title_separator          : "-"
 name                     : &name "Katoria Lekarkar"
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4527-5422"
   semantic         : # URL
-  linkedin           : "https://www.linkedin.com/in/katoria-lekarkar/"
+  Linkedin           : "https://www.linkedin.com/in/katoria-lekarkar-504839101/"
   researchgate     : # URL
   scopus           : # URL
 
