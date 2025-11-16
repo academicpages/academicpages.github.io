@@ -1,19 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# 欢迎使用 Jekyll！
+# 这个配置文件用于设置整个网站的参数。
+# 一般情况下只需要设置一次，之后不需要频繁修改。
+# 注意：使用 `jekyll serve` 启动本地服务器后，这个文件不会自动重新加载，
+# 修改后必须重启 `jekyll serve`。
 
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kyro 的个人网站"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+# 网站基本设置
+locale                   : "en-US"              # 网站语言环境（中文）
+site_theme               : "default"            # 使用的主题（一般保持 default）
+title                    : "Kyro 的个人博客"     # 浏览器标签栏显示的标题
+title_separator          : "-"                  # 页面标题分隔符，例如：页面标题 - 网站名
+name                     : &name "Your Name"     # 网站名称变量，可以被其他地方引用
+description              : &description "Your Name's academic portfolio"   # 默认网站描述
+url                      : https://kyro-qu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,6 +19,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+# 作者信息（显示在侧边栏）
 author:
   # Biographic information
   avatar           : "profile.png"
@@ -33,6 +32,7 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
+  # 学术类链接（留空则不显示）
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
@@ -45,6 +45,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
+  # 软件开发与仓库类链接
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
@@ -53,6 +54,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  # 社交媒体账号（留空则不显示）
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
@@ -161,7 +163,7 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - files
+  - 文件
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -353,6 +355,6 @@ tag_archive:
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
-  clippings: all
+  clippings: 全部
   ignore:
     envs: development
