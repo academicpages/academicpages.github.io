@@ -9,8 +9,9 @@
 
 main:
   - title: "Software"
-    url: /publications/
-
+    url: /software/
+    # url: /publications/
+    
   - title: "Hardware"
     url: /talks/    
 
@@ -23,7 +24,7 @@ main:
   - title: "TosdDo"
     url: /year-archive/
     
-  - title: "eat"
+  - title: "Life"
     url: /cv/
     
   # - title: "CV"
