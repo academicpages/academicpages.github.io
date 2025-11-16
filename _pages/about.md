@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a research in the Water and Climate Research Group at Vrije Universiteit. I specialize in hydrological modelling of the unsaturated zone, mainly to quantify climate impacts on soil moisture and groundwater recharge.
+Hi, I am a PhD researcher in the Water and Climate Research Group at Vrije Universiteit. I specialize in hydrological modelling of the unsaturated zone, mainly to quantify climate impacts on soil moisture and groundwater recharge.
 Previously, I graduated with an Msc. in Water Resources Engineering from KU Leuven (IUPWARE Programme) and a Bsc. in Civil Engineering from the University of Nairobi, Kenya.
 
 <!-- A data-driven personal website
