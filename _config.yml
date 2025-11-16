@@ -29,7 +29,7 @@ author:
   location         : "湖北"
   employer         : "Red Brick University"
   uri              : https://kyro-qu.github.io/ # URL
-  email            : "none@example.org" 
+  email            : "2258459541@qq.com" 
 
   # Academic websites
   # 学术类链接（留空则不显示）
@@ -82,6 +82,7 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
+# #出版物类别-下面是出版物类别及其标题的列表
 publication_category:
   books:
     title: 'Books'
@@ -91,6 +92,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
+#站点设置
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
