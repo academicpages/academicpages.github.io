@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "      Kyro Qu"
+  name             : "Kyro Qu"
   pronouns         : # example: "she/her"  
-  bio              : "仰望星空，脚踏实地"
+  bio              : "仰望星空，脚踏实地。"
   location         : "湖北"
   employer         : #"Red Brick University"
   uri              : https://kyro-qu.github.io/ # URL
@@ -80,6 +80,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  QQ               : 2258459541
 
 # Publication Category - The following the list of publication categories and their headings
 # #出版物类别-下面是出版物类别及其标题的列表
