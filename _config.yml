@@ -24,13 +24,13 @@ repository               : "klekarkar/klekarkar.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Katoria Lekarkar"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Vrije Universiteit Brussel"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "katoria.lesaalon.lekarkar[at]vub[dot]be" # use [at] and [dot] to avoid email harvesters
 
   # Academic websites
   academia         : # URL
