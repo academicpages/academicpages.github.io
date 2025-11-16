@@ -44,25 +44,24 @@
 /* === Custom styles: archive headings (talks, blog posts, etc.) === */
 
 .archive__item-title {
-  font-family: $header-font-family;  /* <- changed from $serif */
-  font-size: 1.15rem;
+  font-family: $header-font-family;
+  font-size: 1.15rem;     // a bit smaller than page title
   font-weight: 600;
-  line-height: 1.25;
+  line-height: 1.3;
   margin-bottom: 0.15rem;
   color: var(--global-text-color);
 }
 
-/* remove blue+underline from titles */
 .archive__item-title a {
   color: inherit;
   text-decoration: none !important;
 }
 
-/* subtle hover */
 .archive__item-title a:hover {
   color: var(--global-link-color-hover);
   text-decoration: none !important;
 }
+
 
 // /* lighter, smaller meta + excerpt text under titles */
 // .archive__item-excerpt,
