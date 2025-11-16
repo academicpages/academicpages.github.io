@@ -1,14 +1,16 @@
 ---
 title: "Surface Water Modelling"
 collection: teaching
-type: "Masters: Interuniversity Programme on Water Resources Engineering"
+type: "Masters course"
 permalink: /teaching/2023_surface_water_modelling
 venue: "Vrije Universiteit Brussel"
-date: 2014-01-01
+date: 2023-01-01
 location: "Brussels, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Theory lessons and practical sessions using the SWAT+ model for students enrolled in the Interuniversity Programme on Water Resources Engineering (IUPWARE)
+## Topics covered: 
+Hydrological processes, Setting up a SWAT+ model, model calibration and validation
 
 Heading 1
 ======

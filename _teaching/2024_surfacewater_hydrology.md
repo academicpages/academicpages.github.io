@@ -1,14 +1,17 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Masters course"
+permalink: /teaching/2024_surfacewater_hydrology
+venue: "Vrije Universiteit Brussel and KU Leuven"
+date: 2024-11-01
+location: "Leuven, Belgium"
 ---
+### Programme:  Interuniversity Programme on Water Resources Engineering (IUPWARE)
+Guiding practical hydrological sessions for first year students using the NAM model
+### Topics covered: 
+Sensitivity analysis, model calibration and validation
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
