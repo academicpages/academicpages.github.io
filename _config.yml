@@ -1,18 +1,22 @@
-# 欢迎使用 Jekyll！
-# 这个配置文件用于设置整个网站的参数。
-# 一般情况下只需要设置一次，之后不需要频繁修改。
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# 网站基本设置
-locale                   : "zh-CN"           # 语言环境：en-US、zh-CN 等
-site_theme               : "default"         # 支持的主题（你一般保持 default 即可）
-title                    : "Kyro的个人网站"   # 浏览器标签页标题
-title_separator          : "-"               # title 拼接方式，如 “标题 - 子标题”
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Kyro 的个人网站"
+title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://kyro-qu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kyro-qu/kyro-qu.github.io"             # 仓库名
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -20,15 +24,15 @@ repository               : "kyro-qu/kyro-qu.github.io"             # 仓库名
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "KyroQu"
+  name             : "Kyro Qu"
   pronouns         : # example: "she/her"  
   bio              : "仰望星空，脚踏实地"
   location         : "湖北"
   employer         : "Red Brick University"
-  uri              : https://kyro-qu.github.io/ URL
-  email            : "2258459541@qq.com" 
+  uri              : https://kyro-qu.github.io/ # URL
+  email            : "none@example.org" 
 
-  # 学术类链接（留空则不显示）
+  # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
@@ -40,7 +44,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
 
-  # 软件开发与仓库类链接
+  # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
@@ -48,7 +52,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # 社交媒体账号（留空则不显示）
+  # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
@@ -75,10 +79,10 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# 文献分类名称，可以自定义中文：如 “会议论文”、“期刊文章”等
+# Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: '书籍'
+    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
