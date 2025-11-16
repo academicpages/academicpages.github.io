@@ -39,16 +39,12 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1.25;
-  font-size: 1.9rem;      // clear step above talk titles
-  font-weight: 600;
-  letter-spacing: 0.01em;
+  line-height: 1;
 
   & + .page__meta {
     margin-top: -0.5em;
   }
 }
-
 
 .page__lead {
   font-family: $global-font-family;
@@ -63,7 +59,7 @@
   }
 
   p, li, dl {
-    font-size: 0.9em;
+    font-size: em;
   }
 
   /* paragraph indents */
