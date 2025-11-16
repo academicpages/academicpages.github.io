@@ -267,10 +267,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _software
   - scope:
       path: ""
-      type: publications
+      type: software
     values:
       layout: single
       author_profile: true
