@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Integrated Project"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Academic Fieldwork Project"
+permalink: /teaching/2024_temperate_IP
+venue: "Vrije Universieit Brussel and KU Leuven"
+date: 2024-04-01
+location: "Brussels, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Supervising IUPWARE students during their academic fieldwork and modelling for evaluating water retention potential in a restored nature conservation area in Boechout, Province of Antwerp Belgium
 
 Heading 1
 ======

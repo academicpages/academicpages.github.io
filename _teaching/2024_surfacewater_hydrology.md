@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Surface Water Hydrology"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/2024_surfacewater_hydrology
@@ -8,7 +8,7 @@ date: 2024-11-01
 location: "Leuven, Belgium"
 ---
 ### Programme:  Interuniversity Programme on Water Resources Engineering (IUPWARE)
-Guiding practical hydrological sessions for first year students using the NAM model
+Guiding practical hydrological modelling sessions for first year students using the NAM model
 ### Topics covered: 
 Sensitivity analysis, model calibration and validation
 
