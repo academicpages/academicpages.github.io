@@ -1,13 +1,10 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-end
+# Let GitHub Pages manage Jekyll and all supported plugins
+gem "github-pages", group: :jekyll_plugins
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+# Optional: used by academicpages / Minimal Mistakes for caching includes
+gem "jekyll-include-cache", group: :jekyll_plugins
+
+# Optional: needed on Windows for time zone support
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
