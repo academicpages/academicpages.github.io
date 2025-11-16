@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Surface Water Modelling"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Masters: Interuniversity Programme on Water Resources Engineering"
+permalink: /teaching/2023_surface_water_modelling
+venue: "Vrije Universiteit Brussel"
 date: 2014-01-01
-location: "City, Country"
+location: "Brussels, Belgium"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
