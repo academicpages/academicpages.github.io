@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/EGU25
 venue: "European Geosciences Union"
-date: 2025-04_30"
+date: 2025-04-30"
 location: "Vienna, Austria"
 ---
 
