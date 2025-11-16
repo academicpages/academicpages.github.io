@@ -62,8 +62,13 @@
   }
 
   p, li, dl {
-    font-size: em;
+    font-size: 0.95em;    // just a touch smaller than base
+    line-height: 1.7;     // easy to read paragraphs
   }
+
+  /* ...rest of the block stays as you already have it ... */
+}
+
 
   /* paragraph indents */
   p {
