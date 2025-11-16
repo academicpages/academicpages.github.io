@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Kyro的个人网站"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -29,8 +29,8 @@ author:
   bio              : "仰望星空，脚踏实地"
   location         : "湖北"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : https://kyro-qu.github.io/ URL
+  email            : "2258459541@qq.com" 
 
   # Academic websites
   academia         : # URL
