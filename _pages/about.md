@@ -19,6 +19,7 @@ My research interests lie in the intersection of optimization, artificial intell
 ======
 - Test-time Diverse Reasoning by Riemannian Activation Steering (https://arxiv.org/pdf/2511.08305/), with Dongxuan Zhu, and Man-Chung Yue, and Viet Anh Nguyen. AAAI 2026.
 - , with Nguyen Thi Tam, Bui Trong Duc, Huynh Thi Thanh Binh, CEC 2024.
+
 🎖 Honors and Awards
 ======
 - Scholarship from MB Bank for excellent student in HUST, 2025 (~$400)
@@ -37,10 +38,12 @@ My research interests lie in the intersection of optimization, artificial intell
 - Odon Vallet Scholarship, 2020 (~$450)
 - Silver Medal Olympic 30/4 - South Vietnam in Physics, 2019
 - 2021: Excellent score in National University Exam (29/30)
+
 📖 Educations
 ======
 - *2021.08 - 2021.07*: Bachelor’s degree in Computer Science at [School of Information and Communication Technology](https://soict.hust.edu.vn/), Hanoi University of Science and Technology (CPA:3.93/4.0 - 1ST CLASS HONOURS).
 - *2018.08 - 2021.05*: Hung Vuong Gifted High School (Top 1 GPA in all semesters)
+
 💻 Experiences
 ======
 - *2025.09 - present*: Research Assistant at The Chinese University of Hong Kong
