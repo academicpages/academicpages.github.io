@@ -16,7 +16,7 @@ name                     : &name "Yusang He"
 description              : &description "Yusang He's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://universaladventurer.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/universalsadventurer.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "universaladventurer/universalsadventurer.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
