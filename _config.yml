@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "a.png"
+  avatar           : "profile.png"
   name             : "Liu Cheng"
   pronouns         : # example: "he"  
   bio              : "I really like playing computer games"
