@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "ZTZ888"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "ZTZ888"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "ZTZ888"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "normal undergraduate student try to learn more"
+  location         : "Earth-China"
+  employer         : "Jiangxiligong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1242776548@qq.com" 
 
   # Academic websites
   academia         : # URL
@@ -73,7 +73,7 @@ author:
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : # Username
+  weibo            : # 憋管我啦啦啦啦
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
