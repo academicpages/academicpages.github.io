@@ -329,7 +329,7 @@ body:hover .visually-hidden button {
   vertical-align: middle;
   width: $navicon-width;
   height: $navicon-height;
-  background: #fff;
+  background: var(--global-masthead-link-color);
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -341,7 +341,7 @@ body:hover .visually-hidden button {
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: #fff;
+    background: var(--global-masthead-link-color);
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
