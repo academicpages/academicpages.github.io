@@ -28,7 +28,7 @@ Experience and Education
 **[Experience](experience/)**  
 
 * **Sep. 2023 -- Present.** Staff MLE, Search Ads @ Baidu Inc.   
-Working on developing cutting-edge LLM technologies for ad creative generation with algorithm-system co-design, as well as exploring the next generation of creative ranking models.   
+Working on developing cutting-edge LLM technologies for generating ad text creatives with algorithm-system co-design, as well as exploring the next generation of multimodal ad creative ranking models.   
 
 * **Jul. 2021 -- Sep. 2023.** Algorithm Expert (Senior MLE), Ad Tech @ Alibaba Group.   
 Worked on debiased and calibrated ranking, billion-scale GNN-based retrieval and RL-based ad pacing.     
