@@ -47,7 +47,7 @@ This section is used to summarize some of the key concepts I have learned in the
 
 
 - [E-Portfolio Activity GDPR Case Studies Excessive Data Collection by An-Post](https://am25251.github.io/e-portfolio/files/e-Portfolio_Activity_GDPR_Case_Studies_Excessive_Data_Collection_by_An-Post.pdf).
-- [Wiki Activity Security Frameworks - text](https://am25251.github.io/Wiki_Activity_Security_Frameworks.pdf).
+- [Wiki Activity Security Frameworks](https://am25251.github.io/e-portfolio/files/Wiki_Activity_Security_Frameworks.pdf).
 
 #### Posts
 
