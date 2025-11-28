@@ -10,6 +10,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write           # This workflow pushes to the repository
 
     steps:
     - uses: actions/checkout@v2
@@ -17,7 +19,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.9'  # Specify the Python version you need
+        python-version: '3.9'   # Specify the Python version you need
 
     - name: Install dependencies
       run: |
