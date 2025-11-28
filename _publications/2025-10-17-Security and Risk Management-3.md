@@ -40,7 +40,7 @@ This section is used to summarize some of the key concepts I have learned in the
 
 #### Essays
 
-[Text]
+- [A Report by a Security and Risk Management team ISO-IEC 27005 - ISO 3100-2018](https://am25251.github.io/A_Report_by_a_Security_and_Risk_Management_team_ISO-IEC_27005_-_ISO_3100-2018_Final.pdf).
 
 
 #### Reports
