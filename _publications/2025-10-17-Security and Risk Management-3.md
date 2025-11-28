@@ -46,7 +46,7 @@ This section is used to summarize some of the key concepts I have learned in the
 #### Reports
 
 
-[Text]
+- [E-Portfolio Activity - text](https://am25251.github.io/e-portfolio/files/text.pdf).
 
 
 #### Posts
