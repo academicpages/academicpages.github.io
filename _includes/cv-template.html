@@ -38,7 +38,7 @@
       
       {% if cv.basics.website %}
       <div class="cv-contact-item">
-        <i class="fas fa-globe"></i> <a href="{{ cv.basics.website }}" target="_blank" rel="noopener noreferrer">{{ cv.basics.website }}</a>
+        <i class="fas fa-globe"></i> <a href="{{ cv.basics.website }}" target="_blank" rel="noreferrer">{{ cv.basics.website }}</a>
       </div>
       {% endif %}
       
@@ -52,7 +52,7 @@
     {% if cv.basics.profiles.size > 0 %}
     <div class="cv-profiles">
       {% for profile in cv.basics.profiles %}
-      <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer" class="cv-profile-link">
+      <a href="{{ profile.url }}" target="_blank" rel="noreferrer" class="cv-profile-link">
         <i class="fab fa-{{ profile.network | downcase }}"></i> {{ profile.network }}
       </a>
       {% endfor %}
@@ -163,7 +163,7 @@
           {% endif %}
           {% if publication.website %}
           <div class="cv-item-detail">
-            <a href="{{ publication.website }}" target="_blank" rel="noopener noreferrer">View Publication</a>
+            <a href="{{ publication.website }}" target="_blank" rel="noreferrer">View Publication</a>
           </div>
           {% endif %}
         </div>
@@ -243,7 +243,7 @@
           {% endif %}
           {% if item.url %}
           <div class="cv-item-detail">
-            <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">View Project</a>
+            <a href="{{ item.url }}" target="_blank" rel="noreferrer">View Project</a>
           </div>
           {% endif %}
         </div>
