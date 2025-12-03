@@ -12,12 +12,13 @@ redirect_from:
 ## Education
 
 ### Massachusetts Institute of Technology
-* M.S. in Electrical Engineering and Computer Science, _May 2026 (expected)_
-* Master of Business Administration (MBA), _May 2026 (expected)_
-* **Leaders for Global Operations (LGO)** Fellow
+* **M.S. in Electrical Engineering and Computer Science**, _May 2026 (expected)_
+* **Master of Business Administration (MBA)**, _May 2026 (expected)_
+* Leaders for Global Operations (LGO) Fellow, $100K fellowship awarded
 * **Thesis Research**: Multi-Agent Procurement Negotiation (ongoing in partnership with Nike)
 * **Relevant Coursework**: Deep Learning, Advances in Computer Vision, Intelligent Multimodal UI, Law of AI & Big Data
 * **Projects**:
+  * *MIT EECS Chrome Extension*: annotates MIT EECS subject listings with eligibility in-page, reducing tab-switching friction and simplifying course planning for students ([install here](https://chromewebstore.google.com/detail/nfoffleelcgbabibmmbjmicefmanmeeo))
   * *Taming CLIP's Captioning Bias with Permutation Ensemble* ([blog post](/posts/2025/05/6.8300-final/))
   * *Handwriting Learning through Vocalization and Gesture* (multimodal iPad prototype)
   * MIT Driverless: Parsed track and raceline data from the simulator and visualize optimal racelines.
