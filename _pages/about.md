@@ -1,5 +1,5 @@
 ---
-permalink: [xinshengyang](https://githubyxs.github.io/)
+permalink: (https://githubyxs.github.io/)
 title: "Xinsheng Yang"
 author_profile: true
 redirect_from: 
