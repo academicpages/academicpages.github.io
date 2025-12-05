@@ -15,7 +15,7 @@ repository: GitHubYXS/GitHubYXS.github.io # 如果你的仓库名不是这个，
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yxs.png"
+  # avatar           : "yxs.png"
   name             : "Flare"
   pronouns         : "he"
   # bio              : "Short biography for the left-hand sidebar"
