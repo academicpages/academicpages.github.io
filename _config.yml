@@ -44,42 +44,39 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  bitbucket        : "atlassian"    # Bitbucket 官方账号
+  codepen          : "freeCodeCamp" # freeCodeCamp 官方账号
+  dribbble         : "google"       # Google 设计团队账号
+  github           : "torvalds"     # Linux 之父 Linus Torvalds
+  kaggle           : "cdeotte"      # Kaggle Grandmaster (Chris Deotte)
+  stackoverflow    : "1/jeff-atwood" # StackOverflow 创始人 Jeff Atwood
 
-
-  # # Repositories and software development
-  # bitbucket        : # Username - Update with your username on the site
-  # codepen          : # Username
-  # dribbble         : # Username
-  # github           : "academicpages"
-  # kaggle           : # Username  
-  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # # Social media
-  # artstation       : # Username
-  # bluesky          : "bsky.app" # Replace this with you Bluesky username
-  # facebook         : # Username
-  # flickr           : # Username
-  # foursquare       : # Username
-  # goodreads        : # Username
-  # google_plus      : # Username
-  # keybase          : # Username
-  # instagram        : # Username
-  # lastfm           : # Username
-  # linkedin         : # Username
-  # mastodon         : # URL
-  # medium           : # URL
-  # pinterest        : # Username
-  # soundcloud       : # Username
-  # steam            : # Username
-  # telegram         : # URL
-  # tumblr           : # Username
-  # twitter          : # Username for X / Twitter
-  # vine             : # Username
-  # weibo            : # Username
-  # wikipedia        : # Username
-  # xing             : # Username
-  # youtube          : # Username
-  # zhihu            : # Username
+  # Social media
+  artstation       : "wlop"         # 著名插画师 WLOP
+  bluesky          : "bsky.app"     # 官方账号
+  facebook         : "zuck"         # 马克·扎克伯格
+  flickr           : "nasa_commons" # NASA 官方图片库
+  foursquare       : "foursquare"   # 官方账号
+  goodreads        : "1234567-stephen-king" # 斯蒂芬·金
+  google_plus      : # G+ 已关闭，留空
+  keybase          : "chris"        # Keybase 创始人
+  instagram        : "instagram"    # Instagram 官方账号
+  lastfm           : "rj"           # Last.fm 创始人
+  linkedin         : "williamhgates" # 比尔·盖茨 (Bill Gates)
+  mastodon         : "https://mastodon.social/@Gargron" # Mastodon 创始人 (需填完整URL)
+  medium           : "google"       # Google Design 团队
+  pinterest        : "pinterest"    # 官方账号
+  soundcloud       : "soundcloud"   # 官方账号
+  steam            : "gabelogannewell" # Valve 创始人 Gabe Newell (非正式ID，仅作示例)
+  telegram         : "durov"        # Telegram 创始人 Pavel Durov
+  tumblr           : "staff"        # Tumblr 官方博客
+  twitter          : "elonmusk"     # 埃隆·马斯克
+  vine             : # Vine 已关闭，留空
+  weibo            : "kaifulee"     # 李开复
+  wikipedia        : "Jimbo_Wales"  # 维基百科创始人 Jimmy Wales
+  xing             : "xing"         # 官方账号
+  youtube          : "Google"       # Google 官方频道
+  zhihu            : "kaifulee"     # 李开复 (知乎 ID)
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
