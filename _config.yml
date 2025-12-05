@@ -16,8 +16,8 @@ name                     : &name "Xinsheng Yang"
 #                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # 修改后 (请复制替换)
-url: "https://GitHubYXS.github.io"
-repository: "GitHubYXS/GitHubYXS.github.io" # 如果你的仓库名不是这个，请改为 "GitHubYXS/你的仓库名"
+url: https://GitHubYXS.github.io
+repository: GitHubYXS/GitHubYXS.github.io # 如果你的仓库名不是这个，请改为 "GitHubYXS/你的仓库名"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -50,8 +50,6 @@ author:
   github           : "torvalds"     # Linux 之父 Linus Torvalds
   kaggle           : "cdeotte"      # Kaggle Grandmaster (Chris Deotte)
   stackoverflow    : "1/jeff-atwood" # StackOverflow 创始人 Jeff Atwood
-
-  # Social media
   artstation       : "wlop"         # 著名插画师 WLOP
   bluesky          : "bsky.app"     # 官方账号
   facebook         : "zuck"         # 马克·扎克伯格
