@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China
+locale                   : ""
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
