@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+permalink: [xinshengyang](https://githubyxs.github.io/)
+title: "Xinsheng Yang"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about/I remain a visitor researcher with Visual Geometry Group (VGG) at Oxford
+  - /about.html https://weidixie.github.io/
 ---
 
 I'm generally interested in understanding how visual perception emerges. In particular, on topics:
