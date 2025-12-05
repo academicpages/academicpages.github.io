@@ -3,7 +3,7 @@ permalink: (https://githubyxs.github.io/)
 title: "Xinsheng Yang"
 author_profile: true
 redirect_from: 
-  - /I remain a visitor researcher with Visual Geometry Group (VGG) at Oxford
+  - I remain a visitor researcher with Visual Geometry Group (VGG) at Oxford
 
 ---
 
