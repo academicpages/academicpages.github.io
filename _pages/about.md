@@ -3,8 +3,8 @@ permalink: (https://githubyxs.github.io/)
 title: "Xinsheng Yang"
 author_profile: true
 redirect_from: 
-  - /about/I remain a visitor researcher with Visual Geometry Group (VGG) at Oxford
-  - /about.html https://weidixie.github.io/
+  - /I remain a visitor researcher with Visual Geometry Group (VGG) at Oxford
+
 ---
 
 I'm generally interested in understanding how visual perception emerges. In particular, on topics:
