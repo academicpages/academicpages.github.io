@@ -9,15 +9,16 @@
 # Basic Site Settings
 locale                   : "China
 site_theme               : "default" # Currently available options are "default", "air"
-# title                    : "Your Name / Site Title"
-# title_separator          : "-"
+title                    : "Your Name / Site Title"
+title_separator          : "-"
 name                     : &name "Xinsheng Yang"
-# description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 #                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # 修改后 (请复制替换)
-url: https://GitHubYXS.github.io
-repository: GitHubYXS/GitHubYXS.github.io # 如果你的仓库名不是这个，请改为 "GitHubYXS/你的仓库名"
+url : https://GitHubYXS.github.io
+repository : ""
+# repository: GitHubYXS/GitHubYXS.github.io # 如果你的仓库名不是这个，请改为 "GitHubYXS/你的仓库名"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +29,7 @@ author:
   name             : "Flare"
   pronouns         : "he"
   # bio              : "Short biography for the left-hand sidebar"
-  location         : "LiaoNing"
+  location         : "China"
   employer         : "LNTU"
   uri              : "https://githubyxs.github.io/"
   email            : "19155425985@163.com" 
