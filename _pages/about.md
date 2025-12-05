@@ -1,7 +1,6 @@
 ---
 permalink: (https://githubyxs.github.io/)
 title: "Xinsheng Yang"
-author_profile: true
 redirect_from: 
   - I remain a visitor researcher with Visual Geometry Group (VGG) at Oxford
 
@@ -15,13 +14,11 @@ multi-modal co-training with visual apperance, motion, audio, textual descriptio
 
 artificial intelligence for science (AI4Science).!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+About Me
 ======
   I'm a first year undergraduate student from [School of LNTC]([https://icse.uestc.edu.cn/](https://www.lntu.edu.cn/)). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
 
-For those News::
+For those News:
 
 - Dec 2025, 1 paper has been accepted by Nature. Congrats to all co-authors !
 
@@ -89,15 +86,8 @@ For those News::
 
 - June 2023, CVPR 2023 Tutorial: Object Localisation for Free, Going Beyond Self-supervised Learning.
 
-May 2023, invited talks at CFAR Rising Star Lecture Series .
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- May 2023, invited talks at CFAR Rising Star Lecture Series .
+
 
 
 To Prospective Student
@@ -110,4 +100,4 @@ For PhD applicants, please contact me at least half a year prior to your applica
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+waiting soon
