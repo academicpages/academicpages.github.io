@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Liu Cheng"
-  pronouns         : # example: "he"  
+  pronouns         : "he"  
   bio              : "I really like playing computer games"
   location         : "Earth"
   employer         : #"Red Brick University"
