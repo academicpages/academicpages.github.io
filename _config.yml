@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=I3Oq8oMAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-5816-4652"
+  orcid            : #"https://orcid.org/0000-0002-5816-4652"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -222,16 +222,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
