@@ -30,7 +30,7 @@ author:
   location         : "Xi'an"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "" 
 
   # Academic websites
   academia         : # URL
