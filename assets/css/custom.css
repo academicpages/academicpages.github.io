@@ -1,0 +1,15 @@
+/* Apply Times New Roman everywhere */
+html, body, * {
+    font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Improve web readability */
+body {
+    font-size: 17px;
+    line-height: 1.55;
+}
+
+/* Optional: strengthen headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
