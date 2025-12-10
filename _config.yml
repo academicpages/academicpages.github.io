@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Nancy Lau"
   pronouns         : # example: "she/her"  
-  bio              : "2nd year PhD student"
+  bio              : "2nd year PhD student @ UC Santa Cruz"
   location         : "San Francisco"
-  employer         : "UC Santa Cruz"
+  employer         : #"UC Santa Cruz"
   uri              : # URL
   email            : "najilau@ucsc.edu" 
 
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : unrelated333
+  twitter          : # unrelated333
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
