@@ -23,7 +23,7 @@ repository               : "rassulz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar_photo.jpg"
   name             : "Rassul Zeinulla"
   pronouns         : # example: "she/her" 
   bio              : "Automation and Robotics Engineer"
