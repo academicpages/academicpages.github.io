@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "赵英博",
+    "email": "zhaoyb0715@163.com",
+    "phone": "19180551440",
+    "website": "https://BiQiBaoWinner.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "厦门",
+      "countryCode": "福建省",
       "region": ""
     },
     "profiles": [
