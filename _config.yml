@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mercury / Site Title"
+title                    : "Mercury's / Personal Website"
 title_separator          : "-"
 name                     : &name "Mercury"
 description              : &description "Pesonal website about my notes and ideas."   # Update this with a general description of your site, this is the default if not overridden by a page
