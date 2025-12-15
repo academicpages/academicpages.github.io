@@ -218,11 +218,10 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # These settings control the types of collections used by the template
 collections:
   teaching:
-   output: true
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -233,7 +232,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # These settings control how pages and collections are included in the site
 defaults:
