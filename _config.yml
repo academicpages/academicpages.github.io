@@ -82,14 +82,14 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
-#publication_category:
-#  books:
-#    title: 'Books'
-#  manuscripts:
-#    title: 'Journal Articles'    
-#  conferences:
-#    title: 'Conference Papers'
+#Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -253,8 +253,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #_teaching
-   - scope:
+  # _teaching
+  - scope:
       path: ""
       type: teaching
     values:
@@ -262,16 +262,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  #_publications
+  # _publications
   - scope:
-     path: ""
-     type: publications
-     values:
+      path: ""
+      type: publications
+    values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  #_portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -280,7 +280,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  #_talks
+  # _talks
   - scope:
       path: ""
       type: talks
