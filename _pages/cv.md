@@ -20,4 +20,4 @@ Work experience
   
 Skills
 ======
-* Master in python, Swift
+* Master in sleeping and eating
