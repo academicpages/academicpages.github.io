@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* QXSI Field Application Engineer 2025
+* QXSI Field Application Engineer 2025 (Intern)
   
 Skills
 ======
