@@ -16,7 +16,7 @@ main:
     url: /talks/    
 
   - title: "Portfolio"
-  #   url: /portfolio/
+    url: /portfolio/
   
   - title: "CV"
     url: /cv/
