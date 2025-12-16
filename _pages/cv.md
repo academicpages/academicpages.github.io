@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,98 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* [Update with your degree information from CV]
+  * University of Illinois Urbana-Champaign
+  * [Year - Year or Year]
+  * [Thesis/Dissertation title if applicable]
+  * [Advisor: Name if applicable]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[Add additional degrees as needed]
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Interests
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
+* [Research interest 1]
+* [Research interest 2]
+* [Research interest 3]
+
+[Update based on your CV]
+
+## Work Experience
+
+* [Position Title], [Organization/Institution]
+  * [Location]
+  * [Date range]
+  * [Brief description of responsibilities and achievements]
+
+[Add additional positions as needed]
+
+## Research Experience
+
+* [Research Position/Role], [Lab/Group/Institution]
+  * [Supervisor: Name]
+  * [Date range]
+  * [Description of research work and contributions]
+
+[Add additional research experiences as needed]
+
+## Teaching Experience
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+[Or manually list teaching experiences if not using the teaching collection]
+
+## Publications
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=a1trBDoAAAAJ&hl=en).
+
+## Talks and Presentations
+
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+[Or manually list talks/presentations if not using the talks collection]
+
+## Skills
+
+### Technical Skills
+* [Skill category 1]: [List of skills]
+* [Skill category 2]: [List of skills]
+* [Programming Languages]: [List languages]
+* [Software/Tools]: [List tools]
+
+### Languages
+* [Language 1]: [Proficiency level]
+* [Language 2]: [Proficiency level]
+
+[Update based on your CV]
+
+## Awards and Honors
+
+* [Award/Honor name], [Year]
+  * [Brief description if needed]
+
+[Add additional awards as needed]
+
+## Professional Service
+
+* [Service role/activity], [Organization/Event]
+  * [Date/Year]
+
+[Add additional service activities as needed]
+
+## References
+
+Available upon request.
+
+---
+
+*Last updated: [Current Date]*

@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Xiayu Zhao",
+    "email": "",
     "phone": "",
     "website": "https://summerzhao618.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Graduate student at University of Illinois Urbana-Champaign",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,7 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=a1trBDoAAAAJ&hl=en"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/xiayuzhao"
       },
       {
         "network": "ORCID",

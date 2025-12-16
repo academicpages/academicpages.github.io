@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Xiayu Zhao"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Xiayu Zhao"
+description              : &description "Xiayu Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://summerzhao618.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "summerzhao618/summerzhao618.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiayu Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Graduate student at University of Illinois Urbana-Champaign"
+  location         : "Urbana, Illinois, USA"
+  employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # Add your email here 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "xiayuzhao"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
