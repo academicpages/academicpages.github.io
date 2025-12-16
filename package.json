@@ -4,7 +4,7 @@
   "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/summerzhao618/summerzhao618.github.io"
   },
   "keywords": [
     "jekyll",
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/summerzhao618/summerzhao618.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://github.com/summerzhao618/summerzhao618.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },

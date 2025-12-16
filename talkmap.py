@@ -18,7 +18,7 @@ TIMEOUT = 5
 g = glob.glob("_talks/*.md")
 
 # Prepare to geolocate
-geocoder = Nominatim(user_agent="academicpages.github.io")
+geocoder = Nominatim(user_agent="summerzhao618.github.io")
 location_dict = {}
 location = ""
 permalink = ""
