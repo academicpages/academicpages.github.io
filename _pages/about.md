@@ -1,56 +1,282 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jiawen Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi, I am currently a Ph.D. student at [Institute of Biomedical and Health Engineering](https://ibhe.sigs.tsinghua.edu.cn/), Tsinghua Shenzhen International Graduate School ([SIGS](https://www.sigs.tsinghua.edu.cn/en/)), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yonghong He](https://www.sigs.tsinghua.edu.cn/hyh_en/main.htm). My research focuses on computational pathology, with a particular emphasis on modeling and analyzing gigapixel-level whole-slide images. I am also interested in biomedical optical imaging.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I obtained my Bachelor of Science degree from [Cuiying Honors College](https://chc.lzu.edu.cn/), [Lanzhou University](https://global.lzu.edu.cn/) in 2021, and obtained my Master of Engineering degree from [Open FIESTA](https://www.fiesta.tsinghua.edu.cn/) at Tsinghua SIGS in 2024. I was honored to receive the China National Scholarship in 2025.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Education
+-----
+<img style="float: left; margin:10px 10px" src="../images/my_own_figs/thu_logo.png" width="160" height="140">
+### Tsinghua University
+<p style="line-height:1.0">
+<font size="2">
+Aug 2024 - Present<br />
+Ph.D. student in Biomedical Engineering<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:10px 10px" src="../images/my_own_figs/thu_logo.png" width="160" height="140">
+### Tsinghua University
+<p style="line-height:1.0">
+<font size="2">
+Aug 2021 - June 2024<br />
+M.S. in Biomedical Engineering<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:10px 10px" src="../images/my_own_figs/lzu_logo.png" width="160" height="140">
+### Lanzhou University
+<p style="line-height:1.0">
+<font size="2">
+Aug 2017 - June 2021<br />
+B.S. in Mathematics<br />
+</font>
+</p>
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Selected Journal Publication
+-----
+<style>
+.teaser-img {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 110px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
+<style>
+.teaser-img-tall140 {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 140px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
+<style>
+.teaser-img-tall {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
+<style>
+.teaser-img-tall200 {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 200px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
+### Diagnostic text-guided representation learning in hierarchical classification for pathological whole slide image
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Qiehe Sun, Renao Yan, Yizhi Wang, Yuqiu Fu, Yani Wei, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han# <br />
+<strong>Medical Image Analysis</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004402">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+### Pathorchestra: A comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks
+<p style="line-height:1.0">
+<font size="2">
+Fang Yan*#, Jianfeng Wu*, <strong>Jiawen Li*</strong>, Wei Wang*, Yirong Chen, Linda Wei, Jiaxuan Lu, Wen Chen, Zizhao Gao, Jianan Li, Heng Li, Hong Yan, Jiabo Ma, Minda Chen, Yang Lu, Qing Chen, Yizhi Wang, Xitong Ling, Xuenian Wang, Zihan Wang, Qiang Huang, Shengyi Hua, Mianxin Liu, Lei Ma, Tian Shen, Xiaofan Zhang#, Yonghong He#, Hao Chen#, Shaoting Zhang#, Zhe Wang# <br />
+<strong>NPJ Digital Medicine</strong>, 2025, <a href="https://www.nature.com/articles/s41746-025-02027-w">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+### Dynamic hypergraph representation for bone metastasis analysis
+<p style="line-height:1.0">
+<font size="2">
+Yuxuan Chen*, <strong>Jiawen Li*</strong>, Lianghui Zhu*, Yang Xu, Tian Guan, Huijuan Shi#, Yonghong He#, Anjia Han# <br />
+<strong>Computer Methods and Programs in Biomedicine</strong>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S0169260725003839">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+### Using optical skyrmions to assess vectorial adaptive optics capabilities in the presence of complex aberrations
+<p style="line-height:1.0">
+<font size="2">
+Yifei Ma*, Zimo Zhao*, Yuanxing Shen*, Binguo Chen, An Aloysius Wang, Yuxi Cai, Ji Qin, Runchen Zhang, Yunqi Zhang, Jiahe Cui, Bangshan Sun, <strong>Jiawen Li</strong>, Yuzhu Shi, Liangyu Deng, Honghui He#, Lin Luo, Yonghong He#, Yun Zhang, Ben Dai, Daniel J Royston, Steve J Elston, Stephen M Morris, Martin J Booth, Chao He# <br />
+<strong>Science Advances</strong>, 2025, <a href="https://www.science.org/doi/full/10.1126/sciadv.adv7904">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+### Comprehensive benchmark dataset for pathological lymph node metastasis in breast cancer sections
+<p style="line-height:1.0">
+<font size="2">
+Xitong Ling*, Yuanyuan Lei*, <strong>Jiawen Li*</strong>, Junru Cheng, Wenting Huang, Tian Guan, Jian Guan#, Yonghong He# <br />
+<strong>Scientific Data</strong>, 2025, <a href="https://www.nature.com/articles/s41597-025-05586-5">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+### A reconfigurable arbitrary retarder array as complex structured matter
+<p style="line-height:1.0">
+<font size="2">
+Chao He*#, Binguo Chen*, Zipei Song*, Zimo Zhao*, Yifei Ma*, Honghui He#, Lin Luo#, Tade Marozsak, An Aloysius Wang, Rui Xu, Peixiang Huang, <strong>Jiawen Li</strong>, Xuke Qiu, Yunqi Zhang, Bangshan Sun, Jiahe Cui, Yuxi Cai, Yun Zhang, Andong Wang, Mohan Wang, Patrick Salter, Julian AJ Fells, Ben Dai, Shaoxiong Liu, Limei Guo, Yonghong He, Hui Ma, Daniel J Royston, Steve J Elston, Qiwen Zhan, Chengwei Qiu, Stephen M Morris, Martin J Booth, Andrew Forbes <br />
+<strong>Nature Communications</strong>, 2025, <a href="https://www.nature.com/articles/s41467-025-59846-4">Journal Paper</a>
+<br />
+</font>
+</p>
+-----
+### Deeptree: Pathological image classification through imitating tree-like strategies of pathologists
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Junru Cheng*, Lingqin Meng, Hui Yan, Yonghong He, Huijuan Shi#, Tian Guan#, Anjia Han# <br />
+<strong>IEEE Transactions on Medical Imaging</strong>, 2024, <a href="https://ieeexplore.ieee.org/abstract/document/10354387">Journal Paper</a>
+<br />
+</font>
+</p>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Selected Conference Publication
+-----
+<style>
+.teaser-img {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 110px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
+<style>
+.teaser-img-tall140 {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 140px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
+<style>
+.teaser-img-tall {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
+<style>
+.teaser-img-tall200 {
+  float: left;
+  margin: 5px 10px;
+  width: 160px;
+  height: 200px;
+  object-fit: contain;
+  object-position: 50% 50%;
+  background-color: #fff;
+  display: block;
+}
+</style>
+<img class="teaser-img" src="../images/paper_teasers/mavis.png">
+### Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology
+<p style="line-height:1.0">
+<font size="2">
+Yuxuan Chen*, <strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling, Tian Guan#, Anjia Han#, Yonghong He# <br />
+<strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025, <a href="Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology">Accepted Conference Paper (Preprint link)</a>
+<br />
+</font>
+</p>
+-----
+### RetMIL: Retentive Multiple Instance Learning for Histopathological Whole Slide Image Classification
+<p style="line-height:1.0">
+<font size="2">
+Hongbo Chu*, Qiehe Sun*, <strong>Jiawen Li*</strong>, Yuxuan Chen, Lizhong Zhang, Tian Guan, Anjia Han#, Yonghong He# <br />
+<strong>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2024, <a href="https://link.springer.com/chapter/10.1007/978-3-031-72083-3_41">Conference Paper</a>
+<br />
+</font>
+</p>
+-----
+### Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Yuxuan Chen*, Hongbo Chu*, Qiehe Sun, Tian Guan, Anjia Han#, Yonghong He# <br />
+<strong>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</strong>, 2024, <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_Dynamic_Graph_Representation_with_Knowledge-aware_Attention_for_Histopathology_Whole_Slide_CVPR_2024_paper.html">Conference Paper</a>
+<br />
+</font>
+</p>
+-----
+### Classification of Myopic Maculopathy Images with Self-supervised Driven Multiple Instance Learning Network
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Jaehyeon Soon*, Qilai Zhang*, Qifan Zhang, Yonghong He# <br />
+<strong>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</strong>, 2023, <a href="https://link.springer.com/chapter/10.1007/978-3-031-54857-4_9">Conference Paper</a>
+<br />
+</font>
+</p>
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Preprints
+-----
+### StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Jiali Hu*, Xitong Ling*, Yongqiang Lv, Yuxuan Chen, Yizhi Wang, Tian Guan#, Yifei Liu#, Yonghong He# <br />
+arXiv preprint arXiv:2512.10326, 2025/12/12, <a href="https://arxiv.org/abs/2512.10326">Preprint Paper</a>
+<br />
+</font>
+</p>
+-----
+### Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis
+<p style="line-height:1.0">
+<font size="2">
+Xitong Ling*, Yifeng Ping*, <strong>Jiawen Li*</strong>, Jing Peng, Yuxuan Chen, Minxi Ouyang, Yizhi Wang, Yonghong He, Tian Guan#, Xiaoping Liu#, Lianghui Zhu# <br />
+arXiv preprint arXiv:2503.00915, 2025/3/2, <a href="https://arxiv.org/abs/2503.00915">Preprint Paper</a>
+<br />
+</font>
+</p>
+-----
+### Can We Simplify Slide-level Fine-tuning of Pathology Foundation Models?
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Jiali Hu*, Qiehe Sun, Renao Yan, Minxi Ouyang, Tian Guan, Anjia Han, Chao He#, Yonghong He# <br />
+arXiv preprint arXiv:2502.20823, 2025/2/28, <a href="https://arxiv.org/abs/2502.20823">Preprint Paper</a>
+<br />
+</font>
+</p>
+-----
+### Unlocking adaptive digital pathology through dynamic feature learning
+<p style="line-height:1.0">
+<font size="2">
+<strong>Jiawen Li*</strong>, Tian Guan*, Qingxin Xia, Yizhi Wang, Xitong Ling, Jing Li, Qiang Huang, Zihan Wang, Zhiyuan Shen, Yifei Ma, Zimo Zhao, Zhe Lei, Tiandong Chen, Junbo Tan, Xueqian Wang, Xiu-Wu Bian#, Zhe Wang#, Lingchuan Guo#, Chao He#, Yonghong He# <br />
+arXiv preprint arXiv:2412.20430, 2024/12/29, <a href="https://arxiv.org/abs/2412.20430">Preprint Paper</a>
+<br />
+</font>
+</p>
