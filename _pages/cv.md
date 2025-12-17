@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="text-align: center; margin-bottom: 2em;">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank">Download CV as PDF</a>
+</div>
+
 ## Education
 
 * **PhD Student**, Civil and Environmental Engineering, University of Illinois Urbana-Champaign, USA
