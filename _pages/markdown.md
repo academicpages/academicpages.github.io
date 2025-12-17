@@ -1,11 +1,55 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /my-life/
+title: "My Life"
 author_profile: true
 redirect_from: 
+  - /markdown/
   - /md/
   - /markdown.html
 ---
+
+Welcome to a glimpse into my life beyond research! Here I share some of my interests, hobbies, and lifestyle choices that help me maintain balance and find inspiration.
+
+## Hobbies & Interests
+
+### Photography
+I enjoy capturing moments through photography, particularly [placeholder: e.g., landscape photography, street photography, architectural photography]. Photography helps me see the world from different perspectives and appreciate the beauty in everyday moments.
+
+### Reading
+I'm an avid reader with interests spanning [placeholder: e.g., science fiction, biographies, technical books, philosophy]. Some of my recent favorite reads include:
+- [Placeholder Book Title 1] by [Author Name]
+- [Placeholder Book Title 2] by [Author Name]
+- [Placeholder Book Title 3] by [Author Name]
+
+### Travel
+Exploring new places and cultures is one of my passions. I've had the opportunity to visit [placeholder: e.g., various cities, countries, or regions], each offering unique experiences and insights. Traveling helps me gain new perspectives and understand different ways of life.
+
+## Lifestyle & Wellness
+
+### Fitness & Activities
+I maintain an active lifestyle through [placeholder: e.g., running, cycling, hiking, yoga, swimming, or other activities]. Regular physical activity helps me stay energized and focused, both in my research and daily life.
+
+### Cooking & Food
+I enjoy experimenting with different cuisines and cooking techniques. Some of my favorite dishes to prepare include [placeholder: e.g., specific cuisines or dishes]. Cooking is a creative outlet that allows me to unwind after a long day of research.
+
+### Mindfulness & Balance
+Maintaining work-life balance is important to me. I practice [placeholder: e.g., meditation, journaling, or other mindfulness activities] to stay grounded and maintain perspective.
+
+## Creative Pursuits
+
+### [Placeholder Creative Activity]
+[Description of a creative hobby or interest, such as music, art, writing, or other creative endeavors]
+
+### [Placeholder Creative Activity 2]
+[Another creative interest or hobby]
+
+## Community & Volunteering
+
+I believe in giving back to the community. I've been involved in [placeholder: e.g., volunteer activities, community service, mentoring, or other contributions].
+
+---
+
+*This page is a work in progress and will be updated with more details about my life and interests.*
 
 {% include toc %}
 
@@ -22,7 +66,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): images/profile.jpg
 
 ## Tips and hints
 

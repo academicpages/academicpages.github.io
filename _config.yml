@@ -23,7 +23,7 @@ repository               : "summerzhao618/summerzhao618.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xiayu Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student at University of Illinois Urbana-Champaign"
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0005-3533-0397"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  raise_lab        : "https://raiselab.cee.illinois.edu/"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

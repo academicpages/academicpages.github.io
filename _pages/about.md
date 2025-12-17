@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my academic website! I'm **Xiayu Zhao**, a PhD student in Civil and Environmental Engineering at the University of Illinois Urbana-Champaign, working in the Robotic, Automation, and Intelligent Sensing (RAISe) Lab under the supervision of Dr. Houtan Jebelli.
 
-On this website, you can find information about my [publications](/publications/), [talks and presentations](/talks/), [teaching experience](/teaching/), and [curriculum vitae](/cv/). 
+On this website, you can find information about my [publications](/publications/), [awards](/awards/), [teaching experience](/teaching/), and [curriculum vitae](/cv/). 
 
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/xiayuzhao)
