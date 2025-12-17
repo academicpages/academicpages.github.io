@@ -11,43 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.Sc. in Computer Science** (Minor: Biology and Psychology), Ashoka University, 2023–2027
+* **High School**, Delhi Public School, Hyderabad, 2007–2022
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Summer Student**, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany (July 2025)
+  * Investigated research areas spanning evolutionary neuroscience, developmental self-organization, and biophysical microscopy.
+  * Used optical tweezers to study transcription factor–DNA interactions.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Summer Research Assistant**, Neural Systems Lab, Hyderabad Central University (July 2025 – Present)
+  * Conducted electrophysiology experiments on bees.
+  * Performed bulk drug tracing in grasshoppers and behavioral research on ants.
+  * Implemented BORIS and Ilastik software for analysis.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Research Assistant**, Neuro-ethology Lab, Ashoka University (Aug 2024 – Present)
+  * Developing automated zebrafish movement analysis too.
+  * Modeling collective zebrafish behavior.
+
+* **Research Student**, Math Apprenticeship Program, Ashoka University (May 2024 – Aug 2024)
+  * Researched knot theory and applications to molecular biology.
+  * Modeled DNA knot interactions.
+
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages**: Python, C++, C, Assembly, Rust, JavaScript, MySQL, MATLAB
+* **Libraries/Software**: Brian2, Suite2p, Napari, SIMA, DeepLabCut, SLEAP, YOLO, PyTorch, NEURON, Git, Docker
+* **Microscopy**: Fluorescence, Light-Sheet, Confocal, Optical Tweezers
+* **Image Analysis**: ImageJ/Fiji, Ilastik, BORIS, 3D reconstruction
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Quantification, Analysis, and Modeling of Fish Behavior**: Automated pipeline using OpenCV/YOLOv11.
+* **Grid Cell Distortion Under Reward**: Modeling grid cell activity using attractor dynamics.
+* **High-Performance Disk Analysis Tool**: Asynchronous Rust application for file system traversal.
+
+Conferences & Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -59,6 +58,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Languages
 ======
-* Currently signed in to 43 different slack teams
+* English (Native/Bilingual)
+* Telugu (Native)
+* Hindi (Working Proficiency)
+* Tamil (Elementary)
+* German (Elementary to Intermediate)
