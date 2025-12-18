@@ -10,38 +10,75 @@ redirect_from:
 
 Welcome to a glimpse into my life beyond research! Here I share some of my interests, hobbies, and lifestyle choices that help me maintain balance and find inspiration.
 
-## Hobbies & Interests
+# A Four-Dimensional Life Doctrine 四维人生方法论
+#### Copyright: Xiayu Zhao
 
-### Photography
-I enjoy capturing moments through photography, particularly [placeholder: e.g., landscape photography, street photography, architectural photography]. Photography helps me see the world from different perspectives and appreciate the beauty in everyday moments.
+## Dimension 1: Force Balance  一维｜势平衡
+Life rarely rewards extremes.
+极则必倾。
 
-### Reading
-I'm an avid reader with interests spanning [placeholder: e.g., science fiction, biographies, technical books, philosophy]. Some of my recent favorite reads include:
-- [Placeholder Book Title 1] by [Author Name]
-- [Placeholder Book Title 2] by [Author Name]
-- [Placeholder Book Title 3] by [Author Name]
+Stability is born of countervailing forces.
+势生于衡。
 
-### Travel
-Exploring new places and cultures is one of my passions. I've had the opportunity to visit [placeholder: e.g., various cities, countries, or regions], each offering unique experiences and insights. Traveling helps me gain new perspectives and understand different ways of life.
+Balance is not compromise, but weighted judgment.
+非让，乃权。
 
-## Lifestyle & Wellness
+Seek equilibrium of the whole, not equality of parts.
+谋全局，不拘小均。
 
-### Fitness & Activities
-I maintain an active lifestyle through [placeholder: e.g., running, cycling, hiking, yoga, swimming, or other activities]. Regular physical activity helps me stay energized and focused, both in my research and daily life.
 
-### Cooking & Food
-I enjoy experimenting with different cuisines and cooking techniques. Some of my favorite dishes to prepare include [placeholder: e.g., specific cuisines or dishes]. Cooking is a creative outlet that allows me to unwind after a long day of research.
+## Dimension 2: Energy Transformation 二维｜量转换
+All action bears a cost.
+凡行皆耗。
 
-### Mindfulness & Balance
-Maintaining work-life balance is important to me. I practice [placeholder: e.g., meditation, journaling, or other mindfulness activities] to stay grounded and maintain perspective.
+Value lies not in input, but in conversion.
+功不唐捐，贵在转化。
 
-## Creative Pursuits
+They who know causality masters transformation.
+明因果者，通其变。
 
-### [Placeholder Creative Activity]
-[Description of a creative hobby or interest, such as music, art, writing, or other creative endeavors]
+Gain and loss arise together. 
+得失相生。
 
-### [Placeholder Creative Activity 2]
-[Another creative interest or hobby]
+
+## Dimension 3: Multi-threading 三维｜多线程
+Life proceeds in parallel, not in sequence.
+人生并进。
+
+Order outweighs haste.
+序胜于速。
+
+Each endeavor follows its own season.
+事有其时。
+
+Avoid needless entanglement.
+勿自相滞。
+
+## Dimension 4: Gradual Calculus 四维｜缓积分
+Life is shaped by accumulation, not moments.
+人生在积。
+
+Time records every repeated choice.
+岁月不漏。
+
+Small acts, long held, become fate.
+微行久积，终成大势。
+
+Direction multiplied by time determines destiny.
+方向既定，时间自证。
+
+## Synthesis 四维合一
+Balance defines position.
+势平，方能立身。
+
+Transformation defines efficiency.
+善化，方能有得。
+
+Parallelism defines capacity.
+并行，方能致远。
+
+Time defines destiny.
+积久，方能成运。
 
 ## Community & Volunteering
 

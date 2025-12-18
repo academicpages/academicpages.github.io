@@ -1,5 +1,5 @@
 ---
-title: "RRD-SegNet: A Computational Method for Real-time Roof Defect Segmentation in Robotic Inspection"
+title: "A Computational Method for Real-time Roof Defect Segmentation in Robotic Inspection"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-rrd-segnet-roof-defect-segmentation
