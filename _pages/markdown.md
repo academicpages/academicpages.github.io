@@ -31,9 +31,12 @@ Welcome to a glimpse into my life beyond research! Here I share some of my inter
   border-color: var(--global-link-color, #0066cc);
 }
 
-.doctrine-module h2 {
+.doctrine-module .module-title {
   margin-top: 0;
+  margin-bottom: 1em;
   color: var(--global-text-color, #000);
+  font-size: 1.5em;
+  font-weight: bold;
 }
 
 .doctrine-module .doctrine-content {
@@ -53,7 +56,7 @@ Welcome to a glimpse into my life beyond research! Here I share some of my inter
 </style>
 
 <a href="/four-dimensional-life-doctrine/" class="doctrine-module">
-  <h2>A Four-Dimensional Life Doctrine 四维人生方法论</h2>
+  <div class="module-title">A Four-Dimensional Life Doctrine 四维人生方法论</div>
   <div class="doctrine-content">
     <p><strong>Balance defines position.</strong><br>势平，方能立身。</p>
     <p><strong>Transformation defines efficiency.</strong><br>善化，方能有得。</p>
