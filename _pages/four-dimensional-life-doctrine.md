@@ -3,8 +3,6 @@ permalink: /four-dimensional-life-doctrine/
 title: "A Four-Dimensional Life Doctrine 四维人生方法论"
 author_profile: true
 ---
-
-# A Four-Dimensional Life Doctrine 四维人生方法论
 #### Copyright: Xiayu Zhao
 
 ## Dimension 1: Force Balance  一维｜势平衡
