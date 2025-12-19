@@ -10,75 +10,58 @@ redirect_from:
 
 Welcome to a glimpse into my life beyond research! Here I share some of my interests, hobbies, and lifestyle choices that help me maintain balance and find inspiration.
 
-# A Four-Dimensional Life Doctrine 四维人生方法论
-#### Copyright: Xiayu Zhao
+<style>
+.doctrine-module {
+  border: 2px solid var(--global-border-color, #e0e0e0);
+  border-radius: 8px;
+  padding: 2em;
+  margin: 2em 0;
+  background-color: var(--global-bg-color, #fff);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
 
-## Dimension 1: Force Balance  一维｜势平衡
-Life rarely rewards extremes.
-极则必倾。
+.doctrine-module:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  transform: translateY(-2px);
+  border-color: var(--global-link-color, #0066cc);
+}
 
-Stability is born of countervailing forces.
-势生于衡。
+.doctrine-module h2 {
+  margin-top: 0;
+  color: var(--global-text-color, #000);
+}
 
-Balance is not compromise, but weighted judgment.
-非让，乃权。
+.doctrine-module .doctrine-content {
+  line-height: 1.8;
+  color: var(--global-text-color, #000);
+}
 
-Seek equilibrium of the whole, not equality of parts.
-谋全局，不拘小均。
+.doctrine-module .doctrine-content p {
+  margin: 0.5em 0;
+}
 
+.doctrine-module .doctrine-link {
+  margin-top: 1.5em;
+  color: var(--global-link-color, #0066cc);
+  font-weight: bold;
+}
+</style>
 
-## Dimension 2: Energy Transformation 二维｜量转换
-All action bears a cost.
-凡行皆耗。
-
-Value lies not in input, but in conversion.
-功不唐捐，贵在转化。
-
-They who know causality masters transformation.
-明因果者，通其变。
-
-Gain and loss arise together. 
-得失相生。
-
-
-## Dimension 3: Multi-threading 三维｜多线程
-Life proceeds in parallel, not in sequence.
-人生并进。
-
-Order outweighs haste.
-序胜于速。
-
-Each endeavor follows its own season.
-事有其时。
-
-Avoid needless entanglement.
-勿自相滞。
-
-## Dimension 4: Gradual Calculus 四维｜缓积分
-Life is shaped by accumulation, not moments.
-人生在积。
-
-Time records every repeated choice.
-岁月不漏。
-
-Small acts, long held, become fate.
-微行久积，终成大势。
-
-Direction multiplied by time determines destiny.
-方向既定，时间自证。
-
-## Synthesis 四维合一
-Balance defines position.
-势平，方能立身。
-
-Transformation defines efficiency.
-善化，方能有得。
-
-Parallelism defines capacity.
-并行，方能致远。
-
-Time defines destiny.
-积久，方能成运。
+<a href="/four-dimensional-life-doctrine/" class="doctrine-module">
+  <h2>A Four-Dimensional Life Doctrine 四维人生方法论</h2>
+  <div class="doctrine-content">
+    <p><strong>Balance defines position.</strong><br>势平，方能立身。</p>
+    <p><strong>Transformation defines efficiency.</strong><br>善化，方能有得。</p>
+    <p><strong>Parallelism defines capacity.</strong><br>并行，方能致远。</p>
+    <p><strong>Time defines destiny.</strong><br>积久，方能成运。</p>
+  </div>
+  <p class="doctrine-link">Click to explore the full doctrine →</p>
+</a>
 
 ## Community & Volunteering
 
