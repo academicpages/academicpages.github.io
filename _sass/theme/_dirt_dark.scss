@@ -1,0 +1,65 @@
+/* ==========================================================================
+   DIRT THEME - DARK VERSION
+   ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #b49368;
+$dark-primary-color         : mix(#000, $primary-color, 40%);
+$darker-primary-color       : mix(#000, $primary-color, 60%);
+$light-primary-color        : mix(#fff, $primary-color, 50%);
+$lighter-primary-color      : mix(#fff, $primary-color, 90%);
+$background                 : #231e18;
+$background-light           : #302b25;
+$background-lighter         : #48413a;
+$text                      : #e4d4c8;
+$text-muted                : #cabcb1;
+$link                      : #d7c8bc;
+$link-dark                 : #e4d4c8;
+$link-light                : #b4a490;
+$footer                    : #302b25;
+$border                    : #48413a;
+$border-light              : #5c5346;
+$accent-color              : #b49368;
+
+/* Color codes used for the site */
+$danger-color               : #d35c5c;
+$info-color                 : #88a4d3;
+$notice-color               : #ca7f32;
+$success-color              : #b7ba53;
+$warning-color              : #e0ac16;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Dark theme for the site */
+html[data-theme="dark"] {
+  --global-base-color                 : #{$background};
+  --global-bg-color                   : #{$background};
+  --global-footer-bg-color            : #{$footer};
+  --global-border-color               : #{$border};
+  --global-dark-border-color          : #{$border-light};
+  --global-code-background-color      : #{$background-light};
+  --global-code-text-color            : #{$text-muted};
+  --global-fig-caption-color          : #{$text-muted};
+  --global-link-color                 : #{$link};
+  --global-link-color-hover           : #{$link-dark};
+  --global-link-color-visited         : #{$link-light};
+  --global-masthead-link-color        : #{$text};
+  --global-masthead-link-color-hover  : #{$accent-color};
+  --global-text-color                 : #{$text};
+  --global-text-color-light           : #{$text-muted};
+  --global-thead-color                : #{$background-lighter};
+}
+
+/* Footer styling for dark mode */
+html[data-theme="dark"] {
+  footer {
+    color: #{$text};
+  }
+}
