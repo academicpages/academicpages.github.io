@@ -1,6 +1,6 @@
 ---
 title: "Stolen Name: How Software Erases Identity"
-date: 2025-10-14
+date: 2025-11-04
 permalink: /posts/2025/11/stolen-name/
 tags:
   - software
