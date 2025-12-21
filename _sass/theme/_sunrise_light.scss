@@ -1,0 +1,63 @@
+/* ==========================================================================
+   SUNRISE THEME - LIGHT VERSION
+   ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #fc3a52;
+$dark-primary-color         : mix(#000, $primary-color, 40%);
+$darker-primary-color       : mix(#000, $primary-color, 60%);
+$light-primary-color        : mix(#fff, $primary-color, 50%);
+$lighter-primary-color      : mix(#fff, $primary-color, 90%);
+$background                 : #e8d5b7;
+$background-light           : mix(#fff, $background, 20%);
+$background-lighter        : #ffffff;
+$text                      : #000000;
+$text-muted                : #0e2431;
+$link                      : mix(#000, $primary-color, 10%);
+$link-dark                 : mix(#000, $link, 25%);
+$link-light                : mix(#fff, $link, 25%);
+$footer                    : #f9b248;
+$border                    : mix(#000, $background, 20%);
+$border-dark               : mix(#000, $background, 30%);
+
+/* Color codes used for the site */
+$danger-color               : #cc6666;
+$info-color                 : #81a2be;
+$notice-color               : #de935f;
+$success-color              : #b5bd68;
+$warning-color              : #f0c674;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Light theme for the site */
+:root {
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$footer};
+    --global-border-color               : #{$border};
+    --global-dark-border-color          : #{$border-dark};
+    --global-code-background-color      : #{$background-light};
+    --global-code-text-color            : #{$text-muted};
+    --global-fig-caption-color          : #{$text-muted};
+    --global-link-color                 : #{$link};
+    --global-link-color-hover           : #{$link-light};
+    --global-link-color-visited         : #{$link-dark};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$text-muted};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #{$text-muted};
+    --global-thead-color                : #{$background-light};
+}
+
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+    color: inherit;
+}
+
