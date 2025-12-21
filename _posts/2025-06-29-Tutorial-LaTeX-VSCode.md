@@ -8,7 +8,7 @@ tags:
   - vscode
 ---
 
-This post is a quick guide to setting up LaTeX on your own computer, so you can write papers, resumes, or [dazzling "class notes"](https://github.com/junruren/MIT-Classes) using LaTeX **locally**—without relying on Internet connectivity. In other words, you won't be tied to [Overleaf](https://www.overleaf.com/): you can bring your laptop anywhere and keep working on your next big ideas.
+This post is a quick guide to setting up LaTeX on your own computer, so you can write papers, resumes, or [dazzling "class notes"](https://github.com/junruren/MIT-Classes) using LaTeX **locally**—without relying on internet connectivity. In other words, you won't be tied to [Overleaf](https://www.overleaf.com/): you can bring your laptop anywhere and keep working on your next big ideas.
 
 ## Why not Overleaf?
 
@@ -38,7 +38,7 @@ This is where a local setup shines. While Overleaf is truly a crucial product in
 **Disclaimer:** I am a heavy macOS user, so for the rest of this guide, I'll do my best to mention what might be different on Windows. (If you use Unix, this guide _may_ already not be needed for you!) 
 {: .notice}
 
-## TLDR
+## TL;DR
 
 My local setup is: VS Code + the "LaTeX Workshop" extension for VS Code + TeX Live.
 

@@ -46,7 +46,7 @@ The point isn't that Chinese names are uniquely tricky; it's that a single schem
 
 * Some Indonesians and Burmese people have mononyms: no family name at all.
 * Icelandic names are primarily patronymic/matronymic, not stable family surnames.
-  * A favorite example: the Icelandic-Chinese jazz superstar [Laufey](https://en.wikipedia.org/wiki/Laufey_(singer)). Her full name is **Laufey Lín Bing Jónsdóttir** where **Jónsdóttir = Jón + s + dóttir**, meaning "daughter of Jón." Her Chinese name 林冰 (Lin, Bing) is proundly included, with Lin being her mother's family name. Interestingly, her twin sister **Júnía Lín Hua Jónsdóttir** appears as "Júnía Lin" in production credits.
+  * A favorite example: the Icelandic-Chinese jazz superstar [Laufey](https://en.wikipedia.org/wiki/Laufey_(singer)). Her full name is **Laufey Lín Bing Jónsdóttir** where **Jónsdóttir = Jón + s + dóttir**, meaning "daughter of Jón." Her Chinese name 林冰 (Lin, Bing) is proudly included, with Lin being her mother's family name. Interestingly, her twin sister **Júnía Lín Hua Jónsdóttir** appears as "Júnía Lin" in production credits.
 * Many Spanish-speaking cultures use two family names (paternal and maternal).
 * In parts of India, name order and presence of a family name vary widely by region and language.
 
@@ -65,7 +65,7 @@ When names are written in Chinese characters, the segmentation problem mostly di
 | ![Sample image of a Hong Kong Permanent Identity Card (Source: Wikimedia)](https://upload.wikimedia.org/wikipedia/commons/4/47/Hong_Kong_ID_card_front_side.png) | **Hong Kong**: the Chinese line shows characters together; the English line separates with a comma between family and given names. |
 | ![Sample image of a Macau Permanent Identity card (Source: Wikimedia)](https://upload.wikimedia.org/wikipedia/commons/b/bf/MacaoID2023.jpg) | **Macau** is a notable case where the card's design explicitly separates family and given name fields. |
 
-These examples (Macau aside) illustrate a key idea: in the native script, names are treated as a single unit; the friction arises during romanization and in systems that overfit to another schemas.
+These examples (Macau aside) illustrate a key idea: in the native script, names are treated as a single unit; the friction arises during romanization and in systems that overfit to another schema.
 
 ## Flip the Table
 
