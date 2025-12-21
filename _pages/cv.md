@@ -31,10 +31,10 @@ redirect_from:
 ## Work experience
 
 ### [Nike](https://about.nike.com/)
-* Research Fellow, _2025_
-  * Leading product development for a **multi-agent negotiation simulator** leveraging **Agentic AI** to unearth efficiency gains in $8B annual materials spending.
-  * Partnering with stakeholders to define product vision and requirements, translating insights from **30+ subject matter expert interviews** into R&D roadmaps.
-  * Driving iterative improvements on **simulation fidelity**, agent behaviors, and **internal user experience**.
+* AI Research Fellow, _2025_
+  * Led product development for a **multi-agent negotiation simulator** leveraging **Agentic AI** to unearth efficiency gains in $8B annual materials spending.
+  * Partnered with stakeholders to define product vision and requirements, translating insights from **30+ subject matter expert interviews** into R&D roadmaps.
+  * Drove iterative improvements on **simulation fidelity**, agent behaviors, and **internal user experience**.
 
 ### [SoundHound AI](https://soundhound.com)
 * Senior Software Engineer / Tech Lead, _2023 - 2024_
