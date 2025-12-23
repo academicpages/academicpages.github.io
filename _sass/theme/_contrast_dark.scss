@@ -34,7 +34,7 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
-  --global-base-color                 : #{$background};
+  --global-base-color                 : #{$primary-color};
   --global-bg-color                   : #{$background};
   --global-footer-bg-color            : #{$footer};
   --global-border-color               : #{$border};
@@ -46,7 +46,7 @@ html[data-theme="dark"] {
   --global-link-color-hover           : #{$link-dark};
   --global-link-color-visited         : #{$link-light};
   --global-masthead-link-color        : #{$text};
-  --global-masthead-link-color-hover  : #{$link-dark};
+  --global-masthead-link-color-hover  : #{$primary-color};
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$background-lighter};
@@ -67,11 +67,6 @@ html[data-theme="dark"] {
   }
 
   .page__footer {
-    color: #ffffff;
-  }
-
-  .page__footer-follow .social-icons i,
-  .page__footer-follow .social-icons .svg-inline--fa {
-    color: inherit;
+    color: #{$text};
   }
 }

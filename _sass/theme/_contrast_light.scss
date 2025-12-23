@@ -38,7 +38,7 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Light theme for the site */
 :root {
-  --global-base-color                 : #{$text};
+  --global-base-color                 : #{$primary-color};
   --global-bg-color                   : #{$background};
   --global-footer-bg-color            : #{$footer};
   --global-border-color               : #{$border};
@@ -50,7 +50,7 @@ $sidebar-screen-min-width   : 1024px;
   --global-link-color-hover           : #{$link-dark};
   --global-link-color-visited         : #{$primary-color};
   --global-masthead-link-color        : #{$text};
-  --global-masthead-link-color-hover  : #{$text-muted};
+  --global-masthead-link-color-hover  : #{$primary-color};
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$border};
@@ -71,4 +71,10 @@ $sidebar-screen-min-width   : 1024px;
 
 footer {
   color: #ffffff;
+}
+
+// Do not change the color of the social icons in the feed icons
+.page__footer-follow .social-icons i:not(.fa-rss-square),
+.page__footer-follow .social-icons .svg-inline--fa:not(.fa-rss-square) {
+  color: inherit;
 }

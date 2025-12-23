@@ -1,7 +1,6 @@
-
 /* ==========================================================================
-   MINT THEME - LIGHT VERSION
-   ========================================================================== */
+  MINT THEME - LIGHT VERSION
+  ========================================================================== */
 /* Color codes used for the theme */
 $primary-color              : #11999e;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
@@ -55,9 +54,11 @@ $sidebar-screen-min-width   : 1024px;
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$lighter-primary-color};
+
 }
 
 footer {
   color: #{$text};
 }
+
 
