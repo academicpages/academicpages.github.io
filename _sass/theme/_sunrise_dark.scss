@@ -1,0 +1,59 @@
+/* ==========================================================================
+   SUNSET THEME 
+   ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #ff8793;
+$dark-primary-color         : #ff5568;
+$darker-primary-color       : #d4741f;
+$light-primary-color        : #ffb3bb;
+$lighter-primary-color      : #ffd4d9;
+$background                 : #1a0f0a;
+$background-light           : #2d1912;
+$background-lighter        : #3d2a1a;
+$text                      : #e8d5b7;
+$text-muted                : #b8a590;
+$link                      : #ff8793;
+$link-hover                : #ffb3bb;
+$link-visited              : #ff5568;
+$footer                    : #2d1912;
+$border                    : #3d2a1a;
+$border-dark               : #5a3f28;
+$code-bg                   : #0d0806;
+$code-bg-dark              : #0f0907;
+
+/* Color codes used for the site */
+$danger-color               : #ff6b7f;
+$info-color                 : #52adc8;
+$notice-color               : #f9b248;
+$success-color              : #78c978;
+$warning-color              : #f9b248;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(255, 255, 255, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Sunset dark theme CSS variables */
+html[data-theme="dark"] {
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$footer};
+    --global-border-color               : #{$light-primary-color};
+    --global-dark-border-color          : #{$background-light};
+    --global-code-background-color      : #{$code-bg};
+    --global-code-text-color            : #{$text};
+    --global-fig-caption-color          : #{$text-muted};
+    --global-link-color                 : #{$link};
+    --global-link-color-hover           : #{$link-hover};
+    --global-link-color-visited         : #{$link-visited};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$link-hover};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #{$text-muted};
+    --global-thead-color                : #{$background-lighter};
+}
