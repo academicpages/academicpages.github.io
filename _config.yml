@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Will Troske"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "He/Him"  
+  bio              : "Environmental Economist interested in the behavioral response behind policy"
   location         : "Davis, CA"
   employer         : "University of California, Davis"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
