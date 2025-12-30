@@ -54,7 +54,7 @@ var toggleTheme = () => {
 // Read the Plotly data from the code block, hide it, and render the chart as new node. This allows for the 
 // JSON data to be retrieve when the theme is switched. The listener should only be added if the data is 
 // actually present on the page.
-//import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';
+import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';
 let plotlyElements = document.querySelectorAll("pre>code.language-plotly");
 if (plotlyElements.length > 0) {
   document.addEventListener("readystatechange", () => {
@@ -138,28 +138,5 @@ $(document).ready(function () {
   $("a").smoothScroll({
     offset: -scssMastheadHeight,
     preventDefault: false,
-  });
-});
-
-document.addEventListener("DOMContentLoaded", function () {
-  const byCategory = document.getElementById("pub-by-category");
-  const byYear = document.getElementById("pub-by-year");
-  const btnCategory = document.getElementById("view-by-category");
-  const btnYear = document.getElementById("view-by-year");
-
-  if (!byCategory || !byYear) return;
-
-  btnCategory.addEventListener("click", () => {
-    byCategory.style.display = "block";
-    byYear.style.display = "none";
-    btnCategory.classList.add("active");
-    btnYear.classList.remove("active");
-  });
-
-  btnYear.addEventListener("click", () => {
-    byCategory.style.display = "none";
-    byYear.style.display = "block";
-    btnYear.classList.add("active");
-    btnCategory.classList.remove("active");
   });
 });

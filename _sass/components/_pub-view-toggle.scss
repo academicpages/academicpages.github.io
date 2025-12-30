@@ -1,0 +1,32 @@
+.pub-view-toggle {
+  display: flex;
+  justify-content: flex-end; /* 👉 오른쪽 정렬 */
+  gap: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.pub-view-toggle button {
+  background: none;
+  border: 1px solid #ddd;
+  padding: 0.35rem 0.9rem;
+  margin-right: 0.4rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.pub-view-toggle button.active {
+  background: #111;
+  color: #fff;
+  border-color: #111;
+}
+
+[data-theme="dark"] .pub-view-toggle button {
+  border-color: #555;
+  color: #ddd;
+}
+
+[data-theme="dark"] .pub-view-toggle button.active {
+  background: #fff;
+  color: #000;
+}

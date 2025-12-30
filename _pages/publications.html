@@ -10,12 +10,12 @@ classes: publications
 {% include base_path %}
 
 <div class="pub-view-toggle">
-  <button id="view-by-category" class="active">By Category</button>
-  <button id="view-by-year">By Year</button>
+  <button id="view-by-year" class="active">By Year</button>
+  <button id="view-by-category">By Category</button>
 </div>
 
 <!-- Category view -->
-<div id="pub-by-category">
+<div id="pub-by-category" style="display:none">
   {% if site.publication_category %}
     {% for category in site.publication_category %}
       {% assign title_shown = false %}
@@ -38,9 +38,19 @@ classes: publications
 </div>
 
 <!-- Year view -->
-<div id="pub-by-year" style="display:none">
+<div id="pub-by-year">
   {% assign posts_by_year = site.publications | sort: "date" | reverse %}
+  {% assign current_year = "" %}
+
   {% for post in posts_by_year %}
+    {% assign post_year = post.date | date: "%Y" %}
+
+    {% if post_year != current_year %}
+      <h2 class="pub-year">{{ post_year }}</h2>
+      <hr class="pub-year-divider" />
+      {% assign current_year = post_year %}
+    {% endif %}
+
     {% include archive-single.html %}
   {% endfor %}
 </div>

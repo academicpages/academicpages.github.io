@@ -1,0 +1,43 @@
+/* ===== clean site nav ===== */
+.site-nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+/* 타이틀 왼쪽 */
+.site-title {
+  margin-right: auto;
+  font-weight: 600;
+}
+
+/* 메뉴 오른쪽 */
+.site-menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-menu li {
+  margin-left: 1.2rem;
+}
+
+/* 모바일 버튼 */
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  margin-left: 1rem;
+}
+
+/* 모바일 */
+@media (max-width: 925px) {
+  .site-menu {
+    display: none;
+  }
+  .menu-toggle {
+    display: block;
+  }
+}
