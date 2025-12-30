@@ -1,0 +1,58 @@
+.page.cv {
+    .archive {
+        width: 80%;
+        margin: 0 auto;
+        float: none;
+        padding-right: 0;
+
+        @media (min-width: 80em) {
+        width: 70%;
+    }
+    }
+
+    h2 {
+        margin-top: 2.4rem;
+        padding-bottom: 0.35rem;
+        border-bottom: 1px solid var(--global-border-color);
+        font-size: 1.25rem;
+        letter-spacing: 0.02em;
+    }
+
+    /* 한 줄: 로고 왼쪽 / 텍스트 오른쪽 */
+    .cv-item {
+        display: grid;
+        grid-template-columns: 56px 1fr;
+        gap: 1rem;
+        align-items: start;
+        margin: 1.2rem 0;
+    }
+
+    /* 로고 */
+    .cv-logo {
+        width: 48px;
+        height: auto;
+        object-fit: contain;
+        opacity: 0.9;
+        filter: grayscale(10%);
+    }
+
+    /* 텍스트 */
+    .cv-text {
+        line-height: 1.45;
+        color: var(--global-text-color);
+    }
+
+    ul {
+        margin-left: 1.2rem;
+    }
+
+    li {
+        margin-bottom: 0.4rem;
+    }
+    }
+
+    /* dark mode 보정 */
+    [data-theme="dark"] .page.cv h2 {
+    border-bottom-color: rgba(255,255,255,0.25);
+
+}

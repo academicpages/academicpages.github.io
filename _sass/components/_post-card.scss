@@ -1,0 +1,37 @@
+/* ===== Post cards ===== */
+.post-card {
+  padding: 1.2rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+[data-theme="dark"] .post-card {
+  border-bottom-color: #333;
+}
+
+.post-card:hover {
+  background: rgba(0,0,0,0.02);
+}
+
+[data-theme="dark"] .post-card:hover {
+  background: rgba(255,255,255,0.03);
+}
+
+.post-card-title {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.post-card-title a {
+  text-decoration: none;
+}
+
+.post-card-excerpt {
+  margin-top: 0.4rem;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+[data-theme="dark"] .post-card-excerpt {
+  color: #bbb;
+}

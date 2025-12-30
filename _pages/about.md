@@ -18,12 +18,18 @@ I develop **theoretically grounded and empirically robust evaluation frameworks*
 
 ## Latest News
 
+{% assign now_ts = "now" | date: "%s" | plus: 0 %}
+{% assign one_year_ago = now_ts | minus: 31536000 %}
+
 <ul>
-{% for post in site.posts limit:5 %}
-  <li>
-    <strong>{{ post.date | date: "%Y.%m" }}</strong> —
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </li>
+{% for post in site.posts %}
+  {% assign post_ts = post.date | date: "%s" | plus: 0 %}
+  {% if post_ts >= one_year_ago %}
+    <li>
+      <strong>{{ post.date | date: "%Y.%m" }}</strong> —
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endif %}
 {% endfor %}
 </ul>
 

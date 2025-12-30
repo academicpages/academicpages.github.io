@@ -1,0 +1,23 @@
+/* meta info */
+.post-meta {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+[data-theme="dark"] .post-meta {
+  color: #aaa;
+}
+
+.post-meta span + span::before {
+  content: "·";
+  margin: 0 0.4rem;
+}
+
+.page__title {
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 1.2rem;
+}

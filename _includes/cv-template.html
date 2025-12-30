@@ -1,5 +1,4 @@
 {% assign cv = site.data.cv %}
-
 <style>
   .archive {
     width: 80%;
@@ -13,7 +12,51 @@
       width: 70%;
     }
   }
+  
+  .cv-item {
+    display: grid;
+    grid-template-columns: 48px 1fr; /* ← 로고 크기 */
+    column-gap: 1rem;
+    align-items: start;
+    margin: 1.2rem 0;
+  }
+
+  .cv-logo {
+    width: 52px;              /* 실제 이미지 크기 */
+    height: auto;
+    object-fit: contain;
+    opacity: 0.9;
+  }
+  .cv-logo-placeholder {
+    width: 52px;
+    height: 52px;
+  }
+  .cv-text {
+    line-height: 1.45;
+  }
+  .cv-item-subtitle {
+    margin-top: 0.15rem;
+    font-size: 0.95rem;
+  }
+  .cv-company {
+    font-weight: 600;
+    color: #222;
+  }
+  .cv-department {
+    display: block;              /* ← 여기 중요 */
+    font-size: 0.85rem;
+    color: #666;
+  }
+  .page__title {
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #999;
+    margin-bottom: 1.2rem;
+  }
 </style>
+
 
 <div class="cv-container">
   <!-- Basic Information -->
@@ -68,63 +111,131 @@
   </div>
   {% endif %}
   
+  {% if cv.work.size > 0 %}
+  <!-- Work Experience -->
+  <div class="cv-section">
+  <h2>Work Experience</h2>
+  <ul class="cv-list">
+    {% for work in cv.work %}
+    <li class="cv-item">
+
+      {% if work.logo %}
+        <img src="{{ work.logo }}" alt="{{ work.company }} logo" class="cv-logo">
+      {% endif %}
+
+      <div class="cv-text">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ work.company }}</div>
+          <div class="cv-item-date">
+            {{ work.startDate }}{% if work.endDate %} – {{ work.endDate }}{% endif %}
+          </div>
+        </div>
+
+        <div class="cv-item-subtitle">
+          <span class="cv-company">{{ work.position }}</span>
+          {% if work.department %}
+            <span class="cv-department">{{ work.department }}</span>
+          {% endif %}
+        </div>
+
+        {% if work.summary %}
+          <div class="cv-item-detail">{{ work.summary }}</div>
+        {% endif %}
+
+        {% if work.highlights and work.highlights.size > 0 %}
+          <ul class="cv-highlights">
+            {% for highlight in work.highlights %}
+              <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+          </div>
+
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+  {% endif %}
+
+  {% if cv.teaching.size > 0 %}
+  <div class="cv-section">
+    <h2>Teaching</h2>
+    <ul class="cv-list">
+      {% for teaching in cv.teaching %}
+      <li class="cv-item">
+
+        {% if teaching.logo %}
+          <img src="{{ teaching.logo }}" alt="{{ teaching.institution }} logo" class="cv-logo">
+        {% else %}
+          <div class="cv-logo-placeholder"></div>
+        {% endif %}
+
+        <div class="cv-text">
+          <div class="cv-item-header">
+            <div class="cv-item-title">{{ teaching.institution }}</div>
+            <div class="cv-item-date">
+              {{ teaching.startDate }}{% if teaching.endDate %} – {{ teaching.endDate }}{% endif %}
+            </div>
+          </div>
+
+          <div class="cv-item-subtitle">
+            {% if teaching.department %}
+              <span class="cv-company">Dept. of {{ teaching.department }}</span>
+            {% endif %}
+            {% if teaching.course %}
+              <span class="cv-department">{{ teaching.course }}</span>
+            {% endif %}
+          </div>
+
+          {% if teaching.description %}
+            <div class="cv-item-detail">{{ teaching.description }}</div>
+          {% endif %}
+        </div>
+
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+
   {% if cv.education.size > 0 %}
-  <!-- Education -->
   <div class="cv-section">
     <h2>Education</h2>
     <ul class="cv-list">
       {% for education in cv.education %}
       <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ education.area }}</div>
-          <div class="cv-item-date">{{ education.endDate }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ education.institution }}</div>
-          {% if education.gpa %}
-          <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
-          {% endif %}
-          {% if education.courses.size > 0 %}
-          <div class="cv-item-detail">
-            <strong>Courses:</strong> {{ education.courses | join: ", " }}
+
+        {% if education.logo %}
+          <img src="{{ education.logo }}" alt="{{ education.institution }} logo" class="cv-logo">
+        {% else %}
+          <div class="cv-logo-placeholder"></div>
+        {% endif %}
+
+        <div class="cv-text">
+          <div class="cv-item-header">
+            <div class="cv-item-title">{{ education.institution }}</div>
+            <div class="cv-item-date">
+              {{ education.startDate }}{% if education.endDate %} – {{ education.endDate }}{% endif %}
+            </div>
           </div>
+
+          <div class="cv-item-subtitle">
+            <span class="cv-department">{{ education.area }}</span>
+          </div>
+
+          {% if education.gpa %}
+            <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
           {% endif %}
         </div>
+
       </li>
       {% endfor %}
     </ul>
   </div>
   {% endif %}
   
-  {% if cv.work.size > 0 %}
-  <!-- Work Experience -->
-  <div class="cv-section">
-    <h2>Work Experience</h2>
-    <ul class="cv-list">
-      {% for work in cv.work %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ work.position }}</div>
-          <div class="cv-item-date">{{ work.startDate }}{% if work.endDate %} - {{ work.endDate }}{% endif %}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ work.company }}</div>
-          {% if work.summary %}
-          <div class="cv-item-detail">{{ work.summary }}</div>
-          {% endif %}
-          {% if work.highlights.size > 0 %}
-          <ul class="cv-highlights">
-            {% for highlight in work.highlights %}
-            <li>{{ highlight }}</li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
+ 
   
   {% if cv.skills.size > 0 %}
   <!-- Skills -->
@@ -199,31 +310,6 @@
   </div>
   {% endif %}
   
-  {% if cv.teaching.size > 0 %}
-  <!-- Teaching -->
-  <div class="cv-section">
-    <h2>Teaching</h2>
-    <ul class="cv-list">
-      {% for teaching in cv.teaching %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ teaching.course }}</div>
-          <div class="cv-item-date">{{ teaching.date | slice: 0, 4 }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ teaching.institution }}</div>
-          {% if teaching.role %}
-          <div class="cv-item-detail">Role: {{ teaching.role }}</div>
-          {% endif %}
-          {% if teaching.description %}
-          <div class="cv-item-detail">{{ teaching.description }}</div>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
   
   {% if cv.portfolio.size > 0 %}
   <!-- Portfolio -->

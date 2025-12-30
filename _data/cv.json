@@ -1,152 +1,126 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ahrii Kim",
+    "email": "ahriikim{at}ssu.ac.kr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ahrii.github.io",
+    "summary": "Currently employed at Soongsil University. Research interests include NLP and evaluation of language models. Passionate about open source software and reproducible research.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Seoul",
+      "countryCode": "KR",
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=2z9WbxwAAAAJ&hl"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0003-2989-3220"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "trotacodigos",
+        "url": "https://github.com/trotacodigos"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Soongsil University",
+      "department": "AI Convergence & AI Software",
+      "position": "Visiting Professor",
+      "startDate": "2026.01",
+      "endDate": "Present",
+      "logo": "https://i.namu.wiki/i/QyzmAMjrSSjkDfvtJ5pPKWJ3DTv64_uy5gBZ9H2XSK2Ze0hh6K1PweEX9mMwnl8HeKdMdYnorw8DvOAcgNOPKQ.svg"
+    },
+    {
+      "company": "Soongsil University",
+      "department": "AI-Bio Convergence Research Institute",
+      "position": "G-LAMP Postdoctoral Researcher",
+      "startDate": "2025.10",
+      "endDate": "Present",
+      "logo": "https://i.namu.wiki/i/QyzmAMjrSSjkDfvtJ5pPKWJ3DTv64_uy5gBZ9H2XSK2Ze0hh6K1PweEX9mMwnl8HeKdMdYnorw8DvOAcgNOPKQ.svg"
+    },
+    {
+      "company": "Kakao enterprise",
+      "department": "AI Lab & Service",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2021.01",
+      "endDate": "2023.01",
+      "logo": "/images/cv/kakao.png"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Universitat Pompeu Fabra",
+      "area": "Ph.D in Translation & Language Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "2014.10",
+      "endDate": "2019.11",
+      "logo": "/images/cv/upf.png"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Universitat Pompeu Fabra",
+      "area": "M.S. in Translation Studies",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "startDate": "2014.09",
+      "endDate": "2014.08",
+      "logo": "/images/cv/upf.png"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Graduate School of Interpretation & Translation",
+      "area": "M.S. in Translation & Interpretation (ceased)",
+      "startDate": "2012.03",
+      "endDate": "",
+      "logo": "https://i.namu.wiki/i/z-yNs5UIyDmkFsOXtt7O_NkbQV3SrwztT5ElFmDL0aZeE-OHONSVkNhBfsTHlwhMlsQJVyBNOtNGAyWjdw4Bbw.svg"
+    },
+    {
+      "institution": "Hankuk University of Foreign Studies",
+      "area": "B.S. in Spanish Philosophy",
+      "startDate": "2007.03",
+      "endDate": "2011.08",
+      "logo": "https://i.namu.wiki/i/z-yNs5UIyDmkFsOXtt7O_NkbQV3SrwztT5ElFmDL0aZeE-OHONSVkNhBfsTHlwhMlsQJVyBNOtNGAyWjdw4Bbw.svg"
+    }, 
+    {
+      "institution": "Daeil Foreign Language High School",
+      "area": "English & Spanish",
+      "startDate": "2004.03",
+      "endDate": "2007.03",
+      "logo": "https://i.namu.wiki/i/gyJbHCaf-Q52LNXKYeN6Dx5ItiyFjtcglwmY7g-vPgx8e73o1iISeKnQtOA7ScG6URKEGfjixzNyFZtzb51JjQ.webp"
     }
   ],
   "skills": [],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Advanced Python Programming",
+      "institution": "Hankuk University of Foreign Studies",
+      "startDate": "2024",
+      "endDate": "2025",
+      "department": "AI Convergence",
+      "logo": "https://i.namu.wiki/i/z-yNs5UIyDmkFsOXtt7O_NkbQV3SrwztT5ElFmDL0aZeE-OHONSVkNhBfsTHlwhMlsQJVyBNOtNGAyWjdw4Bbw.svg"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
+      "course": "NLP, Advanced Python Programming",
+      "institution": "Hankuk University of Foreign Studies",
+      "startDate": "2021",
+      "endDate": "2023",
+      "department": "ELLT",
+      "logo": "https://i.namu.wiki/i/z-yNs5UIyDmkFsOXtt7O_NkbQV3SrwztT5ElFmDL0aZeE-OHONSVkNhBfsTHlwhMlsQJVyBNOtNGAyWjdw4Bbw.svg"
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+      "course": "NLP in Spanish",
+      "institution": "Korea University",
+      "startDate": "2022",
+      "department": "Graduate School of Spanish Language & Literature",
+      "logo": "https://www.korea.ac.kr/sites/ko/images/contents/emblem_1.png"
+    },
+  ],
 }

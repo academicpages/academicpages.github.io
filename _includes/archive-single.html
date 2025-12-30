@@ -51,16 +51,24 @@
 
 {% else %}
 
-  <!-- 기존 blog / post 기본 출력 -->
-  <div class="{{ include.type | default: "list" }}__item">
-    <article class="archive__item">
-      <h2 class="archive__item-title">
-        <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
-      </h2>
-      {% if post.excerpt %}
-        <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+  <!-- blog / posts 카드 UI -->
+  <article class="post-card">
+    <h2 class="post-card-title">
+      <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
+    </h2>
+
+    <div class="post-meta">
+      <span>{{ post.date | date: "%Y.%m.%d" }}</span>
+      {% if post.tags %}
+        <span>{{ post.tags | join: ", " }}</span>
       {% endif %}
-    </article>
-  </div>
+    </div>
+
+    {% if post.excerpt %}
+      <p class="post-card-excerpt">
+        {{ post.excerpt | strip_html | truncate: 160 }}
+      </p>
+    {% endif %}
+  </article>
 
 {% endif %}
