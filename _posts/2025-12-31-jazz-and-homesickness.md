@@ -49,17 +49,20 @@ After my freshman year, whenever I flew home to reunite with my family, **I bega
 
 ## Trans-Pacific Commutes
 
-Between my hometown of Shenzhen and my college town of San Diego, flights operated by Cathay Pacific between Hong Kong and Los Angeles became my go-to route for holidays and returns to school. After those early homesick moments, departures grew heavier each time. On board one such flight, smooth jazz piano flowed through the in-flight entertainment system into my headset. As the GE90 engines mounted on the Boeing 777-300ER roared down the runway at HKG, my anxiety about leaving home was gently soothed by the music.
+Between my hometown of Shenzhen and my college town of San Diego, flights operated by Cathay Pacific between Hong Kong and Los Angeles became my go-to route for holidays and returns to school. After those early homesick moments, I started associating a Cathay Pacific flight with going back home (regardless of the direction of a flight).
 
-Curious, I tapped through the IFE screen in front of me. The artist was Beegie Adair.
+On board a home-bound flight in my sophomore year, smooth jazz piano flowed through the in-flight entertainment system into my headset Curious, I tapped through the IFE screen in front of me. The artist was Beegie Adair.
 
 Elegant, melodic, sophisticated, yet approachable. That was Beegie's musical style.
 
-If I remember correctly, the album playing was ["Beegie Adair & Friends: Cocktail Party Jazz 2"](https://beegieadair.com/album/338049/cocktail-party-jazz-2). Some might label it "lounge music" (and it certainly can be), but that first immersion carried me through a quietly sentimental journey [^1].
+The album playing was ["Beegie Adair & Friends: Cocktail Party Jazz 2"](https://beegieadair.com/album/338049/cocktail-party-jazz-2). Some might label it "lounge music" (and it certainly can be), but that first immersion carried me through a quietly sentimental journey [^1].
 
-By the time the wheels touched down in LAX, the same album was still rolling on my IFE.
+![Actual photo I took of the IFE screen with the exact album](/images/2025-12-31-jazz-and-homesickness/IFE-with-Beegie.jpeg)
+> Actual photo I took of the IFE screen with the exact album. I cannot believe I actually took this photo on that flight. (Well, I sure took it so that I could search for the album after landing.)
 
-**Random but tangible**: from that point on, hearing Beegie Adair's music became associated, in my mind, with being on board a Cathay flight, and being on board a Cathay flight became associated with going home. Yes, I first heard her music on a flight *away* from home, but that detail hardly mattered. It is difficult to explain how my mind formed this two-stage connection, though I likely reinforced it by deliberately replaying the same album on subsequent Cathay flights. The impression from that first listen was simply too strong.
+By the time the wheels touched down, the same album was still rolling on my IFE.
+
+**Random but tangible**: from that point on, hearing Beegie Adair's music became associated, in my mind, with being on board a Cathay flight, and being on board a Cathay flight became associated with going home. It is difficult to explain how my mind formed this two-stage connection, though I likely reinforced it by deliberately replaying the same album on subsequent Cathay flights, regardless of the direction of travel. The impression from that first listen was simply too strong.
 
 ## Into Jazz
 
