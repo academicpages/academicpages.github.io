@@ -2,7 +2,7 @@
 title: 'Jazz and Homesickness'
 date: 2025-12-31
 permalink: /posts/2025/12/jazz-and-homesickness/
-published: false
+published: true
 tags:
   - personal
   - music
