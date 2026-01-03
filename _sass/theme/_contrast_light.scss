@@ -15,7 +15,7 @@ $text-muted                : #404040;
 $link                      : #0000ff;
 $link-dark                 : #0000cc;
 $link-light                : #3333ff;
-$footer                    : #000000;
+$footer                    : #ffffff;
 $border                    : #c0c0c0;
 $border-dark               : #808080;
 
@@ -69,8 +69,8 @@ $sidebar-screen-min-width   : 1024px;
   }
 }
 
-footer {
-  color: #ffffff;
+html:not([data-theme="dark"]) footer {
+  color: #000000;
 }
 
 // Do not change the color of the social icons in the feed icons
