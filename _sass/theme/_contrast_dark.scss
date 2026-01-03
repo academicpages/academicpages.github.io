@@ -50,6 +50,7 @@ html[data-theme="dark"] {
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$background-lighter};
+  --global-toc-bg-color               : #{$background-light};
 }
 
 /* Override notice colors for high contrast in dark mode */

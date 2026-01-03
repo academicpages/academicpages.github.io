@@ -54,6 +54,7 @@ $sidebar-screen-min-width   : 1024px;
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$border};
+  --global-toc-bg-color               : #{$background-light};
 }
 
 /* Override notice colors for high contrast */
