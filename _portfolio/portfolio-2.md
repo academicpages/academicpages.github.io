@@ -8,12 +8,12 @@ This project focuses on the development of an **intelligent human zone tracking 
 
 The system processes **recorded video streams** to identify humans and determine whether they working, or remain within specific regions of interest. By combining image processing, **object detection**, and **face identification**, the project demonstrates a practical approach to vision-based situational awareness.
 
-Highlights: <br/><br/>
-- **Human Detection and Tracking:** Implemented robust human detection and tracking using computer vision algorithms to monitor movement across frames. <br/>
+Highlights: <br/>
+- **Human Detection and Tracking:** Implemented robust human detection and tracking using computer vision algorithms to monitor movement across frames. 
 
 - **Zone-Based Analysis:** Defined virtual zones within the camera frame to analyze human presence. <br/>
 
-- **Practical Applications:** Applicable to security systems, smart buildings, industrial safety monitoring, and human–machine interaction scenarios. <br/>
+- **Practical Applications:** Applicable to security systems, smart buildings, industrial safety monitoring, and human–machine interaction scenarios. 
 
 ### Program realization:
 
