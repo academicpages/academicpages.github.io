@@ -14,6 +14,8 @@ $link-light                : #ff73fd;
 $footer                    : #000000;
 $border                    : #4d4d4d;
 $border-light              : #666666;
+$selection-bg              : #264f78;
+$selection-text            : #ffffff;
 
 /* Color codes used for the site */
 $danger-color               : #ff6c60;
@@ -50,6 +52,20 @@ html[data-theme="dark"] {
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$background-lighter};
+  --global-toc-bg-color               : #{$background-light};
+  --global-selection-bg-color         : #{$selection-bg};
+  --global-selection-text-color       : #{$selection-text};
+}
+
+/* Text selection styling for dark theme */
+html[data-theme="dark"] ::selection {
+  background-color: var(--global-selection-bg-color);
+  color: var(--global-selection-text-color);
+}
+
+html[data-theme="dark"] ::-moz-selection {
+  background-color: var(--global-selection-bg-color);
+  color: var(--global-selection-text-color);
 }
 
 /* Override notice colors for high contrast in dark mode */

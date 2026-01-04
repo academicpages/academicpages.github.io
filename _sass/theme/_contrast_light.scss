@@ -15,9 +15,11 @@ $text-muted                : #404040;
 $link                      : #0000ff;
 $link-dark                 : #0000cc;
 $link-light                : #3333ff;
-$footer                    : #000000;
+$footer                    : #ffffff;
 $border                    : #c0c0c0;
 $border-dark               : #808080;
+$selection-bg              : #b3d4fc;
+$selection-text            : #000000;
 
 /* Color codes used for the site */
 $danger-color               : #ff0000;
@@ -54,6 +56,20 @@ $sidebar-screen-min-width   : 1024px;
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$border};
+  --global-toc-bg-color               : #{$background-light};
+  --global-selection-bg-color         : #{$selection-bg};
+  --global-selection-text-color       : #{$selection-text};
+}
+
+/* Text selection styling for light theme */
+::selection {
+  background-color: var(--global-selection-bg-color);
+  color: var(--global-selection-text-color);
+}
+
+::-moz-selection {
+  background-color: var(--global-selection-bg-color);
+  color: var(--global-selection-text-color);
 }
 
 /* Override notice colors for high contrast */
@@ -69,8 +85,8 @@ $sidebar-screen-min-width   : 1024px;
   }
 }
 
-footer {
-  color: #ffffff;
+html:not([data-theme="dark"]) footer {
+  color: #000000;
 }
 
 // Do not change the color of the social icons in the feed icons

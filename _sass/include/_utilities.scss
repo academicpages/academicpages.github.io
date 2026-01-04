@@ -54,7 +54,7 @@ body:hover .visually-hidden button {
   font-size: 1em;
   font-weight: bold;
   padding: 15px 23px 14px;
-  background: #fff;
+  background: var(--global-text-color);
   z-index: 100000;
   text-decoration: none;
   box-shadow: 0 0 2px 2px rgba(0,0,0,.6);
@@ -441,7 +441,7 @@ body:hover .visually-hidden button {
   margin-top: -150px;
   min-height: 0;
   z-index: 9999;
-  background: #fff;
+  background: var(--global-text-color);
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
