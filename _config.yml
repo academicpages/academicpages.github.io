@@ -8,8 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+main
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "mexatur"
+
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Your Name / Site Title"
+master
 title_separator          : "-"
 name                     : &name "Mehmet Akif Turhan"
 description              : &description "Mehmet Akif Turhan's personal website."   # Update this with a general description of your site, this is the default if not overridden by a page

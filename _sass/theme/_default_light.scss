@@ -1,8 +1,8 @@
 /* ==========================================================================
-   DEFAULT THEME
-   ========================================================================== */
-
+    DEFAULT THEME - LIGHT VERSION
+    ========================================================================== */
 /* Color codes used for the theme */
+$primary-color              : #2f7f93;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -28,7 +28,7 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-    --global-base-color                 : #{$gray};
+    --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #fff;
     --global-footer-bg-color            : #f2f3f3;
     --global-border-color               : #{$lighter-gray};
@@ -45,3 +45,4 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
 }
+
