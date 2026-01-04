@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Development of multirobot painting control system with realtime monitoring"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
