@@ -1,7 +1,15 @@
 ---
 title: "Intelligent Human-Zone Tracking using Computer Vision"
-excerpt: "A real-time safety monitoring system for hazardous industrial zones that detects people, verifies safety-vest compliance, and tracks dwell-time in danger areas—raising instant alerts when safety rules are violated. <br/> ![elevator_dog_wme](https://github.com/user-attachments/assets/553a5174-18b3-4448-ac30-46820a85627a)"
+excerpt: "
+A real-time safety monitoring system for hazardous industrial zones that detects people, verifies safety-vest compliance, and tracks dwell-time in danger areas—raising instant alerts when safety rules are violated.
+<br/>
+<div style='width:580px;height:580px;overflow:hidden;'>
+  <img src='https://github.com/user-attachments/assets/553a5174-18b3-4448-ac30-46820a85627a'
+       style='width:100%;height:100%;object-fit:cover;'>
+</div>
+"
 collection: portfolio
+
 ---
 
 This project focuses on the development of an **intelligent human zone tracking system using computer vision techniques**. **The goal of the system** is to **detect human presence**, count **working time**, and analyze **interactions** within predefined spatial zones, which is highly relevant for applications in smart environments, safety monitoring, and automation systems.
