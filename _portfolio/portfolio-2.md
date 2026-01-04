@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Human-Zone Tracking using Computer Vision"
-excerpt: "A real-time safety monitoring system for hazardous industrial zones that detects people, verifies safety-vest compliance, and tracks dwell-time in danger areas—raising instant alerts when safety rules are violated. <br/><img src='/images/com_vision_port_2.png' width='500' height='300' alt='Human Zone Tracking'>"
+excerpt: "A real-time safety monitoring system for hazardous industrial zones that detects people, verifies safety-vest compliance, and tracks dwell-time in danger areas—raising instant alerts when safety rules are violated. <br/><img src='/images/com_vision_port_2.png' alt='Human Zone Tracking'>"
 collection: portfolio
 ---
 
