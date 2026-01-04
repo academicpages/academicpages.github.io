@@ -10,9 +10,7 @@ The system processes **recorded video streams** to identify humans and determine
 
 Highlights: <br/>
 - **Human Detection and Tracking:** Implemented robust human detection and tracking using computer vision algorithms to monitor movement across frames. 
-
 - **Zone-Based Analysis:** Defined virtual zones within the camera frame to analyze human presence. <br/>
-
 - **Practical Applications:** Applicable to security systems, smart buildings, industrial safety monitoring, and human–machine interaction scenarios. 
 
 ### Program realization:
