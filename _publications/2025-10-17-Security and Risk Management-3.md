@@ -1,41 +1,12 @@
 ---
 title: "Security and Risk Management"
 collection: publications
-category: Essays
+category: MSc. CyberSecurity
 excerpt: 'Risk Management - Governance, laws, industry standards and Regulations, Threat modeling, and more.'
 ---
 
-
-This section is used to summarize some of the key concepts I have learned in the programme
-
-[Text]
-
-## Learning Outcome
-
-[Text]
-
-## Practical Application
-
-[Text]
-
-## Critical Reflection
-
-[Text]
-
-## Learning Process
-
-[Text]
-
-## Broader Context
-
-[Text]
-
-## Future Direction
-
-[Text]
-
-
 <br>
+This section is used to summarize some of the key concepts I have learned in this semester
 <br>
 
 #### Essays
@@ -56,11 +27,22 @@ This section is used to summarize some of the key concepts I have learned in the
 - [Initial Post - Peer Response 2 An Introduction to Security and Risk Management](https://am25251.github.io/e-portfolio/files/Peer_Response_2_An_Introduction_to_Security_and_Risk_Management.pdf).
 - [Initial Post - Summary An Introduction to Security and Risk Management](https://am25251.github.io/e-portfolio/files/Summary_An_Introduction_to_Security_and_Risk_Management.pdf).
 
+<br>
+
+#### Code
+
 
 <br>
 <br>
 
-Feedback (tutor)
+#### Reflective Summary
+
+- [Unit_12_End_of_Module_Assignment_E-Portfolio_Submission v3](https://am25251.github.io/e-portfolio/files/l.pdf).
+
+<br>
+<br>
+
+#### Feedback (tutor)
 
 <details>
 text text text
@@ -69,5 +51,3 @@ text text text
 </details>
   
 #### Result XX % (text)
-
-
