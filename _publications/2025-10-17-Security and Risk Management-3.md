@@ -9,14 +9,10 @@ excerpt: 'Risk Management - Governance, laws, industry standards and Regulations
 This section is used to summarize some of the key concepts I have learned in this semester
 <br>
 
-#### Essays
-
-- [A Report by a Security and Risk Management team ISO-IEC 27005 - ISO 3100-2018](https://am25251.github.io/e-portfolio/files/A_Report_by_a_Security_and_Risk_Management_team_ISO-IEC_27005_-_ISO_3100-2018_Final.pdf).
-
 
 #### Reports
 
-
+- [A Report by a Security and Risk Management team ISO-IEC 27005 - ISO 3100-2018](https://am25251.github.io/e-portfolio/files/A_Report_by_a_Security_and_Risk_Management_team_ISO-IEC_27005_-_ISO_3100-2018_Final.pdf).
 - [E-Portfolio Activity GDPR Case Studies Excessive Data Collection by An-Post](https://am25251.github.io/e-portfolio/files/e-Portfolio_Activity_GDPR_Case_Studies_Excessive_Data_Collection_by_An-Post.pdf).
 - [Wiki Activity Security Frameworks](https://am25251.github.io/e-portfolio/files/Wiki_Activity_Security_Frameworks.pdf).
 
@@ -30,7 +26,8 @@ This section is used to summarize some of the key concepts I have learned in thi
 <br>
 
 #### Code
-
+<details>
+text text text
 
 <br>
 <br>
