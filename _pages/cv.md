@@ -18,6 +18,11 @@ Education
 
 Work experience
 ======
+* Nov. 2025 - Feb. 2026: Graduate Teaching Assistant
+  * The University of Auckland, New Zealand
+  * COMPSCI 120 Mathematics for Computer Science, 26 summer school
+
+
 * Sep. 2021 - Jun. 2022: Administrative Assistant
   * University of Electronic Science and Technology of China
   * Duties includes: Provide comprehensive administrative support for the daily operations of the International Office of Glasgow College. Assist with program coordination, record maintenance, and cross-cultural communication
