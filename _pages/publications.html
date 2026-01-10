@@ -6,43 +6,48 @@ author_profile: false
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar
+    profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
 <div class="pubs-tabs">
   <div class="pubs-tabs__nav" role="tablist" aria-label="Publications sections">
-    <button class="pubs-tabs__btn is-active" role="tab" aria-selected="true" aria-controls="tab-publications" id="tabbtn-publications">Journal Articles</button>
-    <button class="pubs-tabs__btn" role="tab" aria-selected="false" aria-controls="tab-talks" id="tabbtn-talks">Talks</button>
-    <button class="pubs-tabs__btn" role="tab" aria-selected="false" aria-controls="tab-patents" id="tabbtn-patents">Patents</button>
+    <button class="pubs-tabs__btn is-active" role="tab" aria-selected="true" aria-controls="tab-publications"
+      id="tabbtn-publications">Journal Articles</button>
+    <button class="pubs-tabs__btn" role="tab" aria-selected="false" aria-controls="tab-talks"
+      id="tabbtn-talks">Talks</button>
+    <button class="pubs-tabs__btn" role="tab" aria-selected="false" aria-controls="tab-patents"
+      id="tabbtn-patents">Patents</button>
   </div>
 
   <div class="pubs-tabs__panes" tabindex="0">
-    <section class="pubs-tabs__pane" id="tab-publications" role="tabpanel" aria-labelledby="tabbtn-publications">
+    <section class="pubs-tabs__pane is-active" id="tab-publications" role="tabpanel"
+      aria-labelledby="tabbtn-publications">
       {% assign sorted_pubs = site.publications | sort: 'date' %}
       <div class="publications-cards">
-      {% for post in sorted_pubs reversed %}
+        {% for post in sorted_pubs reversed %}
         {% include archive-single.html %}
-      {% endfor %}
+        {% endfor %}
       </div>
     </section>
 
     <section class="pubs-tabs__pane" id="tab-talks" role="tabpanel" aria-labelledby="tabbtn-talks">
       {% assign sorted_talks = site.talks | sort: 'date' %}
       <div class="publications-cards">
-      {% for post in sorted_talks reversed %}
+        {% for post in sorted_talks reversed %}
         {% include archive-single-talk.html %}
-      {% endfor %}
+        {% endfor %}
       </div>
     </section>
 
     <section class="pubs-tabs__pane" id="tab-patents" role="tabpanel" aria-labelledby="tabbtn-patents">
       {% assign sorted_patents = site.patents | sort: 'date' %}
       <div class="publications-cards">
-      {% for post in sorted_patents reversed %}
+        {% for post in sorted_patents reversed %}
         {% include archive-single.html %}
-      {% endfor %}
+        {% endfor %}
       </div>
     </section>
   </div>
@@ -54,26 +59,26 @@ author_profile: false
 </div>
 
 <script>
-  (function() {
+  document.addEventListener("DOMContentLoaded", function () {
     var buttons = Array.prototype.slice.call(document.querySelectorAll('.pubs-tabs__btn'));
     var panes = Array.prototype.slice.call(document.querySelectorAll('.pubs-tabs__pane'));
+
     function activate(idx) {
-      buttons.forEach(function(btn, i){
+      buttons.forEach(function (btn, i) {
         var active = i === idx;
         btn.classList.toggle('is-active', active);
         btn.setAttribute('aria-selected', active ? 'true' : 'false');
       });
-      panes.forEach(function(pane, i){
+      panes.forEach(function (pane, i) {
         pane.classList.toggle('is-active', i === idx);
       });
     }
-    buttons.forEach(function(btn, i){
-      btn.addEventListener('click', function(){ activate(i); });
+
+    buttons.forEach(function (btn, i) {
+      btn.addEventListener('click', function () { activate(i); });
     });
-    // Initialize to first tab
+
+    // Ensure first tab is active on load
     activate(0);
-  })();
+  });
 </script>
-
-
-
