@@ -59,37 +59,46 @@ author_profile: false
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    // Use event delegation to handle clicks on tab buttons
-    // This ensures functionality even if elements are replaced by other scripts
-    document.addEventListener('click', function (e) {
-      if (e.target && e.target.classList.contains('pubs-tabs__btn')) {
-        var btn = e.target;
-        var id = btn.id; // e.g. "tabbtn-publications"
-        var type = id.replace('tabbtn-', ''); // e.g. "publications"
+  (function () {
+    var initTabs = function () {
+      // Use event delegation to handle clicks on tab buttons
+      // This ensures functionality even if elements are replaced by other scripts
+      document.addEventListener('click', function (e) {
+        if (e.target && e.target.classList.contains('pubs-tabs__btn')) {
+          var btn = e.target;
+          var id = btn.id; // e.g. "tabbtn-publications"
+          var type = id.replace('tabbtn-', ''); // e.g. "publications"
 
-        // Update Buttons
-        var allButtons = document.querySelectorAll('.pubs-tabs__btn');
-        allButtons.forEach(function (b) {
-          var isActive = b.id === id;
-          b.classList.toggle('is-active', isActive);
-          b.setAttribute('aria-selected', isActive ? 'true' : 'false');
-        });
+          // Update Buttons
+          var allButtons = document.querySelectorAll('.pubs-tabs__btn');
+          allButtons.forEach(function (b) {
+            var isActive = b.id === id;
+            b.classList.toggle('is-active', isActive);
+            b.setAttribute('aria-selected', isActive ? 'true' : 'false');
+          });
 
-        // Update Panes
-        var allPanes = document.querySelectorAll('.pubs-tabs__pane');
-        allPanes.forEach(function (pane) {
-          var isActive = pane.id === 'tab-' + type;
-          pane.classList.toggle('is-active', isActive);
-        });
+          // Update Panes
+          var allPanes = document.querySelectorAll('.pubs-tabs__pane');
+          allPanes.forEach(function (pane) {
+            var isActive = pane.id === 'tab-' + type;
+            pane.classList.toggle('is-active', isActive);
+          });
+        }
+      });
+
+      // Initial activation (optional, as HTML has default state now)
+      // We only enforce this if no tab is currently active to avoid overriding user state if deep linking existed
+      if (!document.querySelector('.pubs-tabs__btn.is-active')) {
+        var firstBtn = document.querySelector('.pubs-tabs__btn');
+        if (firstBtn) firstBtn.click();
       }
-    });
+    };
 
-    // Initial activation (optional, as HTML has default state now)
-    // We only enforce this if no tab is currently active to avoid overriding user state if deep linking existed
-    if (!document.querySelector('.pubs-tabs__btn.is-active')) {
-      var firstBtn = document.querySelector('.pubs-tabs__btn');
-      if (firstBtn) firstBtn.click();
+    // Robust handling of DOM readiness
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initTabs);
+    } else {
+      initTabs();
     }
-  });
+  })();
 </script>
