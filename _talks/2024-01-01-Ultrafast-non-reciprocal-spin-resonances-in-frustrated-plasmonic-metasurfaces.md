@@ -12,6 +12,7 @@ permalink: /talks/2024-01-01-Ultrafast-non-reciprocal-spin-resonances-in-frustra
 abstract: We demonstrate non-reciprocal spin resonance evolution on picosecond time
   scales via the time resolved magneto-optic Kerr effect at the plasmonic (metal-insulator-metal)
   resonant wavelength of a frustrated Kagome-type Nickel spin-ice metasurface.
+excerpt: "We demonstrate non-reciprocal spin resonance evolution on picosecond time"
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Ultrafast+non+reciprocal+spin+resonances+in+frustrated+plasmonic+metasurfaces){:target="_blank"} for full citation
 

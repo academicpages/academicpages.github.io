@@ -33,9 +33,7 @@ carousel_titles:
   - "Self-Driving Lab"
 ---
 
-<div class="lab-news-desktop-wrapper">
-  {% include lab-news-scroll.html %}
-</div>
+
 
 {% include carousel.html id="lab-carousel" images=page.carousel_images durations=page.carousel_durations titles=page.carousel_titles interval=4000 %}
 
@@ -98,6 +96,7 @@ We invite collaborations with **prospective students**, **CINT users**, and **in
   </div>
 </div>
 
-<div class="lab-news-mobile-wrapper">
+
+<div class="lab-news-wrapper">
   {% include lab-news-scroll.html %}
 </div>

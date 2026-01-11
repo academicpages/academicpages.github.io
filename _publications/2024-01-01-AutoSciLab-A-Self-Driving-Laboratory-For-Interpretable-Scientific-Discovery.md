@@ -25,6 +25,7 @@ abstract: 'Advances in robotic control and sensing have propelled the rise of au
   of the Ising model (NP-hard problem). Applying our framework to an open-ended nanophotonics
   challenge, AutoSciLab uncovers a fundamentally novel method for directing incoherent
   light emission that surpasses the current state-of-the-art (Iyer et al. 2023b, 2020).'
+excerpt: "'Advances in robotic control and sensing have propelled the rise of automated"
 ---
 
 {% include carousels/autoscilab-a-self-driving-laboratory-for-interpretable-scientific-discovery-carousel.html %}

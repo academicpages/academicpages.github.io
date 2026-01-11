@@ -26,6 +26,7 @@ abstract: Aperture near-field microscopy and spectroscopy (a-SNOM) enables the d
   the potential to broaden the application scope of aperture near-field microscopy
   to samples and material systems which currently require improved spatial resolution,
   signal-to-noise ratio, or more complex excitation conditions.
+excerpt: "Aperture near-field microscopy and spectroscopy (a-SNOM) enables the direct"
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Photoconductive+Metasurfaces+for+Near+Field+Terahertz+Sources+and+Detectors){:target="_blank"} for full citation
 

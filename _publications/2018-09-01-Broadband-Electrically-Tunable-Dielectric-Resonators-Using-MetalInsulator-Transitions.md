@@ -27,6 +27,7 @@ abstract: "Dielectric-resonator-based nanophotonic devices show promise owing to
   \ key requirement for metasurface design. We conclude with a temporal characterization,\
   \ in which we achieve rapid electronic modulation rates of approximately 3 kHz,\
   \ substantially faster than other recent approaches. These findings ..."
+excerpt: "\"Dielectric-resonator-based nanophotonic devices show promise owing to their\"
 ---
 [Access paper here](http://dx.doi.org/10.1021/acsphotonics.8b00699){:target="_blank"}
 

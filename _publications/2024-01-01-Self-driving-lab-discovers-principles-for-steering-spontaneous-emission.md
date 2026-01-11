@@ -28,6 +28,7 @@ abstract: 'We developed an autonomous experimentation platform to accelerate int
   combinations of positive gratings and lenses are as effective as negative lenses
   and gratings for all emission angles, offering a novel strategy for controlling
   spontaneous emission beyond conventional Fourier optics.'
+excerpt: "'We developed an autonomous experimentation platform to accelerate interpretable"
 ---
 
 {% include carousels/self-driving-lab-discovers-principles-for-steering-spontaneous-emission-carousel.html %}

@@ -12,4 +12,3 @@ citation: Nikita Butakov, Mark Knight, Tomer Lewi, Prasad Iyer, Hamid Chorsi, Ja
   76th Device Research Conference (DRC), 2018.
 permalink: /talks/2018-06-01-Electrically-Switchable-Infrared-Nanophotonic-Devices-with-VOltinfgt2ltinfgt
 ---
-[Access paper here](https://doi.org/10.1109/drc.2018.8442148){:target="_blank"}

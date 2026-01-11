@@ -25,4 +25,3 @@ abstract: Despite the significant advances made in the field of metamaterials an
   and can enable several applications such as ultra-thin programmable optical devices,
   photodetectors, and on-chip directional antennas.
 ---
-[Access paper here](http://dx.doi.org/10.1117/12.2510408){:target="_blank"}

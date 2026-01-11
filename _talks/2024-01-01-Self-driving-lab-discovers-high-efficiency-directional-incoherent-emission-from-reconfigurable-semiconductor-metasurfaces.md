@@ -15,6 +15,7 @@ abstract: We discover high efficiency (77%) steering of incoherent emission from
   semiconductor metasurfaces by engineering the spatial refractive index profile of
   the metasurface resonators using autonomous experiments driven by generative models
   and active learning.
+excerpt: "We discover high efficiency (77%) steering of incoherent emission from reconfigurable"
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Self+driving+lab+discovers+high+efficiency+directional+incoherent+emission+from+reconfigurable+semiconductor+metasurfaces){:target="_blank"} for full citation
 

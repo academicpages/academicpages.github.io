@@ -11,4 +11,3 @@ citation: Prasad Iyer, Chris Palmstr{\o}m, Mihir Pendharkar, Jon Schuller. "Reco
   Metadevices, and Metasystems 2017, 2017.
 permalink: /talks/2017-09-01-Reconfigurable-Mie-resonators-embedded-in-a-tunable-ENZ-cavity-Conference-Presentation
 ---
-[Access paper here](https://doi.org/10.1117/12.2274548){:target="_blank"}

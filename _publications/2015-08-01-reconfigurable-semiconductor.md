@@ -17,6 +17,7 @@ citation: '@article{iyer2015reconfigurable,
   publisher={ACS Publications}
 }'
 abstract: "This work presents reconfigurable semiconductor phased-array metasurfaces, offering new approaches for dynamic beam steering and tunable photonic devices."
+excerpt: "\"This work presents reconfigurable semiconductor phased-array metasurfaces, offering new approaches for dynamic beam steering and tunable photonic devices.\""
 ---
 
 {% include carousels/iyer-et-al-2015-reconfigurable-semiconductor-phased-array-metasurfaces-1-carousel.html %} 

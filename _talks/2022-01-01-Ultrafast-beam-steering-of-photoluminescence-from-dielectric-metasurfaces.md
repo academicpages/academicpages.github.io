@@ -11,6 +11,7 @@ citation: P.P. Iyer, N. Karl, S.D. Gennaro, S. Addamane, I. Brener, M.B. Sinclai
 abstract: "We demonstrate ultrafast (<200 fs) unidirectional steering of photoluminescence\
   \ over a 60\xB0 field of view from dielectric metasurfaces with embedded InAs quantum\
   \ dots by creating a dynamical index grating using structured illumination."
+excerpt: "\"We demonstrate ultrafast (<200 fs) unidirectional steering of photoluminescence\"
 ---
 
 {% include carousels/ultrafast-beam-steering-of-photoluminescence-from-dielectric-metasurfaces-carousel.html %}

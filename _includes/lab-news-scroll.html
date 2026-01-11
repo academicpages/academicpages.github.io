@@ -2,13 +2,14 @@
   <h3>Lab News</h3>
   <ul class="lab-news-list">
     {% for item in site.data.lab_news %}
-      <li><strong>{{ item.date }}</strong> —
-        {% if item.url %}
-          <a href="{{ item.url }}" {% unless item.url contains site.url %}target="_blank" rel="noopener"{% endunless %}>{{ item.text }}</a>
-        {% else %}
-          {{ item.text }}
-        {% endif %}
-      </li>
+    <li><strong>{{ item.date | date: "%B %Y" }}</strong> —
+      {% if item.url %}
+      <a href="{{ item.url }}" {% unless item.url contains site.url %}target="_blank" rel="noopener" {% endunless %}>{{
+        item.text }}</a>
+      {% else %}
+      {{ item.text }}
+      {% endif %}
+    </li>
     {% endfor %}
   </ul>
 </div>

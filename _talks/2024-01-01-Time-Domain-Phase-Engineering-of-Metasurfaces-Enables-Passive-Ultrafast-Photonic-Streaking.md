@@ -13,6 +13,7 @@ abstract: We describe a time-domain nano-photonic design principle for controlli
   electromagnetic waves at femtosecond timescales and illustrate a metasurface design
   that numerically demonstrates streaking of ultrafast pulses passively using arrays
   of resonance-based dielectric metasurfaces.
+excerpt: "We describe a time-domain nano-photonic design principle for controlling"
 ---
 
 {% include carousels/cleo-fs-2024-fm3o5-carousel.html %}

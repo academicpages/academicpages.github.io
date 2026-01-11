@@ -10,4 +10,3 @@ citation: Tomer Lewi, Prasad Iyer, Nikita Butakov, Alexander Mikhailovsky, Jon S
   Metamaterials, Metadevices, and Metasystems 2016, 2016.
 permalink: /talks/2016-11-01-Widely-tunable-infrared-semiconductor-Mie-resonatorsConference-Presentation
 ---
-[Access paper here](https://doi.org/10.1117/12.2237905){:target="_blank"}

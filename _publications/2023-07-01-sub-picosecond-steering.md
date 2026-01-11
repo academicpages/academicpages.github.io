@@ -22,6 +22,7 @@ carousel_images:
   - publications/subpic/fig1.jpg
   - publications/subpic/fig2.jpg
   - publications/subpic/fig3.jpg
+excerpt: "\"The ability to dynamically steer sub-picosecond pulses from a monolithically integrated source is a critical milestone for the fields of nanophotonics and ultrafast optics. Reconfigurable dielectric metasurfaces have demonstrated the potential to exert dynamic control over the properties of light a..."
 --- 
 
 {% include carousel.html id="subpicosecond" images=page.carousel_images %}

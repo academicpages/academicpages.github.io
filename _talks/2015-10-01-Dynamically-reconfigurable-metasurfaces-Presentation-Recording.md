@@ -9,4 +9,3 @@ citation: Prasad Iyer, Nikita Butakov, Jon Schuller. "Dynamically reconfigurable
   (Presentation Recording)." Metamaterials, Metadevices, and Metasystems 2015, 2015.
 permalink: /talks/2015-10-01-Dynamically-reconfigurable-metasurfaces-Presentation-Recording
 ---
-[Access paper here](https://doi.org/10.1117/12.2187811){:target="_blank"}

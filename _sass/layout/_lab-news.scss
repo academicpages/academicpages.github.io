@@ -25,30 +25,21 @@
   }
 }
 
-/* Desktop Wrapper (Fixed Position) */
-.lab-news-desktop-wrapper {
-  width: 223px;
-  position: fixed;
-  right: 20px;
-  top: 180px;
-  z-index: 10;
+/* Responsive Wrapper */
+.lab-news-wrapper {
+  /* Default: Mobile/Tablet view (Static/Inline) */
   display: block;
-
-  /* Hide on screens smaller than x-large (approx 1280px) where overlap occurs */
-  @media (max-width: 1280px) {
-    display: none !important;
-  }
-}
-
-/* Mobile Wrapper (Static/Inline Position) */
-.lab-news-mobile-wrapper {
-  display: none;
+  width: 100%;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  width: 100%;
+  z-index: 10;
 
-  /* Show on screens smaller than x-large */
-  @media (max-width: 1280px) {
-    display: block !important;
+  /* Desktop View (Fixed Sidebar) */
+  @media (min-width: 1281px) {
+    width: 223px;
+    position: fixed;
+    right: 20px;
+    top: 180px;
+    margin: 0;
   }
 }

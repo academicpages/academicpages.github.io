@@ -12,6 +12,7 @@ permalink: /talks/2019-01-01-Tunable-Metasurface-based-on-Silicon-Doped-Indium-O
 abstract: A tunable metasurface based on silicon doped indium oxide has been investigated.
   The amplitude of reflected light was actively tuned with a gate bias demonstrating
   57% reflectance change and 366 nm of resonance wavelength shift.
+excerpt: "A tunable metasurface based on silicon doped indium oxide has been investigated."
 ---
 
 {% include carousels/tunable-metasurface-based-on-silicon-doped-indium-oxide-carousel.html %}

@@ -10,6 +10,7 @@ citation: R.A. DeCrescent, P.P. Iyer, Y. Mohtashami, N.A. Butakov, S. Nakamura, 
   DenBaars, J.A. Schuller, G. Lheureux, A. Alhassan, C. Weisbuch. "Unidirectional
   luminescence from InGaN/GaN quantum-well metasurfaces." Optics Infobase Conference
   Papers, 2020.
+excerpt: "See full paper for details."
 ---
 
 {% include carousels/unidirectional-luminescence-from-ingangan-quantum-well-metasurfaces-carousel.html %}

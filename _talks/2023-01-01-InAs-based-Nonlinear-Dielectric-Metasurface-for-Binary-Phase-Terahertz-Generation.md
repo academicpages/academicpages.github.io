@@ -14,6 +14,7 @@ abstract: We demonstrate an InAs-based nonlinear dielectric metasurface, which c
   generate terahertz (THz) pulses with opposite phase in comparison to an unpatterned
   InAs layer. It enables binary phase THz metasurfaces for generation and focusing
   of THz pulses.
+excerpt: We demonstrate an InAs-based nonlinear dielectric metasurface, which can generate terahertz (THz) pulses with opposite phase in comparison to an unpatterned InAs layer.
 ---
 
 {% include carousels/cleo-fs-2023-fth4d6-carousel.html %}
