@@ -1,11 +1,12 @@
 ---
 title: 'AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery'
 authors: "S Desai, S Addamane, JY Tsao, I Brener, LP Swiler, R Dingreville, Prasad P. Iyer"
-date: '2024-01-01'
-venue: Arxiv
+date: '2025-04-11'
+venue: "Proceedings of the AAAI Conference on Artificial Intelligence 39 (1), 146-154"
+type: "journal"
+paperurl: "https://ojs.aaai.org/index.php/AAAI/article/view/31990"
 collection: publications
-citation: '"S Desai, S Addamane, JY Tsao, I Brener, LP Swiler, R Dingreville, Prasad P. Iyer. AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific
-  Discovery." Arxiv, 2024.'
+citation: "S. Desai, S. Addamane, J. Y. Tsao, I. Brener, L. P. Swiler, R. Dingreville, Prasad P. Iyer. AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery. Proceedings of the AAAI Conference on Artificial Intelligence 39 (1), 146-154 (2025)."
 permalink: /publication/2024-01-01-AutoSciLab-A-Self-Driving-Laboratory-For-Interpretable-Scientific-Discovery
 abstract: 'Advances in robotic control and sensing have propelled the rise of automated
   scientific laboratories capable of high-throughput experiments. However, automated

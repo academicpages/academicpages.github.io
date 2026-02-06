@@ -2,13 +2,12 @@
 title: Mie metasurfaces for enhancing photon outcoupling from single embedded quantum
   emitters
 authors: "Samuel Prescott , Prasad P. Iyer , Sadhvikas Addamane , Hyunseung Jung , Ting S. Luk , Igal Brener and Oleg Mitrofanov"
-date: '2024-01-01'
-venue: Nanophotonics
-paperurl: "https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0300/html?lang=en&srsltid=AfmBOopGbu14NSFTR-hQ1CRN2RctI34lsL3jyVG6-V8NEeKxU1e3p72d"
+date: '2025-01-01'
+venue: "Nanophotonics 14 (11), 1917-1925"
+type: "journal"
+paperurl: "https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0300/html"
 collection: publications
-citation: S. Prescott, O. Mitrofanov, P.P. Iyer, S. Addamane, H. Jung, T.S. Luk, I.
-  Brener. "Mie metasurfaces for enhancing photon outcoupling from single embedded
-  quantum emitters." Nanophotonics, 2024.
+citation: "S. Prescott, P. P. Iyer, S. Addamane, H. Jung, T. S. Luk, I. Brener, O. Mitrofanov. Mie metasurfaces for enhancing photon outcoupling from single embedded quantum emitters. Nanophotonics 14 (11), 1917-1925 (2025)."
 permalink: /publication/2024-01-01-Mie-metasurfaces-for-enhancing-photon-outcoupling-from-single-embedded-quantum-emitters
 abstract: Abstract Solid-state quantum emitters (QE) can produce single photons required
   for quantum information processing. However, their emission properties often exhibit
