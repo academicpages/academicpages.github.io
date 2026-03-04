@@ -76,7 +76,38 @@ html[data-theme="dark"] {
     .notice--info,
     .notice--warning,
     .notice--success,
+    .notice {
+      background-color: mix($background, $notice-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--primary {
+      background-color: mix($background, $notice-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--info {
+      background-color: mix($background, $info-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--warning {
+      background-color: mix($background, $warning-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--success {
+      background-color: mix($background, $success-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
     .notice--danger {
+      background-color: mix($background, $danger-color, 85%);      
       color: #{$text};
       border-color: #{$text};
     }
