@@ -18,9 +18,13 @@ Education
 
 Work experience
 ======
+* May 2026 - Jun. 2026: Graduate Teaching Assistant
+  * The University of Auckland, New Zealand
+  * COMPSCI 120 Mathematics for Computer Science, 2026 Semester One
+
 * Nov. 2025 - Feb. 2026: Graduate Teaching Assistant
   * The University of Auckland, New Zealand
-  * COMPSCI 120 Mathematics for Computer Science, 26 summer school
+  * COMPSCI 120 Mathematics for Computer Science, 2026 summer school
 
 
 * Sep. 2021 - Jun. 2022: Administrative Assistant
