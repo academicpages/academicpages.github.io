@@ -16,7 +16,7 @@ Her research and teaching focus on the integration of artificial intelligence in
 
 She is an IEEE senior member.
 
-She is the initiator of [International AI Assessment Board (AAB)](https://aaboard.org/), a nonprofit initiative focused on documenting and supporting understanding of AI capabilities in educational contexts and building the standards for K-12 AI education.
+She is the initiator of [International AI Assessment Board (AAB)](https://aaboard.org/), a nonprofit initiative focused on building the K-12 AI education standards, documenting and supporting understanding of AI capabilities in educational contexts.
 
 More
 ======
@@ -36,7 +36,7 @@ She is a receipient of Unity & Meta Grant Award.
 
 Research Interests
 ======
-Her research interests include Computer Science Education, AI, Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. Secure and Ethical AI Systems for Education and Society.
+Her research interests include Computer Science Education, AI, K-12 AI education, Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. Secure and Ethical AI Systems for Education and Society.
 
 Education
 ======
