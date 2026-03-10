@@ -16,6 +16,8 @@ Her research and teaching focus on the integration of artificial intelligence in
 
 She is an IEEE senior member.
 
+She is the initiator of [International AI Assessment Board (AAB)](https://aaboard.org/), a nonprofit initiative focused on documenting and supporting understanding of AI capabilities in educational contexts and building the standards for K-12 AI education.
+
 More
 ======
 She has been publishing papers in very competitive venues with three papers ranked as the top 1% most-cited articles published in Computer Science in the years published.
