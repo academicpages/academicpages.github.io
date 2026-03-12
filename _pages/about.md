@@ -4,8 +4,8 @@ layout: splash        # use the splash layout for a hero image
 title: "Shaofeng Guo"
 author_profile: true
 header:
-  overlay_image: /images/try.jpg   # replace with your hero photo
-  overlay_color: "#000000"
+  overlay_image: /images/hero.jpg   # replace with your hero photo
+  overlay_color: "#f3eeec"
   overlay_opacity: 0.5
 redirect_from: 
   - /about/
