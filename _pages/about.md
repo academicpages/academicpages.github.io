@@ -14,7 +14,7 @@ She is an Award-Winning Researcher and Educator.
 
 Her research and teaching focus on the integration of artificial intelligence in education and the enhancement of security measures across various domains.
 
-She is an IEEE senior member.
+She is an IEEE senior member and IEEE Standards Association voting member.
 
 She is the initiator of [International AI Assessment Board (AAB)](https://aaboard.org/), a nonprofit initiative focused on building the K-12 AI education standards, documenting and supporting understanding of AI capabilities in educational contexts.
 
