@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Shaofeng Guo - Academic Homepage"
+title                    : "Welcome to my homepage!"
 title_separator          : "-"
 name                     : &name "Shaofeng Guo"
 description              : &description "personal description"
@@ -34,7 +34,10 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=UBCS-zsAAAAJ&scilu=&scisig=ACUpqDcAAAAAaLsDrdC3shQ3rrUcQRgOmDFymqA&gmla=AH8HC4yIMt86aRUoS4xW8WS_nOh5v8Y57XYbVi_PusYdCqmy2dQ6fM2YppnuAA3TuedBpNqTl6CWV7AVn9KkUNUoRuhafY2NzrJRVTU&sciund=6415130130695938645"
-
+  orcid            :
+  pubmed           :
+  github           :
+  bluesky          :
 
   # Repositories and software development
   github           : "battle1king"
