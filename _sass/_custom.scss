@@ -1,0 +1,16 @@
+// Custom Sass overrides for Academic Pages
+// You can set new colour variables or add additional styles here.
+
+// Example: change accent colour used throughout theme
+$color-accent: #e91e63;
+$color-link: $color-accent;
+
+// Change heading font or size if desired
+$heading-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Add any other CSS rules below
+body {
+  font-size: 1rem;
+}
+
+// Ensure the partial is imported by the main Sass pipeline (Minimal Mistakes will import custom file automatically if present)

@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Welcome to my homepage!"
-title_separator          : "-"
+title                    : "Shaofeng Guo"
+title_separator          : "•"
 name                     : &name "Shaofeng Guo"
-description              : &description "personal description"
+description              : &description "Exploring image forensics, thinking visually, and building open-source tools."
 url                      : https://battle1king.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/shaofeng.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "battle1king/shaofeng.github.io"
