@@ -1,0 +1,119 @@
+/* ==========================================================================
+   CONTRAST THEME - DARK VERSION
+   ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #ff6c60;
+$background                 : #000000;
+$background-light           : #1a1a1a;
+$background-lighter         : #2a2a2a;
+$text                      : #ffffff;
+$text-muted                : #d9d9d9;
+$link                      : #96cbfe;
+$link-dark                 : #c6c5fe;
+$link-light                : #ff73fd;
+$footer                    : #000000;
+$border                    : #4d4d4d;
+$border-light              : #666666;
+$selection-bg              : #264f78;
+$selection-text            : #ffffff;
+
+/* Color codes used for the site */
+$danger-color               : #ff6c60;
+$info-color                 : #96cbfe;
+$notice-color               : #ffffff;
+$success-color              : #a8ff60;
+$warning-color              : #e9c062;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Dark theme for the site */
+html[data-theme="dark"] {
+  --global-base-color                 : #{$primary-color};
+  --global-bg-color                   : #{$background};
+  --global-footer-bg-color            : #{$footer};
+  --global-border-color               : #{$border};
+  --global-dark-border-color          : #{$border-light};
+  --global-code-background-color      : #{$background-light};
+  --global-code-text-color            : #{$text-muted};
+  --global-fig-caption-color          : #{$text-muted};
+  --global-link-color                 : #{$link};
+  --global-link-color-hover           : #{$link-dark};
+  --global-link-color-visited         : #{$link-light};
+  --global-masthead-link-color        : #{$text};
+  --global-masthead-link-color-hover  : #{$primary-color};
+  --global-text-color                 : #{$text};
+  --global-text-color-light           : #{$text-muted};
+  --global-thead-color                : #{$background-lighter};
+  --global-toc-bg-color               : #{$background-light};
+  --global-selection-bg-color         : #{$selection-bg};
+  --global-selection-text-color       : #{$selection-text};
+}
+
+/* Text selection styling for dark theme */
+html[data-theme="dark"] ::selection {
+  background-color: var(--global-selection-bg-color);
+  color: var(--global-selection-text-color);
+}
+
+html[data-theme="dark"] ::-moz-selection {
+  background-color: var(--global-selection-bg-color);
+  color: var(--global-selection-text-color);
+}
+
+/* Override notice colors for high contrast in dark mode */
+html[data-theme="dark"] {
+  .page__content {
+    .notice,
+    .notice--primary,
+    .notice--info,
+    .notice--warning,
+    .notice--success,
+    .notice {
+      background-color: mix($background, $notice-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--primary {
+      background-color: mix($background, $notice-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--info {
+      background-color: mix($background, $info-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--warning {
+      background-color: mix($background, $warning-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--success {
+      background-color: mix($background, $success-color, 85%);
+      color: #{$text};
+      border-color: #{$text};
+    }
+
+    .notice--danger {
+      background-color: mix($background, $danger-color, 85%);      
+      color: #{$text};
+      border-color: #{$text};
+    }
+  }
+
+  .page__footer {
+    color: #{$text};
+  }
+}
