@@ -11,24 +11,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # the other sections are temporarily removed
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+
   # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
-  # you can remove or comment out items you don't use
+  #   url: /cv/
+
+  # - title: "Guide"
+  #   url: /markdown/
+
+  # you can restore additional menu items by uncommenting above
