@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Richard Ramsey"
+title                    : "Rich Ramsey"
 title_separator          : "-"
-name                     : &name "Richard Ramsey"
+name                     : &name "Rich Ramsey"
 description              : &description "Statistics for work and fun"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://triplerstats.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "triplerstats.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Richard Ramsey"
+  name             : "Rich Ramsey"
   pronouns         : # example: "she/her"  
   bio              : "Data science & analytics, Seattle sports fan"
   location         : "Seattle, WA"
