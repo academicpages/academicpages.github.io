@@ -1,0 +1,1717 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Academic homepage of Ravulapalli Manas Venkata Sai, a Computer Science student at Ashoka University working across neuroethology, computational neuroscience, and scientific tool-building.">
+  <title>Ravulapalli Manas Venkata Sai</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&amp;family=Source+Sans+3:wght@400;600;700&amp;display=swap" rel="stylesheet">
+  <style>
+    /* Design choice: serif headings and a restrained sans-serif body keep the page formal,
+       readable, and closer to university department websites than portfolio-style landing pages. */
+    :root {
+      --bg: #f4f6f7;
+      --surface: #ffffff;
+      --surface-soft: #f8fafb;
+      --ink: #263540;
+      --muted: #5d6b76;
+      --heading: #18314a;
+      --primary: #244968;
+      --line: #d7e0e6;
+      --line-strong: #becbd5;
+      --shadow: 0 18px 36px rgba(24, 49, 74, 0.08);
+      --radius: 18px;
+      --radius-sm: 14px;
+      --max-width: 1040px;
+      --cs: #3f6f92;
+      --cs-soft: #eef5fa;
+      --math: #4f6572;
+      --math-soft: #eef3f5;
+      --neuro: #597962;
+      --neuro-soft: #f0f5f1;
+      --humanities: #8c724f;
+      --humanities-soft: #faf5ee;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Source Sans 3", "Segoe UI", sans-serif;
+      line-height: 1.65;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+
+    a {
+      color: var(--primary);
+      text-decoration-thickness: 1.2px;
+      text-underline-offset: 0.2em;
+    }
+
+    a:hover {
+      color: var(--heading);
+    }
+
+    a:focus-visible,
+    summary:focus-visible {
+      outline: 3px solid rgba(36, 73, 104, 0.22);
+      outline-offset: 3px;
+    }
+
+    p,
+    li {
+      font-size: 1.04rem;
+    }
+
+    h1,
+    h2,
+    h3 {
+      margin: 0;
+      color: var(--heading);
+      font-family: "Merriweather", Georgia, serif;
+      line-height: 1.2;
+      text-wrap: balance;
+    }
+
+    .skip-link {
+      position: absolute;
+      left: 1rem;
+      top: -3rem;
+      z-index: 20;
+      padding: 0.75rem 1rem;
+      background: var(--heading);
+      color: #fff;
+      border-radius: 999px;
+      text-decoration: none;
+    }
+
+    .skip-link:focus {
+      top: 1rem;
+    }
+
+    .page-shell {
+      width: min(92vw, var(--max-width));
+      margin: 0 auto;
+    }
+
+    .site-header {
+      padding: 4.5rem 0 2.25rem;
+      background: linear-gradient(180deg, #f8fafb 0%, #f4f6f7 100%);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.45fr) minmax(260px, 0.85fr);
+      gap: clamp(1.75rem, 4vw, 3rem);
+      align-items: start;
+    }
+
+    .eyebrow {
+      margin: 0 0 0.9rem;
+      color: var(--muted);
+      font-size: 0.86rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .hero h1 {
+      font-size: clamp(2.4rem, 5vw, 4.3rem);
+      margin-bottom: 1rem;
+    }
+
+    .hero-subtitle {
+      margin: 0 0 1rem;
+      color: var(--primary);
+      font-size: 1.22rem;
+      font-weight: 600;
+    }
+
+    .hero-lead {
+      max-width: 39rem;
+      margin: 0 0 1.5rem;
+      color: var(--ink);
+      font-size: 1.1rem;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.85rem;
+      margin-bottom: 1.65rem;
+    }
+
+    .button-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 2.8rem;
+      padding: 0.7rem 1rem;
+      border: 1px solid var(--line-strong);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.9);
+      color: var(--heading);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    .button-link:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .button-link.primary {
+      border-color: var(--primary);
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .button-link.primary:hover {
+      background: var(--heading);
+      border-color: var(--heading);
+      color: #fff;
+    }
+
+    .hero-metrics {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.85rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      max-width: 34rem;
+    }
+
+    .hero-metrics li {
+      padding: 0.95rem 1rem;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-sm);
+      background: rgba(255, 255, 255, 0.78);
+    }
+
+    .metric-label {
+      display: block;
+      margin-bottom: 0.2rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .metric-value {
+      font-size: 1.04rem;
+      font-weight: 700;
+      color: var(--heading);
+    }
+
+    .hero-figure {
+      margin: 0;
+      padding: 1rem;
+      border: 1px solid var(--line);
+      border-radius: calc(var(--radius) + 2px);
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+
+    .hero-figure img {
+      width: 100%;
+      aspect-ratio: 4 / 5;
+      object-fit: cover;
+      border-radius: calc(var(--radius) - 4px);
+    }
+
+    .hero-figure figcaption {
+      margin-top: 0.85rem;
+      color: var(--muted);
+      font-size: 0.96rem;
+    }
+
+    .site-nav {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.92);
+      backdrop-filter: blur(12px);
+    }
+
+    .site-nav .page-shell {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem 1rem;
+      padding: 0.75rem 0;
+    }
+
+    .site-nav a {
+      padding: 0.45rem 0.1rem;
+      color: var(--muted);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    .site-nav a:hover {
+      color: var(--heading);
+    }
+
+    main {
+      padding-bottom: 4rem;
+    }
+
+    .section {
+      padding: 4rem 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .section-header {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(240px, 0.8fr);
+      gap: 1.75rem;
+      align-items: start;
+      margin-bottom: 2rem;
+    }
+
+    .section-kicker {
+      margin: 0 0 0.55rem;
+      color: var(--muted);
+      font-size: 0.84rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .section-header h2 {
+      font-size: clamp(1.9rem, 3vw, 2.45rem);
+      margin-bottom: 0.65rem;
+    }
+
+    .section-header p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+
+    .about-grid,
+    .contact-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.9fr);
+      gap: 1.75rem 2rem;
+      align-items: start;
+    }
+
+    .surface-note {
+      padding: 1.3rem 1.35rem;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--surface-soft);
+    }
+
+    .surface-note h3 {
+      margin-bottom: 0.85rem;
+      font-size: 1.1rem;
+    }
+
+    .surface-note ul,
+    .surface-note ol,
+    .timeline-item ul,
+    .course-body ul {
+      margin: 0.75rem 0 0;
+      padding-left: 1.15rem;
+    }
+
+    .surface-note li,
+    .timeline-item li,
+    .course-body li {
+      margin-bottom: 0.45rem;
+    }
+
+    .highlights {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin: 1rem 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .highlights li {
+      padding: 0.36rem 0.7rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--heading);
+      font-size: 0.96rem;
+    }
+
+    /* Knowledge graph note: a true node-edge network would require script.
+       Instead, the graph is expressed through color-coded domain clusters,
+       expandable course nodes, and shared hover states that highlight related coursework together. */
+    .graph-layout {
+      display: grid;
+      gap: 1.2rem;
+    }
+
+    .graph-cluster {
+      padding: 1.25rem;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0.96) 0%, rgba(248, 250, 252, 0.98) 100%);
+      transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+    }
+
+    .graph-cluster:hover,
+    .graph-cluster:focus-within {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow);
+    }
+
+    .graph-cluster--cs {
+      --cluster: var(--cs);
+      --cluster-soft: var(--cs-soft);
+    }
+
+    .graph-cluster--math {
+      --cluster: var(--math);
+      --cluster-soft: var(--math-soft);
+    }
+
+    .graph-cluster--neuro {
+      --cluster: var(--neuro);
+      --cluster-soft: var(--neuro-soft);
+    }
+
+    .graph-cluster--humanities {
+      --cluster: var(--humanities);
+      --cluster-soft: var(--humanities-soft);
+    }
+
+    .graph-cluster:hover,
+    .graph-cluster:focus-within {
+      border-color: var(--cluster);
+      background: linear-gradient(180deg, #ffffff 0%, var(--cluster-soft) 100%);
+    }
+
+    .cluster-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: start;
+      margin-bottom: 1rem;
+    }
+
+    .cluster-head h3 {
+      margin-bottom: 0.3rem;
+      font-size: 1.2rem;
+    }
+
+    .cluster-head p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .cluster-tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.35rem 0.65rem;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.85);
+      border: 1px solid rgba(24, 49, 74, 0.12);
+      color: var(--heading);
+      font-size: 0.82rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .course-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.9rem;
+    }
+
+    .course-node {
+      border: 1px solid var(--line);
+      border-left: 4px solid var(--cluster);
+      border-radius: var(--radius-sm);
+      background: rgba(255, 255, 255, 0.88);
+      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+    }
+
+    .course-node:hover,
+    .course-node[open] {
+      transform: translateY(-2px);
+      border-color: var(--cluster);
+      box-shadow: 0 12px 22px rgba(24, 49, 74, 0.08);
+      background: #fff;
+    }
+
+    .graph-cluster:hover .course-node,
+    .graph-cluster:focus-within .course-node {
+      border-color: rgba(24, 49, 74, 0.16);
+      border-left-color: var(--cluster);
+    }
+
+    .course-node summary {
+      position: relative;
+      display: grid;
+      gap: 0.35rem;
+      padding: 0.95rem 2.6rem 0.95rem 1rem;
+      cursor: pointer;
+      list-style: none;
+    }
+
+    .course-node summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .course-node summary::after {
+      content: "+";
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+      width: 1.35rem;
+      height: 1.35rem;
+      border-radius: 999px;
+      background: var(--cluster-soft);
+      color: var(--cluster);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+    }
+
+    .course-node[open] summary::after {
+      content: "-";
+    }
+
+    .course-code {
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .course-title {
+      color: var(--heading);
+      font-size: 1rem;
+      font-weight: 700;
+    }
+
+    .course-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem 0.7rem;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .course-body {
+      padding: 0 1rem 1rem;
+      border-top: 1px solid var(--line);
+    }
+
+    .course-body p {
+      margin: 0.75rem 0 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .project-grid,
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1.15rem 1.35rem;
+    }
+
+    .project-card,
+    .timeline-item {
+      padding: 1.25rem;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0.97) 0%, rgba(248, 250, 252, 0.98) 100%);
+    }
+
+    .project-card h3,
+    .timeline-item h3 {
+      margin-bottom: 0.45rem;
+      font-size: 1.15rem;
+    }
+
+    .project-meta,
+    .timeline-meta,
+    .publication-status {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .project-card p {
+      margin: 0.7rem 0 0;
+    }
+
+    .project-outcome {
+      font-weight: 700;
+      color: var(--heading);
+    }
+
+    /* CV integration note: the provided CV describes active research themes but does not list
+       finalized publication titles. The entries below therefore use normalized, publication-style
+       titles derived directly from the CV's ongoing research and writing descriptions. */
+    .publication-list {
+      display: grid;
+      gap: 1.4rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .publication-item {
+      padding-left: 1.1rem;
+      border-left: 3px solid var(--primary);
+    }
+
+    .publication-item h3 {
+      margin-bottom: 0.35rem;
+      font-size: 1.1rem;
+    }
+
+    .citation-line {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .publication-item p:last-child {
+      margin-bottom: 0;
+    }
+
+    .timeline {
+      display: grid;
+      gap: 2rem;
+    }
+
+    .timeline-group {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .timeline-group > h3 {
+      font-size: 1.3rem;
+    }
+
+    .timeline-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: start;
+      margin-bottom: 0.55rem;
+    }
+
+    .timeline-head p {
+      margin: 0.2rem 0 0;
+      color: var(--muted);
+    }
+
+    .timeline-date {
+      min-width: 10rem;
+      color: var(--muted);
+      font-weight: 700;
+      text-align: right;
+    }
+
+    .skill-block {
+      padding-top: 0.9rem;
+      border-top: 1px solid var(--line-strong);
+    }
+
+    .skill-block h3 {
+      margin-bottom: 0.7rem;
+      font-size: 1.08rem;
+    }
+
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .tag-list li {
+      padding: 0.38rem 0.68rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--surface-soft);
+      color: var(--heading);
+      font-size: 0.96rem;
+    }
+
+    .contact-card {
+      padding: 1.3rem;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--surface-soft);
+      font-style: normal;
+    }
+
+    .contact-card h3 {
+      margin-bottom: 0.9rem;
+      font-size: 1.1rem;
+    }
+
+    .contact-list {
+      display: grid;
+      gap: 0.85rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .contact-label {
+      display: block;
+      margin-bottom: 0.12rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .site-footer {
+      padding: 1.5rem 0 2.5rem;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 980px) {
+      .hero,
+      .section-header,
+      .about-grid,
+      .contact-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .project-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .site-header {
+        padding-top: 3.4rem;
+      }
+
+      .hero-metrics,
+      .project-grid,
+      .skills-grid,
+      .course-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .timeline-head {
+        flex-direction: column;
+      }
+
+      .timeline-date {
+        min-width: 0;
+        text-align: left;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html {
+        scroll-behavior: auto;
+      }
+
+      .graph-cluster,
+      .course-node {
+        transition: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="page-shell hero">
+      <div>
+        <p class="eyebrow">Academic Profile</p>
+        <h1>Ravulapalli Manas Venkata Sai</h1>
+        <p class="hero-subtitle">B.Sc. (Hons.) Computer Science student at Ashoka University with a minor in Biology and Psychology</p>
+        <p class="hero-lead">I work across neuroethology, computational neuroscience, and scientific tool-building, with research experience spanning zebrafish behaviour, insect electrophysiology, developmental self-organization, and biophysical microscopy.</p>
+        <div class="hero-actions">
+          <a class="button-link primary" href="#contact">Contact</a>
+          <a class="button-link" href="#knowledge-graph">View Knowledge Graph</a>
+        </div>
+        <ul class="hero-metrics">
+          <li>
+            <span class="metric-label">Institution</span>
+            <span class="metric-value">Ashoka University</span>
+          </li>
+          <li>
+            <span class="metric-label">Academic Record</span>
+            <span class="metric-value">CGPA 3.66 / 4.00</span>
+          </li>
+          <li>
+            <span class="metric-label">Credits Completed</span>
+            <span class="metric-value">98 credits</span>
+          </li>
+          <li>
+            <span class="metric-label">Recent Distinction</span>
+            <span class="metric-value">Dean's List</span>
+          </li>
+        </ul>
+      </div>
+
+      <figure class="hero-figure">
+        <img src="images/manas-hero.jpg" alt="Ravulapalli Manas Venkata Sai seated outdoors on grass in a childhood photograph.">
+        <figcaption>A personal archival photograph placed on the homepage at the author's request, paired with a formal academic layout to keep the page grounded and personal.</figcaption>
+      </figure>
+    </div>
+  </header>
+
+  <nav class="site-nav" aria-label="Primary navigation">
+    <div class="page-shell">
+      <a href="#about">About</a>
+      <a href="#knowledge-graph">Knowledge Graph</a>
+      <a href="#projects">Projects</a>
+      <a href="#publications">Publications</a>
+      <a href="#experience">Experience</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <main id="main-content" class="page-shell">
+    <section class="section" id="about">
+      <div class="section-header">
+        <div>
+          <p class="section-kicker">Overview</p>
+          <h2>About</h2>
+          <p>I am a Computer Science student interested in how quantitative methods, behavioural experiments, and scientific imaging can be combined to study biological systems. My work has moved between wet-lab environments, computational modelling, and tool development for research analysis.</p>
+        </div>
+        <p>This homepage integrates details from the current CV and provisional transcript, including coursework, research appointments, teaching activity, technical skills, and academic standing as of 13 January 2026.</p>
+      </div>
+
+      <div class="about-grid">
+        <div>
+          <p>At Ashoka University, I am training across computer science, biology, and psychology, with ongoing research in neuroethology and quantitative neuroscience. My recent work includes automated zebrafish movement analysis, behavioural paradigm design, and computational approaches to neural systems.</p>
+          <p>Outside Ashoka, I have worked with the Neural Systems Lab at Hyderabad Central University and attended the European Molecular Biology Laboratory Summer School in Heidelberg, where I used optical tweezers, confocal imaging, kymograph analysis, and 3D reconstruction workflows to investigate biophysical and developmental questions.</p>
+          <ul class="highlights" aria-label="Research interests">
+            <li>Neuroethology</li>
+            <li>Computational neuroscience</li>
+            <li>Scientific imaging</li>
+            <li>Electrophysiology</li>
+            <li>Mathematical biology</li>
+            <li>Machine learning</li>
+          </ul>
+        </div>
+
+        <aside class="surface-note">
+          <h3>Academic Snapshot</h3>
+          <ul>
+            <li>B.Sc. (Hons.) in Computer Science, Ashoka University, 2023-2027</li>
+            <li>Minor in Biology and Psychology</li>
+            <li>Overall CGPA: 3.66 / 4.00</li>
+            <li>Dean's List: Monsoon 2023, Spring 2025, Monsoon 2025</li>
+            <li>Location: Sonipat, Haryana, India</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section" id="knowledge-graph">
+      <div class="section-header">
+        <div>
+          <p class="section-kicker">Coursework Map</p>
+          <h2>Knowledge Graph</h2>
+          <p>A CSS-only knowledge graph of coursework completed at Ashoka University. Courses are grouped by domain, and each expandable node summarizes the topics, concepts, and working skills that connect the transcript to ongoing research and technical practice.</p>
+        </div>
+        <p>The topics inside each node are interpretive summaries derived from course titles, the transcript, and the CV. Group colour and shared hover states replace literal edges, keeping the page static while still signaling relationships between courses and skill areas.</p>
+      </div>
+
+      <div class="graph-layout">
+        <article class="graph-cluster graph-cluster--cs">
+          <div class="cluster-head">
+            <div>
+              <h3>Computer Science and Systems</h3>
+              <p>Algorithm design, machine learning, systems thinking, networks, and secure computing.</p>
+            </div>
+            <span class="cluster-tag">8 courses</span>
+          </div>
+
+          <div class="course-grid">
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-1102</span>
+                <span class="course-title">Introduction to Computer Science</span>
+                <span class="course-meta"><span>Spring 2024</span><span>Grade: B</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Built foundational programming fluency and computational problem-solving habits.</p>
+                <ul>
+                  <li>Topics: variables, control flow, functions, debugging, and algorithmic decomposition.</li>
+                  <li>Key concepts: abstraction, procedural thinking, and translating ideas into executable logic.</li>
+                  <li>Tools and skills: structured coding workflows and disciplined debugging.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-1204</span>
+                <span class="course-title">Data Structures and Algorithms</span>
+                <span class="course-meta"><span>Monsoon 2024</span><span>Grade: B</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Strengthened algorithm design through classical data structures and performance trade-offs.</p>
+                <ul>
+                  <li>Topics: arrays, linked structures, trees, recursion, sorting, and graph traversal.</li>
+                  <li>Key concepts: complexity analysis, efficiency, and choosing representations for scale.</li>
+                  <li>Tools and skills: asymptotic reasoning and implementation discipline.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-2710</span>
+                <span class="course-title">Computer Organization and Systems</span>
+                <span class="course-meta"><span>Spring 2025</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Connected low-level machine structure to software behaviour and performance.</p>
+                <ul>
+                  <li>Topics: digital logic, instruction execution, memory hierarchy, and systems organization.</li>
+                  <li>Key concepts: abstraction across hardware and software layers.</li>
+                  <li>Tools and skills: low-level reasoning, architecture awareness, and systems performance analysis.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-3410 / MAT-3211</span>
+                <span class="course-title">Introduction to Machine Learning</span>
+                <span class="course-meta"><span>Monsoon 2025</span><span>Grade: B+</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Introduced predictive modelling and the statistical framing needed for modern ML workflows.</p>
+                <ul>
+                  <li>Topics: regression, classification, optimization, model evaluation, and generalization.</li>
+                  <li>Key concepts: bias-variance trade-offs, feature representations, and supervised learning.</li>
+                  <li>Tools and skills: numerical experimentation and model selection reasoning.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-3610</span>
+                <span class="course-title">Information Security</span>
+                <span class="course-meta"><span>Monsoon 2025</span><span>Grade: B</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Built a systems view of security, adversarial risk, and trust in digital infrastructure.</p>
+                <ul>
+                  <li>Topics: cryptographic foundations, secure communication, and system vulnerabilities.</li>
+                  <li>Key concepts: confidentiality, integrity, authentication, and threat modelling.</li>
+                  <li>Tools and skills: security-oriented reasoning for software and networked systems.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-3620</span>
+                <span class="course-title">Computer Networks</span>
+                <span class="course-meta"><span>Monsoon 2025</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Covered the architecture of communication systems from protocol design to transport reliability.</p>
+                <ul>
+                  <li>Topics: layered networking, routing, transport, and network behaviour under constraints.</li>
+                  <li>Key concepts: latency, reliability, distributed communication, and protocol abstraction.</li>
+                  <li>Tools and skills: system design vocabulary and network reasoning.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-3810</span>
+                <span class="course-title">Design Practices in CS</span>
+                <span class="course-meta"><span>Monsoon 2025</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Added a design-process lens to technical problem solving and interface thinking.</p>
+                <ul>
+                  <li>Topics: ideation, critique, prototyping, iteration, and communication in design workflows.</li>
+                  <li>Key concepts: user-centred design, clarity, and evidence-based iteration.</li>
+                  <li>Tools and skills: prototyping judgement and structured design review.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-4232</span>
+                <span class="course-title">Computational Geometry: Algorithms and Applications</span>
+                <span class="course-meta"><span>Monsoon 2025</span><span>Grade: A</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Focused on spatial algorithms and geometric structure in computation.</p>
+                <ul>
+                  <li>Topics: geometric data structures, convexity, intersections, and spatial search.</li>
+                  <li>Key concepts: geometric exactness, algorithmic efficiency, and visualization-oriented reasoning.</li>
+                  <li>Tools and skills: spatial modelling and mathematically grounded algorithm design.</li>
+                </ul>
+              </div>
+            </details>
+          </div>
+        </article>
+
+        <article class="graph-cluster graph-cluster--math">
+          <div class="cluster-head">
+            <div>
+              <h3>Mathematics and Quantitative Foundations</h3>
+              <p>Formal reasoning, calculus, linear methods, uncertainty, and scientific modelling.</p>
+            </div>
+            <span class="cluster-tag">7 courses</span>
+          </div>
+
+          <div class="course-grid">
+            <details class="course-node">
+              <summary>
+                <span class="course-code">FC-0306</span>
+                <span class="course-title">Quantitative Reasoning and Mathematical Thinking</span>
+                <span class="course-meta"><span>Monsoon 2023</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Established a habit of framing arguments quantitatively and communicating them clearly.</p>
+                <ul>
+                  <li>Topics: estimation, formal reasoning, modelling, and mathematical communication.</li>
+                  <li>Key concepts: structured argumentation and defensible quantitative claims.</li>
+                  <li>Tools and skills: proof-like reasoning and careful numerical interpretation.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">MAT-1000</span>
+                <span class="course-title">Calculus</span>
+                <span class="course-meta"><span>Monsoon 2023</span><span>Grade: B+</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Provided the language of continuous change that underpins modelling in science and engineering.</p>
+                <ul>
+                  <li>Topics: limits, derivatives, integrals, rates of change, and accumulation.</li>
+                  <li>Key concepts: continuity, optimization, and dynamic systems interpretation.</li>
+                  <li>Tools and skills: analytical problem solving and continuous modelling.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CS-1104</span>
+                <span class="course-title">Discrete Mathematics</span>
+                <span class="course-meta"><span>Spring 2024</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Built the rigorous combinatorial and logical foundation needed for theoretical computer science.</p>
+                <ul>
+                  <li>Topics: logic, sets, relations, combinatorics, and proof techniques.</li>
+                  <li>Key concepts: abstraction, formal validity, and constructive reasoning.</li>
+                  <li>Tools and skills: proof-writing and mathematically precise algorithmic thinking.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">MAT-1001 / CS-2210</span>
+                <span class="course-title">Linear Algebra</span>
+                <span class="course-meta"><span>Monsoon 2024</span><span>Grade: P</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Introduced vector-space methods that recur in machine learning, modelling, and signal analysis.</p>
+                <ul>
+                  <li>Topics: vectors, matrices, linear transformations, basis changes, and eigensystems.</li>
+                  <li>Key concepts: state representation, dimensionality, and linear structure.</li>
+                  <li>Tools and skills: matrix methods for quantitative modelling.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">MAT-2020 / CS-1209 / PHY-1208</span>
+                <span class="course-title">Probability and Statistics</span>
+                <span class="course-meta"><span>Monsoon 2024</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Connected uncertainty, evidence, and inference to quantitative decision-making.</p>
+                <ul>
+                  <li>Topics: distributions, expectation, variance, inference, and statistical reasoning.</li>
+                  <li>Key concepts: uncertainty quantification and evidence under noise.</li>
+                  <li>Tools and skills: data interpretation, summary statistics, and probabilistic thinking.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">PHY-1220</span>
+                <span class="course-title">A Physics Primer</span>
+                <span class="course-meta"><span>Monsoon 2024</span><span>Grade: B+</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Reinforced physical intuition and quantitative model building for natural systems.</p>
+                <ul>
+                  <li>Topics: measurement, mechanics, approximations, and physically grounded reasoning.</li>
+                  <li>Key concepts: simplification, scale, and translating phenomena into solvable models.</li>
+                  <li>Tools and skills: analytical approximation and disciplined scientific reasoning.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">FC-0801</span>
+                <span class="course-title">Principles of Science</span>
+                <span class="course-meta"><span>Monsoon 2023</span><span>Grade: A</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Framed science as a method of explanation, experiment, and critical evaluation.</p>
+                <ul>
+                  <li>Topics: scientific method, evidence, explanation, and the logic of experimentation.</li>
+                  <li>Key concepts: testability, observation, and interpretation of empirical results.</li>
+                  <li>Tools and skills: reading scientific claims critically and designing questions precisely.</li>
+                </ul>
+              </div>
+            </details>
+          </div>
+        </article>
+
+        <article class="graph-cluster graph-cluster--neuro">
+          <div class="cluster-head">
+            <div>
+              <h3>Neuroscience, Biology, and Behaviour</h3>
+              <p>Biological systems, psychological foundations, and computational views of nervous systems.</p>
+            </div>
+            <span class="cluster-tag">6 courses</span>
+          </div>
+
+          <div class="course-grid">
+            <details class="course-node">
+              <summary>
+                <span class="course-code">FC-0503</span>
+                <span class="course-title">Mind and Behaviour</span>
+                <span class="course-meta"><span>Monsoon 2023</span><span>Grade: A</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Introduced behavioural explanation as a bridge between observable actions and underlying mechanisms.</p>
+                <ul>
+                  <li>Topics: cognition, behaviour, psychological frameworks, and interpretation of action.</li>
+                  <li>Key concepts: linking observation to theory and structured behavioural inquiry.</li>
+                  <li>Tools and skills: conceptual groundwork for neuroethology and behavioural analysis.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">PSY-1001</span>
+                <span class="course-title">Introduction to Psychology</span>
+                <span class="course-meta"><span>Spring 2024</span><span>Grade: A</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Expanded the study of behaviour across cognition, development, and experimentation.</p>
+                <ul>
+                  <li>Topics: cognitive, social, developmental, and experimental psychology.</li>
+                  <li>Key concepts: measurement, interpretation, and behavioural variability.</li>
+                  <li>Tools and skills: framing human and animal behaviour through experimental design.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">BIO-IS-2009</span>
+                <span class="course-title">Introduction to Neuroscience</span>
+                <span class="course-meta"><span>Monsoon 2024</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Provided a systems-level introduction to neural signalling and nervous system organization.</p>
+                <ul>
+                  <li>Topics: neurons, synapses, circuits, sensation, and motor control.</li>
+                  <li>Key concepts: cellular foundations of behaviour and network-level organization.</li>
+                  <li>Tools and skills: neurobiological vocabulary and mechanistic reasoning.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">BIO-1200</span>
+                <span class="course-title">Introduction to Biology I: Genetics and Evolution</span>
+                <span class="course-meta"><span>Spring 2025</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Anchored behavioural and neural questions in genetics, inheritance, and evolutionary change.</p>
+                <ul>
+                  <li>Topics: genetics, evolution, natural selection, and biological variation.</li>
+                  <li>Key concepts: adaptation, inheritance, and population-level reasoning.</li>
+                  <li>Tools and skills: evolutionary interpretation of biological systems.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">BIO-IS-3024</span>
+                <span class="course-title">Computational Neuroscience</span>
+                <span class="course-meta"><span>Spring 2025</span><span>Grade: A</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Connected mathematical modelling directly to neural computation and systems behaviour.</p>
+                <ul>
+                  <li>Topics: neural coding, dynamical models, spiking activity, and computational interpretation.</li>
+                  <li>Key concepts: modelling neural systems quantitatively and comparing model classes.</li>
+                  <li>Tools and skills: simulation-oriented thinking for neuroscience.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">PSY-3011 / BIO-3114 / BIO-4114 / BIO-6114</span>
+                <span class="course-title">Advanced Neuroscience</span>
+                <span class="course-meta"><span>Spring 2025</span><span>Grade: A</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Moved beyond introductory material into research-facing neuroscience and advanced literature.</p>
+                <ul>
+                  <li>Topics: systems neuroscience, specialized readings, and advanced theoretical discussion.</li>
+                  <li>Key concepts: mechanistic explanation, literature synthesis, and research framing.</li>
+                  <li>Tools and skills: close reading of primary work and sharper scientific argumentation.</li>
+                </ul>
+              </div>
+            </details>
+          </div>
+        </article>
+
+        <article class="graph-cluster graph-cluster--humanities">
+          <div class="cluster-head">
+            <div>
+              <h3>Humanities, Critique, and Interdisciplinary Practice</h3>
+              <p>Critical reading, historical context, environmental thinking, and applied experience.</p>
+            </div>
+            <span class="cluster-tag">6 courses</span>
+          </div>
+
+          <div class="course-grid">
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CT-0001</span>
+                <span class="course-title">Introduction to Critical Thinking</span>
+                <span class="course-meta"><span>Spring 2024</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Sharpened analytical judgement and the ability to examine arguments for structure and evidence.</p>
+                <ul>
+                  <li>Topics: argument analysis, fallacies, evidence, and logical clarity.</li>
+                  <li>Key concepts: critique, rigor, and disciplined reasoning.</li>
+                  <li>Tools and skills: analytical writing and stronger research evaluation.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">FC-0201</span>
+                <span class="course-title">Indian Civilisations</span>
+                <span class="course-meta"><span>Spring 2024</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Added long-range historical context and interpretive breadth to interdisciplinary study.</p>
+                <ul>
+                  <li>Topics: intellectual traditions, historical context, and social formations.</li>
+                  <li>Key concepts: contextual reading across time and multiple traditions.</li>
+                  <li>Tools and skills: comparative analysis and historically situated interpretation.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">FC-0601</span>
+                <span class="course-title">Great Books</span>
+                <span class="course-meta"><span>Spring 2025</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Strengthened close reading, seminar discussion, and long-form interpretive attention.</p>
+                <ul>
+                  <li>Topics: canonical texts, close reading, argument, and sustained discussion.</li>
+                  <li>Key concepts: interpretation, structure, and careful textual engagement.</li>
+                  <li>Tools and skills: discussion-led analysis and concise scholarly writing.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">FC-0102</span>
+                <span class="course-title">Environmental Studies</span>
+                <span class="course-meta"><span>Monsoon 2025</span><span>Grade: A</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Reinforced systems thinking across ecological, scientific, and social dimensions.</p>
+                <ul>
+                  <li>Topics: ecology, sustainability, environmental systems, and public questions.</li>
+                  <li>Key concepts: interdependence, scale, and applied environmental reasoning.</li>
+                  <li>Tools and skills: interdisciplinary analysis across science and society.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">CVA-0046</span>
+                <span class="course-title">HANDMADE: Sub-Continental Crafts</span>
+                <span class="course-meta"><span>Monsoon 2025</span><span>Grade: A-</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Added material sensitivity and craft-based thinking to technical and design work.</p>
+                <ul>
+                  <li>Topics: making, craft traditions, material culture, and form through practice.</li>
+                  <li>Key concepts: tactile knowledge, process, and design through hands-on iteration.</li>
+                  <li>Tools and skills: material awareness and embodied design judgement.</li>
+                </ul>
+              </div>
+            </details>
+
+            <details class="course-node">
+              <summary>
+                <span class="course-code">INT-2004</span>
+                <span class="course-title">Internship</span>
+                <span class="course-meta"><span>Summer 2024</span><span>Grade: P</span></span>
+              </summary>
+              <div class="course-body">
+                <p>Extended classroom learning into professional and research-oriented practice.</p>
+                <ul>
+                  <li>Topics: project ownership, applied work, and execution in an external setting.</li>
+                  <li>Key concepts: translating theory into practice and adapting to real constraints.</li>
+                  <li>Tools and skills: self-direction, collaboration, and professional accountability.</li>
+                </ul>
+              </div>
+            </details>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="projects">
+      <div class="section-header">
+        <div>
+          <p class="section-kicker">Selected Work</p>
+          <h2>Projects</h2>
+          <p>Software and research projects that sit at the intersection of computation, analysis, and biological inquiry.</p>
+        </div>
+        <p>Each project summary has been tightened for clarity and structured around purpose, method, and outcome, so the section reads more like a research lab page than a general portfolio.</p>
+      </div>
+
+      <div class="project-grid">
+        <article class="project-card">
+          <h3>Automated Zebrafish Movement Analysis</h3>
+          <p class="project-meta">Neuro-ethology Lab, Ashoka University</p>
+          <p>Developing an automated behavioural analysis pipeline for zebrafish experiments using computer vision, with the long-term goal of reducing manual annotation and supporting generalized movement analysis across recording setups.</p>
+          <p class="project-outcome">Outcome: supporting closed-loop experimental design, cleaner video workflows, and numerical cognition studies in zebrafish.</p>
+          <ul class="highlights" aria-label="Project tools">
+            <li>OpenCV</li>
+            <li>YOLO</li>
+            <li>Behaviour tracking</li>
+            <li>Protocol design</li>
+          </ul>
+        </article>
+
+        <article class="project-card">
+          <h3>Grid Cell Distortion Under Reward</h3>
+          <p class="project-meta">Computational neuroscience modelling</p>
+          <p>Modelled reward-driven distortion of grid cell activity using attractor dynamics and reinforcement-based action selection, with an emphasis on how learning and navigation reshape internal representations.</p>
+          <p class="project-outcome">Outcome: a compact modelling framework for thinking about spatial coding under behavioural reward.</p>
+          <ul class="highlights" aria-label="Project tools">
+            <li>Dynamical systems</li>
+            <li>Reinforcement learning</li>
+            <li>Neural modelling</li>
+            <li>Simulation</li>
+          </ul>
+        </article>
+
+        <article class="project-card">
+          <h3>High-Performance Disk Analysis Tool</h3>
+          <p class="project-meta">Systems software project</p>
+          <p>Built an asynchronous Rust application for file-system traversal, duplicate detection through cryptographic hashing, and disk-usage exploration, paired with a Tauri interface for real-time progress and cleanup workflows.</p>
+          <p class="project-outcome">Outcome: a practical systems tool that combines low-level performance with a usable analytical interface.</p>
+          <ul class="highlights" aria-label="Project tools">
+            <li>Rust</li>
+            <li>Tauri</li>
+            <li>Hashing</li>
+            <li>Async systems</li>
+          </ul>
+        </article>
+
+        <article class="project-card">
+          <h3>PLASH Brick Materials Project</h3>
+          <p class="project-meta">IIT Bhubaneswar</p>
+          <p>Worked on a PLASH brick project under cement technologies while learning material design and prototyping principles, alongside microscopy- and diffraction-based analysis methods.</p>
+          <p class="project-outcome">Outcome: early interdisciplinary exposure to scientific instrumentation, materials reasoning, and experimental prototyping.</p>
+          <ul class="highlights" aria-label="Project tools">
+            <li>SEM</li>
+            <li>X-ray diffraction</li>
+            <li>Optical microscopy</li>
+            <li>Material design</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="publications">
+      <div class="section-header">
+        <div>
+          <p class="section-kicker">Research Output</p>
+          <h2>Publications</h2>
+          <p>Formal papers are still in preparation. The entries below present current writing and manuscript-scale research in a citation-like format to reflect ongoing scholarly output accurately and professionally.</p>
+        </div>
+        <p>The CV supplied active projects and writing themes rather than finalized bibliography entries, so this section emphasizes truthful status labels instead of overstating publication stage.</p>
+      </div>
+
+      <ol class="publication-list">
+        <li class="publication-item">
+          <h3>Expository Paper on Knot Theory and Molecular Biology</h3>
+          <p class="citation-line"><strong>Ravulapalli Manas Venkata Sai</strong>. Math Apprenticeship Program, Ashoka University. 2024.</p>
+          <p class="publication-status">Status: Expository paper in preparation.</p>
+          <p>Developed an accessible account of knot theory with a focus on molecular biology and DNA topology, supported by exploratory analysis using Pyknotid and reading across international research groups.</p>
+        </li>
+
+        <li class="publication-item">
+          <h3>Automated Zebrafish Movement Analysis and Numerical Behaviour Studies</h3>
+          <p class="citation-line"><strong>Ravulapalli Manas Venkata Sai</strong>. Neuro-ethology Lab, Ashoka University. 2024-present.</p>
+          <p class="publication-status">Status: Research manuscript in development.</p>
+          <p>Ongoing work on automated movement analysis, experimental protocol design, and behavioural paradigms for testing numerical abilities in zebrafish populations.</p>
+        </li>
+
+        <li class="publication-item">
+          <h3>Biophysical Microscopy and Transcription Factor Search Dynamics</h3>
+          <p class="citation-line"><strong>Ravulapalli Manas Venkata Sai</strong>. European Molecular Biology Laboratory Summer School, Heidelberg. 2025.</p>
+          <p class="publication-status">Status: Technical research study in progress.</p>
+          <p>Investigated how transcription factors locate specific DNA sequences using optical tweezers, kymograph interpretation, and geometry-aware microscopy analysis.</p>
+        </li>
+      </ol>
+    </section>
+
+    <section class="section" id="experience">
+      <div class="section-header">
+        <div>
+          <p class="section-kicker">Appointments</p>
+          <h2>Experience</h2>
+          <p>Research and teaching roles drawn from the current CV, edited into a concise timeline for faster academic scanning.</p>
+        </div>
+        <p>The emphasis here is on methods, environments, and concrete contributions: imaging platforms, behavioural assays, electrophysiology, pedagogy, and the software pipelines that tie them together.</p>
+      </div>
+
+      <div class="timeline">
+        <div class="timeline-group">
+          <h3>Research Experience</h3>
+
+          <article class="timeline-item">
+            <div class="timeline-head">
+              <div>
+                <h3>Summer Student, European Molecular Biology Laboratory</h3>
+                <p>Heidelberg, Germany</p>
+              </div>
+              <div class="timeline-date">July 2025</div>
+            </div>
+            <ul>
+              <li>Investigated evolutionary neuroscience, developmental self-organization, and biophysical microscopy questions across an intensive summer research environment.</li>
+              <li>Worked with light-sheet, confocal, and optical-tweezer platforms, including kymograph-based analysis of transcription factor DNA search behaviour.</li>
+              <li>Applied 3D reconstruction, shape extraction, and geometrical modelling to microscopy data.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-head">
+              <div>
+                <h3>Summer Research Assistant, Neural Systems Lab, Hyderabad Central University</h3>
+                <p>Hyderabad, Telangana</p>
+              </div>
+              <div class="timeline-date">July 2025 - Present</div>
+            </div>
+            <ul>
+              <li>Learned full electrophysiology setup and calibration workflows for bee experiments, with attention to controlled protocol design.</li>
+              <li>Performed bulk drug tracing in grasshoppers and carried out ant behavioural assays linked to targeted literature review.</li>
+              <li>Improved lab workflows by introducing BORIS and Ilastik for behavioural annotation and image segmentation.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-head">
+              <div>
+                <h3>Research Assistant, Neuro-ethology Lab, Ashoka University</h3>
+                <p>Sonipat, Haryana</p>
+              </div>
+              <div class="timeline-date">August 2024 - Present</div>
+            </div>
+            <ul>
+              <li>Developing an automated zebrafish movement analysis tool intended to reduce manual behavioural scoring and generalize across recordings.</li>
+              <li>Investigating closed-loop experimental systems, including zebrafish VR-style paradigms.</li>
+              <li>Creating protocols for video recording, analysis, and behavioural testing focused on numerical ability.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-head">
+              <div>
+                <h3>Summer and Semester Research Student, Math Apprenticeship Program, Ashoka University</h3>
+                <p>Sonipat, Haryana</p>
+              </div>
+              <div class="timeline-date">May 2024 - August 2024</div>
+            </div>
+            <ul>
+              <li>Studied knot theory and its applications to molecular biology while drafting an expository paper designed to make the topic more accessible.</li>
+              <li>Modelled interactions of DNA knots and explored computational analysis with Pyknotid.</li>
+              <li>Coordinated reading and feedback with faculty and external research groups in Poland, Japan, and the United States.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-head">
+              <div>
+                <h3>Visiting Student, Indian Institute of Technology Bhubaneswar</h3>
+                <p>Bhubaneshwar, Odisha</p>
+              </div>
+              <div class="timeline-date">January 2023 - May 2023</div>
+            </div>
+            <ul>
+              <li>Worked on a PLASH brick project under cement technologies and learned material-design prototyping principles.</li>
+              <li>Used analytical tools including scanning electron microscopy, optical microscopy, and X-ray diffraction.</li>
+            </ul>
+          </article>
+        </div>
+
+        <div class="timeline-group">
+          <h3>Teaching Experience</h3>
+
+          <article class="timeline-item">
+            <div class="timeline-head">
+              <div>
+                <h3>Teaching Assistant, Lodha Genius Program</h3>
+                <p>Sonipat, Haryana</p>
+              </div>
+              <div class="timeline-date">May 2024 - June 2024</div>
+            </div>
+            <ul>
+              <li>Mentored microscopy projects for senior-school students, including lens systems, fluorescence, and confocal concepts.</li>
+              <li>Taught introductory Python using NumPy and Matplotlib.</li>
+              <li>Supported life sciences projects involving Drosophila, C. elegans, embryo imaging, and microscopy hardware/software workflows.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-head">
+              <div>
+                <h3>Teaching Assistant and Co-instructor, Computational and Theoretical Neuroscience</h3>
+                <p>Ashoka University, Sonipat</p>
+              </div>
+              <div class="timeline-date">One semester</div>
+            </div>
+            <ul>
+              <li>Co-designed and co-taught a course with Professor Bittu K. Rajaraman, including 15 lectures and a journal club.</li>
+              <li>Prepared MATLAB-based slides and assignments on neural encoding, decoding, point models, compartmental models, recurrent networks, and Hopfield networks.</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="skills">
+      <div class="section-header">
+        <div>
+          <p class="section-kicker">Capabilities</p>
+          <h2>Skills</h2>
+          <p>Technical, experimental, and analytical skills organized by working context rather than as a single undifferentiated list.</p>
+        </div>
+        <p>The categories below were taken from the CV and lightly normalized for readability, with emphasis on the combination of coding, scientific imaging, and behavioural neuroscience methods.</p>
+      </div>
+
+      <div class="skills-grid">
+        <article class="skill-block">
+          <h3>Programming and Computing</h3>
+          <ul class="tag-list">
+            <li>Python</li>
+            <li>C++</li>
+            <li>C</li>
+            <li>Assembly</li>
+            <li>Rust</li>
+            <li>JavaScript</li>
+            <li>MySQL</li>
+            <li>MATLAB</li>
+            <li>Brian2</li>
+            <li>Docker</li>
+            <li>Git</li>
+            <li>Jupyter</li>
+          </ul>
+        </article>
+
+        <article class="skill-block">
+          <h3>Scientific Software and Libraries</h3>
+          <ul class="tag-list">
+            <li>Suite2p</li>
+            <li>Napari</li>
+            <li>SIMA</li>
+            <li>DeepLabCut</li>
+            <li>SLEAP</li>
+            <li>YOLO</li>
+            <li>Roboflow</li>
+            <li>SciPy</li>
+            <li>PyTorch</li>
+            <li>SpikeInterface</li>
+            <li>Kilosort</li>
+            <li>Open Ephys</li>
+            <li>NEURON</li>
+            <li>NEST</li>
+            <li>Elephant</li>
+          </ul>
+        </article>
+
+        <article class="skill-block">
+          <h3>Microscopy and Imaging</h3>
+          <ul class="tag-list">
+            <li>Scanning electron microscopy</li>
+            <li>Fluorescence microscopy</li>
+            <li>Optical microscopy</li>
+            <li>Light-sheet microscopy</li>
+            <li>Confocal microscopy</li>
+            <li>Optical tweezers</li>
+            <li>ImageJ / Fiji</li>
+            <li>Ilastik</li>
+            <li>BORIS</li>
+            <li>3D reconstruction</li>
+            <li>Kymograph interpretation</li>
+          </ul>
+        </article>
+
+        <article class="skill-block">
+          <h3>Neuroethology and Electrophysiology</h3>
+          <ul class="tag-list">
+            <li>Patch clamp</li>
+            <li>Microelectrode recording</li>
+            <li>LFP recordings</li>
+            <li>Bulk drug tracing</li>
+            <li>Dissections</li>
+            <li>Ephys setup and maintenance</li>
+            <li>Behavioural paradigms</li>
+            <li>Prototyping</li>
+          </ul>
+        </article>
+
+        <article class="skill-block">
+          <h3>Modelling and Analysis</h3>
+          <ul class="tag-list">
+            <li>Automated bio-image analysis</li>
+            <li>Geometrical modelling</li>
+            <li>Quantitative reasoning</li>
+            <li>Computational neuroscience</li>
+            <li>Reinforcement learning</li>
+            <li>Scientific visualization</li>
+            <li>X-ray diffraction</li>
+          </ul>
+        </article>
+
+        <article class="skill-block">
+          <h3>Academic Context</h3>
+          <ul class="tag-list">
+            <li>Research communication</li>
+            <li>Course design</li>
+            <li>Teaching support</li>
+            <li>Protocol writing</li>
+            <li>Literature review</li>
+            <li>Interdisciplinary collaboration</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="contact">
+      <div class="section-header">
+        <div>
+          <p class="section-kicker">Get in Touch</p>
+          <h2>Contact</h2>
+          <p>I am open to conversations around neuroethology, computational neuroscience, scientific software, and interdisciplinary research methods.</p>
+        </div>
+        <p>The contact block keeps the information simple and direct, following the conventions of academic lab and university profile pages.</p>
+      </div>
+
+      <div class="contact-grid">
+        <div>
+          <p>If you would like to discuss research collaboration, coursework, or technical tool-building for scientific analysis, the best route is email. GitHub and LinkedIn are also linked below for project context and a broader professional overview.</p>
+          <p>This page was rewritten as a single static HTML document with embedded CSS only. No JavaScript, frameworks, or external UI libraries are used.</p>
+        </div>
+
+        <address class="contact-card">
+          <h3>Contact Details</h3>
+          <ul class="contact-list">
+            <li>
+              <span class="contact-label">Email</span>
+              <a href="mailto:rmanasofficial@gmail.com">rmanasofficial@gmail.com</a>
+            </li>
+            <li>
+              <span class="contact-label">Phone</span>
+              <a href="tel:+917396127081">+91 73961 27081</a>
+            </li>
+            <li>
+              <span class="contact-label">LinkedIn</span>
+              <a href="https://www.linkedin.com/in/manas-ravulapalli-386433220/">manas-ravulapalli-386433220</a>
+            </li>
+            <li>
+              <span class="contact-label">GitHub</span>
+              <a href="https://github.com/RavulapalliManas">github.com/RavulapalliManas</a>
+            </li>
+            <li>
+              <span class="contact-label">Location</span>
+              Sonipat, Haryana, India
+            </li>
+          </ul>
+        </address>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="page-shell">
+      Content updated using the current CV and provisional transcript. This homepage is intentionally static and self-contained for reliable deployment and easy long-term maintenance.
+    </div>
+  </footer>
+</body>
+</html>
