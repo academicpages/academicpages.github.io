@@ -1,0 +1,7 @@
+---
+title: "HiBayES: A Hierarchical Bayesian Modeling Framework for AI Evaluation Statistics"
+description: "arXiv, 2025"
+date: 2025-01-01
+venue: "arXiv"
+citation-text: "Lennart Luettgau*, Harry Coppock*, Magda Dubois, Christopher Summerfield, Cozmin Ududec, HiBayES: A Hierarchical Bayesian Modeling Framework for AI Evaluation Statistics, arXiv, 2025"
+---

@@ -1,0 +1,34 @@
+---
+title: "Audio Barlow Twins: Self-Supervised Audio Representation Learning"
+description: "ICASSP, 2023"
+date: 2022-09-28
+venue: "ICASSP"
+paperurl: "https://arxiv.org/abs/2209.14345"
+biburl: "/files/coppock2022abt.bib"
+citation-text: 'Jonah Anton, Harry Coppock, Pancham Shukla, Bjorn W.Schuller, Audio Barlow Twins: Self-Supervised Audio Representation Learning, ICASSP, 2023'
+aliases:
+  - /publication/2022-abt
+---
+
+The Barlow Twins self-supervised learning objective requires neither negative samples or asymmetric learning updates, achieving results on a par with the current state-of-the-art within Computer Vision. As such, we present Audio Barlow Twins, a novel self-supervised audio representation learning approach, adapting Barlow Twins to the audio domain. We pre-train on the large-scale audio dataset AudioSet, and evaluate the quality of the learnt representations on 18 tasks from the HEAR 2021 Challenge, achieving results which outperform, or otherwise are on a par with, the current state-of-the-art for instance discrimination self-supervised learning approaches to audio representation learning. Code at this https URL.
+
+[Download paper here](https://arxiv.org/abs/2209.14345)
+
+<details closed>
+<summary>Bibtex Entry</summary>
+<code>
+<pre>
+@INPROCEEDINGS{10095041,
+  author={Anton, Jonah and Coppock, Harry and Shukla, Pancham and Schuller, Björn W.},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  title={Audio Barlow Twins: Self-Supervised Audio Representation Learning},
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Representation learning;Training;Computer vision;Adaptation models;Codes;Self-supervised learning;Acoustics},
+  doi={10.1109/ICASSP49357.2023.10095041}}
+
+</pre>
+</code>
+</details>

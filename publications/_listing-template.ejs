@@ -1,0 +1,20 @@
+<% for (const item of items) { %>
+<div class="pub-item">
+<a href="<%- item.path %>"><strong><%- item.title %></strong></a>
+<% if (item.venue) { %>
+<br/>Published in <em><%- item.venue %></em>, <%= new Date(item.date).getFullYear() %>
+<% } %>
+<% if (item['citation-text']) { %>
+<br/><span class="pub-citation"><%- item['citation-text'] %></span>
+<% } %>
+<% if (item.award) { %>
+<br/><span class="award-badge">[<%- item.award %>]</span>
+<% } %>
+<% if (item.biburl) { %>
+[<a href="<%- item.biburl %>">BIB</a>]
+<% } %>
+<% if (item.paperurl) { %>
+[<a href="<%- item.paperurl %>">PDF</a>]
+<% } %>
+</div>
+<% } %>

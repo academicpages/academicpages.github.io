@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - 404.qmd
+  resources:
+    - CNAME
+    - files/**
+    - images/**
+
+website:
+  title: "Harry Coppock"
+  site-url: https://harrycoppock.com
+  navbar: false
+  search: false
+  open-graph: true
+  twitter-card:
+    creator: "@HarryCoppock"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-after-body:
+      text: '<script src="nav-indicator.js"></script>'
+    toc: false

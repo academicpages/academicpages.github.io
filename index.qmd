@@ -1,0 +1,109 @@
+---
+title: "Harry Coppock"
+title-block-style: none
+page-layout: custom
+toc: false
+aliases:
+  - /about/
+  - /about.html
+---
+
+<div id="main-layout" class="main-layout">
+
+<nav id="side-nav" class="side-nav" aria-label="Section navigation">
+<img src="images/profile.png" class="sidebar-image" alt="Harry Coppock">
+<h1 class="sidebar-name">Harry Coppock</h1>
+<p class="sidebar-subtitle">10 Downing Street Fellow (Deputy Director) &middot; Research Scientist &middot; Visiting Lecturer</p>
+<p class="sidebar-degrees">HEA Fellow, PhD, PGCert, MSc, MEng</p>
+<div class="nav-track-wrapper">
+<div class="nav-track"></div>
+<div class="nav-dot-mover"></div>
+</div>
+<ul class="nav-list">
+<li><a href="#Overview" class="nav-link active" data-section="about"><span class="nav-dot"></span> Overview</a></li>
+<li><a href="#aisi" class="nav-link" data-section="aisi"><span class="nav-dot"></span> AISI</a></li>
+<li><a href="#fellow" class="nav-link" data-section="fellow"><span class="nav-dot"></span> 10 Downing Street</a></li>
+<li><a href="#imperial" class="nav-link" data-section="imperial"><span class="nav-dot"></span> Lectureship</a></li>
+<li><a href="#health" class="nav-link" data-section="health"><span class="nav-dot"></span> AI for Health</a></li>
+<li><a href="files/CV_HC.pdf" class="nav-link nav-link-external" target="_blank" rel="noopener"><span class="nav-dot"></span> CV <i class="bi bi-box-arrow-up-right" style="font-size: 0.7em;"></i></a></li>
+</ul>
+</nav>
+
+<div id="content" class="content-column">
+
+::: {#about .content-section}
+
+Hey, welcome to my website!
+
+I am an AI researcher passionate about ensuring AI maximally benefits Humanity. To achieve this I work on a broad range of challenges from AI evaluation, development of robust AI capabilities and reform within Government.
+
+Currently, I am a Research Scientist at the [UK AI Security Institute (AISI)](https://www.aisi.gov.uk/), where I was the first technical hire. I am also a 10 Downing Street Fellow where I advise on and lead AI projects addressing Prime Minister priority issues. Along with this I am a Visiting Lecturer at Imperial College London where for one semmester a year I teach the Deep Learning course.
+
+Previously, I completed a PhD in AI at Imperial College London and spent time on secondment at [The Alan Turing Institute](https://www.turing.ac.uk/). During my doctorate, I founded Maat, an AI due diligence consultancy that assessed the AI capabilities of companies involved in M&A and VC transactions, working with high-profile clients including Pfizer. Prior to this, I completed an MSc in AI at Imperial College London, following an undergraduate degree in Materials Science and Engineering, where I focused on solid-state physics for resistors and solar cells, as well as nanocomposite mechanics.
+
+
+:::
+
+::: {#aisi .content-section}
+<div class="section-header">
+<img src="images/AISI_Master_Colour1%20(1).png" class="section-header-img" alt="UK AI Security Institute">
+<span class="section-header-role">Research Scientist</span>
+</div>
+
+---
+
+Since joining [AISI](https://www.aisi.gov.uk/) as its first technical hire in November 2023, I've enjoyed building AISI's AI evaluation capabilities. In this role, I've built out AISI's autonomous and cyber evaluations, primarily involving capture-the-flag-style agentic evals. I've also been directly involved in 20+ frontier model pre-deployment evaluation cycles, working closely with labs such as Anthropic, OpenAI, and Google DeepMind to evaluate harmful capabilities of their models before public release. To enable this line of work, I have also been involved with open-source evaluation software such as [Inspect AI](https://inspect.aisi.org.uk/), [Hibayes](https://ukgovernmentbeis.github.io/hibayes/), and [Inspect Scout](https://meridianlabs-ai.github.io/inspect_scout/). I've been delighted to see AISI become a world-leading lab, attracting great talent — now 170+ technical individuals — and demonstrating new ways of operating effectively within government.
+
+<figure class="paper-figure">
+<img src="images/figure1_combined%20(1).png" alt="Sandbox escape evaluation architecture and scenarios">
+<figcaption>Left: the sandbox-within-a-sandbox architecture, which allows us to safely evaluate container escape capabilities. Right: the different vulnerability scenarios we inject, along with difficulty ratings from 1 to 5.</figcaption>
+</figure>
+
+A recent paper I enjoyed working on was releasing one of our agentic evals: [Quantifying Frontier LM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277). SandboxEscapeBench, is a benchmark that measures LLM capacity to breach container sandboxes across a range of vulnerabilities — from misconfigurations and privilege errors to kernel flaws and runtime weaknesses.
+<div class="photo-grid-10ds">
+<img src="images/aisi-all.jpg" alt="The AISI team">
+</div>
+
+:::
+
+::: {#fellow .content-section}
+<div class="section-header">
+<img src="images/10-downing.png" class="section-header-img" alt="10 Downing Street">
+<span class="section-header-role">10 Downing Street Innovation Fellow</span>
+</div>
+
+---
+
+In this Deputy Director role, I work closely with ministers, advising on and leading AI-related opportunities and projects. Alongside establishing [AISI](https://www.aisi.gov.uk/), I contributed to the early work of the [Incubator for Artificial Intelligence](https://ai.gov.uk/), which focused on building technical capability within government and reducing reliance on external procurement to deliver better outcomes for the UK. I have had the privilege of serving across two governments, gaining significant political experience, including through the transition of power from a Conservative to a Labour government following the general election.
+
+<div class="photo-grid-10ds">
+<img src="images/harry-at-10-downing.jpg" alt="Harry at 10 Downing Street">
+<img src="images/clip-1.png" alt="Working with the Prime Minister">
+<img src="images/a-better-cab.jpg" alt="Cabinet Office">
+<img src="images/clip-2.png" alt="Demonstrating AI capabilities">
+</div>
+
+:::
+
+::: {#imperial .content-section}
+<div class="section-header">
+<img src="images/Imperial_College_London_new_logo.png" class="section-header-img" alt="Imperial College London">
+<span class="section-header-role">Visiting Lecturer</span>
+</div>
+
+---
+
+Teaching is something I genuinely enjoy, and I'm fortunate to have taught the Deep Learning course in the Department of Computing at Imperial College London for the past three years. I cover topics including efficient deep learning, AI evaluation methods, scaling laws, generative models, and transformer architectures. You can find recordings of some of my lectures ([Lecture 1](https://youtu.be/Dq0Xt6UpGPA?si=X7ij5GAVl1CKI-WM), [Lecture 2](https://youtu.be/pglSEBikuOA?si=ZjFYBXbI4dWEkNE3)) and a set of [lecture notes](https://hcoppockno10.github.io/lecture-notes/). To support my pedagogy journey, I have completed a PGCert in Higher Education and am a Fellow of the Higher Education Academy (HEA).
+
+:::
+
+::: {#health .content-section}
+## AI for Health
+
+*Coming soon -- add details about your PhD research on bias in AI for Health and self-supervised learning for audio.*
+
+:::
+
+</div>
+
+</div>

@@ -1,5 +1,7 @@
-_site/
+/_site/
+/.quarto/
 .DS_Store
 .env
 logs/
 __pycache__/
+node_modules/

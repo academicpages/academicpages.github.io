@@ -1,0 +1,7 @@
+---
+title: "Establishing Best Practices for Building Rigorous Agentic Benchmarks"
+description: "Advances in Neural Information Processing Systems, 2025"
+date: 2025-12-01
+venue: "Advances in Neural Information Processing Systems"
+citation-text: "Yuxuan Zhu, Tengjun Jin, Yada Pruksachatkun, Andy Zhang, Shu Liu, Sasha Cui, Sayash Kapoor, Shayne Longpre, Kevin Meng, Rebecca Weiss, Fazl Barez, Rahul Gupta, Jwala Dhamala, Jacob Merizian, Mario Giulianelli, Harry Coppock, Cozmin Ududec, Jasjeet Sekhon, Jacob Steinhardt, Antony Kellerman, Sarah Schwettmann, Matei Zaharia, Ion Stoica, Percy Liang, Daniel Kang, Establishing Best Practices for Building Rigorous Agentic Benchmarks, NeurIPS, 2025"
+---
