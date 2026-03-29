@@ -84,7 +84,7 @@ body {
   font-size: 0.72rem;
   color: var(--color-text-muted);
   text-align: center;
-  margin: 0 0 1.5rem;
+  margin: 0 0 0.3rem;
   letter-spacing: 0.02em;
 }
 
@@ -101,6 +101,59 @@ body {
 
 .nav-list li:last-child {
   margin-bottom: 0;
+}
+
+.email-link {
+  display: block;
+  text-align: center;
+  font-size: 0.7rem;
+  color: var(--color-text-muted);
+  margin: 0.2rem 0 0.6rem;
+  letter-spacing: 0.01em;
+}
+
+.sidebar-socials {
+  display: flex;
+  gap: 0.8rem;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-socials a {
+  color: var(--color-text-muted);
+  font-size: 1.05rem;
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+
+.sidebar-socials a:hover {
+  color: var(--color-accent);
+}
+
+.sidebar-cv-link {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.book-meeting-btn {
+  display: block;
+  text-align: center;
+  padding: 0.3rem 0.7rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  border: 1px solid var(--color-border);
+  border-radius: 5px;
+  text-decoration: none;
+  transition: color 0.2s ease, border-color 0.2s ease;
+  margin-bottom: 1rem;
+}
+
+.book-meeting-btn:hover {
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+  text-decoration: none;
 }
 
 .nav-link {
@@ -429,7 +482,10 @@ details pre {
   .sidebar-image,
   .sidebar-name,
   .sidebar-subtitle,
-  .sidebar-degrees {
+  .sidebar-degrees,
+  .sidebar-socials,
+  .email-link,
+  .book-meeting-btn {
     display: none;
   }
 
