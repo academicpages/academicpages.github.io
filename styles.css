@@ -452,8 +452,81 @@ details pre {
   margin-bottom: 0.5rem;
 }
 
+/* ===== Mobile Profile Header ===== */
+.mobile-profile {
+  display: none;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
+  .mobile-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .mobile-profile-image {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+  }
+
+  .mobile-profile-name {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--color-accent);
+    margin: 0 0 0.4rem;
+  }
+
+  .mobile-profile-subtitle {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    margin: 0 0 0.3rem;
+  }
+
+  .mobile-profile-degrees {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin: 0 0 0.8rem;
+  }
+
+  .mobile-profile-socials {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.2rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .mobile-profile-socials a {
+    color: var(--color-accent);
+    transition: color 0.2s;
+  }
+
+  .mobile-profile-socials a:hover {
+    color: var(--color-accent-light);
+  }
+
+  .mobile-profile-email {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-top: 0.3rem;
+    width: 100%;
+  }
+
+  .mobile-profile .book-meeting-btn {
+    display: inline-flex;
+  }
   .main-layout {
     display: block;
     padding: 1.5rem 1rem 5rem;
