@@ -1,0 +1,12 @@
+---
+title: "Vector Quantised-Variational Autoencoders (VQ-VAEs) for Representation learning"
+description: "Master Thesis, 2020"
+date: 2020-09-01
+paperurl: "/files/MasterThesis.pdf"
+award: "Imperial College London Distinguished Project Award"
+citation-text: 'Harry Coppock, Björn W Schuller, Vector Quantised-Variational Autoencoders (VQ-VAEs) for Representation learning (2020), Master Thesis'
+aliases:
+  - /publication/2020-09-01-masterthesis
+---
+
+This report details an investigation into the applicability of Vector-Quantised Variational Autoencoders (VQ-VAEs) for representation learning. The VQ-VAE's representations are investigated and a novel regularisation technique involving noisy vector quantisation is introduced. It is then shown, through a range of quantitative and qualitative experiments, that this regularisation technique forces the VQ-VAE to learn superior representations. A theoretical explanation into why this is the case is also provided. In addition to this a new prior is fitted to the VQ-VAE latent space in the form of an adapted Progressive Growing Generative Adversarial Network (PGAN) with self attention which yields a significant reduction in training and sampling time.

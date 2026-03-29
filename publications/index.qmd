@@ -1,0 +1,8 @@
+---
+title: "Selected Publications"
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: custom
+  template: _listing-template.ejs
+---

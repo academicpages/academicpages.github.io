@@ -1,0 +1,7 @@
+---
+title: "A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care"
+description: "arXiv, 2025"
+date: 2025-01-01
+venue: "arXiv"
+citation-text: "Oliver Normand, Esther Borsi, Mitch Fruin, Lauren E Walker, Jamie Heagerty, Chris C. Holmes, Anthony J Avery, Iain E Buchan, Harry Coppock, A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care, arXiv, 2025"
+---

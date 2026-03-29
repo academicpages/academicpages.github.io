@@ -1,0 +1,7 @@
+---
+title: "Skewed Score: A statistical framework to assess autograders"
+description: "arXiv, 2025"
+date: 2025-01-01
+venue: "arXiv"
+citation-text: "Magda Dubois*, Harry Coppock*, Mario Giulianelli, Timo Flesch, Lennart Luettgau, Cozmin Ududec, Skewed Score: A statistical framework to assess autograders, arXiv, 2025"
+---

@@ -1,0 +1,17 @@
+---
+title: "Deep Learning & Ethics, Fairness and Explanation in AI"
+description: "Visiting Lecturer -- Dept. Computing postgraduate courses, Imperial College London"
+date: 2024-02-01
+role: "Visiting Lecturer"
+type: "Dept. Computing postgraduate courses"
+venue: "Imperial College London, Department of Computing"
+location: "London, UK"
+aliases:
+  - /teaching/2024-visitingLecturer-deeplearning
+---
+
+Deliver lectures and support coursework in the Department of Computing for the Deep Learning course (70010) and Ethics, Fairness and Explanation in AI (70076). Topics covered include generative models, attention mechanisms, AI evaluation, and efficient training and inference. I also lead the coursework for Deep Learning.
+
+### Materials developed for course:
+1. [Lecture 1](https://www.youtube.com/watch?v=UVCZaMsUyDQ)
+2. [Lecture 2](https://www.youtube.com/watch?v=FUj5ZOzlwmM)

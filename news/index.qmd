@@ -1,0 +1,13 @@
+---
+title: "In the News"
+aliases:
+  - /news/2022-01-01-covid
+---
+
+## COVID-19 detection from audio - spreading words of caution
+
+I have featured in a number of news articles promoting caution in regards to the recent technology of COVID-19 detection from respiratory audio.
+
+  * [NewScientist - AI is no better at detecting covid-19 than simple symptom survey](https://www.newscientist.com/article/2353344-ai-is-no-better-at-detecting-covid-19-than-simple-symptom-survey/)
+  * [Lancet Digital Health - Do I sound sick?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00182-5/fulltext)
+  * [The Well News - Audio Recordings that Reliably Detect COVID-19 not Quite Ready for Use](https://www.thewellnews.com/research/audio-recordings-that-reliably-detect-covid-19-not-quite-ready-for-use/)

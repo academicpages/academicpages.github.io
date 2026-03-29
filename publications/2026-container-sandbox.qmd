@@ -1,0 +1,7 @@
+---
+title: "Quantifying Frontier LLM Capabilities for Container Sandbox Escape"
+description: "arXiv, 2026"
+date: 2026-01-01
+venue: "arXiv"
+citation-text: "Rahul Marchand, Art O Cathain, Jerome Wynne, Philippos Maximos Giavridis, Sam Deverett, John Wilkinson, Jason Gwartz, Harry Coppock, Quantifying Frontier LLM Capabilities for Container Sandbox Escape, arXiv, 2026"
+---
