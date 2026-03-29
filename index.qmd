@@ -38,6 +38,21 @@ aliases:
 
 <div id="content" class="content-column">
 
+<div class="mobile-profile">
+<img src="images/profile.png" class="mobile-profile-image" alt="Harry Coppock">
+<h1 class="mobile-profile-name">Harry Coppock</h1>
+<p class="mobile-profile-subtitle">10 Downing Street Fellow &middot; Research Scientist &middot; Visiting Lecturer</p>
+<p class="mobile-profile-degrees">HEA Fellow, PhD, PGCert, MSc, MEng</p>
+<div class="mobile-profile-socials">
+<a href="https://github.com/hcoppockno10" target="_blank" rel="noopener" title="GitHub"><i class="bi bi-github"></i></a>
+<a href="https://www.linkedin.com/in/harry-coppock/" target="_blank" rel="noopener" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+<a href="https://scholar.google.com/citations?user=sOdVlYoAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+<a href="files/CV_HC.pdf" target="_blank" rel="noopener" title="CV" class="sidebar-cv-link">CV</a>
+<span class="mobile-profile-email"><i class="bi bi-envelope"></i> harrygcoppock [at] gmail [dot] com</span>
+</div>
+<a href="https://calendar.app.google/FdE94HZm6inSqstD7" target="_blank" rel="noopener" class="book-meeting-btn"><i class="bi bi-calendar-check"></i> Let's chat!</a>
+</div>
+
 ::: {#about .content-section}
 
 <div style="margin-top: 1.5rem;"></div>
