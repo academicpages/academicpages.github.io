@@ -34,6 +34,19 @@ A copy of my curriculum vitae is available for download: [CV.pdf](../files/CV.pd
 For research inquiries, collaborations, or discussions, please feel free to contact me at:  
 **Email**: rxu274 [at] aucklanduni.ac.nz
 
+
+<div style="background-color: #f9f9f9; padding: 20px; border: 2px solid #6c75ff; border-radius: 12px; margin: 20px 0; font-family: Arial, sans-serif; line-height: 1.6; color: #333; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+
+  <strong style="color: #2c3e50; font-size: 16px;">Official Email Notice (Anti-Scam)</strong>
+
+  My only non-uni email is: <a href="mailto:xyzhang0717@gmail.com" style="color: #6c75ff; text-decoration: underline; font-weight: bold;">xyzhang0717@gmail.com</a>.
+
+  I will <strong style="font-weight: bold; color: #2c3e50;">never</strong> contact you from any other email address (other than my official university email or this Gmail) to request WhatsApp/Telegram/WeChat details or any personal information.
+
+  If you receive any suspicious message claiming to be me, please ignore it and verify using the email address above.
+
+</div>
+
 ---
 
 > *Patience is all you need*
