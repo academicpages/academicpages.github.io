@@ -9,7 +9,7 @@ I am a Ph.D. student at the School of Computer Science, [The University of Auckl
 <div style="border: 1px solid #8b0000; background-color: #fff5f5; border-radius: 8px; padding: 15px 20px; margin: 0 0 1em 0; font-family: sans-serif; color: #8b0000;">
   <p style="margin: 0 0 0.75em 0; font-weight: bold;">💥🔥📢 News</p>
   <p style="margin: 0 0 0.75em 0;"></p>
-  <p style="margin: 0;">If you are interested in my research, please feel free to contact me: <a href="mailto:xrc274@aucklanduni.ac.nz" style="color: #6c75ff; text-decoration: underline; font-weight: bold;">xrc274@aucklanduni.ac.nz</a>..</strong></p>
+  <p style="margin: 0;">If you are interested in my research, please feel free to contact me: <a href="mailto:xrc274@aucklanduni.ac.nz" style="color: #8b0000; text-decoration: underline; font-weight: bold;">xrc274@aucklanduni.ac.nz</a>.</strong></p>
 </div>
 
 ## Research
