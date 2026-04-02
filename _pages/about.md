@@ -11,7 +11,7 @@ I am a Ph.D. student at the School of Computer Science, [The University of Auckl
 ## Research
 
 
-My research primarily focuses on two areas: <span style="color: var(--global-link-color, #0d6d66);">analyzing and optimizing interactions in multi-agent AI systems</span>, and [<span style="color: var(--global-link-color, #0d6d66);">designing effective mechanisms for the AI marketplace</span>. I am also interested in Mobile Computing, Wireless Communications and Networking
+My research primarily focuses on two areas: <span style="color: var(--global-link-color, #0d6d66);">analyzing and optimizing interactions in multi-agent AI systems</span>, and <span style="color: var(--global-link-color, #0d6d66);">designing effective mechanisms for the AI marketplace</span>. I am also interested in Mobile Computing, Wireless Communications and Networking
 
 * Decentralized Artificial Intelligence
 
