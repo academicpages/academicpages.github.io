@@ -6,6 +6,12 @@ author_profile: true
 
 I am a Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz), under the supervision of [Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu) and [Ni Ding](https://profiles.auckland.ac.nz/ni-ding). Previously, I completed my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor's degree from UESTC in 2022.
 
+<div style="border: 1px solid #8b0000; background-color: #fff5f5; border-radius: 8px; padding: 15px 20px; margin: 0 0 1em 0; font-family: sans-serif; color: #8b0000;">
+  <p style="margin: 0 0 0.75em 0; font-weight: bold;">💥🔥📢 News</p>
+  <p style="margin: 0 0 0.75em 0;"></p>
+  <p style="margin: 0;">If you are interested in my research, please feel free to contact me: <a href="mailto:xrc274@aucklanduni.ac.nz" style="color: #6c75ff; text-decoration: underline; font-weight: bold;">xrc274@aucklanduni.ac.nz</a>..</strong></p>
+</div>
+
 ## Research
 
 <div style="background-color: #f9f9f9; padding: 15px; border-left: 6px solid #2c3e50; margin-bottom: 20px;">
@@ -35,17 +41,6 @@ For research inquiries, collaborations, or discussions, please feel free to cont
 **Email**: rxu274 [at] aucklanduni.ac.nz
 
 
-<div style="background-color: #f9f9f9; padding: 20px; border: 2px solid #6c75ff; border-radius: 12px; margin: 20px 0; font-family: Arial, sans-serif; line-height: 1.6; color: #333; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-
-  <strong style="color: #2c3e50; font-size: 16px;">Official Email Notice (Anti-Scam)</strong>
-
-  My only non-uni email is: <a href="mailto:xyzhang0717@gmail.com" style="color: #6c75ff; text-decoration: underline; font-weight: bold;">xyzhang0717@gmail.com</a>.
-
-  I will <strong style="font-weight: bold; color: #2c3e50;">never</strong> contact you from any other email address (other than my official university email or this Gmail) to request WhatsApp/Telegram/WeChat details or any personal information.
-
-  If you receive any suspicious message claiming to be me, please ignore it and verify using the email address above.
-
-</div>
 
 ---
 
