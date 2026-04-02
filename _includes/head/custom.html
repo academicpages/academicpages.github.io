@@ -12,9 +12,45 @@
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="#ffffff"/>
+<meta name="theme-color" content="#0f766e"/>
+
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&amp;display=swap" rel="stylesheet"/>
 
 <style>
+  /* Lively-but-academic: warm paper, teal links, distinctive headings (light theme only) */
+  html:not([data-theme="dark"]) {
+    --global-bg-color: #faf8f5;
+    --global-footer-bg-color: #f0eeea;
+    --global-text-color: #2c3338;
+    --global-text-color-light: #5c656d;
+    --global-link-color: #0f766e;
+    --global-link-color-hover: #115e59;
+    --global-link-color-visited: #0d9488;
+    --global-border-color: #e8e4de;
+    --global-dark-border-color: #d4cdc4;
+    --global-code-background-color: #f3f1ed;
+  }
+
+  html:not([data-theme="dark"]) h1,
+  html:not([data-theme="dark"]) h2,
+  html:not([data-theme="dark"]) h3,
+  html:not([data-theme="dark"]) h4,
+  html:not([data-theme="dark"]) h5,
+  html:not([data-theme="dark"]) h6,
+  html:not([data-theme="dark"]) .page__title,
+  html:not([data-theme="dark"]) .archive__item-title {
+    font-family: "Fraunces", Georgia, "Times New Roman", serif;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  #main a,
+  .page__footer a {
+    transition: color 0.2s ease, border-bottom-color 0.2s ease;
+  }
+
   /* Make specific navigation items gray */
   .masthead .greedy-nav .visible-links .masthead__menu-item--lg a,
   .masthead .greedy-nav .visible-links a[href="{{ base_path }}/"],
@@ -36,7 +72,7 @@
     color: #7a7a7a !important;
   }
 
-    /* Slightly reduce author avatar size */
+  /* Slightly reduce author avatar size */
   .author__avatar img {
     max-width: 140px !important;
   }
