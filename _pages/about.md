@@ -33,8 +33,8 @@ Research Topics
   <p>I am also interested in Mobile Computing, Wireless Communications and Networking.
 </div>
 
----
-
+CV
+======
 You can download my CV [here](../files/CV.pdf)
 
 If you are interested in me or have research and communication intentions, feel free to contact me at rxu274 [at] aucklanduni.ac.nz
