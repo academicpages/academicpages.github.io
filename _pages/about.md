@@ -15,7 +15,7 @@ My research primarily focuses on two areas: <span style="color: var(--global-lin
 
 * Decentralized Artificial Intelligence
 
-* Multi-Agent Al System
+* Multi-Agent AI System
 
 * Marketplace
 
