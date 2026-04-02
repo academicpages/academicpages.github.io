@@ -4,12 +4,10 @@ title: "Hi~ I'm Runchen Xu"
 author_profile: true
 ---
 
+I am a Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz), under the supervision of [Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu) and [Ni Ding](https://profiles.auckland.ac.nz/ni-ding). Previously, I completed my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor's degree from UESTC in 2022.
 
-I am a Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz), under the supervision of [Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu) and [Ni Ding](https://profiles.auckland.ac.nz/ni-ding). Previously, I completed my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor's degree from UESTC in 2022
+## Research Focus
 
-
-Research Topics
-======
 <div style="background-color: #f9f9f9; padding: 15px; border-left: 6px solid #2c3e50; margin-bottom: 20px;">
   <p>🚀 My research focuses on analyzing and optimizing the interactions among multiple AI agents. Additionally, I am also dedicated to designing reasonable and effective mechanisms for the AI marketplace.</p>
   <ul>
@@ -18,21 +16,18 @@ Research Topics
     <li><b>Marketplace</b></li>
     <li><b>Game Theory</b></li>
   </ul>
-  <p>I am also interested in Mobile Computing, Wireless Communications and Networking.
+  <p>I am also interested in Mobile Computing, Wireless Communications and Networking.</p>
 </div>
 
-CV
-======
-You can download my CV [here](../files/CV.pdf)
+## Download CV
 
-If you are interested in me or have research and communication intentions, feel free to contact me at rxu274 [at] aucklanduni.ac.nz
+A copy of my curriculum vitae is available for download: [CV.pdf](../files/CV.pdf)
 
+## Contact
 
-
-
+For research inquiries, collaborations, or discussions, please feel free to contact me at:  
+**Email**: rxu274 [at] aucklanduni.ac.nz
 
 ---
->
->*Patience is all you need*
->
- 
+
+> *Patience is all you need*
