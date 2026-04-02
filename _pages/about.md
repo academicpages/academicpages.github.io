@@ -9,7 +9,7 @@ I am a Ph.D. student at the School of Computer Science, [The University of Auckl
 ## Research
 
 <div style="background-color: #f9f9f9; padding: 15px; border-left: 6px solid #2c3e50; margin-bottom: 20px;">
-  <p>🚀💡 My research focuses on analyzing and optimizing the interactions among multiple AI agents. Additionally, I am also dedicated to designing reasonable and effective mechanisms for the AI marketplace.</p>
+  <p>💡 My research focuses on analyzing and optimizing the interactions among multiple AI agents. Additionally, I am also dedicated to designing reasonable and effective mechanisms for the AI marketplace.</p>
   <ul>
     <li><b>Decentralized Artificial Intelligence</b></li>
     <li><b>Multi-Agent Al System</b></li>
