@@ -19,12 +19,6 @@ I am a Ph.D. student at the School of Computer Science, [The University of Auckl
   <p>I am also interested in Mobile Computing, Wireless Communications and Networking.</p>
 </div>
 
-<div style="border: 1px solid #8b0000; background-color: #fff5f5; border-radius: 8px; padding: 15px 20px; margin: 0 0 1em 0; font-family: sans-serif; color: #8b0000;">
-  <p style="margin: 0 0 0.75em 0; font-weight: bold;">💥🔥📢 News</p>
-  <p style="margin: 0 0 0.75em 0;"></p>
-  <p style="margin: 0;"></p>
-</div>
-
 ## Teaching
 
 * May 2026 - Jun. 2026: Graduate Teaching Assistant, **COMPSCI 120: Mathematics for Computer Science**, 2026 Semester One, The University of Auckland, New Zealand
