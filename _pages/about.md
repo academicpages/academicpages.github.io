@@ -21,9 +21,9 @@ I am a Ph.D. student at the School of Computer Science, [The University of Auckl
 
 ## Teaching
 
-* May 2026 - Jun. 2026: Graduate Teaching Assistant, COMPSCI 120: Mathematics for Computer Science, 2026 Semester One, The University of Auckland, New Zealand
+* May 2026 - Jun. 2026: Graduate Teaching Assistant, **COMPSCI 120: Mathematics for Computer Science**, 2026 Semester One, The University of Auckland, New Zealand
 
-* Nov. 2025 - Feb. 2026: Graduate Teaching Assistant, COMPSCI 120: Mathematics for Computer Science, 2026 Summer School, The University of Auckland, New Zealand
+* Nov. 2025 - Feb. 2026: Graduate Teaching Assistant, **COMPSCI 120: Mathematics for Computer Science**, 2026 Summer School, The University of Auckland, New Zealand
 
 ## CV
 
