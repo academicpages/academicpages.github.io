@@ -9,40 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- B.Tech. in Electronics and Communication (Major), Computer Science (Minor)
+  - National Institute of Technology, Surat
+  - Aug 2019 - May 2023
+  - **GPA: 9.55/10 (3.95/4)**
+  - **Gold Medalist - Ranked 1 of 156 students in Electronics Engineering**
+  - Coursework: Data Structures & Algorithms, Computer Architecture, Computer Networks, Operating System, Deep Learning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Work experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Aug 2023 - Present: **Software Engineer 2**, JPMorgan Chase
+  - Developed a cloud-based distributed application that processes 5 million transactions daily and handles over 50,000 analytics queries per hour
+  - Engineered a hot and cold data strategy using Query Federation, slashing storage costs by 30%
+  - Designed a database synchronization utility for real-time geospatial analytics, automating 95% of clients' manual workflow
+  - **Recognition:** Accelerated Promotion to Software Engineer 2 within first year - awarded to top 5% of global cohort
 
-Publications
-======
+- May 2022 - July 2022: **Software Engineer Intern**, JPMorgan Chase
+  - Designed an Amazon Kinesis data pipeline streaming 1 Terabyte of daily trading data to Redshift
+  - Enabled 4X operational scaling for the firm's fastest-growing trading division
+
+- May 2021 - July 2021: **Summer Research Fellow**, Indian Institute of Technology Delhi
+  - Investigated Twin Augmentation in pre-trained classifiers for class imbalance in chest X-ray classification
+  - Achieved 5% improvement in classification accuracy over baseline model
+
+- Dec 2020 - Feb 2021: **Research Intern**, Indian Space Research Organization (ISRO)
+  - Developed a geolocation algorithm to map Mask R-CNN outputs to geo-coordinates in satellite imagery
+  - Supported research on geolocation-aware deep learning models for remote sensing
+
+# Skills
+
+- **Programming Languages:** Python, C++, Java
+- **Web Technologies:** React, Node.js, Django, Docker, WebRTC, Sockets.IO
+- **Cloud Platforms:** AWS (Kinesis, Redshift, S3, DynamoDB), GCP, Terraform
+- **Databases:** MySQL, MongoDB, DynamoDB, Aurora, Redshift, PostGIS
+- **AI & ML:** TensorFlow, Keras, PyTorch, Pandas, NumPy, scikit-learn, OpenCV
+
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -61,4 +66,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Microsoft Student Ambassador:** Mentored 50+ students in web development and organized 10+ programming workshops
+* **Organizer, DotSlash Hackathon:** Spearheaded technical operations, developed event website, hosted live sessions on YouTube
+* **7-time Hackathon Winner:** Awards from competitions at University at Buffalo, Fordham University, and other institutions

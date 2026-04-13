@@ -1,152 +1,158 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Shankhanil Borthakur",
+    "email": "shankhanil974@gmail.com",
+    "phone": "+91 8011153670",
+    "website": "https://shankhanil007.github.io",
+    "summary": "Software Engineer 2 at JPMorgan Chase with expertise in cloud-based distributed systems, data engineering, and machine learning. Ranked 1 of 156 students in Electronics Engineering at NIT Surat with a 9.55/10 GPA. Published research in deep learning and object detection.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Bangalore",
+      "countryCode": "IN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "shankhanil-borthakur",
+        "url": "https://linkedin.com/in/shankhanil-borthakur"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "shankhanil",
+        "url": "https://github.com/shankhanil"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "JPMorgan Chase",
+      "position": "Software Engineer 2",
+      "startDate": "2023-08",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "Developed a cloud-based distributed application that processes 5 million transactions daily, handles over 50,000 analytics queries per hour, and underpins a million-dollar annual trading business",
+        "Engineered a hot and cold data strategy using Query Federation to access recent data from high-performance Redshift storage and historical data from Amazon S3, slashing storage costs by 30%",
+        "Designed a database synchronization utility to ingest on-field survey data into a remote PostGIS database for real-time geospatial analytics, automating 95% of clients' manual workflow"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "JPMorgan Chase",
+      "position": "Software Engineer Intern",
+      "startDate": "2022-05",
+      "endDate": "2022-07",
+      "summary": "",
+      "highlights": [
+        "Designed an Amazon Kinesis data pipeline to stream nearly 1 Terabyte of high-frequency trading data daily to Amazon Redshift",
+        "Enabled 4X operational scaling for one of the firm's fastest-growing trading divisions through on-prem to cloud transition"
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "National Institute of Technology, Surat",
+      "area": "B.Tech. in Electronics and Communication (Major), Computer Science (Minor)",
+      "studyType": "Bachelor",
+      "startDate": "2019-08",
+      "endDate": "2023-05",
+      "gpa": "9.55/10 (3.95/4)",
+      "courses": [
+        "Data Structures & Algorithms",
+        "Computer Architecture",
+        "Computer Networks",
+        "Operating System",
+        "Deep Learning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C++", "Java"]
+    },
+    {
+      "name": "Web Technologies",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Django",
+        "Docker",
+        "WebRTC",
+        "Sockets.IO"
+      ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "keywords": ["AWS", "GCP", "Terraform"]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "DynamoDB",
+        "Aurora",
+        "Redshift",
+        "PostGIS"
+      ]
+    },
+    {
+      "name": "AI & ML",
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "Pandas",
+        "NumPy",
+        "scikit-learn",
+        "OpenCV"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "NER for Extracting Tourist Attractions from Textual Information: A BERT-BiLSTM-CRF Approach",
+      "publisher": "2023 IEEE 5th ICAECC",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "Developed a Named Entity Recognition system using BERT and BiLSTM with CRF layer to extract tourist attractions from travel text data."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Object Detection for Military Surveillance using YOLO Framework",
+      "publisher": "2023 IEEE 20th INDICON",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "Implemented YOLO-based object detection system for military surveillance applications with improved accuracy and real-time inference capabilities."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Streak Fit - AI-Powered Virtual Group Fitness Platform",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Led a three-member team to develop a platform where users can exercise with their peers via video conferencing. Integrated pose detection model to monitor workout movements and provide real-time feedback."
+    },
+    {
+      "name": "Q&A Made Easy - Real-Time Q&A Moderation System",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Developed a Chrome extension with built-in NLP filter to remove profane and repetitive questions during online meetings. Integrated speech-to-text support and admin dashboard for streamlined Q&A moderation."
+    },
+    {
+      "name": "Travelo - Smart Travel Planning using NER",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Built a web application capable of automatically parsing lengthy travel blogs to extract tourist destinations and generate itineraries. Includes efficient route plotting on map."
     }
   ]
 }

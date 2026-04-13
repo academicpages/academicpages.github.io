@@ -1,13 +1,33 @@
 ---
-title: "Paper Title Number 4"
+title: "Object Detection for Military Surveillance using YOLO Framework"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2023-yolo-surveillance
+excerpt: "This paper presents an implementation of YOLO-based object detection system optimized for military surveillance applications with improved accuracy and real-time capabilities."
+date: 2023-01-01
+venue: "2023 IEEE 20th INDICON"
+paperurl: ""
+citation: "Shankhanil Borthakur. (2023). &quot;Object Detection for Military Surveillance using YOLO Framework.&quot; <i>2023 IEEE 20th INDICON</i>."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Overview
+
+This research focuses on developing and optimizing YOLO (You Only Look Once) based object detection systems for military surveillance applications. The work addresses the challenges of real-time detection in resource-constrained environments while maintaining high accuracy for critical security applications.
+
+## Key Contributions
+
+- Implemented optimized YOLO architecture for real-time object detection in surveillance scenarios
+- Achieved improved accuracy and inference speed compared to standard YOLO implementations
+- Developed efficient deployment strategies for edge computing devices
+- Created robust detection pipeline handling various environmental conditions and lighting scenarios
+
+## Technical Approach
+
+- Trained custom YOLO models on military surveillance datasets
+- Implemented real-time video processing with minimal latency
+- Optimized model for deployment on embedded systems
+- Developed post-processing techniques for improved detection reliability
+
+## Applications
+
+The developed system demonstrates practical applications in border security, perimeter monitoring, and military surveillance operations with real-time performance capabilities.
