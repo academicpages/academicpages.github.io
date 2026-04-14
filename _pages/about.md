@@ -8,18 +8,7 @@ author_profile: true
 I am a Ph.D. student at [the School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html), [The University of Auckland](https://www.auckland.ac.nz), under the supervision of [Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu) and [Ni Ding](https://profiles.auckland.ac.nz/ni-ding). Previously, I completed my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor's degree from UESTC in 2022. 
 </div>
 
-<div style="border: 2px solid #c0392b; border-radius: 8px; padding: 1rem; margin-bottom: 1.5rem; background-color: #fff8f8;">
-  <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-    <span>☀️🔥📢</span>
-    <strong style="color: #c0392b; font-size: 1.1rem;">Call for Students</strong>
-  </div>
-  <div style="line-height: 1.6; color: #333;">
-    I am actively seeking motivated individuals who are interested in pursuing a <strong style="color: #c0392b;">PhD, Master, visiting, and honorary students</strong> under my supervision.  
 
-    If you are interested in my research, please feel free to reach out with your <strong style="color: #c0392b;">CV (English Version)</strong>, <strong style="color: #c0392b;">transcripts</strong>, <strong style="color: #c0392b;">research interests</strong>, and a <strong style="color: #c0392b;">brief research plan</strong>.
-  </div>
-</div>
-</div>
 
 
 ## Research
