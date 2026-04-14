@@ -8,14 +8,12 @@ author_profile: true
 I am a Ph.D. student at [the School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html), [The University of Auckland](https://www.auckland.ac.nz), under the supervision of [Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu) and [Ni Ding](https://profiles.auckland.ac.nz/ni-ding). Previously, I completed my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor's degree from UESTC in 2022. 
 </div>
 
-## News
+## News 🔥
 
 <div style="background-color: #f9f9f9; padding: 15px; border-left: 6px solid #2c3e50; border-radius: 8px; margin-bottom: 20px;">
   <ul id="news-list" style="max-height: 180px; overflow-y: auto; margin: 0; padding-left: 20px;">
-    <li data-date="2026-02"><b>Feb 2026:</b> Served as GTA for COMPSCI 120 (Summer School).</li>
-    <li data-date="2026-04"><b>Nov 2025:</b> Started my Ph.D. journey at The University of Auckland.</li>
-    <li data-date="2025-06"><b>Jun 2025:</b> Completed my Master's degree at UESTC.</li>
-    <li data-date="2022-07"><b>Jul 2022:</b> Graduated with Bachelor's degree from UESTC.</li>
+    <li data-date="2026-04"><b>May 2026:</b> Congratulations! My Chrome extension "QuickPage Capture" – a high‑efficiency, one‑click web screenshot tool – is now officially available on the Chrome Web Store!.</li>
+    <li data-date="2025-11"><b>Nov 2025:</b> Started my Ph.D. journey at The University of Auckland.</li>
   </ul>
 </div>
 
