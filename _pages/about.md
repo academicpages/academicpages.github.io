@@ -10,15 +10,31 @@ I am a Ph.D. student at [the School of Computer Science](https://www.auckland.ac
 
 ## News
 
-<div style="max-height: 180px; overflow-y: auto; border: 1px solid #e5e5e5; border-radius: 8px; padding: 12px 16px; background-color: #fcfcfc; margin-bottom: 20px;">
-  <ul style="margin: 0; padding-left: 20px;">
-    <li><b>Apr 2026:</b> Started my Ph.D. journey at The University of Auckland.</li>
-    <li><b>Feb 2026:</b> Served as GTA for COMPSCI 120 (Summer School).</li>
-    <li><b>Jun 2025:</b> Completed my Master's degree at UESTC.</li>
-    <li><b>Sep 2022:</b> Began research on multi-agent systems and AI marketplaces.</li>
-    <li><b>Jul 2022:</b> Graduated with Bachelor's degree from UESTC.</li>
+<div style="background-color: #f9f9f9; padding: 15px; border-left: 6px solid #2c3e50; border-radius: 8px; margin-bottom: 20px;">
+  <ul id="news-list" style="max-height: 180px; overflow-y: auto; margin: 0; padding-left: 20px;">
+    <li data-date="2026-04"><b>Apr 2026:</b> Started my Ph.D. journey at The University of Auckland.</li>
+    <li data-date="2026-02"><b>Feb 2026:</b> Served as GTA for COMPSCI 120 (Summer School).</li>
+    <li data-date="2025-06"><b>Jun 2025:</b> Completed my Master's degree at UESTC.</li>
+    <li data-date="2022-09"><b>Sep 2022:</b> Began research on multi-agent systems and AI marketplaces.</li>
+    <li data-date="2022-07"><b>Jul 2022:</b> Graduated with Bachelor's degree from UESTC.</li>
   </ul>
 </div>
+
+<script>
+  (function () {
+    var newsList = document.getElementById("news-list");
+    if (!newsList) return;
+    var items = Array.from(newsList.querySelectorAll("li[data-date]"));
+    items.sort(function (a, b) {
+      var dateA = a.getAttribute("data-date") || "";
+      var dateB = b.getAttribute("data-date") || "";
+      return dateB.localeCompare(dateA);
+    });
+    items.forEach(function (item) {
+      newsList.appendChild(item);
+    });
+  })();
+</script>
 
 
 ## Research
