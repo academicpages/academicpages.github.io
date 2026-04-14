@@ -8,6 +8,19 @@ author_profile: true
 I am a Ph.D. student at [the School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html), [The University of Auckland](https://www.auckland.ac.nz), under the supervision of [Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu) and [Ni Ding](https://profiles.auckland.ac.nz/ni-ding). Previously, I completed my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor's degree from UESTC in 2022. 
 </div>
 
+<div class="news-box">
+  <div class="news-header">
+    <span>☀️🔥📢</span>
+    <strong>Call for Students</strong>
+  </div>
+  <div class="news-content">
+    I am actively seeking motivated individuals who are interested in pursuing a <strong>PhD, Master, visiting, and honorary students</strong> under my supervision.  
+
+    If you are interested in my research, please feel free to reach out with your <strong>CV (English Version)</strong>, <strong>transcripts</strong>, <strong>research interests</strong>, and a <strong>brief research plan</strong>.
+  </div>
+</div>
+
+
 ## Research
 
 
