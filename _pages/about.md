@@ -8,7 +8,17 @@ author_profile: true
 I am a Ph.D. student at [the School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html), [The University of Auckland](https://www.auckland.ac.nz), under the supervision of [Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu) and [Ni Ding](https://profiles.auckland.ac.nz/ni-ding). Previously, I completed my Master's degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor's degree from UESTC in 2022. 
 </div>
 
+## News
 
+<div style="max-height: 180px; overflow-y: auto; border: 1px solid #e5e5e5; border-radius: 8px; padding: 12px 16px; background-color: #fcfcfc; margin-bottom: 20px;">
+  <ul style="margin: 0; padding-left: 20px;">
+    <li><b>Apr 2026:</b> Started my Ph.D. journey at The University of Auckland.</li>
+    <li><b>Feb 2026:</b> Served as GTA for COMPSCI 120 (Summer School).</li>
+    <li><b>Jun 2025:</b> Completed my Master's degree at UESTC.</li>
+    <li><b>Sep 2022:</b> Began research on multi-agent systems and AI marketplaces.</li>
+    <li><b>Jul 2022:</b> Graduated with Bachelor's degree from UESTC.</li>
+  </ul>
+</div>
 
 
 ## Research
