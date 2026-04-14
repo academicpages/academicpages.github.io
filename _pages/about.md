@@ -12,7 +12,7 @@ I am a Ph.D. student at [the School of Computer Science](https://www.auckland.ac
 
 <div style="background-color: #f9f9f9; padding: 15px; border-left: 6px solid #2c3e50; border-radius: 8px; margin-bottom: 20px;">
   <ul id="news-list" style="max-height: 180px; overflow-y: auto; margin: 0; padding-left: 20px;">
-    <li data-date="2026-04"><b>April 2026:</b> ❤️ Congratulations! My Chrome extension "QuickPage Capture" – a high‑efficiency, one‑click web screenshot tool – is now officially available on the Chrome Web Store!</li>
+    <li data-date="2026-04"><b>April 2026:</b> ❤️ Congratulations! My Chrome extension "[QuickPage Capture](https://chromewebstore.google.com/detail/quickpage-capture/afaeaifhhnjeihopkbpffabdafbfgban?pli=1)" – a high‑efficiency, one‑click web screenshot tool – is now officially available on the Chrome Web Store!</li>
   </ul>
 </div>
 
