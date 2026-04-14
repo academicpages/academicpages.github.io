@@ -64,7 +64,7 @@ For example, in one seminar, I heard ["Machine **Unlearning**"](https://arxiv.or
 So if you also feel "between the labs," don't wait for an official invitation. Just show up. Sit in. Be curious.
 
 If you've found other ways to engage (clubs, reading groups, random Slack channels, or secret pizza seminars) I'd love to hear them.  
-[Drop me a note](mailto:ren@mit.edu), and maybe I'll see you in **one of those rooms where it happens**.
+[Drop me a note](mailto:junru@computer.org), and maybe I'll see you in **one of those rooms where it happens**.
 
 ---
 
