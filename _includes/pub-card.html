@@ -1,0 +1,48 @@
+{% include base_path %}
+
+<div class="pub-card">
+  <div class="pub-card__thumb">
+    {% if post.thumbnail %}
+      <img src="{{ post.thumbnail | prepend: '/images/publications/' | prepend: base_path }}" alt="{{ post.title }}">
+    {% else %}
+      <div class="pub-card__thumb--empty"><i class="fas fa-file-alt" aria-hidden="true"></i></div>
+    {% endif %}
+  </div>
+
+  <div class="pub-card__body">
+    <h3 class="pub-card__title">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </h3>
+
+    {% if post.authors %}
+      <p class="pub-card__authors">{{ post.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+    {% endif %}
+
+    <p class="pub-card__venue">
+      <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    </p>
+
+    {% if post.teaser or post.teaser_zh %}
+      <p class="pub-card__teaser">
+        {% if post.teaser_zh %}<span class="lang-zh">{{ post.teaser_zh }}</span>{% endif %}
+        {% if post.teaser %}<span class="lang-en">{{ post.teaser }}</span>{% endif %}
+      </p>
+    {% endif %}
+
+    <div class="pub-card__links">
+      {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i>
+        <span class="lang-zh">论文</span><span class="lang-en">Paper</span>
+      </a>{% endif %}
+      {% if post.codeurl %}<a href="{{ post.codeurl }}" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i>
+        <span class="lang-zh">代码</span><span class="lang-en">Code</span>
+      </a>{% endif %}
+      {% if post.slidesurl %}<a href="{{ post.slidesurl }}" target="_blank" rel="noopener"><i class="fas fa-person-chalkboard" aria-hidden="true"></i>
+        <span class="lang-zh">幻灯片</span><span class="lang-en">Slides</span>
+      </a>{% endif %}
+    </div>
+  </div>
+</div>

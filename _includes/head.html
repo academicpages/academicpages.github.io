@@ -12,5 +12,19 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<!-- Language preference: set data-lang on <html> immediately to prevent flash -->
+<script>
+  (function() {
+    var lang = localStorage.getItem('preferred-lang') || 'zh';
+    document.documentElement.setAttribute('data-lang', lang);
+  })();
+</script>
+<style>
+  html[data-lang="en"] .lang-zh { display: none !important; }
+  html[data-lang="zh"] .lang-en { display: none !important; }
+  html:not([data-lang]) .lang-en { display: none !important; }
+  #lang-toggle-btn { cursor: pointer; font-weight: 600; font-size: 0.85em; letter-spacing: 0.05em; }
+</style>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
