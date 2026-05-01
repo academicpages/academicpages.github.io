@@ -1,0 +1,127 @@
+<!-- FILE: photography.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A small responsive gallery with lightweight lightbox behaviour and restrained hover motion.">
+  <title>Photography | Ravulapalli Manas Venkata Sai</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="main.js" defer></script>
+</head>
+<body data-page="photography">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Primary navigation">
+      <div class="site-nav__inner shell">
+        <a class="site-brand" href="index.html">Manas Ravulapalli</a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav-panel" aria-label="Open navigation menu">
+          <span aria-hidden="true">☰</span>
+        </button>
+        <div class="site-nav__panel" id="site-nav-panel">
+          <a class="site-nav__link" href="index.html">Home</a>
+          <a class="site-nav__link" href="about.html">About</a>
+          <a class="site-nav__link is-active" href="photography.html">Photography</a>
+          <a class="site-nav__link" href="blog.html">Blog</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section class="section page-section">
+      <div class="shell stack-lg">
+        <header class="page-header">
+          <p class="eyebrow">Visual notes</p>
+          <h1>Photography</h1>
+          <p class="page-intro">A small responsive gallery with lightweight lightbox behaviour and restrained hover motion.</p>
+        </header>
+
+        <section class="photo-grid" aria-label="Photography gallery">
+          <article class="photo-entry">
+            <button class="photo-button" type="button" data-lightbox-index="0" data-lightbox-src="images/manas-hero.jpg" data-lightbox-alt="Childhood portrait on grass">
+              <img src="images/manas-hero.jpg" alt="Childhood portrait on grass">
+            </button>
+            <div class="photo-entry__meta">
+              <p class="photo-entry__caption">Field Memory</p>
+              <div class="tag-row">
+                <span class="tag">Portrait</span>
+              </div>
+            </div>
+          </article>
+          <article class="photo-entry">
+            <button class="photo-button" type="button" data-lightbox-index="1" data-lightbox-src="images/bio-photo.jpg" data-lightbox-alt="Portrait in warm light">
+              <img src="images/bio-photo.jpg" alt="Portrait in warm light">
+            </button>
+            <div class="photo-entry__meta">
+              <p class="photo-entry__caption">Study</p>
+              <div class="tag-row">
+                <span class="tag">Portrait</span>
+              </div>
+            </div>
+          </article>
+          <article class="photo-entry">
+            <button class="photo-button" type="button" data-lightbox-index="2" data-lightbox-src="images/bio-photo-2.jpg" data-lightbox-alt="Alternative portrait">
+              <img src="images/bio-photo-2.jpg" alt="Alternative portrait">
+            </button>
+            <div class="photo-entry__meta">
+              <p class="photo-entry__caption">Alternate Frame</p>
+              <div class="tag-row">
+                <span class="tag">Portrait</span>
+              </div>
+            </div>
+          </article>
+          <article class="photo-entry">
+            <button class="photo-button" type="button" data-lightbox-index="3" data-lightbox-src="images/editing-talk.png" data-lightbox-alt="Presentation slide or event frame">
+              <img src="images/editing-talk.png" alt="Presentation slide or event frame">
+            </button>
+            <div class="photo-entry__meta">
+              <p class="photo-entry__caption">Presentation</p>
+              <div class="tag-row">
+                <span class="tag">Work</span>
+              </div>
+            </div>
+          </article>
+          <article class="photo-entry">
+            <button class="photo-button" type="button" data-lightbox-index="4" data-lightbox-src="images/profile.png" data-lightbox-alt="Profile image">
+              <img src="images/profile.png" alt="Profile image">
+            </button>
+            <div class="photo-entry__meta">
+              <p class="photo-entry__caption">Profile</p>
+              <div class="tag-row">
+                <span class="tag">Identity</span>
+              </div>
+            </div>
+          </article>
+          <article class="photo-entry">
+            <button class="photo-button" type="button" data-lightbox-index="5" data-lightbox-src="images/500x300.png" data-lightbox-alt="Graphic placeholder landscape">
+              <img src="images/500x300.png" alt="Graphic placeholder landscape">
+            </button>
+            <div class="photo-entry__meta">
+              <p class="photo-entry__caption">Graphic Study</p>
+              <div class="tag-row">
+                <span class="tag">Layout</span>
+              </div>
+            </div>
+          </article>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <dialog class="lightbox-dialog" id="lightbox-dialog" aria-label="Image viewer">
+    <button class="lightbox-dialog__close" type="button" aria-label="Close image viewer">✕</button>
+    <button class="lightbox-dialog__nav lightbox-dialog__nav--prev" type="button" aria-label="Previous image">←</button>
+    <img class="lightbox-dialog__image" src="" alt="">
+    <button class="lightbox-dialog__nav lightbox-dialog__nav--next" type="button" aria-label="Next image">→</button>
+  </dialog>
+
+  <footer class="site-footer">
+    <div class="shell site-footer__inner">
+      <p>Ravulapalli Manas Venkata Sai</p>
+      <p><a href="mailto:rmanasofficial@gmail.com">Email</a> · <a href="https://github.com/RavulapalliManas">GitHub</a> · <a href="https://www.linkedin.com/in/manas-ravulapalli-386433220/">LinkedIn</a> · <a href="feed.xml">RSS</a></p>
+    </div>
+  </footer>
+</body>
+</html>
