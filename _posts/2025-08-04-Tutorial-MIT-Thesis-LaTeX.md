@@ -111,7 +111,10 @@ The official package includes an example relevant for an LGO thesis: [`One_autho
     % \Author{Author full name}{Author department}[Author's first PREVIOUS degree][Author's second PREVIOUS degree][...
     % Note that third, fourth, fifth, and sixth arguments are optional [] and may be omitted
 
-    \Author{LGO Student Name}{MIT Sloan School of Management and Department of Electrical Engineering and Computer Science}[B.S. Previous Degree, Previous College, 2018]
+    \Author{LGO Student Name}
+    {\shortstack[l]{MIT Sloan School of Management and\\
+    Department of Electrical Engineering and Computer Science}}
+    [B.S. Previous Degree, Previous College, 2018]
 
     % Use once for each degree fulfilled by thesis
     % For two degrees from one department, leave the department argument blank for the second degree {}.
@@ -127,9 +130,8 @@ The official package includes an example relevant for an LGO thesis: [`One_autho
     \Acceptor{Engineering Acceptor Name}{Professor of Electrical Engineering and Computer Science}{Graduate Officer, Department of Electrical Engineering and Computer Science}
     \Acceptor{Sloan Acceptor Name}{Assistant Dean}{MBA Program, Sloan School of Management}
 
-    % If your title page is overflowing (from too many names, degrees, etc.), you can scale 
-    %    down the Signature block at the bottom with this command, or use another creative solution...
-    \SignatureBlockSize{\footnotesize}
+    % Keep the signature block at normal size unless the title page itself needs more vertical space.
+    \SignatureBlockSize{\normalsize}
     \AuthorNameSize{\normalsize}
 
     % Usage: \DegreeDate{Month}{year}
@@ -139,6 +141,8 @@ The official package includes an example relevant for an LGO thesis: [`One_autho
     % Date that final thesis is submitted to department
     \ThesisDate{May 8, 2026}
     ```
+
+The important part for long department names is the `\shortstack[l]{...\\...}` wrapper around the second argument to `\Author`. It forces the affiliation to appear on two left-aligned lines, avoiding awkward automatic wrapping while keeping the title-page signature block at normal size.
 
 Per "Thesis Review and Submission Process", _LGO Handbook_ (accessed on August 3, 2025), we also need to include:
 
@@ -170,10 +174,9 @@ Rebuild your LaTeX project and you should see a cover page like this:
 
 ![An example of LGO thesis cover page rendered](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/LGO-Thesis-Cover-Example.jpg)
 
-### Known issues
+### Update: long department names
 
-* `\SignatureBlockSize{\footnotesize}` in my example is to avoid a long department name like "Electrical Engineering and Computer Science" causing overflow; particularly, under "Authored by:", the line that shows both Sloan and EECS is too long and only `\footnotesize` could tame this loong (dragon).
-    * I am searching for a solution that could add a line break and avoid such a small font size...
+Update on April 16, 2026: previously I used `\SignatureBlockSize{\footnotesize}` to tame the long Sloan + EECS affiliation line. A cleaner fix is to wrap the department argument itself with `\shortstack[l]{...\\...}`, which inserts the break exactly between the two departments.
 
 If you find other required tweaks, please let me know!
 {: .notice}
