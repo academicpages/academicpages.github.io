@@ -113,7 +113,7 @@ The official package includes an example relevant for an LGO thesis: [`One_autho
 
     \Author{LGO Student Name}
     {\shortstack[l]{MIT Sloan School of Management and\\
-    Department of Electrical Engineering and Computer Science}}
+    Department of Electrical Engineering \& Computer Science}}
     [B.S. Previous Degree, Previous College, 2018]
 
     % Use once for each degree fulfilled by thesis
@@ -176,7 +176,7 @@ Rebuild your LaTeX project and you should see a cover page like this:
 
 ### Update: long department names
 
-Update on April 16, 2026: previously I used `\SignatureBlockSize{\footnotesize}` to tame the long Sloan + EECS affiliation line. A cleaner fix is to wrap the department argument itself with `\shortstack[l]{...\\...}`, which inserts the break exactly between the two departments.
+Update on May 3, 2026: previously I used `\SignatureBlockSize{\footnotesize}` to tame the long Sloan + EECS affiliation line. A cleaner fix is to wrap the department argument itself with `\shortstack[l]{...\\...}`, which inserts the break exactly between the two departments.
 
 If you find other required tweaks, please let me know!
 {: .notice}
