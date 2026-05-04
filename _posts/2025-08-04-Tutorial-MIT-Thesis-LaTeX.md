@@ -19,7 +19,7 @@ MIT's libraries require theses to be deposited electronically using a strict for
 This tutorial blog builds on top of my previous ["Tutorial: Use LaTeX Locally with VS Code"]({% post_url 2025-06-29-Tutorial-LaTeX-VSCode %}). By following that tutorial, you should already have:
 
 * **Visual Studio Code with LaTeX Workshop installed.** The extension provides core LaTeX features such as auto‑building to PDF, an integrated PDF viewer, SyncTeX navigation, IntelliSense, and log parsing. It automatically runs the sequence of tools needed to build your document and highlights errors in the editor.
-* **TeX Live 2022 or newer.** The MIT thesis class requires a recent LaTeX distribution; the README suggests November 2022 or later and is compatible back to 2020. A full TeX Live installation includes `pdflatex`, biber and other programs needed by the template.
+* **TeX Live 2022 or newer.** The MIT thesis class requires a recent LaTeX distribution; as of the [CTAN v1.22 release](https://ctan.org/ctan-ann/id/aYBqHvP6SlO4x7oL%40prptp) dated January 31, 2026, formats before June 2022 are no longer supported. A full TeX Live installation includes `pdflatex`, biber and other programs needed by the template.
 * **Biber for bibliography management.** The template defaults to using biblatex with the biber backend. Biber is part of TeX Live and will run automatically if configured in LaTeX Workshop.
 
 ## 1. Acquire the template
@@ -43,18 +43,32 @@ It's always recommended to read the included `README.md`. This file lists the ar
 | `MIT-thesis-template/MIT-Thesis.tex` | Main LaTeX file for your thesis |
 | `abstract.tex`, `acknowledgments.tex`, `biosketch.tex` | Files where you insert your abstract, acknowledgments and optional biosketch |
 | `chapter1.tex`, `chapter...` | Sample chapters to use as templates |
-| `committee_members.tex` | Optional page listing your thesis committee |
+| `\Reader{...}` commands / `committee_members.tex` | In v1.21 and newer, `\Reader{...}` commands automatically generate the thesis committee page; older packages may include a separate `committee_members.tex` sample |
 | `appendixa.tex`, `appendixb.tex` | Sample appendices showing code listing and long tables |
 | `mitthesis-sample.bib` | Sample bibliography file with many entries |
+| `mitthesis-style.css` | Optional CSS embedded when tagged PDF is in use |
 | `mydesign.tex` | Optional file where you can load packages to customise colours, margins or caption styles |
 | `fontsets/` | Subdirectory containing optional font definitions |
 
-Interestingly, `README.md` mentions a `MIT-Thesis.pdf` sample document, but I couldn’t find it in the unzipped folder. Not a big deal because we will be able to create it later.
+Recent CTAN downloads include `MIT-Thesis.pdf` in the outer `mitthesis` folder as a sample document. If your download does not show it, not a big deal because we will be able to create it later.
 {: .notice}
 
 Additionally, the `mitthesis-doc` directory contains detailed PDF documentation, and the examples directory provides sample theses showcasing different font options.
 
 After extraction, keep the directory structure intact; LaTeX will look for chapter files relative to the main file. You can rename the outer folder to reflect your project's name.
+
+### Class file location update
+
+Update on May 4, 2026: the current [CTAN package listing](https://ctan.org/tex-archive/macros/latex/contrib/mitthesis) shows `mitthesis.cls` in the outer `mitthesis` folder, while `MIT-thesis-template` is the folder with the files you edit. The [official documentation](https://mirrors.ctan.org/macros/latex/contrib/mitthesis/mitthesis-doc/mitthesis-doc.pdf) says to copy `MIT-thesis-template` onto your system; if the current `mitthesis.cls` is already installed in TeX Live, you are all set, and if not, copy `mitthesis.cls` into your working directory.
+
+In practice, with VS Code + LaTeX Workshop, the least surprising setup is:
+
+1. Open `MIT-thesis-template` as the VS Code workspace.
+2. If the first build fails, copy `../mitthesis.cls` into `MIT-thesis-template`.
+3. Rebuild.
+
+This matters because TeX Live may already have an older `mitthesis.cls` installed. For example, a TeX Live 2025 installation can still have mitthesis v1.20, while the current CTAN zip is v1.22. Mixing v1.22 template files with a v1.20 installed class can trigger errors such as `Undefined control sequence \CiteNolink`. Copying the outer class file into `MIT-thesis-template` makes the project use the matching class version.
+{: .notice}
 
 ## 2. Opening the project in VS Code
 
@@ -151,19 +165,19 @@ Per "Thesis Review and Submission Process", _LGO Handbook_ (accessed on August 3
 To achieve this, we have to have our own version of the `mitthesis.cls` (remember it from the "outer" directory?)
 
 1. Copy the `mitthesis.cls` file to your project workspace (i.e. same folder as your `MIT-Thesis.tex`)
-2. In your **copied** `mitthesis.cls` file, find the line that goes `at~the\par`. It should appear right after a line that goes `\__degree_block:`
-3. Insert the following line in between `\__degree_block:` and `at~the\par`:
+2. In your **copied** `mitthesis.cls` file, find the line that goes `at~the\par`. In earlier versions, it appears right after `\__degree_block:`. In v1.21 and newer, it appears right after `\__mitthesis_degree_block:`.
+3. Insert the following line between the degree-block line and `at~the\par`:
     ```
     in~conjunction~with~the~Leaders~for~Global~Operations~program\par
     ```
     Remember to maintain the same leading indentation as the two reference lines.
-4. So we end up with something like:
+4. On newer versions, we end up with something like:
     ```
-    \__degree_block:
+    \__mitthesis_degree_block:
     in~conjunction~with~the~Leaders~for~Global~Operations~program\par
     at~the\par
     ```
-    (Leading indentation omitted to save some spaces here.)
+    On older versions, the first line may instead be `\__degree_block:`. Leading indentation omitted to save some spaces here.
 
 By doing so, our LaTeX project build should pick up our copied and edited `mitthesis.cls` file instead of the default `mitthesis.cls` provided by the template package.
 
