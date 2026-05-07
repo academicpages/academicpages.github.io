@@ -149,8 +149,7 @@ The official package includes an example relevant for an LGO thesis: [`One_autho
     \AuthorNameSize{\normalsize}
 
     % Usage: \DegreeDate{Month}{year}
-    % Valid degree months are September, February, or June.  
-    \DegreeDate{June}{2026}
+    \DegreeDate{May}{2026}
 
     % Date that final thesis is submitted to department
     \ThesisDate{May 8, 2026}
@@ -187,6 +186,8 @@ By doing so, our LaTeX project build should pick up our copied and edited `mitth
 Rebuild your LaTeX project and you should see a cover page like this:
 
 ![An example of LGO thesis cover page rendered](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/LGO-Thesis-Cover-Example.jpg)
+**Note** that the degree date should be **May** at least for the year 2026. Please confirm with your department staff (whoever reviews cover page) each year.
+{: .notice}
 
 ### Update: long department names
 
