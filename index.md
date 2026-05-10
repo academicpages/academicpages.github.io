@@ -17,7 +17,7 @@ My current work combines dynamic optimization, structural life-cycle modeling, a
 
 
 ## Curriculum Vitae  
-[Download CV (PDF)](VISHAL_K_RAI_CV.pdf)
+[Download CV (PDF)](VISHAL_KR_RAI_CV.pdf)
 
 ---
 
