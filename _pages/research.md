@@ -46,9 +46,8 @@ simulations further reveal that pandemics disproportionately affect older indivi
 higher health expenditures and later retirement, while early-life pandemics produce milder
 effects. Together, the analytical and numerical results provide a comprehensive view of the
 asymmetric impacts of pandemics across age groups, with implications for health and retirement
-policy.
+policy. 
 
 ### Occupational Vulnerability to Work Strain: A Life-Cycle Model of Retirement and Welfare
 Abstract: We extend a dynamic life-cycle model of endogenous retirement in which individuals choose consumption, health expenditure, and the timing of retirement to incorporate occupational heterogeneity through differential work strain which raises the disutility of labor effort in occupation-specific ways.
-Health investments influence survival probabilities, while the retirement decision balances the utility from continued labor income against the rising disutility of work and the value of leisure. We derive analytical conditions characterizing optimal consumption, health expenditure, and retirement, and examine how occupational vulnerability to working conditions shapes retirement age and welfare. The framework highlights the interaction of health, survival, and retirement in the presence of climate-induced labor disutility, offering implications for welfare analysis and adaptation policy.
----
+Health investments influence survival probabilities, while the retirement decision balances the utility from continued labor income against the rising disutility of work and the value of leisure. We derive analytical conditions characterizing optimal consumption, health expenditure, and retirement, and examine how occupational vulnerability to working conditions shapes retirement age and welfare. The framework highlights the interaction of health, survival, and retirement in the presence of climate-induced labor disutility, offering implications for welfare analysis and adaptation policy. --- 
