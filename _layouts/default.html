@@ -14,17 +14,9 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-    <div class="wrapper">
-      <div class="sidebar">
-        {% include masthead.html %}
-        <!-- You can add navigation, sidebar widgets, etc. here -->
-      </div>
-
-      <div class="main">
-        {{ content }}
-      </div>
-    </div>
+    {{ content }}
 
     <div class="page__footer">
       <footer>
