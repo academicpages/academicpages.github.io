@@ -6,6 +6,24 @@ body {
   padding: 0;
 }
 
+/* Make nav list flex */
+.greedy-nav .visible-links {
+  display: flex;
+  width: 100%;
+}
+
+/* Title stays flush left naturally as first item */
+
+/* Push last tab (theme toggle, or whatever is last) to far right */
+.greedy-nav .visible-links li:last-child {
+  margin-left: auto;
+}
+
+/* Add spacing between tabs */
+.greedy-nav .visible-links li {
+  margin-left: 20px;
+}
+
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
