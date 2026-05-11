@@ -4,7 +4,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  color: #000000; /* readable text color */
+  color: #000000; /* force black text */
 }
 
 /* Background image */
@@ -19,8 +19,8 @@ body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255,255,255,0.55); /* lighter overlay so background shows */
-  backdrop-filter: blur(1px) brightness(0.98); /* subtle blur only */
+  background: rgba(255,255,255,0.35); /* lighter overlay so background shows */
+  backdrop-filter: blur(1px); /* subtle blur only */
   pointer-events: none;
   z-index: 0;
 }
@@ -29,29 +29,39 @@ body::before {
 .main, .page__content {
   position: relative;
   z-index: 1;
+  color: #000000; /* enforce black text inside content */
 }
 
 /* Headings */
 h1, h2, h3 {
-  color: #000000; /* deep sage tone for contrast */
+  color: #000000; /* headings also black */
 }
 
+/* Codes tab fix */
+.page__content pre,
+.page__content code {
+  color: #000000; /* black code text */
+  background: rgba(255,255,255,0.85); /* faint panel behind code */
+  padding: 0.5rem;
+  border-radius: 4px;
+  overflow-x: auto;
+}
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   body {
-    color: #000000;
+    color: #000000; /* keep black text even in dark mode */
   }
   h1, h2, h3 {
     color: #000000;
   }
   body::before {
-    background: rgba(0,0,0,0.45); /* darker overlay for night */
-    backdrop-filter: blur(1px) brightness(1.1);
+    background: rgba(255,255,255,0.25); /* lighter overlay for night */
+    backdrop-filter: blur(1px) brightness(0.9);
   }
   .page__content pre,
   .page__content code {
-    color: #f0f0f0;
-    background: rgba(0,0,0,0.7);
+    color: #000000; /* still black */
+    background: rgba(255,255,255,0.85);
   }
 }
