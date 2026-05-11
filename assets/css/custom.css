@@ -4,6 +4,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
+  color: #1a1a1a; /* readable text color */
 }
 
 /* Background image */
@@ -13,19 +14,19 @@ body {
   background-color: #e8e6e0; /* neutral fallback */
 }
 
-/* Stronger overlay to suppress background text interference */
+/* Overlay to soften background */
 body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255,255,255,0.75); /* slightly stronger overlay */
-  backdrop-filter: blur(2px) brightness(0.95); /* soft blur + tone correction */
+  background: rgba(255,255,255,0.75); /* overlay for readability */
+  backdrop-filter: blur(2px) brightness(0.95);
   pointer-events: none;
   z-index: 0;
 }
 
 /* Ensure main content sits above overlay */
-.main, .page__content, .masthead, .greedy-nav {
+.main, .page__content {
   position: relative;
   z-index: 1;
 }
@@ -35,19 +36,14 @@ h1, h2, h3 {
   color: #0f3d2e; /* deep sage tone for contrast */
 }
 
-/* Navigation visibility fix */
-.greedy-nav a {
-  color: #0f3d2e !important; /* force visible text in nav */
-}
-
-/* Page content readability fix (applies to Codes tab too) */
-.page__content {
-  position: relative;
-  z-index: 1;
-  color: #1a1a1a; /* enforce readable text */
-  background: rgba(255,255,255,0.7); /* semi-transparent panel */
-  padding: 1rem;
-  border-radius: 6px;
+/* --- Codes tab fix --- */
+.page__content pre,
+.page__content code {
+  color: #1a1a1a;              /* enforce dark text */
+  background: rgba(255,255,255,0.85); /* faint panel behind code */
+  padding: 0.5rem;
+  border-radius: 4px;
+  overflow-x: auto;
 }
 
 /* Dark mode adjustments */
@@ -58,11 +54,9 @@ h1, h2, h3 {
   h1, h2, h3 {
     color: #b8d8b8;
   }
-  .page__content {
+  .page__content pre,
+  .page__content code {
     color: #f0f0f0;
-    background: rgba(0,0,0,0.6); /* darker panel for night */
-  }
-  .greedy-nav a {
-    color: #b8d8b8 !important;
+    background: rgba(0,0,0,0.6);
   }
 }
