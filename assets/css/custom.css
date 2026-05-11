@@ -10,6 +10,11 @@ body {
 .greedy-nav .visible-links {
   display: flex;
 }
+/* Keep title flush left, push other tabs right */
+.greedy-nav .visible-links {
+  display: flex;
+  width: 100%;
+}
 
 .greedy-nav .visible-links li:first-child {
   margin-right: auto; /* title stays left */
@@ -17,13 +22,6 @@ body {
 
 .greedy-nav .visible-links li {
   margin-left: 20px;  /* spacing between tabs */
-}
-
-/* Prevent premature collapse on desktop */
-@media (min-width: 768px) {
-  .greedy-nav .hidden-links {
-    display: none !important; /* hide hamburger */
-  }
 }
 
 
