@@ -1,8 +1,10 @@
 ---
 title: "Codes"
 permalink: /codes/
-layout: page
+layout: single
+author_profile: true
 ---
+
 
 ## Julia Code Repositories
 
