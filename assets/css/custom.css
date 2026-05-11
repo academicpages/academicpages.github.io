@@ -1,16 +1,25 @@
 /* Base typography */
-body {item */
+body {
   font-size: 14px;
   line-height: 1.5;
   margin: 0;
   padding: 0;
 }
 
-/* Add fixed gap between title and first tab */
+/* Add fixed gap ONLY between first and second child */
 .greedy-nav .visible-links li:first-child {
-  margin-right: 100px; /* adjust px value to taste */
+  margin-right: 0; /* reset */
 }
-      
+
+.greedy-nav .visible-links li:nth-child(2) {
+  margin-left: 40px; /* fixed space between title and first tab */
+}
+
+/* Normal spacing between subsequent tabs */
+.greedy-nav .visible-links li + li {
+  margin-left: 20px;
+}
+
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
