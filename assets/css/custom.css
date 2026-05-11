@@ -33,26 +33,17 @@ body::before {
 
 /* Headings */
 h1, h2, h3 {
-  color: #0f3d2e; /* deep sage tone for contrast */
+  color: #000000; /* deep sage tone for contrast */
 }
 
-/* Codes tab fix */
-.page__content pre,
-.page__content code {
-  color: #1a1a1a; /* enforce dark text */
-  background: rgba(255,255,255,0.9); /* faint panel behind code */
-  padding: 0.5rem;
-  border-radius: 4px;
-  overflow-x: auto;
-}
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   body {
-    color: #f0f0f0;
+    color: #000000;
   }
   h1, h2, h3 {
-    color: #b8d8b8;
+    color: #000000;
   }
   body::before {
     background: rgba(0,0,0,0.45); /* darker overlay for night */
