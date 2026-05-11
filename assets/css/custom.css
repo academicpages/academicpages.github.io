@@ -6,28 +6,10 @@ body {item */
   padding: 0;
 }
 
-/* Make nav list flex */
-.greedy-nav .visible-links {
-  display: flex;
-  width: 100%;
-}
-
-/* Title (first li) stays left, add flexible gap before second li */
+/* Add fixed gap between title and first tab */
 .greedy-nav .visible-links li:first-child {
-  margin-right: 40px; /* fixed gap */
+  margin-right: 40px; /* adjust px value to taste */
 }
-
-/* Or: push second child away with auto margin */
-.greedy-nav .visible-links li:nth-child(2) {
-  margin-left: auto; /* creates large space between title and tabs */
-}
-
-/* Spacing between tabs themselves */
-.greedy-nav .visible-links li + li {
-  margin-left: 20px;
-}
-
-
       
 /* Headings */
 h1 { font-size: 28px; }
