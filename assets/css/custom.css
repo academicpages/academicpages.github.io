@@ -6,13 +6,15 @@ body {
   padding: 0;
 }
 
-/* Add fixed gap ONLY between first and second child */
-.greedy-nav .visible-links li:first-child {
-  margin-right: 0; /* reset */
+/* Make the nav list flex */
+.greedy-nav .visible-links {
+  display: flex;
+  align-items: center;
 }
 
-.greedy-nav .visible-links li:nth-child(2) {
-  margin-left: 40px; /* fixed space between title and first tab */
+/* Title stays flush left */
+.greedy-nav .visible-links li.masthead__menu-item--lg {
+  padding-right: 40px; /* fixed gap after title */
 }
 
 /* Normal spacing between subsequent tabs */
