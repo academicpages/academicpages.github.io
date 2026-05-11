@@ -14,7 +14,29 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+
+    <header class="masthead">
+      <div class="masthead__inner-wrap">
+        <!-- Title block on the left -->
+        <div class="masthead__title">
+          Vishal Kumar Rai
+        </div>
+
+        <!-- Navigation block on the right -->
+        <nav id="site-nav" class="greedy-nav">
+          <ul class="visible-links">
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+            <li><a href="{{ '/cv/' | relative_url }}">CV</a></li>
+            <!-- add more tabs here -->
+          </ul>
+          <button class="greedy-nav__toggle hidden-links">
+            <span class="visually-hidden">Toggle menu</span>
+            <span class="icon"></span>
+          </button>
+        </nav>
+      </div>
+    </header>
 
     {{ content }}
 
