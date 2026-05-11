@@ -4,27 +4,39 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  color: #1a1a1a; /* dark text for legibility */
+  color: #1a1a1a; /* readable text color */
 }
 
 /* Background image */
 body {
   background: url("/assets/background.png") no-repeat center center fixed;
   background-size: cover;
-  background-color: #e8e6e0; /* fallback neutral tone */
+  background-color: #e8e6e0; /* neutral fallback */
 }
 
-/* Overlay tuned for day/night readability */
+/* Stronger overlay to suppress background text interference */
 body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255,255,255,0.65); /* lighter overlay */
-  backdrop-filter: brightness(0.95) contrast(1.05); /* subtle correction */
+  background: rgba(255,255,255,0.75); /* slightly stronger overlay */
+  backdrop-filter: blur(2px) brightness(0.95); /* soft blur + tone correction */
   pointer-events: none;
+  z-index: 0;
+}
+
+/* Ensure main content sits above overlay */
+.main, .page__content, .masthead, .greedy-nav {
+  position: relative;
+  z-index: 1;
 }
 
 /* Headings */
 h1, h2, h3 {
   color: #0f3d2e; /* deep sage tone for contrast */
+}
+
+/* Navigation visibility fix */
+.greedy-nav a {
+  color: #0f3d2e !important; /* force visible text in nav */
 }
