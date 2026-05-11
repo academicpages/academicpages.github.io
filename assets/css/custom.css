@@ -1,5 +1,5 @@
 /* Base typography */
-body {
+body {item */
   font-size: 14px;
   line-height: 1.5;
   margin: 0;
@@ -12,18 +12,23 @@ body {
   width: 100%;
 }
 
-/* Title stays flush left naturally as first item */
-
-/* Push last tab (theme toggle, or whatever is last) to far right */
-.greedy-nav .visible-links li:last-child {
-  margin-left: auto;
+/* Title (first li) stays left, add flexible gap before second li */
+.greedy-nav .visible-links li:first-child {
+  margin-right: 40px; /* fixed gap */
 }
 
-/* Add spacing between tabs */
-.greedy-nav .visible-links li {
+/* Or: push second child away with auto margin */
+.greedy-nav .visible-links li:nth-child(2) {
+  margin-left: auto; /* creates large space between title and tabs */
+}
+
+/* Spacing between tabs themselves */
+.greedy-nav .visible-links li + li {
   margin-left: 20px;
 }
 
+
+      
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
