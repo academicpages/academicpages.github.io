@@ -2,7 +2,7 @@
 .wrapper {
   display: grid;
   grid-template-columns: 250px 1fr; /* sidebar fixed, main flexible */
-  gap: 40px; /* spacing between sidebar and main body */
+  gap: 400px; /* spacing between sidebar and main body */
 }
 
 @media (max-width: 768px) {
