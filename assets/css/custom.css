@@ -12,6 +12,10 @@ body {
   align-items: center;
 }
 
+.greedy-nav .visible-links {
+  display: flex;
+}
+
 .greedy-nav .visible-links li {
   margin-left: 20px; /* spacing between tabs */
 }
