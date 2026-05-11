@@ -6,6 +6,17 @@ body {
   padding: 0;
 }
 
+/* Target the nav container inside the masthead */
+.masthead__menu {
+  display: flex;          /* use flexbox */
+  justify-content: flex-end; /* push items to the right */
+}
+
+/* Optional: add spacing between tabs */
+.masthead__menu-item {
+  margin-left: 20px;
+}
+
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
