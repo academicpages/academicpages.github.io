@@ -23,18 +23,3 @@ h1 { font-size: 28px; }
 h2 { font-size: 22px; }
 h3 { font-size: 18px; }
 
-/* Force nav tabs to show inline on larger screens */
-@media (min-width: 768px) {
-  .masthead__menu {
-    display: flex !important;
-    justify-content: flex-end;
-  }
-
-  .greedy-nav .visible-links {
-    display: flex !important;
-  }
-
-  .greedy-nav .hidden-links {
-    display: none !important; /* hide the dropdown */
-  }
-}
