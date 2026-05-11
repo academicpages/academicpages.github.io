@@ -37,15 +37,6 @@ h1, h2, h3 {
   color: #000000; /* headings also black */
 }
 
-/* Codes tab fix */
-.page__content pre,
-.page__content code {
-  color: #000000; /* black code text */
-  background: rgba(255,255,255,0.85); /* faint panel behind code */
-  padding: 0.5rem;
-  border-radius: 4px;
-  overflow-x: auto;
-}
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
