@@ -6,21 +6,6 @@ body {
   padding: 0;
 }
 
-/* Make the nav list flex */
-.greedy-nav .visible-links {
-  display: flex;
-  align-items: center;
-}
-
-/* Title stays flush left */
-.greedy-nav .visible-links li.masthead__menu-item--lg {
-  padding-right: 4px; /* fixed gap after title */
-}
-
-/* Normal spacing between subsequent tabs */
-.greedy-nav .visible-links li + li {
-  margin-left: 20px;
-}
 
 /* Headings */
 h1 { font-size: 28px; }
