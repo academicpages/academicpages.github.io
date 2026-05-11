@@ -8,7 +8,7 @@ body {item */
 
 /* Add fixed gap between title and first tab */
 .greedy-nav .visible-links li:first-child {
-  margin-right: 40px; /* adjust px value to taste */
+  margin-right: 100px; /* adjust px value to taste */
 }
       
 /* Headings */
