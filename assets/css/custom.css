@@ -1,8 +1,10 @@
 
-.wrapper {
-  display: grid;
-  grid-template-columns: 250px 1fr; /* sidebar fixed, main flexible */
-  gap: 400px; /* spacing between sidebar and main body */
+.sidebar {
+  padding-right: 20px;  /* space inside sidebar */
+}
+
+.main {
+  padding-left: 20px;   /* space inside main body */
 }
 
 @media (max-width: 768px) {
