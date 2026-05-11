@@ -3,7 +3,7 @@ body {
   line-height: 1.5;  /* spacing between lines */
   display: grid;
   grid-template-columns: 250px 1fr; /* sidebar fixed, main flexible */
-  gap: 500px; /* spacing between sidebar and main body */
+  gap: 40px; /* spacing between sidebar and main body */
 }
 @media (max-width: 768px) {
   body {
