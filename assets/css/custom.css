@@ -1,1 +1,22 @@
 
+.wrapper {
+  display: grid;
+  grid-template-columns: 250px 1fr; /* sidebar fixed, main flexible */
+  gap: 40px; /* spacing between sidebar and main body */
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    grid-template-columns: 1fr; /* stack sidebar above main body */
+    gap: 20px;
+  }
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 22px; }
+h3 { font-size: 18px; }
