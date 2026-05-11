@@ -19,8 +19,8 @@ body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255,255,255,0.35); /* lighter overlay so background shows */
-  backdrop-filter: blur(1px); /* subtle blur only */
+  background: rgba(0,0,0,0.45); /* darker overlay for night */
+  backdrop-filter: blur(1px) brightness(1.1);
   pointer-events: none;
   z-index: 0;
 }
@@ -35,19 +35,4 @@ body::before {
 /* Headings */
 h1, h2, h3 {
   color: #000000; /* headings also black */
-}
-
-
-/* Dark mode adjustments */
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #000000; /* keep black text even in dark mode */
-  }
-  h1, h2, h3 {
-    color: #000000;
-  }
-  body::before {
-    background: rgba(255,255,255,0.25); /* lighter overlay for night */
-    backdrop-filter: blur(1px) brightness(0.9);
-  }
 }
