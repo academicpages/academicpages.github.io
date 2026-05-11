@@ -8,7 +8,7 @@ layout: page
 
 Here are links to my repositories containing Julia scripts and models:
 
-- [Occupational Vulnerability Work Strain](https://github.com/vishalkumarrai-1994/occupational-vulnerability-work-strain) *(currently private — available on request)*
+- [Occupational Vulnerability Work Strain](https://github.com/vishalkumarrai-1994/occupational-vulnerability-work-strain) *(access available on request)*
 
 ---
 
