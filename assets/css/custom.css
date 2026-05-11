@@ -6,6 +6,19 @@ body {
   padding: 0;
 }
 
+/* Push nav tabs to the right, keep title left */
+.greedy-nav .visible-links {
+  display: flex;
+}
+
+.greedy-nav .visible-links li:first-child {
+  margin-right: auto; /* keeps the first item (title) on the left */
+}
+
+.greedy-nav .visible-links li {
+  margin-left: 20px;   /* spacing between tabs */
+}
+
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
