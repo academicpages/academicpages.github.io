@@ -11,27 +11,6 @@ h1 { font-size: 28px; }
 h2 { font-size: 22px; }
 h3 { font-size: 18px; }
 
-/* Grid wrapper */
-.wrapper {
-  display: grid;
-  grid-template-columns: 250px 1fr; /* sidebar fixed, main flexible */
-  column-gap: 30px; /* cleaner spacing between columns */
-  max-width: 1100px; /* keeps layout from stretching too wide */
-  margin: 0 auto;    /* center wrapper */
-  padding: 20px;     /* breathing room around grid */
-}
-
-/* Sidebar and main content */
-.wrapper .sidebar {
-  background: #f9f9f9;   /* subtle background to distinguish */
-  padding: 15px;         /* internal spacing */
-}
-
-.wrapper .main {
-  background: #ffffff;   /* main stays white */
-  padding: 15px;
-}
-
 /* Responsive layout */
 @media (max-width: 768px) {
   .wrapper {
