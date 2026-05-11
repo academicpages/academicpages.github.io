@@ -16,10 +16,6 @@ body {
   margin-right: auto;        /* title stays flush left */
 }
 
-.greedy-nav .visible-links li {
-  margin-left: 20px;         /* spacing between tabs */
-}
-
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
