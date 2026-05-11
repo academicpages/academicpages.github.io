@@ -14,7 +14,7 @@ body {
 
 /* Title stays flush left */
 .greedy-nav .visible-links li.masthead__menu-item--lg {
-  padding-right: 40px; /* fixed gap after title */
+  padding-right: 4px; /* fixed gap after title */
 }
 
 /* Normal spacing between subsequent tabs */
