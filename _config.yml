@@ -40,9 +40,6 @@ words_per_minute: 160
 future        : false
 read_more     : "disabled"
 talkmap_link  : false
-minimal_mistakes_skin: "dark"   # Options: "default", "air", "dark", etc.
-enable_theme_toggle: false      # Disable the day/night toggle
-
 
 # ===========================
 # Comments Settings
