@@ -6,32 +6,6 @@ body {
   padding: 0;
 }
 
-/* Restore default masthead behavior */
-.masthead__inner-wrap {
-  display: block;   /* undo the flex override */
-}
-
-/* Align title left, tabs right */
-.greedy-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.greedy-nav .visible-links {
-  display: flex;        /* keep tabs inline */
-  margin-left: auto;    /* push them to the right */
-}
-
-.greedy-nav .hidden-links {
-  display: none;        /* hide hamburger on desktop */
-}
-
-.greedy-nav .visible-links li {
-  margin-left: 20px;    /* spacing between tabs */
-}
-
-
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
