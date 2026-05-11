@@ -50,9 +50,4 @@ h1, h2, h3 {
     background: rgba(255,255,255,0.25); /* lighter overlay for night */
     backdrop-filter: blur(1px) brightness(0.9);
   }
-  .page__content pre,
-  .page__content code {
-    color: #000000; /* still black */
-    background: rgba(255,255,255,0.85);
-  }
 }
