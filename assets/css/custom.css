@@ -40,3 +40,30 @@ h1, h2, h3 {
 .greedy-nav a {
   color: #0f3d2e !important; /* force visible text in nav */
 }
+
+/* Page content readability fix (applies to Codes tab too) */
+.page__content {
+  position: relative;
+  z-index: 1;
+  color: #1a1a1a; /* enforce readable text */
+  background: rgba(255,255,255,0.7); /* semi-transparent panel */
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #f0f0f0;
+  }
+  h1, h2, h3 {
+    color: #b8d8b8;
+  }
+  .page__content {
+    color: #f0f0f0;
+    background: rgba(0,0,0,0.6); /* darker panel for night */
+  }
+  .greedy-nav a {
+    color: #b8d8b8 !important;
+  }
+}
