@@ -21,4 +21,5 @@ My current work combines dynamic optimization, structural life-cycle modeling, a
 
 ---
 
-_Last updated: December 2025_
+_Last updated: {{ site.time | date: "%B %Y" }}_
+
