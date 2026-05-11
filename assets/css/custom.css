@@ -6,17 +6,31 @@ body {
   padding: 0;
 }
 
-/* Make masthead a flex container */
+/* Restore default masthead behavior */
 .masthead__inner-wrap {
-  display: flex;
-  justify-content: space-between; /* title left, menu right */
-  align-items: center;            /* vertical centering */
+  display: block;   /* undo the flex override */
 }
 
-/* Optional: spacing between nav tabs */
-.masthead__menu-item {
-  margin-left: 20px;
+/* Align title left, tabs right */
+.greedy-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
+
+.greedy-nav .visible-links {
+  display: flex;        /* keep tabs inline */
+  margin-left: auto;    /* push them to the right */
+}
+
+.greedy-nav .hidden-links {
+  display: none;        /* hide hamburger on desktop */
+}
+
+.greedy-nav .visible-links li {
+  margin-left: 20px;    /* spacing between tabs */
+}
+
 
 /* Headings */
 h1 { font-size: 28px; }
