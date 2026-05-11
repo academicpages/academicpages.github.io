@@ -1,12 +1,3 @@
-
-.sidebar {
-  padding-right: 20px;  /* space inside sidebar */
-}
-
-.main {
-  padding-left: 20px;   /* space inside main body */
-}
-
 @media (max-width: 768px) {
   .wrapper {
     grid-template-columns: 1fr; /* stack sidebar above main body */
