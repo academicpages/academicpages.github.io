@@ -1,15 +1,48 @@
-@media (max-width: 768px) {
-  .wrapper {
-    grid-template-columns: 1fr; /* stack sidebar above main body */
-    gap: 20px;
-  }
-}
-
+/* Base typography */
 body {
-  font-size: 14px;
-  line-height: 1.5;
+  font-size: 14px;   /* readable body text */
+  line-height: 1.5;  /* balanced line spacing */
+  margin: 0;
+  padding: 0;
 }
 
+/* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
 h3 { font-size: 18px; }
+
+/* Grid wrapper */
+.wrapper {
+  display: grid;
+  grid-template-columns: 250px 1fr; /* sidebar fixed, main flexible */
+  gap: 40px; /* spacing between sidebar and main body */
+  max-width: 1200px; /* optional: constrain overall width */
+  margin: 0 auto;    /* center wrapper */
+  padding: 20px;     /* breathing room around grid */
+}
+
+/* Sidebar and main content */
+.wrapper .sidebar {
+  padding-right: 20px;  /* internal spacing */
+}
+
+.wrapper .main {
+  padding-left: 20px;   /* internal spacing */
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .wrapper {
+    grid-template-columns: 1fr; /* stack sidebar above main */
+    gap: 20px;
+    padding: 15px;
+  }
+
+  .wrapper .sidebar {
+    padding-right: 0; /* reset padding when stacked */
+  }
+
+  .wrapper .main {
+    padding-left: 0;  /* reset padding when stacked */
+  }
+}
