@@ -9,12 +9,14 @@ body {
 /* Keep title left, push other tabs right */
 .greedy-nav .visible-links {
   display: flex;
-  width: 100%;              /* span full width */
+  justify-content: space-between; /* first item left, rest right */
+  width: 100%;
 }
 
-.greedy-nav .visible-links li:first-child {
-  margin-right: auto;        /* title stays flush left */
+.greedy-nav .visible-links li {
+  margin-left: 20px; /* spacing between tabs */
 }
+
 
 /* Headings */
 h1 { font-size: 28px; }
