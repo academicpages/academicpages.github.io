@@ -6,6 +6,12 @@ body {
   padding: 0;
 }
 
+.masthead {
+  max-width: 1200px;   /* same as .wrapper */
+  margin: 0 auto;      /* center horizontally */
+  padding: 0 20px;     /* match wrapper padding */
+}
+
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
