@@ -6,18 +6,26 @@ body {
   padding: 0;
 }
 
-/* Push nav tabs to the right, keep title left */
+/* Keep title left, push other tabs right */
 .greedy-nav .visible-links {
   display: flex;
 }
 
 .greedy-nav .visible-links li:first-child {
-  margin-right: auto; /* keeps the first item (title) on the left */
+  margin-right: auto; /* title stays left */
 }
 
 .greedy-nav .visible-links li {
-  margin-left: 20px;   /* spacing between tabs */
+  margin-left: 20px;  /* spacing between tabs */
 }
+
+/* Prevent premature collapse on desktop */
+@media (min-width: 768px) {
+  .greedy-nav .hidden-links {
+    display: none !important; /* hide hamburger */
+  }
+}
+
 
 /* Headings */
 h1 { font-size: 28px; }
