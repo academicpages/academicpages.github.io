@@ -6,20 +6,6 @@ body {
   padding: 0;
 }
 
-.masthead__inner-wrap {
-  display: flex;
-  justify-content: space-between; /* title left, nav right */
-  align-items: center;
-}
-
-.greedy-nav .visible-links {
-  display: flex;
-}
-
-.greedy-nav .visible-links li {
-  margin-left: 20px; /* spacing between tabs */
-}
-
 /* Headings */
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
