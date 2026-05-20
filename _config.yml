@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hyam ALI"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Postdoctoral researcher working at the intersection of AI, remote sensing, medical imaging and mathematical sciences."
+  location         : "France"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hyam.omar22@gmail.com" 
 
   # Academic websites
   academia         : # URL
