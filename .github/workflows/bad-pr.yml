@@ -17,8 +17,7 @@ jobs:
       - uses: actions-ecosystem/action-add-labels@v1
         with:
           labels: |
-            Type: Invalid
-            Type: Spam
+            invalidpr
       - uses: superbrothers/close-pull-request@v3
         with:
           # Post a comment just before closing a pull request
