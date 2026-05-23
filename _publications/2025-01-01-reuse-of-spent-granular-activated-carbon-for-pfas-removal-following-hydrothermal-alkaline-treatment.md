@@ -7,6 +7,7 @@ excerpt: ''
 date: 2025-01-01
 venue: 'Water Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0043135425007031'
+tocfig: /images/publications/2025-water-research-gac-toc.jpg
 citation: >-
   Soker, O., Tajdini, B., Abarca-Perez, A., Wadia, A., Bellona, C., Hao, S., Doudrick, K. and Strathmann, T.J. Reuse of Spent Granular Activated Carbon for PFAS Removal following Hydrothermal Alkaline Treatment. <i>Water Research</i>, 2025, 123794.
 ---
