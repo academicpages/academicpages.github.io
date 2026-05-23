@@ -23,7 +23,7 @@ repository               : "sh4301553/sh4301553.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hao_headshot.png"
+  avatar           : "Hao_headshot.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
