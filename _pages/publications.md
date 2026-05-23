@@ -19,7 +19,11 @@ author_profile: true
 
 * **Perspective-driven Preference Optimization with Entropy Maximization for Diverse Argument Generation**  
 Yilin Cao, Ruike Zhang, **Penghui Wei**†, Qingchao Kong, Wenji Mao  
-**EMNLP ’25**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2025, to appear. Suzhou, China, November 5–9, 2025.  
+**EMNLP ’25**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2025, to appear. Suzhou, China, November 5–9, 2025.
+
+* **Efficient LLM-based Advertising via Model Compression and Parallel Verification**  
+Wenxin Dong, Chang Gao, Guanghui Yu, Xuewu Jiao, Mingqing Hu, Qiang Fu, Peng Xu, **Penghui Wei**, Hui Xu, Yue Xing, Shuanglong Li, Lin Liu  
+arXiv preprint arXiv:2605.11582. In Apral 2024, the proposed INT4 sparsification method with SparseGEMV kernel implementation were fully deployed in production. More details can be found in the WeChat article (in Chinese): <a href="https://mp.weixin.qq.com/s/lGzwpLbTgGadGg8arDYeQw" target="_blank">[章节 1:4/2:4分层混合稀疏化]</a>  
 
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
