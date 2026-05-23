@@ -24,13 +24,13 @@ repository               : "sh4301553/sh4301553.github.io"
 author:
   # Biographic information
   avatar           : "Hao_headshot.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Dr.Shilai Hao"
+  pronouns         : "he/him/his"  
+  bio              : "Assistant Professor at Virginia Tech"
+  location         : "1120B 1880 Pratt Dr"
+  employer         : "Virginia Tech"
+  uri              : "https://spes.vt.edu/faculty-staff/faculty/hao-shilai.html"
+  email            : "shilai@vt.edu" 
 
   # Academic websites
   academia         : # URL
