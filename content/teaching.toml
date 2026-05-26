@@ -1,0 +1,17 @@
+type = "card"
+title = "Teaching"
+description = "Courses I have assisted with at the University of Auckland."
+
+[[items]]
+title = "COMPSCI 120: Mathematics for Computer Science"
+subtitle = "Graduate Teaching Assistant"
+date = "2026 Semester One"
+content = "The University of Auckland, New Zealand. May 2026 - Jun. 2026."
+tags = ["Undergraduate", "CS"]
+
+[[items]]
+title = "COMPSCI 120: Mathematics for Computer Science"
+subtitle = "Graduate Teaching Assistant"
+date = "2026 Summer School"
+content = "The University of Auckland, New Zealand. Nov. 2025 - Feb. 2026."
+tags = ["Undergraduate", "CS"]

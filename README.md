@@ -1,96 +1,141 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+<div align="center">
+  <img src="./logo.png" alt="PRISM Logo" height="100"/>
+</div>
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+# PRISM
 
-# Getting Started
+**English** · [中文](README_cn.md) · [Demo](https://prism-demo.pages.dev)  · [Changelog](CHANGELOG.md)
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+**If you like this project, please give it a star ⭐️**
 
-See more info at https://academicpages.github.io/
+PRISM stands for **P**ortfolio & **R**esearch **I**nterface **S**ite **M**aker. It is a modern, configurable, and high-performance personal website template built with Next.js, Tailwind CSS, and TypeScript. It is designed for researchers, developers, and academics to showcase their work, publications, and portfolio with ease.
 
-## Running locally
+Feel free to customize your own version of PRISM with coding agents.
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+![PRISM Preview](screenshot.png)
 
-1. Clone the repository and made updates as detailed above.
+## ✨ Features
 
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
+*   **📄 Configuration-Driven**: Manage your entire site's content using simple `TOML`, `Markdown`, and `BibTeX` files in the `content/` directory. No code changes required for content updates!
+*   **📚 BibTeX Support**: Directly render your publications from a `.bib` file. Includes search, filtering (Year, Type), and automatic citation generation.
+*   **🎨 Modern Design**: Clean, responsive UI with a beautiful serif/sans-serif typography pairing, smooth animations (Framer Motion), and Dark Mode support.
+*   **⚡️ High Performance**: Built on Next.js 20 with Turbopack. Static export ensures blazing fast load times and easy deployment.
+*   **🔍 SEO Optimized**: Dynamic metadata generation for every page.
+*   **🧩 Dynamic Routing**: Easily add new pages by simply creating a config file.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+*   Node.js 22 or later
+    *   **Important**: Please download and install Node.js manually from [https://nodejs.org/en/download](https://nodejs.org/en/download).
+    *   Better not to use the pre-installed version on your system, as it may be outdated or incompatible.
+*   npm, pnpm, or yarn
+
+### Installation
+
+1.  **Clone the repository:**
+
     ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
+    git clone https://github.com/xyjoey/PRISM.git
+    cd PRISM
     ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
+
+2.  **Install dependencies:**
+
     ```bash
-    sudo apt update && sudo apt upgrade -y
+    npm install
     ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
 
-    On MacOS the commands are:
+3.  **Run the development server:**
+
     ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
+    npm run dev
     ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
+    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stoping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+## 🛠️ Configuration
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+All content lives in the `content/` directory.
 
-## Using Docker
+### 1. Global Site Config (`content/config.toml`)
+Configure your site title, author details, social links, and navigation menu here.
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+```toml
+[site]
+title = "Your Name"
+description = "Personal website of Your Name"
+url = "https://your-website.com"
 
-You can build and execute the container by running the following command in the repository:
+[author]
+name = "Your Name"
+title = "PhD Student / Researcher"
+# ...
 
-```bash
-chmod -R 777 .
-docker compose up
+[features]
+enable_likes = true
 ```
 
-You should now be able to access the website from `localhost:4000`.
+### 2. Homepage (`content/about.toml`)
+Customize the "About" section, "News", and "Selected Publications" on the homepage.
 
-### Using the DevContainer in VS Code
+### 3. Publications (`content/publications.bib`)
+Export your publications from Google Scholar, Zotero, or Mendeley to `content/publications.bib`. PRISM automatically parses this file to generate your Publications page. Customize the display of publications by changing `selected`, `preview` and `description` keys in the bib file. 
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+Publication titles support a subset of BibTeX inline formatting commands, including `\textit{}`, `\emph{}`, `\textbf{}`, `\textsc{}`, `\textsuperscript{}` and `\textsubscript{}`.
 
-# Maintenance
+### 4. Adding New Pages
+To add a new page (e.g., "Projects"), create a TOML file in `content/` (e.g., `content/projects.toml`) and add it to the `navigation` list in `content/config.toml`.
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+Supported page types:
+*   `text`: Renders Markdown content (Great for CVs, Bio).
+*   `card`: Renders a list of cards (Great for Projects, Awards). Content of each card item supports Markdown.
+*   `publication`: Renders the full publications list with filters.
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+### 5. I18N Support (`content_<locale>/`)
+PRISM now supports i18n, i.e., multi-language.
 
-## Bugfixes and enhancements
+*   Default language lives in `content/`.
+*   Additional languages live in `content_<locale>/` (for example: `content_zh/`, `content_en/`).
+*   Keep the same filenames across directories. Example:
+    *   `content/cv.md` (default)
+    *   `content_zh/cv.md`
+*   If a localized file is missing, PRISM automatically falls back to the default `content/` version.
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+Configure language behavior in `content/config.toml`:
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+## 📦 Deployment
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+PRISM is optimized for static deployment.
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+```bash
+npm run build
+```
+
+This generates a static `out/` directory that can be hosted anywhere.
+
+👉 **[Read the full Deployment Guide](docs/deployment.md)** for instructions on deploying to **GitHub Pages** and **Cloudflare Pages**.
+
+## 📂 Project Structure
+
+```
+PRISM/
+├── content/              # All user-editable content (TOML, BibTeX, MD)
+├── public/               # Static assets (images, papers)
+├── src/
+│   ├── app/              # Next.js App Router
+│   ├── components/       # React components
+│   ├── lib/              # Utility functions (parsers, config loaders)
+│   └── types/            # TypeScript definitions
+├── next.config.ts        # Next.js configuration
+└── tailwind.config.ts    # Tailwind CSS configuration
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -1,0 +1,10 @@
+type = "card"
+title = "教学"
+description = "我曾参与授课或助教的课程。"
+
+[[items]]
+title = "示例课程"
+subtitle = "助教"
+date = "2024"
+content = "课程内容与职责简介。"
+tags = ["本科生", "计算机"]

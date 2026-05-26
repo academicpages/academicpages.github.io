@@ -1,0 +1,72 @@
+[site]
+title = "Runchen Xu"
+description = "Runchen Xu's academic portfolio."
+favicon = "/favicon.svg"
+last_updated = "May 26, 2026"
+url = "https://runchen-xu.github.io"
+
+[author]
+name = "Runchen Xu"
+title = "PhD Student"
+institution = "School of Computer Science, University of Auckland"
+avatar = "/bio.jpg"
+
+[social]
+email = "rxu274@aucklanduni.ac.nz"
+location = "Auckland, New Zealand"
+location_url = "https://www.auckland.ac.nz"
+location_details = [
+  "School of Computer Science,",
+  "The University of Auckland,",
+  "Auckland, New Zealand"
+]
+google_scholar = "https://scholar.google.com/citations?user=KMMbsr8AAAAJ&hl=zh-CN"
+orcid = "https://orcid.org/0009-0000-2945-5111"
+github = "https://github.com/Runchen-Xu"
+linkedin = ""
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[i18n.labels]
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Education & Work Experience"
+type = "page"
+target = "cv"
+href = "/cv"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Honors & Awards"
+type = "page"
+target = "awards"
+href = "/awards"

@@ -1,0 +1,9 @@
+type = "card"
+title = "学术服务"
+description = "专业服务与社区参与。"
+
+[[items]]
+title = "审稿人"
+subtitle = "某期刊"
+date = "2024"
+content = "参与审阅论文。"

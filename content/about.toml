@@ -1,0 +1,29 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Decentralized Artificial Intelligence",
+  "Multi-Agent AI Systems",
+  "AI Marketplace Design",
+  "Game Theory"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected Publications"
+filter = "selected"
+limit = 4
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

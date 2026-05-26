@@ -1,20 +1,44 @@
-# Ignore the contents of the _site directory and other cache directories
-_site/
-.sass-cache/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Ignore the directory for local files during development
-local/
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
 
-# Ignore the Gemfile that is generated
-Gemfile.lock
+# testing
+/coverage
 
-# Ignore files created by npm
-node_modules
-package-lock.json
+# next.js
+/.next/
+/out/
 
-# Ignore the vendor file at root level and bundle for alternative installation
-/vendor/
-.bundle/
+# production
+/build
 
-# Ignore folders related to IDEs
-.vscode/
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# wrangler
+.wrangler

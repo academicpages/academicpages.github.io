@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "A collection of my research papers in AI systems, edge computing, and networking."
+source = "publications.bib"

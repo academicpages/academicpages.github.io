@@ -1,0 +1,39 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Outstanding Graduate"
+subtitle = "University of Electronic Science and Technology of China"
+date = "2025"
+content = "Recognized as an outstanding graduate of UESTC."
+
+[[items]]
+title = "National Scholarship for Postgraduate Students"
+subtitle = "China"
+date = "2024"
+content = "National scholarship awarded for postgraduate academic excellence."
+
+[[items]]
+title = "Young Scholar Award"
+subtitle = "University of Electronic Science and Technology of China"
+date = "2024"
+content = "Awarded by UESTC in recognition of academic achievement."
+
+[[items]]
+title = "Academic Scholarship for Postgraduate Students"
+subtitle = "University of Electronic Science and Technology of China"
+date = "2023 - 2024"
+content = "Received three times during postgraduate study."
+
+[[items]]
+title = "Outstanding Graduate Student Award"
+subtitle = "University of Electronic Science and Technology of China"
+date = "2023"
+content = "Received three times during 2023 - 2024."
+
+[[items]]
+title = "Academic Scholarship for Undergraduate Students"
+subtitle = "University of Electronic Science and Technology of China"
+date = "2018 - 2022"
+content = "Received three times during undergraduate study."

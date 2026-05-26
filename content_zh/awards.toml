@@ -1,0 +1,27 @@
+type = "card"
+title = "奖项"
+description = "我获得的荣誉与奖项。"
+
+[[items]]
+title = "示例奖项"
+subtitle = "颁发机构"
+date = "2025"
+content = "奖项说明。"
+
+[[items]]
+title = "示例奖项"
+subtitle = "颁发机构"
+date = "2024"
+content = "奖项说明。"
+
+[[items]]
+title = "示例奖项"
+subtitle = "颁发机构"
+date = "2023"
+content = "奖项说明。"
+
+[[items]]
+title = "示例奖项"
+subtitle = "颁发机构"
+date = "2022"
+content = "奖项说明。"
