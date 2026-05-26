@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ethan Hunt \ Personal Websute"
+title                    : "Ethan Hunt"
 title_separator          : "-"
 name                     : &name "Ethan Hunt"
 description              : &description "This is a portfolio of my professional work."   # Update this with a general description of your site, this is the default if not overridden by a page
