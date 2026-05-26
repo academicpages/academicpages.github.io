@@ -1,56 +1,130 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "关于我"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<section class="home-hero">
+  <p class="home-eyebrow">Academic homepage</p>
+  <h1>投入产出技术、企业供应链与碳排放研究</h1>
+  <p class="home-hero__lead">
+    我是张欣洋，目前关注投入产出技术、微观企业供应链与碳排放相关问题。我的研究尝试连接宏观产业关联与微观企业行为，刻画供应链网络中的依赖结构、风险传导和环境影响。
+  </p>
+  <div class="home-actions">
+    <a class="btn btn--large" href="{{ '/research/' | relative_url }}">查看研究方向</a>
+    <a class="btn btn--large btn--inverse" href="{{ '/publications/' | relative_url }}">浏览论文</a>
+  </div>
+</section>
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<section class="home-section">
+  <div class="home-section__head">
+    <p class="home-eyebrow">Research focus</p>
+    <h2>研究方向</h2>
+  </div>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+  <div class="home-card-grid">
+    <article class="home-card">
+      <span class="home-card__icon"><i class="fas fa-diagram-project" aria-hidden="true"></i></span>
+      <h3>投入产出与产业关联</h3>
+      <p>利用投入产出表、供给使用表和产业链数据，识别部门间生产依赖、关键路径与冲击传导机制。</p>
+    </article>
+    <article class="home-card">
+      <span class="home-card__icon"><i class="fas fa-network-wired" aria-hidden="true"></i></span>
+      <h3>微观企业供应链网络</h3>
+      <p>结合企业层面的交易、生产和经营信息，分析供应链网络结构、关键节点和风险扩散路径。</p>
+    </article>
+    <article class="home-card">
+      <span class="home-card__icon"><i class="fas fa-leaf" aria-hidden="true"></i></span>
+      <h3>碳排放核算与绿色转型</h3>
+      <p>从生产网络视角追踪隐含碳排放，评估减排政策对企业、行业和区域的异质性影响。</p>
+    </article>
+  </div>
+</section>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<section class="home-section home-section--split">
+  <div>
+    <p class="home-eyebrow">Questions</p>
+    <h2>当前关注的问题</h2>
+  </div>
+  <ul class="home-checklist">
+    <li>如何将投入产出模型与企业微观供应链数据结合，刻画更细粒度的产业关联结构？</li>
+    <li>供应链冲击如何沿企业网络和产业链条传导，并影响产出、价格和排放？</li>
+    <li>企业和行业的碳排放责任如何在生产链条中分解和追踪？</li>
+    <li>在“双碳”目标下，如何评估不同减排政策对企业、行业和区域的异质性影响？</li>
+  </ul>
+</section>
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+<section class="home-section">
+  <div class="home-section__head">
+    <p class="home-eyebrow">Methods</p>
+    <h2>研究方法</h2>
+  </div>
+  <div class="home-chip-list">
+    <span>投入产出分析</span>
+    <span>结构分解分析</span>
+    <span>生产网络模型</span>
+    <span>企业微观数据处理</span>
+    <span>复杂网络分析</span>
+    <span>碳排放核算</span>
+    <span>政策情景模拟</span>
+    <span>数据可视化</span>
+  </div>
+</section>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<section class="home-section home-updates">
+  <div class="home-section__head">
+    <p class="home-eyebrow">Updates</p>
+    <h2>近期更新</h2>
+  </div>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+  <div class="home-update-grid">
+    <article class="home-update-card">
+      <h3>近期论文</h3>
+      {% if site.publications.size > 0 %}
+        <ul>
+          {% for post in site.publications reversed limit:3 %}
+            <li>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              {% if post.venue %}<span>{{ post.venue }}</span>{% endif %}
+              {% if post.date %}<time>{{ post.date | date: "%Y" }}</time>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+        <a class="home-more-link" href="{{ '/publications/' | relative_url }}">查看更多论文</a>
+      {% else %}
+        <p>论文与工作论文将陆续更新。</p>
+      {% endif %}
+    </article>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+    <article class="home-update-card">
+      <h3>最新文章</h3>
+      {% if site.posts.size > 0 %}
+        <ul>
+          {% for post in site.posts limit:3 %}
+            <li>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              {% if post.date %}<time>{{ post.date | date: "%Y-%m-%d" }}</time>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+        <a class="home-more-link" href="{{ '/year-archive/' | relative_url }}">查看全部文章</a>
+      {% else %}
+        <p>研究笔记与文章将陆续更新。</p>
+      {% endif %}
+    </article>
+  </div>
+</section>
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<section class="home-section">
+  <div class="home-callout">
+    <div>
+      <p class="home-eyebrow">Contact</p>
+      <h2>欢迎交流与合作</h2>
+      <p>如果你对投入产出技术、企业供应链网络、碳排放核算或相关数据方法感兴趣，欢迎通过邮件联系我。</p>
+    </div>
+    <a class="btn btn--large" href="mailto:zhangxinyang@amss.ac.cn">zhangxinyang@amss.ac.cn</a>
+  </div>
+</section>

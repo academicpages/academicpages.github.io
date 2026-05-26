@@ -175,17 +175,19 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: var(--global-bg-color);
+  background: transparent;
 
   a {
     display: block;
-    margin: 0 1rem;
-    padding: 0.5rem 0;
+    margin: 0 0.35rem;
+    padding: 0.45rem 0.7rem;
     color: var(--global-masthead-link-color);
+    border-radius: 999px;
     text-decoration: none;
 
     &:hover {
       color: var(--global-masthead-link-color-hover);
+      background: var(--global-surface-color-muted, var(--global-bg-color));
     }
   }
 
@@ -196,7 +198,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: var(--global-bg-color);
+    background-color: transparent;
     color: var(--global-text-color);
     cursor: pointer;
     z-index: 100;
@@ -238,21 +240,27 @@
       position: relative;
 
       &:before {
+        display: none;
+      }
+
+      &:after {
         content: "";
         position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        background: var(--global-border-color);
-        width: 100%;
+        left: 0.7rem;
+        right: 0.7rem;
+        bottom: 0.2rem;
+        height: 2px;
+        background: var(--global-base-color);
         -webkit-transition: $global-transition;
         transition: $global-transition;
+        opacity: 0;
         -webkit-transform: scaleX(0);
             -ms-transform: scaleX(0);
                 transform: scaleX(0); /* hide*/
       }
 
-      &:hover:before {
+      &:hover:after {
+        opacity: 1;
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
@@ -268,8 +276,8 @@
     padding: 5px;
     border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
-    background: var(--global-bg-color);
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    background: var(--global-surface-color, var(--global-bg-color));
+    box-shadow: $box-shadow;
 
     a {
       margin: 0;

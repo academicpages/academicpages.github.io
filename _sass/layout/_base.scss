@@ -14,9 +14,10 @@ body {
 
   margin: 0;
   padding: $masthead-height 0 0;
-  padding-bottom: 9em;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.68;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -26,7 +27,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
-  line-height: 1.2;
+  line-height: 1.18;
   font-family: $header-font-family;
   font-weight: bold;
 }
@@ -115,6 +116,9 @@ blockquote {
 /* links */
 
 a {
+  color: var(--global-link-color);
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+
   &:focus {
     @extend %tab-focus;
   }

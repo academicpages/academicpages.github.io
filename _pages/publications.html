@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "论文"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,9 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
+{% if site.publications.size > 0 %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
@@ -27,9 +26,7 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <p>论文与工作论文将陆续更新。</p>
 {% endif %}
 
 

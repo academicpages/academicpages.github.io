@@ -5,14 +5,22 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-top: 2.5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  @include breakpoint($large) {
+    display: grid;
+    grid-template-columns: minmax(190px, 240px) minmax(0, 1fr);
+    column-gap: 3rem;
+    align-items: start;
+    max-width: 1120px;
+  }
+
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 1180px;
   }
 }
 
@@ -21,6 +29,11 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+    float: none;
+    width: auto;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .page__inner-wrap {
@@ -36,7 +49,9 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  margin-bottom: 1rem;
+  line-height: 1.1;
+  font-size: $type-size-2;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -49,10 +64,24 @@
 }
 
 .page__content {
+  color: var(--global-text-color);
+  font-size: 1rem;
 
   h2 {
-    padding-bottom: 0.5em;
+    position: relative;
+    margin-top: 2.2em;
+    padding-bottom: 0.55em;
     border-bottom: 1px solid var(--global-border-color);
+
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 3rem;
+      height: 2px;
+      background: var(--global-accent-color, var(--global-base-color));
+    }
   }
 
   p, li, dl {
@@ -73,10 +102,11 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
 
     &:hover {
-      text-decoration: underline;
+      color: var(--global-link-color-hover);
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -104,6 +134,222 @@
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
+  }
+}
+
+/* Homepage layout
+   ========================================================================== */
+
+.home-hero {
+  margin-bottom: 2.75rem;
+  padding: 1.5rem 0 2.25rem;
+  border-bottom: 1px solid var(--global-border-color);
+
+  h1 {
+    max-width: 760px;
+    margin: 0.2rem 0 1rem;
+    font-size: 2rem;
+    line-height: 1.16;
+
+    @include breakpoint($medium) {
+      font-size: 2.45rem;
+    }
+  }
+}
+
+.home-eyebrow {
+  margin: 0 0 0.55rem;
+  color: var(--global-accent-color, var(--global-base-color));
+  font-family: $sans-serif;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.home-hero__lead {
+  max-width: 780px;
+  color: var(--global-text-color-light);
+  font-size: 1.08rem;
+}
+
+.home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.home-section {
+  margin: 2.75rem 0;
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.home-section__head {
+  margin-bottom: 1.25rem;
+}
+
+.home-card-grid,
+.home-update-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.home-card,
+.home-update-card {
+  padding: 1.15rem;
+  background: var(--global-surface-color, var(--global-bg-color));
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.04);
+
+  h3 {
+    margin: 0.75rem 0 0.45rem;
+    font-size: 1rem;
+  }
+
+  p {
+    margin-bottom: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.95rem;
+  }
+}
+
+.home-card__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  color: var(--global-base-color);
+  background: var(--global-surface-color-muted, var(--global-bg-color));
+  border-radius: 8px;
+}
+
+.home-section--split {
+  display: grid;
+  gap: 1rem;
+  padding: 1.75rem 0;
+  border-top: 1px solid var(--global-border-color);
+  border-bottom: 1px solid var(--global-border-color);
+
+  @include breakpoint($medium) {
+    grid-template-columns: minmax(180px, 0.7fr) minmax(0, 1.3fr);
+    align-items: start;
+  }
+}
+
+.home-checklist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    position: relative;
+    margin-bottom: 0.85rem;
+    padding-left: 1.55rem;
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0.72em;
+      left: 0;
+      width: 0.55rem;
+      height: 0.55rem;
+      background: var(--global-accent-color, var(--global-base-color));
+      border-radius: 50%;
+    }
+  }
+}
+
+.home-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+
+  span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.15rem;
+    padding: 0.35rem 0.8rem;
+    color: var(--global-text-color);
+    background: var(--global-surface-color-muted, var(--global-bg-color));
+    border: 1px solid var(--global-border-color);
+    border-radius: 999px;
+    font-size: 0.92rem;
+  }
+}
+
+.home-updates .home-update-grid {
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.home-update-card {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.85rem;
+    border-bottom: 1px solid var(--global-border-color);
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  a {
+    display: block;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  span,
+  time {
+    display: inline-block;
+    margin-top: 0.2rem;
+    margin-right: 0.55rem;
+    color: var(--global-text-color-light);
+    font-size: 0.82rem;
+  }
+}
+
+.home-more-link {
+  margin-top: 0.4rem;
+  color: var(--global-link-color);
+}
+
+.home-callout {
+  display: grid;
+  gap: 1rem;
+  align-items: center;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--global-border-color);
+
+  @include breakpoint($medium) {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  p {
+    margin-bottom: 0;
+    color: var(--global-text-color-light);
   }
 }
 
@@ -382,10 +628,13 @@
   padding-top: 1em;
   border-top: 1px solid var(--global-border-color);
   @include clearfix();
-  float: left;
+  float: none;
+  width: 100%;
 
   @include breakpoint($large) {
-    @include pre(2.5 of 12);
+    grid-column: 2;
+    margin-left: 0;
+    padding-left: 0;
   }
 
   a {

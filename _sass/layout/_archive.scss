@@ -12,10 +12,15 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
+    float: none;
+    width: auto;
+    margin: 0 0 2em;
+    padding-left: 0;
   }
 
   a {
-    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
 
     &:hover {
       text-decoration: underline;
@@ -46,6 +51,11 @@
   a + a {
     opacity: 0.5;
   }
+}
+
+.archive > .page__title {
+  margin-bottom: 1.25rem;
+  font-size: $type-size-2;
 }
 
 /* remove border*/
@@ -90,16 +100,23 @@
    ========================================================================== */
 
 .list__item {
+  margin-bottom: 1rem;
+  padding: 1rem 1.15rem;
+  background: var(--global-surface-color, var(--global-bg-color));
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.04);
+
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: 1.15rem;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    padding-right: 1.15rem;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    padding-right: 1.15rem;
   }
 
   .page__meta {
@@ -114,6 +131,10 @@
 
 .grid__item {
   margin-bottom: 2em;
+  padding: 1rem;
+  background: var(--global-surface-color, var(--global-bg-color));
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
 
   .page__meta {
     margin: 0 0 4px;
@@ -148,6 +169,25 @@
       display: block;
       font-size: $type-size-6;
     }
+  }
+}
+
+.page__related {
+  .grid__wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+
+    @include breakpoint($medium) {
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+  }
+
+  .grid__item {
+    float: none;
+    clear: none;
+    width: auto;
+    margin: 0;
   }
 }
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+个人简介
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+张欣洋，研究兴趣包括投入产出技术、微观企业供应链网络、碳排放核算与政策评估。关注从产业关联和企业网络视角理解经济系统中的生产联系、供应链传导机制及其环境影响。
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+我的研究重点是将宏观投入产出框架与企业层面的微观数据结合，分析产业链供应链结构、企业异质性和碳排放责任在经济系统中的形成与传导。
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+研究方向
+======
+- 投入产出分析与产业关联建模
+- 微观企业供应链网络与供应链韧性
+- 碳排放核算、排放责任分解与减排政策评估
+- 企业异质性、网络传导与经济环境系统分析
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+研究问题
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 投入产出关系如何在企业微观供应链网络中体现？
+- 供应链冲击、需求变化和政策调整如何影响企业与行业表现？
+- 碳排放如何沿生产链条转移，如何识别关键行业和关键企业？
+- 如何设计兼顾经济效率、供应链安全和减排目标的政策评估框架？
+  
+研究技能
+======
+- 投入产出模型与结构分解分析
+- 企业微观数据处理与网络分析
+- 碳排放核算与环境经济分析
+- 计量经济学、数据可视化与学术写作
 
-Publications
+方法与工具
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- 投入产出表处理、产业关联测度和结构路径分析
+- 企业供应链网络构建、中心性测度和网络冲击传播分析
+- 碳排放清单整理、隐含碳测算和政策情景分析
+- Python、R、Stata、LaTeX 等研究工具
+
+论文
+======
+论文与工作论文将陆续更新。
+
+学术活动
+======
+会议报告、研讨会和项目经历将陆续更新。
   
-Talks
+联系方式
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Email: [zhangxinyang@amss.ac.cn](mailto:zhangxinyang@amss.ac.cn)

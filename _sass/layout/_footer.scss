@@ -10,16 +10,12 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
-  margin-top: 3em;
+  margin-top: 4em;
   width: 100%;
   clear: both;
 
-  /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
-
-  /* keep the footer on the bottom of the page */
-  position: fixed;
-  bottom: 0;
+  position: static;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -31,9 +27,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    margin-top: 0;
     max-width: 100%;
-    padding: 0 1em 1em;
+    padding: 1.4em 1.5em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
