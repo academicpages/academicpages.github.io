@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PHOTO.jpg"
+  avatar           : "PHOTO.JPG"
   name             : "Ethan Hunt"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Econ PhD"
