@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="layout--{{ page.layout | default: layout.layout | default: 'default' | slugify }}{% if page.url == '/' %} page--home{% endif %}" data-page="{{ page.url | default: '/' }}">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
