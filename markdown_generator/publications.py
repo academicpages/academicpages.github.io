@@ -41,10 +41,10 @@ def create_md(lines: list, layout: list):
         html_filename = str(item[layout.index('pub_date')]) + "-" + item[layout.index('url_slug')]
         
         # Parse the YAML variables
-        md = f"---\ntitle: \"{item[layout.index('title')]}\"\n"
+        md = f"---\ntitle: \"{item.title}\"\n"
         md += "collection: publications"
-        if len(layout) == len(HEADER_UPDATED):
-            md += f"\ncategory: {item[layout.index('category')]}"
+        if 'category' in publications.column:
+            md += f"\ncategory: {item.category}"
         else:
             md += "\ncategory: manuscripts"
         md += f"\npermalink: /publication/{html_filename}"
