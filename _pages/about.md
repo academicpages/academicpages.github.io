@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Ethan Hunt is a recent graduate of the College of Wooster and future economist. He likes to study topics at the intersection macroeconomics, development economics, climate economics, and international finance. 
+Ethan Hunt is a recent graduate of the College of Wooster and future economist. He likes to study topics at the intersection of macroeconomics, development economics, climate economics, and international finance. 
