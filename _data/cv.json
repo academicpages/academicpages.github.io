@@ -1,152 +1,125 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "连冬杰 / DONGJIE LIAN",
+    "email": "502022270071@smail.nju.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://liandongjie.github.io",
+    "summary": "Frontend and full-stack developer focused on web applications, internal platforms, and product-minded engineering.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Nanjing",
+      "countryCode": "CN",
+      "region": "Jiangsu"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "profiles": []
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Baidu Shanghai R&D Center",
+      "position": "Web Frontend Development Intern",
+      "website": "",
+      "startDate": "2025-08",
+      "endDate": "2025-11",
+      "summary": "Participated in the iteration of an internal RPA workflow orchestration tool for automated office scenarios.",
+      "highlights": [
+        "Participated in nearly 10 requirement iterations and helped ship production features.",
+        "Implemented continue / break workflow capabilities across loops, nested blocks, and conditional branches.",
+        "Contributed to JS script, AI instruction, HTTP request, table processing, instruction block copy, and hierarchy readability features."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Environmental Development Center of the Ministry of Ecology and Environment",
+      "position": "WebGIS Full-stack Development Intern",
+      "website": "",
+      "startDate": "2021-10",
+      "endDate": "2022-03",
+      "summary": "Built a WebGIS system for environmental monitoring visualization and environmental social risk analysis.",
+      "highlights": [
+        "Designed the study area selection, buffer generation, risk/POI analysis, and result export workflow.",
+        "Built map interaction with Vue2 and AMap API, and backend/spatial storage with Flask, PostgreSQL, and PostGIS.",
+        "Supported testing, documentation, delivery, and software copyright registration."
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "Nanjing University",
+      "area": "Cartography and Geographic Information System",
+      "studyType": "M.S.",
+      "startDate": "2024-09",
+      "endDate": "2027-06",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "China Agricultural University",
+      "area": "Geographic Information Science",
+      "studyType": "B.S.",
+      "startDate": "2018-09",
+      "endDate": "2022-06",
+      "gpa": "3.74/4",
+      "courses": []
+    },
+    {
+      "institution": "China Agricultural University",
+      "area": "Computer Science and Technology",
+      "studyType": "Double Degree",
+      "startDate": "2019-09",
+      "endDate": "2022-06",
+      "gpa": null,
+      "courses": [
+        "Data Structures",
+        "Computer Networks",
+        "Object-Oriented Programming",
+        "Database Systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": ["JavaScript", "React", "Vue2", "workflow editor interfaces", "WebGIS interaction"]
+    },
+    {
+      "name": "Backend and Data",
+      "level": "",
+      "keywords": ["Python", "Flask", "MySQL", "PostgreSQL", "PostGIS", "Redis"]
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": ["Git", "Docker", "Postman", "Nginx", "requirement analysis", "testing collaboration"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "AI-Mindcare 心灵陪伴机器人",
       "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "date": "2025-03",
+      "url": "/portfolio/ai-mindcare/",
+      "description": "Backend development for an AI companionship product with RAG, streaming responses, Redis caching, and deployment improvements."
+    },
+    {
+      "name": "WebGIS 环境社会风险分析系统",
+      "category": "portfolio",
+      "date": "2021-10",
+      "url": "/portfolio/webgis-risk-analysis/",
+      "description": "Full-stack WebGIS system for environmental monitoring visualization, spatial analysis, risk indicators, and result export."
+    },
+    {
+      "name": "百度 RPA 流程编排工具迭代",
+      "category": "portfolio",
+      "date": "2025-08",
+      "url": "/portfolio/baidu-rpa-workflow/",
+      "description": "Frontend development for an internal RPA workflow orchestration platform."
     }
   ]
 }
