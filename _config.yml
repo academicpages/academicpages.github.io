@@ -24,12 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  name             : "김예람"
+  bio              : "기말이 얼마 남지 않았어요"
+  employer         : "Pukyong National University"
   email            : "none@example.org" 
 
   # Academic websites
