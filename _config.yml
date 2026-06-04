@@ -29,7 +29,7 @@ author:
   bio              : "김예람의 컴공에서 살아남기"
   location         : 
   employer         : "Pukong National University"
-  uri              : # URL
+  uri              : 
   email            : "rlaexram@pukyong.ac.kr" 
 
   # Academic websites
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : 
+  github           : "https://github.com/rlaexram"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
