@@ -1,0 +1,32 @@
+{% if site.enable_google_analytics %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      window.dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+{% endif %}
+{% if site.enable_cronitor_analytics %}
+  <!-- Cronitor RUM -->
+  <script async src="https://rum.cronitor.io/script.js"></script>
+  <script>
+    window.cronitor =
+      window.cronitor ||
+      function () {
+        (window.cronitor.q = window.cronitor.q || []).push(arguments);
+      };
+    cronitor('config', { clientKey: '{{site.cronitor_analytics}}' });
+  </script>
+{% endif %}
+{% if site.enable_pirsch_analytics %}
+  <script
+    defer
+    src="https://api.pirsch.io/pa.js"
+    id="pianjs"
+    data-code="{{ site.pirsch_analytics }}"
+  ></script>
+{% endif %}

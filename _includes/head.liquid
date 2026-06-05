@@ -1,0 +1,158 @@
+<!-- Metadata, OpenGraph and Schema.org -->
+{% include metadata.liquid %}
+
+<!-- Bootstrap & MDB -->
+<link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
+<link
+  rel="stylesheet"
+  href="{{ site.third_party_libraries.mdb.url.css }}"
+  integrity="{{ site.third_party_libraries.mdb.integrity.css }}"
+  crossorigin="anonymous"
+>
+
+<!-- Bootstrap Table -->
+{% if page.pretty_table %}
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ site.third_party_libraries.bootstrap-table.url.css }}"
+    integrity="{{ site.third_party_libraries.bootstrap-table.integrity.css }}"
+    crossorigin="anonymous"
+  >
+{% endif %}
+
+<!-- Fonts & Icons -->
+<link defer rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
+<link
+  defer
+  rel="stylesheet"
+  type="text/css"
+  href="{{ site.third_party_libraries.google_fonts.url.fonts }}"
+>
+
+<!-- Code Syntax Highlighting -->
+<link
+  defer
+  rel="stylesheet"
+  href="{{ '/assets/css/jekyll-pygments-themes-github.css' | relative_url | bust_file_cache }}"
+  media=""
+  id="highlight_theme_light"
+>
+
+{% if page.toc and page.toc.sidebar %}
+  <!-- Sidebar Table of Contents -->
+  <link defer href="{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet">
+{% endif %}
+
+<!-- Styles -->
+
+<!-- pseudocode -->
+{% if page.pseudocode %}
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ site.third_party_libraries.pseudocode.url.css }}"
+    integrity="{{ site.third_party_libraries.pseudocode.integrity.css }}"
+    crossorigin="anonymous"
+  >
+{% endif %}
+
+{% if site.icon.size <= 4 %}
+  <link
+    rel="shortcut icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>"
+  >
+{% elsif site.icon != blank %}
+  <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
+{% endif %}
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+<!-- Dark Mode -->
+<script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
+{% if site.enable_darkmode %}
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}"
+    media="none"
+    id="highlight_theme_dark"
+  >
+  <script>
+    initTheme();
+  </script>
+{% endif %}
+
+<!-- GeoJSON support via Leaflet -->
+{% if page.map %}
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ site.third_party_libraries.leaflet.url.css }}"
+    integrity="{{ site.third_party_libraries.leaflet.integrity.css }}"
+    crossorigin="anonymous"
+  >
+{% endif %}
+
+<!-- diff2html -->
+{% if page.code_diff %}
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ site.third_party_libraries.highlightjs.url.css.light }}"
+    integrity="{{ site.third_party_libraries.highlightjs.integrity.css.light }}"
+    crossorigin="anonymous"
+    media="screen and (prefers-color-scheme: light)"
+  >
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ site.third_party_libraries.highlightjs.url.css.dark }}"
+    integrity="{{ site.third_party_libraries.highlightjs.integrity.css.dark }}"
+    crossorigin="anonymous"
+    media="screen and (prefers-color-scheme: dark)"
+  >
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ site.third_party_libraries.diff2html.url.css }}"
+    integrity="{{ site.third_party_libraries.diff2html.integrity.css }}"
+    crossorigin="anonymous"
+  >
+{% endif %}
+
+<!-- GitHub Project Introduction Section -->
+{% if page.project_intro %}
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ '/assets/css/project-intro.css' | relative_url | bust_file_cache }}"
+  >
+{% endif %}
+
+{% if page.images %}
+  <!-- Image comparison slider -->
+  {% if page.images.compare %}
+    <link
+      defer
+      rel="stylesheet"
+      href="{{ site.third_party_libraries.img-comparison-slider.url.css }}"
+      integrity="{{ site.third_party_libraries.img-comparison-slider.integrity.css }}"
+      crossorigin="anonymous"
+    >
+  {% endif %}
+  <!-- Image slider -->
+  {% if page.images.slider %}
+    <link
+      defer
+      rel="stylesheet"
+      href="{{ site.third_party_libraries.swiper.url.css }}"
+      integrity="{{ site.third_party_libraries.swiper.integrity.css }}"
+      crossorigin="anonymous"
+    >
+  {% endif %}
+{% endif %}
+
+{% if page.tikzjax %}
+  <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
+{% endif %}

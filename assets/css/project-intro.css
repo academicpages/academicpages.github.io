@@ -1,0 +1,67 @@
+.Intro {
+  display: flex;
+  margin: 0 auto;
+}
+
+.Intro .Icon {
+  margin: auto;
+  padding-right: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Intro .Info {
+  width: 100%;
+}
+
+.Intro .Info .Title {
+  display: inline;
+}
+
+.Intro .Info .TechIconsBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  float: right;
+}
+
+.Intro .Info .Description {
+  margin-top: 20px;
+  text-align: left;
+}
+
+@media (max-width: 1000px) {
+  .Intro {
+    display: block;
+  }
+
+  .Intro .Icon {
+    padding-right: 0px;
+    margin: auto auto 20px auto;
+  }
+
+  .Intro .Info .Title {
+    display: block;
+    text-align: center;
+  }
+
+  .Intro .Info .TechIconsBox {
+    float: none;
+    margin: 20px 0;
+  }
+
+  .Intro .Info .Description {
+    margin-top: 50px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .Intro .Info .TechIconsBox {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  }
+}

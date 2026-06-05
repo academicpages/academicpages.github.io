@@ -1,0 +1,21 @@
+{% if paginator.total_pages > 1 %}
+  <nav aria-label="Blog page navigation">
+    <ul class="pagination pagination-lg justify-content-center">
+      <li class="page-item {% unless paginator.previous_page %}disabled{% endunless %}">
+        <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}" tabindex="-1" aria-disabled="{{ paginator.previous_page }}"
+          >Newer</a
+        >
+      </li>
+      {% if paginator.page_trail %}
+        {% for trail in paginator.page_trail %}
+          <li class="page-item {% if page.url == trail.path %}active{% endif %}">
+            <a class="page-link" href="{{ trail.path | relative_url | remove: 'index.html' }}" title="{{trail.title}}">{{ trail.num }}</a>
+          </li>
+        {% endfor %}
+      {% endif %}
+      <li class="page-item {% unless paginator.next_page %}disabled{% endunless %}">
+        <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+      </li>
+    </ul>
+  </nav>
+{% endif %}

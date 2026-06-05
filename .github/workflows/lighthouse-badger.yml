@@ -1,0 +1,62 @@
+# Lighthouse-Badger-Easy | GitHub Action Workflow
+#
+# Description: Generates, adds & updates manually/automatically Lighthouse badges & reports from one/multiple input URL(s) to the current repository & main branch with minimal settings
+# Author: Sitdisch
+# Source: https://github.com/myactionway/lighthouse-badger-workflows
+# License: MIT
+# Copyright (c) 2021 Sitdisch
+
+name: "Lighthouse Badger"
+
+########################################################################
+# DEFINE YOUR INPUTS AND TRIGGERS IN THE FOLLOWING
+########################################################################
+
+# INPUTS as Secrets (env) for not manually triggered workflows
+env:
+  URLS: https://alshedivat.github.io/al-folio/
+  # If any of the following env is blank, a default value is used instead
+  REPO_BRANCH: "${{ github.repository }} master" # target repository & branch e.g. 'dummy/mytargetrepo main'
+  MOBILE_LIGHTHOUSE_PARAMS: "--only-categories=performance,accessibility,best-practices,seo --throttling.cpuSlowdownMultiplier=2"
+  DESKTOP_LIGHTHOUSE_PARAMS: "--only-categories=performance,accessibility,best-practices,seo --preset=desktop --throttling.cpuSlowdownMultiplier=1"
+
+# TRIGGERS
+on:
+  page_build:
+  # schedule: # Check your schedule here => https://crontab.guru/
+  #   - cron: '55 23 * * 0' # e.g. every Sunday at 23:55
+  #
+  # THAT'S IT; YOU'RE DONE;
+  workflow_dispatch:
+
+########################################################################
+# THAT'S IT; YOU DON'T HAVE TO DEFINE ANYTHING IN THE FOLLOWING
+########################################################################
+
+jobs:
+  lighthouse-badger-easy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Preparatory Tasks
+        run: |
+          REPOSITORY=`expr "${{ env.REPO_BRANCH }}" : "\([^ ]*\)"`
+          BRANCH=`expr "${{ env.REPO_BRANCH }}" : ".* \([^ ]*\)"`
+          echo "REPOSITORY=$REPOSITORY" >> $GITHUB_ENV
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+        env:
+          REPO_BRANCH: ${{ env.REPO_BRANCH }}
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ env.REPOSITORY }}
+          token: ${{ secrets.LIGHTHOUSE_BADGER_TOKEN }}
+          ref: ${{ env.BRANCH }}
+      - uses: actions/checkout@v4
+        with:
+          repository: "myactionway/lighthouse-badges"
+          path: temp_lighthouse_badges_nested
+      - uses: myactionway/lighthouse-badger-action@v2.2
+        with:
+          urls: ${{ env.URLS }}
+          mobile_lighthouse_params: ${{ env.MOBILE_LIGHTHOUSE_PARAMS }}
+          desktop_lighthouse_params: ${{ env.DESKTOP_LIGHTHOUSE_PARAMS }}

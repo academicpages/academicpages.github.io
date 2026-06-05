@@ -1,0 +1,39 @@
+name: Publish posts scheduled for today
+
+on:
+  schedule:
+    # Run every day at 23:30 UTC or manually run
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  publish_scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Get the date for today
+        id: date
+        run: echo "TODAY=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Check for scheduled posts and move to posts
+        run: |
+          echo "Today is $TODAY"
+          shopt -s nullglob
+          for file in _scheduled/${TODAY}-*.md; do
+            echo "Found scheduled: $file"
+            mv "$file" "_posts/"
+            echo "Moved $file to _posts/"
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add _posts/
+          git add _scheduled/
+          git commit -m "Posted Scheduled Drafts on $TODAY" || echo "No changes to commit"
+          git push

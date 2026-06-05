@@ -1,0 +1,16 @@
+{% if site.enable_masonry %}
+  <!-- Masonry & imagesLoaded -->
+  <script
+    defer
+    src="{{ site.third_party_libraries.masonry.url.js }}"
+    integrity="{{ site.third_party_libraries.masonry.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    defer
+    src="{{ site.third_party_libraries.imagesloaded.url.js }}"
+    integrity="{{ site.third_party_libraries.imagesloaded.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+  <script defer src="{{ '/assets/js/masonry.js' | relative_url }}" type="text/javascript"></script>
+{% endif %}

@@ -1,0 +1,48 @@
+.tab {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -20px;
+  padding: 0;
+  list-style: none;
+  position: relative;
+}
+
+.tab > * {
+  flex: none;
+  padding-left: 20px;
+  position: relative;
+}
+
+.tab > * > a {
+  display: block;
+  text-align: center;
+  padding: 9px 20px;
+  color: var(--global-text-color-light);
+  border-bottom: 2px solid transparent;
+  border-bottom-color: transparent;
+  font-size: 12px;
+  text-transform: uppercase;
+  transition: color 0.1s ease-in-out;
+  line-height: 20px;
+}
+
+.tab > .active > a {
+  color: var(--global-text-color);
+  border-color: var(--global-theme-color);
+}
+
+.tab > li > a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.tab-content {
+  padding: 0;
+}
+
+.tab-content > li {
+  display: none;
+}
+.tab-content > li.active {
+  display: block;
+}

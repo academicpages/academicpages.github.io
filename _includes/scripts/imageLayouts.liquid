@@ -1,0 +1,18 @@
+{% if page.images %}
+  {% if page.images.compare %}
+    <script
+      defer
+      src="{{ site.third_party_libraries.img-comparison-slider.url.js }}"
+      integrity="{{ site.third_party_libraries.img-comparison-slider.integrity.js }}"
+      crossorigin="anonymous"
+    ></script>
+  {% endif %}
+  {% if page.images.slider %}
+    <script
+      defer
+      src="{{ site.third_party_libraries.swiper.url.js }}"
+      integrity="{{ site.third_party_libraries.swiper.integrity.js }}"
+      crossorigin="anonymous"
+    ></script>
+  {% endif %}
+{% endif %}

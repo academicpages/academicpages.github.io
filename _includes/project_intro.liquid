@@ -1,0 +1,29 @@
+<div class="Intro">
+  {% if include.img %}
+    <div class="Icon">
+      {% include figure.liquid path=include.img max-height="300px" max-width="300px" width="auto" %}
+    </div>
+  {% endif %}
+
+  <div class="Info">
+    <h1 class="Title">{{ include.title }}</h1>
+    <div class="TechIconsBox">
+      {% for icon in include.icons %}
+        <img
+          {% if icon.site %}
+            {% if icon.site == 'devicons' %}
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/{{ icon.file }}"
+            {% elsif icon.site == 'skillicons' %}
+              src="https://skillicons.dev/icons?i={{ icon.file }}"
+            {% endif %}
+          {% else %}
+            src="{% if icon.file contains "https://" %}{{ icon.file }}{% else %}{{ icon.file | relative_url }}{% endif %}"
+          {% endif %}
+          width="auto"
+          height="40"
+        >
+      {% endfor %}
+    </div>
+    <p>{{ include.description }}</p>
+  </div>
+</div>

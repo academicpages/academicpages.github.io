@@ -1,0 +1,44 @@
+{
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "projectName": "al-folio",
+  "projectOwner": "alshedivat",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "badgeTemplate": "[core_contributors]: https://img.shields.io/badge/core_contributors-<%= contributors.length %>-orange.svg 'Number of core contributors'",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "alshedivat",
+      "name": "Maruan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2126561?v=4",
+      "profile": "http://maruan.alshedivat.com",
+      "contributions": ["design", "code"]
+    },
+    {
+      "login": "rohandebsarkar",
+      "name": "Rohan Deb Sarkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50144004?v=4",
+      "profile": "http://rohandebsarkar.github.io",
+      "contributions": ["code"]
+    },
+    {
+      "login": "pourmand1376",
+      "name": "Amir Pourmand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32064808?v=4",
+      "profile": "https://amirpourmand.ir",
+      "contributions": ["code"]
+    },
+    {
+      "login": "george-gca",
+      "name": "George",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31376482?v=4",
+      "profile": "https://george-gca.github.io/",
+      "contributions": ["code"]
+    }
+  ],
+  "commitConvention": "angular"
+}

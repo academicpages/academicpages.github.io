@@ -1,0 +1,2661 @@
+@charset "UTF-8";
+/*!
+ * Tabler Icons 3.0.1 by tabler - https://tabler.io
+ * License - https://github.com/tabler/tabler-icons/blob/master/LICENSE
+ */
+$ti-font-family: "tabler-icons-filled" !default;
+$ti-font-path: "./fonts" !default;
+$ti-font-display: null !default;
+$ti-prefix: "ti" !default;
+
+@font-face {
+  font-family: $ti-font-family;
+  font-style: normal;
+  font-weight: 400;
+  font-display: $ti-font-display;
+  src:
+    url("#{$ti-font-path}/tabler-icons-filled.woff2?v3.0.1") format("woff2"),
+    url("#{$ti-font-path}/tabler-icons-filled.woff?") format("woff"),
+    url("#{$ti-font-path}/tabler-icons-filled.ttf?v3.0.1") format("truetype");
+}
+
+.#{$ti-prefix} {
+  font-family: $ti-font-family !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@function unicode($str) {
+  @return unquote('"') + unquote(str-insert($str, "\\", 1)) + unquote('"');
+}
+
+$ti-icon-accessible: unicode("f6ea");
+$ti-icon-ad: unicode("f6eb");
+$ti-icon-ad-circle: unicode("f7d3");
+$ti-icon-adjustments: unicode("f6ec");
+$ti-icon-affiliate: unicode("f6ed");
+$ti-icon-alarm: unicode("f709");
+$ti-icon-alarm-minus: unicode("f70a");
+$ti-icon-alarm-plus: unicode("f70b");
+$ti-icon-alarm-snooze: unicode("f70c");
+$ti-icon-alert-circle: unicode("f6ee");
+$ti-icon-alert-hexagon: unicode("fa34");
+$ti-icon-alert-octagon: unicode("f6ef");
+$ti-icon-alert-square: unicode("fa35");
+$ti-icon-alert-square-rounded: unicode("fa36");
+$ti-icon-alert-triangle: unicode("f6f0");
+$ti-icon-alien: unicode("f70d");
+$ti-icon-align-box-bottom-center: unicode("f70e");
+$ti-icon-align-box-bottom-left: unicode("f70f");
+$ti-icon-align-box-bottom-right: unicode("f710");
+$ti-icon-align-box-center-middle: unicode("f7d4");
+$ti-icon-align-box-left-bottom: unicode("f711");
+$ti-icon-align-box-left-middle: unicode("f712");
+$ti-icon-align-box-left-top: unicode("f713");
+$ti-icon-align-box-right-bottom: unicode("f714");
+$ti-icon-align-box-right-middle: unicode("f7d5");
+$ti-icon-align-box-right-top: unicode("f715");
+$ti-icon-align-box-top-center: unicode("f716");
+$ti-icon-align-box-top-left: unicode("f717");
+$ti-icon-align-box-top-right: unicode("f718");
+$ti-icon-analyze: unicode("f719");
+$ti-icon-app-window: unicode("f71a");
+$ti-icon-apps: unicode("f6f1");
+$ti-icon-archive: unicode("fa82");
+$ti-icon-arrow-autofit-content: unicode("f6f2");
+$ti-icon-arrow-badge-down: unicode("f7d6");
+$ti-icon-arrow-badge-left: unicode("f7d7");
+$ti-icon-arrow-badge-right: unicode("f7d8");
+$ti-icon-arrow-badge-up: unicode("f7d9");
+$ti-icon-arrow-big-down: unicode("f6c6");
+$ti-icon-arrow-big-down-line: unicode("f6c7");
+$ti-icon-arrow-big-down-lines: unicode("f6c8");
+$ti-icon-arrow-big-left: unicode("f6c9");
+$ti-icon-arrow-big-left-line: unicode("f6ca");
+$ti-icon-arrow-big-left-lines: unicode("f6cb");
+$ti-icon-arrow-big-right: unicode("f6cc");
+$ti-icon-arrow-big-right-line: unicode("f6cd");
+$ti-icon-arrow-big-right-lines: unicode("f6ce");
+$ti-icon-arrow-big-up: unicode("f6cf");
+$ti-icon-arrow-big-up-line: unicode("f6d0");
+$ti-icon-arrow-big-up-lines: unicode("f6d1");
+$ti-icon-artboard: unicode("fa83");
+$ti-icon-article: unicode("f7da");
+$ti-icon-aspect-ratio: unicode("f7db");
+$ti-icon-assembly: unicode("fe9e");
+$ti-icon-asset: unicode("fe9d");
+$ti-icon-atom-2: unicode("f71b");
+$ti-icon-award: unicode("f71c");
+$ti-icon-baby-carriage: unicode("fe9c");
+$ti-icon-backspace: unicode("f7dc");
+$ti-icon-badge: unicode("f667");
+$ti-icon-badge-3d: unicode("fe9b");
+$ti-icon-badge-4k: unicode("fe9a");
+$ti-icon-badge-8k: unicode("fe99");
+$ti-icon-badge-ad: unicode("fe98");
+$ti-icon-badge-ar: unicode("fe97");
+$ti-icon-badge-cc: unicode("fe96");
+$ti-icon-badge-hd: unicode("fe95");
+$ti-icon-badge-sd: unicode("fe94");
+$ti-icon-badge-tm: unicode("fe93");
+$ti-icon-badge-vo: unicode("fe92");
+$ti-icon-badge-vr: unicode("fe91");
+$ti-icon-badge-wc: unicode("fe90");
+$ti-icon-badges: unicode("f7dd");
+$ti-icon-balloon: unicode("fa84");
+$ti-icon-ballpen: unicode("fa85");
+$ti-icon-bandage: unicode("f7de");
+$ti-icon-barbell: unicode("fe8f");
+$ti-icon-barrier-block: unicode("fe8e");
+$ti-icon-basket: unicode("f7df");
+$ti-icon-bath: unicode("f71d");
+$ti-icon-battery: unicode("f668");
+$ti-icon-battery-1: unicode("f71e");
+$ti-icon-battery-2: unicode("f71f");
+$ti-icon-battery-3: unicode("f720");
+$ti-icon-battery-4: unicode("f721");
+$ti-icon-bed: unicode("f7e0");
+$ti-icon-bed-flat: unicode("fe8d");
+$ti-icon-beer: unicode("f7e1");
+$ti-icon-bell: unicode("f669");
+$ti-icon-bell-minus: unicode("f722");
+$ti-icon-bell-plus: unicode("f723");
+$ti-icon-bell-ringing: unicode("f725");
+$ti-icon-bell-ringing-2: unicode("f724");
+$ti-icon-bell-x: unicode("f726");
+$ti-icon-bell-z: unicode("f727");
+$ti-icon-biohazard: unicode("fe8c");
+$ti-icon-blade: unicode("f7e2");
+$ti-icon-bomb: unicode("fa86");
+$ti-icon-bone: unicode("fe8b");
+$ti-icon-book: unicode("fa87");
+$ti-icon-bookmark: unicode("fa88");
+$ti-icon-bookmarks: unicode("fb1f");
+$ti-icon-boom: unicode("fe8a");
+$ti-icon-bottle: unicode("fa89");
+$ti-icon-bounce-left: unicode("fb20");
+$ti-icon-bounce-right: unicode("fb21");
+$ti-icon-bow: unicode("fe89");
+$ti-icon-bowl: unicode("fb22");
+$ti-icon-bowl-chopsticks: unicode("fe88");
+$ti-icon-bowl-spoon: unicode("fe87");
+$ti-icon-box-align-bottom: unicode("fa8a");
+$ti-icon-box-align-bottom-left: unicode("fa8b");
+$ti-icon-box-align-bottom-right: unicode("fa8c");
+$ti-icon-box-align-left: unicode("fa8d");
+$ti-icon-box-align-right: unicode("fa8e");
+$ti-icon-box-align-top: unicode("fa8f");
+$ti-icon-box-align-top-left: unicode("fa90");
+$ti-icon-box-align-top-right: unicode("fa91");
+$ti-icon-brand-apple: unicode("fd74");
+$ti-icon-brand-discord: unicode("f7e4");
+$ti-icon-brand-dribbble: unicode("f7e5");
+$ti-icon-brand-facebook: unicode("f7e6");
+$ti-icon-brand-github: unicode("f7e7");
+$ti-icon-brand-google: unicode("fd1a");
+$ti-icon-brand-patreon: unicode("fcff");
+$ti-icon-brand-paypal: unicode("f7e9");
+$ti-icon-brand-spotify: unicode("fe86");
+$ti-icon-brand-tiktok: unicode("f7ea");
+$ti-icon-brand-twitter: unicode("f7eb");
+$ti-icon-brand-x: unicode("fc21");
+$ti-icon-brand-youtube: unicode("fc22");
+$ti-icon-bread: unicode("fe85");
+$ti-icon-briefcase: unicode("fd00");
+$ti-icon-briefcase-2: unicode("fe84");
+$ti-icon-brightness: unicode("fe82");
+$ti-icon-brightness-auto: unicode("fe83");
+$ti-icon-brightness-down: unicode("fb23");
+$ti-icon-brightness-up: unicode("fb24");
+$ti-icon-bug: unicode("fd01");
+$ti-icon-building-broadcast-tower: unicode("fe81");
+$ti-icon-bulb: unicode("f66a");
+$ti-icon-cactus: unicode("fb25");
+$ti-icon-calculator: unicode("fb26");
+$ti-icon-calendar: unicode("fb27");
+$ti-icon-camera: unicode("fa37");
+$ti-icon-campfire: unicode("fb28");
+$ti-icon-candle: unicode("fc23");
+$ti-icon-capsule: unicode("fc24");
+$ti-icon-capsule-horizontal: unicode("fc25");
+$ti-icon-capture: unicode("fb29");
+$ti-icon-cards: unicode("fc26");
+$ti-icon-caret-down: unicode("fb2a");
+$ti-icon-caret-left: unicode("fb2b");
+$ti-icon-caret-left-right: unicode("fd02");
+$ti-icon-caret-right: unicode("fb2c");
+$ti-icon-caret-up: unicode("fb2d");
+$ti-icon-caret-up-down: unicode("fd03");
+$ti-icon-carousel-horizontal: unicode("fa92");
+$ti-icon-carousel-vertical: unicode("fa93");
+$ti-icon-cash-banknote: unicode("fe80");
+$ti-icon-category: unicode("fb2e");
+$ti-icon-chart-area: unicode("f66b");
+$ti-icon-chart-area-line: unicode("f66c");
+$ti-icon-chart-bubble: unicode("f66d");
+$ti-icon-chart-candle: unicode("f66e");
+$ti-icon-chart-donut: unicode("f66f");
+$ti-icon-chart-dots: unicode("fd04");
+$ti-icon-chart-grid-dots: unicode("fd05");
+$ti-icon-chart-pie: unicode("f670");
+$ti-icon-cherry: unicode("f728");
+$ti-icon-chess: unicode("f72a");
+$ti-icon-chess-bishop: unicode("f729");
+$ti-icon-chess-king: unicode("f72b");
+$ti-icon-chess-knight: unicode("f72c");
+$ti-icon-chess-queen: unicode("f72d");
+$ti-icon-chess-rook: unicode("f72e");
+$ti-icon-circle: unicode("f671");
+$ti-icon-circle-arrow-down: unicode("f6f4");
+$ti-icon-circle-arrow-down-left: unicode("f6f5");
+$ti-icon-circle-arrow-down-right: unicode("f6f7");
+$ti-icon-circle-arrow-left: unicode("f6fa");
+$ti-icon-circle-arrow-right: unicode("f6fc");
+$ti-icon-circle-arrow-up: unicode("f6fe");
+$ti-icon-circle-arrow-up-left: unicode("f6ff");
+$ti-icon-circle-arrow-up-right: unicode("f701");
+$ti-icon-circle-check: unicode("f704");
+$ti-icon-circle-dot: unicode("f705");
+$ti-icon-circle-key: unicode("f706");
+$ti-icon-circle-letter-a: unicode("fe7f");
+$ti-icon-circle-letter-b: unicode("fe7e");
+$ti-icon-circle-letter-c: unicode("fe7d");
+$ti-icon-circle-letter-d: unicode("fe7c");
+$ti-icon-circle-letter-e: unicode("fe7b");
+$ti-icon-circle-letter-f: unicode("fe7a");
+$ti-icon-circle-letter-g: unicode("fe79");
+$ti-icon-circle-letter-h: unicode("fe78");
+$ti-icon-circle-letter-i: unicode("fe77");
+$ti-icon-circle-letter-j: unicode("fe76");
+$ti-icon-circle-letter-k: unicode("fe75");
+$ti-icon-circle-letter-l: unicode("fe74");
+$ti-icon-circle-letter-m: unicode("fe73");
+$ti-icon-circle-letter-n: unicode("fe72");
+$ti-icon-circle-letter-o: unicode("fe71");
+$ti-icon-circle-letter-p: unicode("fe70");
+$ti-icon-circle-letter-q: unicode("fe6f");
+$ti-icon-circle-letter-r: unicode("fe6e");
+$ti-icon-circle-letter-s: unicode("fe6d");
+$ti-icon-circle-letter-t: unicode("fe6c");
+$ti-icon-circle-letter-u: unicode("fe6b");
+$ti-icon-circle-letter-v: unicode("fe6a");
+$ti-icon-circle-letter-w: unicode("fe69");
+$ti-icon-circle-letter-x: unicode("fe68");
+$ti-icon-circle-letter-y: unicode("fe67");
+$ti-icon-circle-letter-z: unicode("fe66");
+$ti-icon-circle-number-0: unicode("f72f");
+$ti-icon-circle-number-1: unicode("f730");
+$ti-icon-circle-number-2: unicode("f731");
+$ti-icon-circle-number-3: unicode("f732");
+$ti-icon-circle-number-4: unicode("f733");
+$ti-icon-circle-number-5: unicode("f734");
+$ti-icon-circle-number-6: unicode("f735");
+$ti-icon-circle-number-7: unicode("f736");
+$ti-icon-circle-number-8: unicode("f737");
+$ti-icon-circle-number-9: unicode("f738");
+$ti-icon-circle-x: unicode("f739");
+$ti-icon-circles: unicode("f672");
+$ti-icon-clock: unicode("f73a");
+$ti-icon-clock-hour-1: unicode("fe65");
+$ti-icon-clock-hour-10: unicode("fe64");
+$ti-icon-clock-hour-11: unicode("fe63");
+$ti-icon-clock-hour-12: unicode("fe62");
+$ti-icon-clock-hour-2: unicode("fe61");
+$ti-icon-clock-hour-3: unicode("fe60");
+$ti-icon-clock-hour-4: unicode("fe5f");
+$ti-icon-clock-hour-5: unicode("fe5e");
+$ti-icon-clock-hour-6: unicode("fe5d");
+$ti-icon-clock-hour-7: unicode("fe5c");
+$ti-icon-clock-hour-8: unicode("fe5b");
+$ti-icon-clock-hour-9: unicode("fe5a");
+$ti-icon-cloud: unicode("f673");
+$ti-icon-clubs: unicode("f674");
+$ti-icon-coin: unicode("fd08");
+$ti-icon-coin-bitcoin: unicode("fd06");
+$ti-icon-coin-euro: unicode("fd07");
+$ti-icon-coin-monero: unicode("fd09");
+$ti-icon-coin-pound: unicode("fd0a");
+$ti-icon-coin-rupee: unicode("fd0b");
+$ti-icon-coin-taka: unicode("fd0c");
+$ti-icon-coin-yen: unicode("fd0e");
+$ti-icon-coin-yuan: unicode("fd0f");
+$ti-icon-compass: unicode("fd10");
+$ti-icon-cone: unicode("fe58");
+$ti-icon-cone-2: unicode("fe59");
+$ti-icon-contrast: unicode("fe56");
+$ti-icon-contrast-2: unicode("fe57");
+$ti-icon-cookie: unicode("fe54");
+$ti-icon-cookie-man: unicode("fe55");
+$ti-icon-copy-check: unicode("fe53");
+$ti-icon-copy-minus: unicode("fe52");
+$ti-icon-copy-plus: unicode("fe51");
+$ti-icon-copy-x: unicode("fe50");
+$ti-icon-copyleft: unicode("f73b");
+$ti-icon-copyright: unicode("f73c");
+$ti-icon-credit-card: unicode("fd11");
+$ti-icon-crop-1-1: unicode("fe4f");
+$ti-icon-crop-16-9: unicode("fe4e");
+$ti-icon-crop-3-2: unicode("fe4d");
+$ti-icon-crop-5-4: unicode("fe4c");
+$ti-icon-crop-7-5: unicode("fe4b");
+$ti-icon-crop-landscape: unicode("fe4a");
+$ti-icon-crop-portrait: unicode("fe49");
+$ti-icon-cross: unicode("f675");
+$ti-icon-device-heart-monitor: unicode("fa38");
+$ti-icon-device-mobile: unicode("fa39");
+$ti-icon-device-tablet: unicode("fa3a");
+$ti-icon-dialpad: unicode("fa3b");
+$ti-icon-diamond: unicode("f73d");
+$ti-icon-diamonds: unicode("f676");
+$ti-icon-dice: unicode("f744");
+$ti-icon-dice-1: unicode("f73e");
+$ti-icon-dice-2: unicode("f73f");
+$ti-icon-dice-3: unicode("f740");
+$ti-icon-dice-4: unicode("f741");
+$ti-icon-dice-5: unicode("f742");
+$ti-icon-dice-6: unicode("f743");
+$ti-icon-direction-sign: unicode("f745");
+$ti-icon-droplet: unicode("ee80");
+$ti-icon-droplet-half: unicode("f6c5");
+$ti-icon-droplet-half-2: unicode("fb6c");
+$ti-icon-egg: unicode("f678");
+$ti-icon-eye: unicode("f679");
+$ti-icon-file: unicode("f747");
+$ti-icon-file-x: unicode("f748");
+$ti-icon-filter: unicode("fc27");
+$ti-icon-flag: unicode("f67a");
+$ti-icon-flag-2: unicode("f707");
+$ti-icon-flag-3: unicode("f708");
+$ti-icon-flask: unicode("fd13");
+$ti-icon-flask-2: unicode("fd12");
+$ti-icon-folder: unicode("f749");
+$ti-icon-forbid: unicode("fc29");
+$ti-icon-forbid-2: unicode("fc28");
+$ti-icon-fountain: unicode("fc2a");
+$ti-icon-function: unicode("fc2b");
+$ti-icon-gauge: unicode("fc2c");
+$ti-icon-ghost: unicode("f74b");
+$ti-icon-ghost-2: unicode("f74a");
+$ti-icon-gift: unicode("fd14");
+$ti-icon-gift-card: unicode("fc2d");
+$ti-icon-glass-full: unicode("fc2e");
+$ti-icon-globe: unicode("fc2f");
+$ti-icon-gps: unicode("fe48");
+$ti-icon-graph: unicode("fd15");
+$ti-icon-guitar-pick: unicode("f67b");
+$ti-icon-headphones: unicode("fa3c");
+$ti-icon-heart: unicode("f67c");
+$ti-icon-help-circle: unicode("fa3d");
+$ti-icon-help-hexagon: unicode("fa3e");
+$ti-icon-help-octagon: unicode("fa3f");
+$ti-icon-help-square: unicode("fa40");
+$ti-icon-help-square-rounded: unicode("fa41");
+$ti-icon-help-triangle: unicode("fa42");
+$ti-icon-hexagon: unicode("f67d");
+$ti-icon-hexagon-letter-a: unicode("fe47");
+$ti-icon-hexagon-letter-b: unicode("fe46");
+$ti-icon-hexagon-letter-c: unicode("fe45");
+$ti-icon-hexagon-letter-d: unicode("fe44");
+$ti-icon-hexagon-letter-e: unicode("fe43");
+$ti-icon-hexagon-letter-f: unicode("fe42");
+$ti-icon-hexagon-letter-g: unicode("fe41");
+$ti-icon-hexagon-letter-h: unicode("fe40");
+$ti-icon-hexagon-letter-i: unicode("fe3f");
+$ti-icon-hexagon-letter-j: unicode("fe3e");
+$ti-icon-hexagon-letter-k: unicode("fe3d");
+$ti-icon-hexagon-letter-l: unicode("fe3c");
+$ti-icon-hexagon-letter-m: unicode("fe3b");
+$ti-icon-hexagon-letter-n: unicode("fe3a");
+$ti-icon-hexagon-letter-o: unicode("fe39");
+$ti-icon-hexagon-letter-p: unicode("fe38");
+$ti-icon-hexagon-letter-q: unicode("fe37");
+$ti-icon-hexagon-letter-r: unicode("fe36");
+$ti-icon-hexagon-letter-s: unicode("fe35");
+$ti-icon-hexagon-letter-t: unicode("fe34");
+$ti-icon-hexagon-letter-u: unicode("fe33");
+$ti-icon-hexagon-letter-v: unicode("fe32");
+$ti-icon-hexagon-letter-w: unicode("fe31");
+$ti-icon-hexagon-letter-x: unicode("fe30");
+$ti-icon-hexagon-letter-y: unicode("fe2f");
+$ti-icon-hexagon-letter-z: unicode("fe2e");
+$ti-icon-hexagon-minus: unicode("fe2d");
+$ti-icon-hexagon-number-0: unicode("f74c");
+$ti-icon-hexagon-number-1: unicode("f74d");
+$ti-icon-hexagon-number-2: unicode("f74e");
+$ti-icon-hexagon-number-3: unicode("f74f");
+$ti-icon-hexagon-number-4: unicode("f750");
+$ti-icon-hexagon-number-5: unicode("f751");
+$ti-icon-hexagon-number-6: unicode("f752");
+$ti-icon-hexagon-number-7: unicode("f753");
+$ti-icon-hexagon-number-8: unicode("f754");
+$ti-icon-hexagon-number-9: unicode("f755");
+$ti-icon-hexagon-plus: unicode("fe2c");
+$ti-icon-home: unicode("fe2b");
+$ti-icon-hourglass: unicode("f756");
+$ti-icon-info-circle: unicode("f6d8");
+$ti-icon-info-hexagon: unicode("fa43");
+$ti-icon-info-octagon: unicode("fa44");
+$ti-icon-info-square: unicode("fa45");
+$ti-icon-info-square-rounded: unicode("f6d9");
+$ti-icon-info-triangle: unicode("fa46");
+$ti-icon-inner-shadow-bottom: unicode("f757");
+$ti-icon-inner-shadow-bottom-left: unicode("f758");
+$ti-icon-inner-shadow-bottom-right: unicode("f759");
+$ti-icon-inner-shadow-left: unicode("f75a");
+$ti-icon-inner-shadow-right: unicode("f75b");
+$ti-icon-inner-shadow-top: unicode("f75c");
+$ti-icon-inner-shadow-top-left: unicode("f75d");
+$ti-icon-inner-shadow-top-right: unicode("f75e");
+$ti-icon-ironing: unicode("fe2a");
+$ti-icon-jetpack: unicode("fe29");
+$ti-icon-jewish-star: unicode("f67e");
+$ti-icon-key: unicode("fe28");
+$ti-icon-keyframe: unicode("fc33");
+$ti-icon-keyframe-align-center: unicode("fc30");
+$ti-icon-keyframe-align-horizontal: unicode("fc31");
+$ti-icon-keyframe-align-vertical: unicode("fc32");
+$ti-icon-keyframes: unicode("fc34");
+$ti-icon-layout: unicode("fe17");
+$ti-icon-layout-2: unicode("fe27");
+$ti-icon-layout-align-bottom: unicode("fe26");
+$ti-icon-layout-align-center: unicode("fe25");
+$ti-icon-layout-align-left: unicode("fe24");
+$ti-icon-layout-align-middle: unicode("fe23");
+$ti-icon-layout-align-right: unicode("fe22");
+$ti-icon-layout-align-top: unicode("fe21");
+$ti-icon-layout-bottombar: unicode("fc37");
+$ti-icon-layout-bottombar-collapse: unicode("fc35");
+$ti-icon-layout-bottombar-expand: unicode("fc36");
+$ti-icon-layout-cards: unicode("fe20");
+$ti-icon-layout-dashboard: unicode("fe1f");
+$ti-icon-layout-distribute-horizontal: unicode("fe1e");
+$ti-icon-layout-distribute-vertical: unicode("fe1d");
+$ti-icon-layout-grid: unicode("fe1c");
+$ti-icon-layout-kanban: unicode("fe1b");
+$ti-icon-layout-list: unicode("fe1a");
+$ti-icon-layout-navbar: unicode("fc3a");
+$ti-icon-layout-navbar-collapse: unicode("fc38");
+$ti-icon-layout-navbar-expand: unicode("fc39");
+$ti-icon-layout-sidebar: unicode("fe18");
+$ti-icon-layout-sidebar-left-collapse: unicode("fc3b");
+$ti-icon-layout-sidebar-left-expand: unicode("fc3c");
+$ti-icon-layout-sidebar-right: unicode("fe19");
+$ti-icon-layout-sidebar-right-collapse: unicode("fc3d");
+$ti-icon-layout-sidebar-right-expand: unicode("fc3e");
+$ti-icon-lego: unicode("fe16");
+$ti-icon-location: unicode("f67f");
+$ti-icon-lock: unicode("fe15");
+$ti-icon-lock-square-rounded: unicode("f6da");
+$ti-icon-lungs: unicode("fe14");
+$ti-icon-macro: unicode("fe13");
+$ti-icon-magnet: unicode("fe12");
+$ti-icon-mail: unicode("fa47");
+$ti-icon-mail-opened: unicode("fa48");
+$ti-icon-man: unicode("fe11");
+$ti-icon-manual-gearbox: unicode("fe10");
+$ti-icon-map-pin: unicode("f680");
+$ti-icon-medical-cross: unicode("f681");
+$ti-icon-message-circle-2: unicode("f682");
+$ti-icon-mickey: unicode("f683");
+$ti-icon-microphone: unicode("fe0f");
+$ti-icon-microwave: unicode("fe0e");
+$ti-icon-mood-confuzed: unicode("f7f2");
+$ti-icon-mood-empty: unicode("f7f3");
+$ti-icon-mood-happy: unicode("f7f4");
+$ti-icon-mood-kid: unicode("f7f5");
+$ti-icon-mood-neutral: unicode("f7f6");
+$ti-icon-mood-sad: unicode("f7f7");
+$ti-icon-mood-smile: unicode("f7f8");
+$ti-icon-moon: unicode("f684");
+$ti-icon-mouse: unicode("fb2f");
+$ti-icon-mushroom: unicode("f7f9");
+$ti-icon-navigation: unicode("f685");
+$ti-icon-octagon: unicode("f686");
+$ti-icon-oval: unicode("f687");
+$ti-icon-oval-vertical: unicode("f688");
+$ti-icon-paint: unicode("f75f");
+$ti-icon-paw: unicode("f689");
+$ti-icon-pennant: unicode("f68b");
+$ti-icon-pennant-2: unicode("f68a");
+$ti-icon-pentagon: unicode("f68c");
+$ti-icon-phone: unicode("fa49");
+$ti-icon-photo: unicode("fa4a");
+$ti-icon-pin: unicode("f68d");
+$ti-icon-pinned: unicode("f68e");
+$ti-icon-player-eject: unicode("f68f");
+$ti-icon-player-pause: unicode("f690");
+$ti-icon-player-play: unicode("f691");
+$ti-icon-player-record: unicode("f692");
+$ti-icon-player-skip-back: unicode("f693");
+$ti-icon-player-skip-forward: unicode("f694");
+$ti-icon-player-stop: unicode("f695");
+$ti-icon-player-track-next: unicode("f696");
+$ti-icon-player-track-prev: unicode("f697");
+$ti-icon-point: unicode("f698");
+$ti-icon-pointer: unicode("fb30");
+$ti-icon-polaroid: unicode("fa4b");
+$ti-icon-puzzle: unicode("f699");
+$ti-icon-radar: unicode("fe0d");
+$ti-icon-radioactive: unicode("f760");
+$ti-icon-rectangle: unicode("f69a");
+$ti-icon-rectangle-vertical: unicode("f69b");
+$ti-icon-relation-many-to-many: unicode("fe0c");
+$ti-icon-relation-one-to-many: unicode("fe0b");
+$ti-icon-relation-one-to-one: unicode("fe0a");
+$ti-icon-replace: unicode("f69c");
+$ti-icon-rosette: unicode("f69d");
+$ti-icon-rosette-discount-check: unicode("f746");
+$ti-icon-section: unicode("fe09");
+$ti-icon-settings: unicode("f69e");
+$ti-icon-shield: unicode("f69f");
+$ti-icon-shield-check: unicode("f761");
+$ti-icon-shield-checkered: unicode("f762");
+$ti-icon-shield-half: unicode("f357");
+$ti-icon-shield-lock: unicode("f763");
+$ti-icon-shirt: unicode("f6a0");
+$ti-icon-shopping-cart: unicode("fc3f");
+$ti-icon-sign-left: unicode("f6a1");
+$ti-icon-sign-right: unicode("f6a2");
+$ti-icon-soup: unicode("fe08");
+$ti-icon-spade: unicode("f6a3");
+$ti-icon-square: unicode("fc40");
+$ti-icon-square-arrow-down: unicode("fb31");
+$ti-icon-square-arrow-left: unicode("fb32");
+$ti-icon-square-arrow-right: unicode("fb33");
+$ti-icon-square-arrow-up: unicode("fb34");
+$ti-icon-square-asterisk: unicode("fb35");
+$ti-icon-square-check: unicode("f76d");
+$ti-icon-square-chevron-down: unicode("fb36");
+$ti-icon-square-chevron-left: unicode("fb37");
+$ti-icon-square-chevron-right: unicode("fb38");
+$ti-icon-square-chevron-up: unicode("fb39");
+$ti-icon-square-chevrons-down: unicode("fb3a");
+$ti-icon-square-chevrons-left: unicode("fb3b");
+$ti-icon-square-chevrons-right: unicode("fb3c");
+$ti-icon-square-chevrons-up: unicode("fb3d");
+$ti-icon-square-dot: unicode("fb3e");
+$ti-icon-square-f0: unicode("f76e");
+$ti-icon-square-f1: unicode("f76f");
+$ti-icon-square-f2: unicode("f770");
+$ti-icon-square-f3: unicode("f771");
+$ti-icon-square-f4: unicode("f772");
+$ti-icon-square-f5: unicode("f773");
+$ti-icon-square-f6: unicode("f774");
+$ti-icon-square-f7: unicode("f775");
+$ti-icon-square-f8: unicode("f776");
+$ti-icon-square-f9: unicode("f777");
+$ti-icon-square-letter-a: unicode("fe07");
+$ti-icon-square-letter-b: unicode("fe06");
+$ti-icon-square-letter-c: unicode("fe05");
+$ti-icon-square-letter-d: unicode("fe04");
+$ti-icon-square-letter-e: unicode("fe03");
+$ti-icon-square-letter-f: unicode("fe02");
+$ti-icon-square-letter-g: unicode("fe01");
+$ti-icon-square-letter-h: unicode("fe00");
+$ti-icon-square-letter-i: unicode("fdff");
+$ti-icon-square-letter-j: unicode("fdfe");
+$ti-icon-square-letter-k: unicode("fdfd");
+$ti-icon-square-letter-l: unicode("fdfc");
+$ti-icon-square-letter-m: unicode("fdfb");
+$ti-icon-square-letter-n: unicode("fdfa");
+$ti-icon-square-letter-o: unicode("fdf9");
+$ti-icon-square-letter-p: unicode("fdf8");
+$ti-icon-square-letter-q: unicode("fdf7");
+$ti-icon-square-letter-r: unicode("fdf6");
+$ti-icon-square-letter-s: unicode("fdf5");
+$ti-icon-square-letter-t: unicode("fdf4");
+$ti-icon-square-letter-u: unicode("fdf3");
+$ti-icon-square-letter-v: unicode("fdf2");
+$ti-icon-square-letter-w: unicode("fdf1");
+$ti-icon-square-letter-x: unicode("fdf0");
+$ti-icon-square-letter-y: unicode("fdef");
+$ti-icon-square-letter-z: unicode("fdee");
+$ti-icon-square-minus: unicode("fb3f");
+$ti-icon-square-number-0: unicode("f764");
+$ti-icon-square-number-1: unicode("f765");
+$ti-icon-square-number-2: unicode("f7fa");
+$ti-icon-square-number-3: unicode("f766");
+$ti-icon-square-number-4: unicode("f767");
+$ti-icon-square-number-5: unicode("f768");
+$ti-icon-square-number-6: unicode("f769");
+$ti-icon-square-number-7: unicode("f76a");
+$ti-icon-square-number-8: unicode("f76b");
+$ti-icon-square-number-9: unicode("f76c");
+$ti-icon-square-rotated: unicode("f6a4");
+$ti-icon-square-rounded: unicode("f6a5");
+$ti-icon-square-rounded-arrow-down: unicode("f6db");
+$ti-icon-square-rounded-arrow-left: unicode("f6dc");
+$ti-icon-square-rounded-arrow-right: unicode("f6dd");
+$ti-icon-square-rounded-arrow-up: unicode("f6de");
+$ti-icon-square-rounded-check: unicode("f6df");
+$ti-icon-square-rounded-chevron-down: unicode("f6e0");
+$ti-icon-square-rounded-chevron-left: unicode("f6e1");
+$ti-icon-square-rounded-chevron-right: unicode("f6e2");
+$ti-icon-square-rounded-chevron-up: unicode("f6e3");
+$ti-icon-square-rounded-chevrons-down: unicode("f6e4");
+$ti-icon-square-rounded-chevrons-left: unicode("f6e5");
+$ti-icon-square-rounded-chevrons-right: unicode("f6e6");
+$ti-icon-square-rounded-chevrons-up: unicode("f6e7");
+$ti-icon-square-rounded-letter-a: unicode("fded");
+$ti-icon-square-rounded-letter-b: unicode("fdec");
+$ti-icon-square-rounded-letter-c: unicode("fdeb");
+$ti-icon-square-rounded-letter-d: unicode("fdea");
+$ti-icon-square-rounded-letter-e: unicode("fde9");
+$ti-icon-square-rounded-letter-f: unicode("fde8");
+$ti-icon-square-rounded-letter-g: unicode("fde7");
+$ti-icon-square-rounded-letter-h: unicode("fde6");
+$ti-icon-square-rounded-letter-i: unicode("fde5");
+$ti-icon-square-rounded-letter-j: unicode("fde4");
+$ti-icon-square-rounded-letter-k: unicode("fde3");
+$ti-icon-square-rounded-letter-l: unicode("fde2");
+$ti-icon-square-rounded-letter-m: unicode("fde1");
+$ti-icon-square-rounded-letter-n: unicode("fde0");
+$ti-icon-square-rounded-letter-o: unicode("fddf");
+$ti-icon-square-rounded-letter-p: unicode("fdde");
+$ti-icon-square-rounded-letter-q: unicode("fddd");
+$ti-icon-square-rounded-letter-r: unicode("fddc");
+$ti-icon-square-rounded-letter-s: unicode("fddb");
+$ti-icon-square-rounded-letter-t: unicode("fdda");
+$ti-icon-square-rounded-letter-u: unicode("fdd9");
+$ti-icon-square-rounded-letter-v: unicode("fdd8");
+$ti-icon-square-rounded-letter-w: unicode("fdd7");
+$ti-icon-square-rounded-letter-x: unicode("fdd6");
+$ti-icon-square-rounded-letter-y: unicode("fdd5");
+$ti-icon-square-rounded-letter-z: unicode("fdd4");
+$ti-icon-square-rounded-minus: unicode("fb40");
+$ti-icon-square-rounded-number-0: unicode("f778");
+$ti-icon-square-rounded-number-1: unicode("f779");
+$ti-icon-square-rounded-number-2: unicode("f77a");
+$ti-icon-square-rounded-number-3: unicode("f77b");
+$ti-icon-square-rounded-number-4: unicode("f77c");
+$ti-icon-square-rounded-number-5: unicode("f77d");
+$ti-icon-square-rounded-number-6: unicode("f77e");
+$ti-icon-square-rounded-number-7: unicode("f77f");
+$ti-icon-square-rounded-number-8: unicode("f780");
+$ti-icon-square-rounded-number-9: unicode("f781");
+$ti-icon-square-rounded-plus: unicode("f6e8");
+$ti-icon-square-rounded-x: unicode("f6e9");
+$ti-icon-square-x: unicode("fb41");
+$ti-icon-squares: unicode("fe9f");
+$ti-icon-stack: unicode("fdd1");
+$ti-icon-stack-2: unicode("fdd3");
+$ti-icon-stack-3: unicode("fdd2");
+$ti-icon-star: unicode("f6a6");
+$ti-icon-star-half: unicode("f6a7");
+$ti-icon-stars: unicode("f6a8");
+$ti-icon-sun: unicode("f6a9");
+$ti-icon-table: unicode("f782");
+$ti-icon-thumb-down: unicode("f6aa");
+$ti-icon-thumb-up: unicode("f6ab");
+$ti-icon-timeline-event: unicode("fd18");
+$ti-icon-transform: unicode("f6ac");
+$ti-icon-transition-bottom: unicode("fdd0");
+$ti-icon-transition-left: unicode("fdcf");
+$ti-icon-transition-right: unicode("fdce");
+$ti-icon-transition-top: unicode("fdcd");
+$ti-icon-trash: unicode("f783");
+$ti-icon-trash-x: unicode("f784");
+$ti-icon-triangle: unicode("f6ad");
+$ti-icon-triangle-inverted: unicode("f6ae");
+$ti-icon-triangle-square-circle: unicode("fb42");
+$ti-icon-trophy: unicode("f6af");
+$ti-icon-umbrella: unicode("f6b0");
+$ti-icon-user: unicode("fd19");
+$ti-icon-versions: unicode("f6b1");
+$ti-icon-windmill: unicode("f6b2");
+$ti-icon-woman: unicode("fdcc");
+$ti-icon-xbox-a: unicode("fdcb");
+$ti-icon-xbox-b: unicode("fdca");
+$ti-icon-xbox-x: unicode("fdc9");
+$ti-icon-xbox-y: unicode("fdc8");
+$ti-icon-yin-yang: unicode("f785");
+$ti-icon-zeppelin: unicode("fdc7");
+$ti-icon-zoom: unicode("f787");
+$ti-icon-zoom-cancel: unicode("fdc6");
+$ti-icon-zoom-check: unicode("f786");
+$ti-icon-zoom-code: unicode("fdc5");
+$ti-icon-zoom-exclamation: unicode("fdc4");
+$ti-icon-zoom-in: unicode("f789");
+$ti-icon-zoom-in-area: unicode("f788");
+$ti-icon-zoom-money: unicode("fdc3");
+$ti-icon-zoom-out: unicode("f78a");
+$ti-icon-zoom-out-area: unicode("fdc2");
+$ti-icon-zoom-pan: unicode("fdc1");
+$ti-icon-zoom-question: unicode("fdc0");
+$ti-icon-zoom-scan: unicode("fdbf");
+
+.#{$ti-prefix}-accessible:before {
+  content: $ti-icon-accessible;
+}
+.#{$ti-prefix}-ad:before {
+  content: $ti-icon-ad;
+}
+.#{$ti-prefix}-ad-circle:before {
+  content: $ti-icon-ad-circle;
+}
+.#{$ti-prefix}-adjustments:before {
+  content: $ti-icon-adjustments;
+}
+.#{$ti-prefix}-affiliate:before {
+  content: $ti-icon-affiliate;
+}
+.#{$ti-prefix}-alarm:before {
+  content: $ti-icon-alarm;
+}
+.#{$ti-prefix}-alarm-minus:before {
+  content: $ti-icon-alarm-minus;
+}
+.#{$ti-prefix}-alarm-plus:before {
+  content: $ti-icon-alarm-plus;
+}
+.#{$ti-prefix}-alarm-snooze:before {
+  content: $ti-icon-alarm-snooze;
+}
+.#{$ti-prefix}-alert-circle:before {
+  content: $ti-icon-alert-circle;
+}
+.#{$ti-prefix}-alert-hexagon:before {
+  content: $ti-icon-alert-hexagon;
+}
+.#{$ti-prefix}-alert-octagon:before {
+  content: $ti-icon-alert-octagon;
+}
+.#{$ti-prefix}-alert-square:before {
+  content: $ti-icon-alert-square;
+}
+.#{$ti-prefix}-alert-square-rounded:before {
+  content: $ti-icon-alert-square-rounded;
+}
+.#{$ti-prefix}-alert-triangle:before {
+  content: $ti-icon-alert-triangle;
+}
+.#{$ti-prefix}-alien:before {
+  content: $ti-icon-alien;
+}
+.#{$ti-prefix}-align-box-bottom-center:before {
+  content: $ti-icon-align-box-bottom-center;
+}
+.#{$ti-prefix}-align-box-bottom-left:before {
+  content: $ti-icon-align-box-bottom-left;
+}
+.#{$ti-prefix}-align-box-bottom-right:before {
+  content: $ti-icon-align-box-bottom-right;
+}
+.#{$ti-prefix}-align-box-center-middle:before {
+  content: $ti-icon-align-box-center-middle;
+}
+.#{$ti-prefix}-align-box-left-bottom:before {
+  content: $ti-icon-align-box-left-bottom;
+}
+.#{$ti-prefix}-align-box-left-middle:before {
+  content: $ti-icon-align-box-left-middle;
+}
+.#{$ti-prefix}-align-box-left-top:before {
+  content: $ti-icon-align-box-left-top;
+}
+.#{$ti-prefix}-align-box-right-bottom:before {
+  content: $ti-icon-align-box-right-bottom;
+}
+.#{$ti-prefix}-align-box-right-middle:before {
+  content: $ti-icon-align-box-right-middle;
+}
+.#{$ti-prefix}-align-box-right-top:before {
+  content: $ti-icon-align-box-right-top;
+}
+.#{$ti-prefix}-align-box-top-center:before {
+  content: $ti-icon-align-box-top-center;
+}
+.#{$ti-prefix}-align-box-top-left:before {
+  content: $ti-icon-align-box-top-left;
+}
+.#{$ti-prefix}-align-box-top-right:before {
+  content: $ti-icon-align-box-top-right;
+}
+.#{$ti-prefix}-analyze:before {
+  content: $ti-icon-analyze;
+}
+.#{$ti-prefix}-app-window:before {
+  content: $ti-icon-app-window;
+}
+.#{$ti-prefix}-apps:before {
+  content: $ti-icon-apps;
+}
+.#{$ti-prefix}-archive:before {
+  content: $ti-icon-archive;
+}
+.#{$ti-prefix}-arrow-autofit-content:before {
+  content: $ti-icon-arrow-autofit-content;
+}
+.#{$ti-prefix}-arrow-badge-down:before {
+  content: $ti-icon-arrow-badge-down;
+}
+.#{$ti-prefix}-arrow-badge-left:before {
+  content: $ti-icon-arrow-badge-left;
+}
+.#{$ti-prefix}-arrow-badge-right:before {
+  content: $ti-icon-arrow-badge-right;
+}
+.#{$ti-prefix}-arrow-badge-up:before {
+  content: $ti-icon-arrow-badge-up;
+}
+.#{$ti-prefix}-arrow-big-down:before {
+  content: $ti-icon-arrow-big-down;
+}
+.#{$ti-prefix}-arrow-big-down-line:before {
+  content: $ti-icon-arrow-big-down-line;
+}
+.#{$ti-prefix}-arrow-big-down-lines:before {
+  content: $ti-icon-arrow-big-down-lines;
+}
+.#{$ti-prefix}-arrow-big-left:before {
+  content: $ti-icon-arrow-big-left;
+}
+.#{$ti-prefix}-arrow-big-left-line:before {
+  content: $ti-icon-arrow-big-left-line;
+}
+.#{$ti-prefix}-arrow-big-left-lines:before {
+  content: $ti-icon-arrow-big-left-lines;
+}
+.#{$ti-prefix}-arrow-big-right:before {
+  content: $ti-icon-arrow-big-right;
+}
+.#{$ti-prefix}-arrow-big-right-line:before {
+  content: $ti-icon-arrow-big-right-line;
+}
+.#{$ti-prefix}-arrow-big-right-lines:before {
+  content: $ti-icon-arrow-big-right-lines;
+}
+.#{$ti-prefix}-arrow-big-up:before {
+  content: $ti-icon-arrow-big-up;
+}
+.#{$ti-prefix}-arrow-big-up-line:before {
+  content: $ti-icon-arrow-big-up-line;
+}
+.#{$ti-prefix}-arrow-big-up-lines:before {
+  content: $ti-icon-arrow-big-up-lines;
+}
+.#{$ti-prefix}-artboard:before {
+  content: $ti-icon-artboard;
+}
+.#{$ti-prefix}-article:before {
+  content: $ti-icon-article;
+}
+.#{$ti-prefix}-aspect-ratio:before {
+  content: $ti-icon-aspect-ratio;
+}
+.#{$ti-prefix}-assembly:before {
+  content: $ti-icon-assembly;
+}
+.#{$ti-prefix}-asset:before {
+  content: $ti-icon-asset;
+}
+.#{$ti-prefix}-atom-2:before {
+  content: $ti-icon-atom-2;
+}
+.#{$ti-prefix}-award:before {
+  content: $ti-icon-award;
+}
+.#{$ti-prefix}-baby-carriage:before {
+  content: $ti-icon-baby-carriage;
+}
+.#{$ti-prefix}-backspace:before {
+  content: $ti-icon-backspace;
+}
+.#{$ti-prefix}-badge:before {
+  content: $ti-icon-badge;
+}
+.#{$ti-prefix}-badge-3d:before {
+  content: $ti-icon-badge-3d;
+}
+.#{$ti-prefix}-badge-4k:before {
+  content: $ti-icon-badge-4k;
+}
+.#{$ti-prefix}-badge-8k:before {
+  content: $ti-icon-badge-8k;
+}
+.#{$ti-prefix}-badge-ad:before {
+  content: $ti-icon-badge-ad;
+}
+.#{$ti-prefix}-badge-ar:before {
+  content: $ti-icon-badge-ar;
+}
+.#{$ti-prefix}-badge-cc:before {
+  content: $ti-icon-badge-cc;
+}
+.#{$ti-prefix}-badge-hd:before {
+  content: $ti-icon-badge-hd;
+}
+.#{$ti-prefix}-badge-sd:before {
+  content: $ti-icon-badge-sd;
+}
+.#{$ti-prefix}-badge-tm:before {
+  content: $ti-icon-badge-tm;
+}
+.#{$ti-prefix}-badge-vo:before {
+  content: $ti-icon-badge-vo;
+}
+.#{$ti-prefix}-badge-vr:before {
+  content: $ti-icon-badge-vr;
+}
+.#{$ti-prefix}-badge-wc:before {
+  content: $ti-icon-badge-wc;
+}
+.#{$ti-prefix}-badges:before {
+  content: $ti-icon-badges;
+}
+.#{$ti-prefix}-balloon:before {
+  content: $ti-icon-balloon;
+}
+.#{$ti-prefix}-ballpen:before {
+  content: $ti-icon-ballpen;
+}
+.#{$ti-prefix}-bandage:before {
+  content: $ti-icon-bandage;
+}
+.#{$ti-prefix}-barbell:before {
+  content: $ti-icon-barbell;
+}
+.#{$ti-prefix}-barrier-block:before {
+  content: $ti-icon-barrier-block;
+}
+.#{$ti-prefix}-basket:before {
+  content: $ti-icon-basket;
+}
+.#{$ti-prefix}-bath:before {
+  content: $ti-icon-bath;
+}
+.#{$ti-prefix}-battery:before {
+  content: $ti-icon-battery;
+}
+.#{$ti-prefix}-battery-1:before {
+  content: $ti-icon-battery-1;
+}
+.#{$ti-prefix}-battery-2:before {
+  content: $ti-icon-battery-2;
+}
+.#{$ti-prefix}-battery-3:before {
+  content: $ti-icon-battery-3;
+}
+.#{$ti-prefix}-battery-4:before {
+  content: $ti-icon-battery-4;
+}
+.#{$ti-prefix}-bed:before {
+  content: $ti-icon-bed;
+}
+.#{$ti-prefix}-bed-flat:before {
+  content: $ti-icon-bed-flat;
+}
+.#{$ti-prefix}-beer:before {
+  content: $ti-icon-beer;
+}
+.#{$ti-prefix}-bell:before {
+  content: $ti-icon-bell;
+}
+.#{$ti-prefix}-bell-minus:before {
+  content: $ti-icon-bell-minus;
+}
+.#{$ti-prefix}-bell-plus:before {
+  content: $ti-icon-bell-plus;
+}
+.#{$ti-prefix}-bell-ringing:before {
+  content: $ti-icon-bell-ringing;
+}
+.#{$ti-prefix}-bell-ringing-2:before {
+  content: $ti-icon-bell-ringing-2;
+}
+.#{$ti-prefix}-bell-x:before {
+  content: $ti-icon-bell-x;
+}
+.#{$ti-prefix}-bell-z:before {
+  content: $ti-icon-bell-z;
+}
+.#{$ti-prefix}-biohazard:before {
+  content: $ti-icon-biohazard;
+}
+.#{$ti-prefix}-blade:before {
+  content: $ti-icon-blade;
+}
+.#{$ti-prefix}-bomb:before {
+  content: $ti-icon-bomb;
+}
+.#{$ti-prefix}-bone:before {
+  content: $ti-icon-bone;
+}
+.#{$ti-prefix}-book:before {
+  content: $ti-icon-book;
+}
+.#{$ti-prefix}-bookmark:before {
+  content: $ti-icon-bookmark;
+}
+.#{$ti-prefix}-bookmarks:before {
+  content: $ti-icon-bookmarks;
+}
+.#{$ti-prefix}-boom:before {
+  content: $ti-icon-boom;
+}
+.#{$ti-prefix}-bottle:before {
+  content: $ti-icon-bottle;
+}
+.#{$ti-prefix}-bounce-left:before {
+  content: $ti-icon-bounce-left;
+}
+.#{$ti-prefix}-bounce-right:before {
+  content: $ti-icon-bounce-right;
+}
+.#{$ti-prefix}-bow:before {
+  content: $ti-icon-bow;
+}
+.#{$ti-prefix}-bowl:before {
+  content: $ti-icon-bowl;
+}
+.#{$ti-prefix}-bowl-chopsticks:before {
+  content: $ti-icon-bowl-chopsticks;
+}
+.#{$ti-prefix}-bowl-spoon:before {
+  content: $ti-icon-bowl-spoon;
+}
+.#{$ti-prefix}-box-align-bottom:before {
+  content: $ti-icon-box-align-bottom;
+}
+.#{$ti-prefix}-box-align-bottom-left:before {
+  content: $ti-icon-box-align-bottom-left;
+}
+.#{$ti-prefix}-box-align-bottom-right:before {
+  content: $ti-icon-box-align-bottom-right;
+}
+.#{$ti-prefix}-box-align-left:before {
+  content: $ti-icon-box-align-left;
+}
+.#{$ti-prefix}-box-align-right:before {
+  content: $ti-icon-box-align-right;
+}
+.#{$ti-prefix}-box-align-top:before {
+  content: $ti-icon-box-align-top;
+}
+.#{$ti-prefix}-box-align-top-left:before {
+  content: $ti-icon-box-align-top-left;
+}
+.#{$ti-prefix}-box-align-top-right:before {
+  content: $ti-icon-box-align-top-right;
+}
+.#{$ti-prefix}-brand-apple:before {
+  content: $ti-icon-brand-apple;
+}
+.#{$ti-prefix}-brand-discord:before {
+  content: $ti-icon-brand-discord;
+}
+.#{$ti-prefix}-brand-dribbble:before {
+  content: $ti-icon-brand-dribbble;
+}
+.#{$ti-prefix}-brand-facebook:before {
+  content: $ti-icon-brand-facebook;
+}
+.#{$ti-prefix}-brand-github:before {
+  content: $ti-icon-brand-github;
+}
+.#{$ti-prefix}-brand-google:before {
+  content: $ti-icon-brand-google;
+}
+.#{$ti-prefix}-brand-patreon:before {
+  content: $ti-icon-brand-patreon;
+}
+.#{$ti-prefix}-brand-paypal:before {
+  content: $ti-icon-brand-paypal;
+}
+.#{$ti-prefix}-brand-spotify:before {
+  content: $ti-icon-brand-spotify;
+}
+.#{$ti-prefix}-brand-tiktok:before {
+  content: $ti-icon-brand-tiktok;
+}
+.#{$ti-prefix}-brand-twitter:before {
+  content: $ti-icon-brand-twitter;
+}
+.#{$ti-prefix}-brand-x:before {
+  content: $ti-icon-brand-x;
+}
+.#{$ti-prefix}-brand-youtube:before {
+  content: $ti-icon-brand-youtube;
+}
+.#{$ti-prefix}-bread:before {
+  content: $ti-icon-bread;
+}
+.#{$ti-prefix}-briefcase:before {
+  content: $ti-icon-briefcase;
+}
+.#{$ti-prefix}-briefcase-2:before {
+  content: $ti-icon-briefcase-2;
+}
+.#{$ti-prefix}-brightness:before {
+  content: $ti-icon-brightness;
+}
+.#{$ti-prefix}-brightness-auto:before {
+  content: $ti-icon-brightness-auto;
+}
+.#{$ti-prefix}-brightness-down:before {
+  content: $ti-icon-brightness-down;
+}
+.#{$ti-prefix}-brightness-up:before {
+  content: $ti-icon-brightness-up;
+}
+.#{$ti-prefix}-bug:before {
+  content: $ti-icon-bug;
+}
+.#{$ti-prefix}-building-broadcast-tower:before {
+  content: $ti-icon-building-broadcast-tower;
+}
+.#{$ti-prefix}-bulb:before {
+  content: $ti-icon-bulb;
+}
+.#{$ti-prefix}-cactus:before {
+  content: $ti-icon-cactus;
+}
+.#{$ti-prefix}-calculator:before {
+  content: $ti-icon-calculator;
+}
+.#{$ti-prefix}-calendar:before {
+  content: $ti-icon-calendar;
+}
+.#{$ti-prefix}-camera:before {
+  content: $ti-icon-camera;
+}
+.#{$ti-prefix}-campfire:before {
+  content: $ti-icon-campfire;
+}
+.#{$ti-prefix}-candle:before {
+  content: $ti-icon-candle;
+}
+.#{$ti-prefix}-capsule:before {
+  content: $ti-icon-capsule;
+}
+.#{$ti-prefix}-capsule-horizontal:before {
+  content: $ti-icon-capsule-horizontal;
+}
+.#{$ti-prefix}-capture:before {
+  content: $ti-icon-capture;
+}
+.#{$ti-prefix}-cards:before {
+  content: $ti-icon-cards;
+}
+.#{$ti-prefix}-caret-down:before {
+  content: $ti-icon-caret-down;
+}
+.#{$ti-prefix}-caret-left:before {
+  content: $ti-icon-caret-left;
+}
+.#{$ti-prefix}-caret-left-right:before {
+  content: $ti-icon-caret-left-right;
+}
+.#{$ti-prefix}-caret-right:before {
+  content: $ti-icon-caret-right;
+}
+.#{$ti-prefix}-caret-up:before {
+  content: $ti-icon-caret-up;
+}
+.#{$ti-prefix}-caret-up-down:before {
+  content: $ti-icon-caret-up-down;
+}
+.#{$ti-prefix}-carousel-horizontal:before {
+  content: $ti-icon-carousel-horizontal;
+}
+.#{$ti-prefix}-carousel-vertical:before {
+  content: $ti-icon-carousel-vertical;
+}
+.#{$ti-prefix}-cash-banknote:before {
+  content: $ti-icon-cash-banknote;
+}
+.#{$ti-prefix}-category:before {
+  content: $ti-icon-category;
+}
+.#{$ti-prefix}-chart-area:before {
+  content: $ti-icon-chart-area;
+}
+.#{$ti-prefix}-chart-area-line:before {
+  content: $ti-icon-chart-area-line;
+}
+.#{$ti-prefix}-chart-bubble:before {
+  content: $ti-icon-chart-bubble;
+}
+.#{$ti-prefix}-chart-candle:before {
+  content: $ti-icon-chart-candle;
+}
+.#{$ti-prefix}-chart-donut:before {
+  content: $ti-icon-chart-donut;
+}
+.#{$ti-prefix}-chart-dots:before {
+  content: $ti-icon-chart-dots;
+}
+.#{$ti-prefix}-chart-grid-dots:before {
+  content: $ti-icon-chart-grid-dots;
+}
+.#{$ti-prefix}-chart-pie:before {
+  content: $ti-icon-chart-pie;
+}
+.#{$ti-prefix}-cherry:before {
+  content: $ti-icon-cherry;
+}
+.#{$ti-prefix}-chess:before {
+  content: $ti-icon-chess;
+}
+.#{$ti-prefix}-chess-bishop:before {
+  content: $ti-icon-chess-bishop;
+}
+.#{$ti-prefix}-chess-king:before {
+  content: $ti-icon-chess-king;
+}
+.#{$ti-prefix}-chess-knight:before {
+  content: $ti-icon-chess-knight;
+}
+.#{$ti-prefix}-chess-queen:before {
+  content: $ti-icon-chess-queen;
+}
+.#{$ti-prefix}-chess-rook:before {
+  content: $ti-icon-chess-rook;
+}
+.#{$ti-prefix}-circle:before {
+  content: $ti-icon-circle;
+}
+.#{$ti-prefix}-circle-arrow-down:before {
+  content: $ti-icon-circle-arrow-down;
+}
+.#{$ti-prefix}-circle-arrow-down-left:before {
+  content: $ti-icon-circle-arrow-down-left;
+}
+.#{$ti-prefix}-circle-arrow-down-right:before {
+  content: $ti-icon-circle-arrow-down-right;
+}
+.#{$ti-prefix}-circle-arrow-left:before {
+  content: $ti-icon-circle-arrow-left;
+}
+.#{$ti-prefix}-circle-arrow-right:before {
+  content: $ti-icon-circle-arrow-right;
+}
+.#{$ti-prefix}-circle-arrow-up:before {
+  content: $ti-icon-circle-arrow-up;
+}
+.#{$ti-prefix}-circle-arrow-up-left:before {
+  content: $ti-icon-circle-arrow-up-left;
+}
+.#{$ti-prefix}-circle-arrow-up-right:before {
+  content: $ti-icon-circle-arrow-up-right;
+}
+.#{$ti-prefix}-circle-check:before {
+  content: $ti-icon-circle-check;
+}
+.#{$ti-prefix}-circle-dot:before {
+  content: $ti-icon-circle-dot;
+}
+.#{$ti-prefix}-circle-key:before {
+  content: $ti-icon-circle-key;
+}
+.#{$ti-prefix}-circle-letter-a:before {
+  content: $ti-icon-circle-letter-a;
+}
+.#{$ti-prefix}-circle-letter-b:before {
+  content: $ti-icon-circle-letter-b;
+}
+.#{$ti-prefix}-circle-letter-c:before {
+  content: $ti-icon-circle-letter-c;
+}
+.#{$ti-prefix}-circle-letter-d:before {
+  content: $ti-icon-circle-letter-d;
+}
+.#{$ti-prefix}-circle-letter-e:before {
+  content: $ti-icon-circle-letter-e;
+}
+.#{$ti-prefix}-circle-letter-f:before {
+  content: $ti-icon-circle-letter-f;
+}
+.#{$ti-prefix}-circle-letter-g:before {
+  content: $ti-icon-circle-letter-g;
+}
+.#{$ti-prefix}-circle-letter-h:before {
+  content: $ti-icon-circle-letter-h;
+}
+.#{$ti-prefix}-circle-letter-i:before {
+  content: $ti-icon-circle-letter-i;
+}
+.#{$ti-prefix}-circle-letter-j:before {
+  content: $ti-icon-circle-letter-j;
+}
+.#{$ti-prefix}-circle-letter-k:before {
+  content: $ti-icon-circle-letter-k;
+}
+.#{$ti-prefix}-circle-letter-l:before {
+  content: $ti-icon-circle-letter-l;
+}
+.#{$ti-prefix}-circle-letter-m:before {
+  content: $ti-icon-circle-letter-m;
+}
+.#{$ti-prefix}-circle-letter-n:before {
+  content: $ti-icon-circle-letter-n;
+}
+.#{$ti-prefix}-circle-letter-o:before {
+  content: $ti-icon-circle-letter-o;
+}
+.#{$ti-prefix}-circle-letter-p:before {
+  content: $ti-icon-circle-letter-p;
+}
+.#{$ti-prefix}-circle-letter-q:before {
+  content: $ti-icon-circle-letter-q;
+}
+.#{$ti-prefix}-circle-letter-r:before {
+  content: $ti-icon-circle-letter-r;
+}
+.#{$ti-prefix}-circle-letter-s:before {
+  content: $ti-icon-circle-letter-s;
+}
+.#{$ti-prefix}-circle-letter-t:before {
+  content: $ti-icon-circle-letter-t;
+}
+.#{$ti-prefix}-circle-letter-u:before {
+  content: $ti-icon-circle-letter-u;
+}
+.#{$ti-prefix}-circle-letter-v:before {
+  content: $ti-icon-circle-letter-v;
+}
+.#{$ti-prefix}-circle-letter-w:before {
+  content: $ti-icon-circle-letter-w;
+}
+.#{$ti-prefix}-circle-letter-x:before {
+  content: $ti-icon-circle-letter-x;
+}
+.#{$ti-prefix}-circle-letter-y:before {
+  content: $ti-icon-circle-letter-y;
+}
+.#{$ti-prefix}-circle-letter-z:before {
+  content: $ti-icon-circle-letter-z;
+}
+.#{$ti-prefix}-circle-number-0:before {
+  content: $ti-icon-circle-number-0;
+}
+.#{$ti-prefix}-circle-number-1:before {
+  content: $ti-icon-circle-number-1;
+}
+.#{$ti-prefix}-circle-number-2:before {
+  content: $ti-icon-circle-number-2;
+}
+.#{$ti-prefix}-circle-number-3:before {
+  content: $ti-icon-circle-number-3;
+}
+.#{$ti-prefix}-circle-number-4:before {
+  content: $ti-icon-circle-number-4;
+}
+.#{$ti-prefix}-circle-number-5:before {
+  content: $ti-icon-circle-number-5;
+}
+.#{$ti-prefix}-circle-number-6:before {
+  content: $ti-icon-circle-number-6;
+}
+.#{$ti-prefix}-circle-number-7:before {
+  content: $ti-icon-circle-number-7;
+}
+.#{$ti-prefix}-circle-number-8:before {
+  content: $ti-icon-circle-number-8;
+}
+.#{$ti-prefix}-circle-number-9:before {
+  content: $ti-icon-circle-number-9;
+}
+.#{$ti-prefix}-circle-x:before {
+  content: $ti-icon-circle-x;
+}
+.#{$ti-prefix}-circles:before {
+  content: $ti-icon-circles;
+}
+.#{$ti-prefix}-clock:before {
+  content: $ti-icon-clock;
+}
+.#{$ti-prefix}-clock-hour-1:before {
+  content: $ti-icon-clock-hour-1;
+}
+.#{$ti-prefix}-clock-hour-10:before {
+  content: $ti-icon-clock-hour-10;
+}
+.#{$ti-prefix}-clock-hour-11:before {
+  content: $ti-icon-clock-hour-11;
+}
+.#{$ti-prefix}-clock-hour-12:before {
+  content: $ti-icon-clock-hour-12;
+}
+.#{$ti-prefix}-clock-hour-2:before {
+  content: $ti-icon-clock-hour-2;
+}
+.#{$ti-prefix}-clock-hour-3:before {
+  content: $ti-icon-clock-hour-3;
+}
+.#{$ti-prefix}-clock-hour-4:before {
+  content: $ti-icon-clock-hour-4;
+}
+.#{$ti-prefix}-clock-hour-5:before {
+  content: $ti-icon-clock-hour-5;
+}
+.#{$ti-prefix}-clock-hour-6:before {
+  content: $ti-icon-clock-hour-6;
+}
+.#{$ti-prefix}-clock-hour-7:before {
+  content: $ti-icon-clock-hour-7;
+}
+.#{$ti-prefix}-clock-hour-8:before {
+  content: $ti-icon-clock-hour-8;
+}
+.#{$ti-prefix}-clock-hour-9:before {
+  content: $ti-icon-clock-hour-9;
+}
+.#{$ti-prefix}-cloud:before {
+  content: $ti-icon-cloud;
+}
+.#{$ti-prefix}-clubs:before {
+  content: $ti-icon-clubs;
+}
+.#{$ti-prefix}-coin:before {
+  content: $ti-icon-coin;
+}
+.#{$ti-prefix}-coin-bitcoin:before {
+  content: $ti-icon-coin-bitcoin;
+}
+.#{$ti-prefix}-coin-euro:before {
+  content: $ti-icon-coin-euro;
+}
+.#{$ti-prefix}-coin-monero:before {
+  content: $ti-icon-coin-monero;
+}
+.#{$ti-prefix}-coin-pound:before {
+  content: $ti-icon-coin-pound;
+}
+.#{$ti-prefix}-coin-rupee:before {
+  content: $ti-icon-coin-rupee;
+}
+.#{$ti-prefix}-coin-taka:before {
+  content: $ti-icon-coin-taka;
+}
+.#{$ti-prefix}-coin-yen:before {
+  content: $ti-icon-coin-yen;
+}
+.#{$ti-prefix}-coin-yuan:before {
+  content: $ti-icon-coin-yuan;
+}
+.#{$ti-prefix}-compass:before {
+  content: $ti-icon-compass;
+}
+.#{$ti-prefix}-cone:before {
+  content: $ti-icon-cone;
+}
+.#{$ti-prefix}-cone-2:before {
+  content: $ti-icon-cone-2;
+}
+.#{$ti-prefix}-contrast:before {
+  content: $ti-icon-contrast;
+}
+.#{$ti-prefix}-contrast-2:before {
+  content: $ti-icon-contrast-2;
+}
+.#{$ti-prefix}-cookie:before {
+  content: $ti-icon-cookie;
+}
+.#{$ti-prefix}-cookie-man:before {
+  content: $ti-icon-cookie-man;
+}
+.#{$ti-prefix}-copy-check:before {
+  content: $ti-icon-copy-check;
+}
+.#{$ti-prefix}-copy-minus:before {
+  content: $ti-icon-copy-minus;
+}
+.#{$ti-prefix}-copy-plus:before {
+  content: $ti-icon-copy-plus;
+}
+.#{$ti-prefix}-copy-x:before {
+  content: $ti-icon-copy-x;
+}
+.#{$ti-prefix}-copyleft:before {
+  content: $ti-icon-copyleft;
+}
+.#{$ti-prefix}-copyright:before {
+  content: $ti-icon-copyright;
+}
+.#{$ti-prefix}-credit-card:before {
+  content: $ti-icon-credit-card;
+}
+.#{$ti-prefix}-crop-1-1:before {
+  content: $ti-icon-crop-1-1;
+}
+.#{$ti-prefix}-crop-16-9:before {
+  content: $ti-icon-crop-16-9;
+}
+.#{$ti-prefix}-crop-3-2:before {
+  content: $ti-icon-crop-3-2;
+}
+.#{$ti-prefix}-crop-5-4:before {
+  content: $ti-icon-crop-5-4;
+}
+.#{$ti-prefix}-crop-7-5:before {
+  content: $ti-icon-crop-7-5;
+}
+.#{$ti-prefix}-crop-landscape:before {
+  content: $ti-icon-crop-landscape;
+}
+.#{$ti-prefix}-crop-portrait:before {
+  content: $ti-icon-crop-portrait;
+}
+.#{$ti-prefix}-cross:before {
+  content: $ti-icon-cross;
+}
+.#{$ti-prefix}-device-heart-monitor:before {
+  content: $ti-icon-device-heart-monitor;
+}
+.#{$ti-prefix}-device-mobile:before {
+  content: $ti-icon-device-mobile;
+}
+.#{$ti-prefix}-device-tablet:before {
+  content: $ti-icon-device-tablet;
+}
+.#{$ti-prefix}-dialpad:before {
+  content: $ti-icon-dialpad;
+}
+.#{$ti-prefix}-diamond:before {
+  content: $ti-icon-diamond;
+}
+.#{$ti-prefix}-diamonds:before {
+  content: $ti-icon-diamonds;
+}
+.#{$ti-prefix}-dice:before {
+  content: $ti-icon-dice;
+}
+.#{$ti-prefix}-dice-1:before {
+  content: $ti-icon-dice-1;
+}
+.#{$ti-prefix}-dice-2:before {
+  content: $ti-icon-dice-2;
+}
+.#{$ti-prefix}-dice-3:before {
+  content: $ti-icon-dice-3;
+}
+.#{$ti-prefix}-dice-4:before {
+  content: $ti-icon-dice-4;
+}
+.#{$ti-prefix}-dice-5:before {
+  content: $ti-icon-dice-5;
+}
+.#{$ti-prefix}-dice-6:before {
+  content: $ti-icon-dice-6;
+}
+.#{$ti-prefix}-direction-sign:before {
+  content: $ti-icon-direction-sign;
+}
+.#{$ti-prefix}-droplet:before {
+  content: $ti-icon-droplet;
+}
+.#{$ti-prefix}-droplet-half:before {
+  content: $ti-icon-droplet-half;
+}
+.#{$ti-prefix}-droplet-half-2:before {
+  content: $ti-icon-droplet-half-2;
+}
+.#{$ti-prefix}-egg:before {
+  content: $ti-icon-egg;
+}
+.#{$ti-prefix}-eye:before {
+  content: $ti-icon-eye;
+}
+.#{$ti-prefix}-file:before {
+  content: $ti-icon-file;
+}
+.#{$ti-prefix}-file-x:before {
+  content: $ti-icon-file-x;
+}
+.#{$ti-prefix}-filter:before {
+  content: $ti-icon-filter;
+}
+.#{$ti-prefix}-flag:before {
+  content: $ti-icon-flag;
+}
+.#{$ti-prefix}-flag-2:before {
+  content: $ti-icon-flag-2;
+}
+.#{$ti-prefix}-flag-3:before {
+  content: $ti-icon-flag-3;
+}
+.#{$ti-prefix}-flask:before {
+  content: $ti-icon-flask;
+}
+.#{$ti-prefix}-flask-2:before {
+  content: $ti-icon-flask-2;
+}
+.#{$ti-prefix}-folder:before {
+  content: $ti-icon-folder;
+}
+.#{$ti-prefix}-forbid:before {
+  content: $ti-icon-forbid;
+}
+.#{$ti-prefix}-forbid-2:before {
+  content: $ti-icon-forbid-2;
+}
+.#{$ti-prefix}-fountain:before {
+  content: $ti-icon-fountain;
+}
+.#{$ti-prefix}-function:before {
+  content: $ti-icon-function;
+}
+.#{$ti-prefix}-gauge:before {
+  content: $ti-icon-gauge;
+}
+.#{$ti-prefix}-ghost:before {
+  content: $ti-icon-ghost;
+}
+.#{$ti-prefix}-ghost-2:before {
+  content: $ti-icon-ghost-2;
+}
+.#{$ti-prefix}-gift:before {
+  content: $ti-icon-gift;
+}
+.#{$ti-prefix}-gift-card:before {
+  content: $ti-icon-gift-card;
+}
+.#{$ti-prefix}-glass-full:before {
+  content: $ti-icon-glass-full;
+}
+.#{$ti-prefix}-globe:before {
+  content: $ti-icon-globe;
+}
+.#{$ti-prefix}-gps:before {
+  content: $ti-icon-gps;
+}
+.#{$ti-prefix}-graph:before {
+  content: $ti-icon-graph;
+}
+.#{$ti-prefix}-guitar-pick:before {
+  content: $ti-icon-guitar-pick;
+}
+.#{$ti-prefix}-headphones:before {
+  content: $ti-icon-headphones;
+}
+.#{$ti-prefix}-heart:before {
+  content: $ti-icon-heart;
+}
+.#{$ti-prefix}-help-circle:before {
+  content: $ti-icon-help-circle;
+}
+.#{$ti-prefix}-help-hexagon:before {
+  content: $ti-icon-help-hexagon;
+}
+.#{$ti-prefix}-help-octagon:before {
+  content: $ti-icon-help-octagon;
+}
+.#{$ti-prefix}-help-square:before {
+  content: $ti-icon-help-square;
+}
+.#{$ti-prefix}-help-square-rounded:before {
+  content: $ti-icon-help-square-rounded;
+}
+.#{$ti-prefix}-help-triangle:before {
+  content: $ti-icon-help-triangle;
+}
+.#{$ti-prefix}-hexagon:before {
+  content: $ti-icon-hexagon;
+}
+.#{$ti-prefix}-hexagon-letter-a:before {
+  content: $ti-icon-hexagon-letter-a;
+}
+.#{$ti-prefix}-hexagon-letter-b:before {
+  content: $ti-icon-hexagon-letter-b;
+}
+.#{$ti-prefix}-hexagon-letter-c:before {
+  content: $ti-icon-hexagon-letter-c;
+}
+.#{$ti-prefix}-hexagon-letter-d:before {
+  content: $ti-icon-hexagon-letter-d;
+}
+.#{$ti-prefix}-hexagon-letter-e:before {
+  content: $ti-icon-hexagon-letter-e;
+}
+.#{$ti-prefix}-hexagon-letter-f:before {
+  content: $ti-icon-hexagon-letter-f;
+}
+.#{$ti-prefix}-hexagon-letter-g:before {
+  content: $ti-icon-hexagon-letter-g;
+}
+.#{$ti-prefix}-hexagon-letter-h:before {
+  content: $ti-icon-hexagon-letter-h;
+}
+.#{$ti-prefix}-hexagon-letter-i:before {
+  content: $ti-icon-hexagon-letter-i;
+}
+.#{$ti-prefix}-hexagon-letter-j:before {
+  content: $ti-icon-hexagon-letter-j;
+}
+.#{$ti-prefix}-hexagon-letter-k:before {
+  content: $ti-icon-hexagon-letter-k;
+}
+.#{$ti-prefix}-hexagon-letter-l:before {
+  content: $ti-icon-hexagon-letter-l;
+}
+.#{$ti-prefix}-hexagon-letter-m:before {
+  content: $ti-icon-hexagon-letter-m;
+}
+.#{$ti-prefix}-hexagon-letter-n:before {
+  content: $ti-icon-hexagon-letter-n;
+}
+.#{$ti-prefix}-hexagon-letter-o:before {
+  content: $ti-icon-hexagon-letter-o;
+}
+.#{$ti-prefix}-hexagon-letter-p:before {
+  content: $ti-icon-hexagon-letter-p;
+}
+.#{$ti-prefix}-hexagon-letter-q:before {
+  content: $ti-icon-hexagon-letter-q;
+}
+.#{$ti-prefix}-hexagon-letter-r:before {
+  content: $ti-icon-hexagon-letter-r;
+}
+.#{$ti-prefix}-hexagon-letter-s:before {
+  content: $ti-icon-hexagon-letter-s;
+}
+.#{$ti-prefix}-hexagon-letter-t:before {
+  content: $ti-icon-hexagon-letter-t;
+}
+.#{$ti-prefix}-hexagon-letter-u:before {
+  content: $ti-icon-hexagon-letter-u;
+}
+.#{$ti-prefix}-hexagon-letter-v:before {
+  content: $ti-icon-hexagon-letter-v;
+}
+.#{$ti-prefix}-hexagon-letter-w:before {
+  content: $ti-icon-hexagon-letter-w;
+}
+.#{$ti-prefix}-hexagon-letter-x:before {
+  content: $ti-icon-hexagon-letter-x;
+}
+.#{$ti-prefix}-hexagon-letter-y:before {
+  content: $ti-icon-hexagon-letter-y;
+}
+.#{$ti-prefix}-hexagon-letter-z:before {
+  content: $ti-icon-hexagon-letter-z;
+}
+.#{$ti-prefix}-hexagon-minus:before {
+  content: $ti-icon-hexagon-minus;
+}
+.#{$ti-prefix}-hexagon-number-0:before {
+  content: $ti-icon-hexagon-number-0;
+}
+.#{$ti-prefix}-hexagon-number-1:before {
+  content: $ti-icon-hexagon-number-1;
+}
+.#{$ti-prefix}-hexagon-number-2:before {
+  content: $ti-icon-hexagon-number-2;
+}
+.#{$ti-prefix}-hexagon-number-3:before {
+  content: $ti-icon-hexagon-number-3;
+}
+.#{$ti-prefix}-hexagon-number-4:before {
+  content: $ti-icon-hexagon-number-4;
+}
+.#{$ti-prefix}-hexagon-number-5:before {
+  content: $ti-icon-hexagon-number-5;
+}
+.#{$ti-prefix}-hexagon-number-6:before {
+  content: $ti-icon-hexagon-number-6;
+}
+.#{$ti-prefix}-hexagon-number-7:before {
+  content: $ti-icon-hexagon-number-7;
+}
+.#{$ti-prefix}-hexagon-number-8:before {
+  content: $ti-icon-hexagon-number-8;
+}
+.#{$ti-prefix}-hexagon-number-9:before {
+  content: $ti-icon-hexagon-number-9;
+}
+.#{$ti-prefix}-hexagon-plus:before {
+  content: $ti-icon-hexagon-plus;
+}
+.#{$ti-prefix}-home:before {
+  content: $ti-icon-home;
+}
+.#{$ti-prefix}-hourglass:before {
+  content: $ti-icon-hourglass;
+}
+.#{$ti-prefix}-info-circle:before {
+  content: $ti-icon-info-circle;
+}
+.#{$ti-prefix}-info-hexagon:before {
+  content: $ti-icon-info-hexagon;
+}
+.#{$ti-prefix}-info-octagon:before {
+  content: $ti-icon-info-octagon;
+}
+.#{$ti-prefix}-info-square:before {
+  content: $ti-icon-info-square;
+}
+.#{$ti-prefix}-info-square-rounded:before {
+  content: $ti-icon-info-square-rounded;
+}
+.#{$ti-prefix}-info-triangle:before {
+  content: $ti-icon-info-triangle;
+}
+.#{$ti-prefix}-inner-shadow-bottom:before {
+  content: $ti-icon-inner-shadow-bottom;
+}
+.#{$ti-prefix}-inner-shadow-bottom-left:before {
+  content: $ti-icon-inner-shadow-bottom-left;
+}
+.#{$ti-prefix}-inner-shadow-bottom-right:before {
+  content: $ti-icon-inner-shadow-bottom-right;
+}
+.#{$ti-prefix}-inner-shadow-left:before {
+  content: $ti-icon-inner-shadow-left;
+}
+.#{$ti-prefix}-inner-shadow-right:before {
+  content: $ti-icon-inner-shadow-right;
+}
+.#{$ti-prefix}-inner-shadow-top:before {
+  content: $ti-icon-inner-shadow-top;
+}
+.#{$ti-prefix}-inner-shadow-top-left:before {
+  content: $ti-icon-inner-shadow-top-left;
+}
+.#{$ti-prefix}-inner-shadow-top-right:before {
+  content: $ti-icon-inner-shadow-top-right;
+}
+.#{$ti-prefix}-ironing:before {
+  content: $ti-icon-ironing;
+}
+.#{$ti-prefix}-jetpack:before {
+  content: $ti-icon-jetpack;
+}
+.#{$ti-prefix}-jewish-star:before {
+  content: $ti-icon-jewish-star;
+}
+.#{$ti-prefix}-key:before {
+  content: $ti-icon-key;
+}
+.#{$ti-prefix}-keyframe:before {
+  content: $ti-icon-keyframe;
+}
+.#{$ti-prefix}-keyframe-align-center:before {
+  content: $ti-icon-keyframe-align-center;
+}
+.#{$ti-prefix}-keyframe-align-horizontal:before {
+  content: $ti-icon-keyframe-align-horizontal;
+}
+.#{$ti-prefix}-keyframe-align-vertical:before {
+  content: $ti-icon-keyframe-align-vertical;
+}
+.#{$ti-prefix}-keyframes:before {
+  content: $ti-icon-keyframes;
+}
+.#{$ti-prefix}-layout:before {
+  content: $ti-icon-layout;
+}
+.#{$ti-prefix}-layout-2:before {
+  content: $ti-icon-layout-2;
+}
+.#{$ti-prefix}-layout-align-bottom:before {
+  content: $ti-icon-layout-align-bottom;
+}
+.#{$ti-prefix}-layout-align-center:before {
+  content: $ti-icon-layout-align-center;
+}
+.#{$ti-prefix}-layout-align-left:before {
+  content: $ti-icon-layout-align-left;
+}
+.#{$ti-prefix}-layout-align-middle:before {
+  content: $ti-icon-layout-align-middle;
+}
+.#{$ti-prefix}-layout-align-right:before {
+  content: $ti-icon-layout-align-right;
+}
+.#{$ti-prefix}-layout-align-top:before {
+  content: $ti-icon-layout-align-top;
+}
+.#{$ti-prefix}-layout-bottombar:before {
+  content: $ti-icon-layout-bottombar;
+}
+.#{$ti-prefix}-layout-bottombar-collapse:before {
+  content: $ti-icon-layout-bottombar-collapse;
+}
+.#{$ti-prefix}-layout-bottombar-expand:before {
+  content: $ti-icon-layout-bottombar-expand;
+}
+.#{$ti-prefix}-layout-cards:before {
+  content: $ti-icon-layout-cards;
+}
+.#{$ti-prefix}-layout-dashboard:before {
+  content: $ti-icon-layout-dashboard;
+}
+.#{$ti-prefix}-layout-distribute-horizontal:before {
+  content: $ti-icon-layout-distribute-horizontal;
+}
+.#{$ti-prefix}-layout-distribute-vertical:before {
+  content: $ti-icon-layout-distribute-vertical;
+}
+.#{$ti-prefix}-layout-grid:before {
+  content: $ti-icon-layout-grid;
+}
+.#{$ti-prefix}-layout-kanban:before {
+  content: $ti-icon-layout-kanban;
+}
+.#{$ti-prefix}-layout-list:before {
+  content: $ti-icon-layout-list;
+}
+.#{$ti-prefix}-layout-navbar:before {
+  content: $ti-icon-layout-navbar;
+}
+.#{$ti-prefix}-layout-navbar-collapse:before {
+  content: $ti-icon-layout-navbar-collapse;
+}
+.#{$ti-prefix}-layout-navbar-expand:before {
+  content: $ti-icon-layout-navbar-expand;
+}
+.#{$ti-prefix}-layout-sidebar:before {
+  content: $ti-icon-layout-sidebar;
+}
+.#{$ti-prefix}-layout-sidebar-left-collapse:before {
+  content: $ti-icon-layout-sidebar-left-collapse;
+}
+.#{$ti-prefix}-layout-sidebar-left-expand:before {
+  content: $ti-icon-layout-sidebar-left-expand;
+}
+.#{$ti-prefix}-layout-sidebar-right:before {
+  content: $ti-icon-layout-sidebar-right;
+}
+.#{$ti-prefix}-layout-sidebar-right-collapse:before {
+  content: $ti-icon-layout-sidebar-right-collapse;
+}
+.#{$ti-prefix}-layout-sidebar-right-expand:before {
+  content: $ti-icon-layout-sidebar-right-expand;
+}
+.#{$ti-prefix}-lego:before {
+  content: $ti-icon-lego;
+}
+.#{$ti-prefix}-location:before {
+  content: $ti-icon-location;
+}
+.#{$ti-prefix}-lock:before {
+  content: $ti-icon-lock;
+}
+.#{$ti-prefix}-lock-square-rounded:before {
+  content: $ti-icon-lock-square-rounded;
+}
+.#{$ti-prefix}-lungs:before {
+  content: $ti-icon-lungs;
+}
+.#{$ti-prefix}-macro:before {
+  content: $ti-icon-macro;
+}
+.#{$ti-prefix}-magnet:before {
+  content: $ti-icon-magnet;
+}
+.#{$ti-prefix}-mail:before {
+  content: $ti-icon-mail;
+}
+.#{$ti-prefix}-mail-opened:before {
+  content: $ti-icon-mail-opened;
+}
+.#{$ti-prefix}-man:before {
+  content: $ti-icon-man;
+}
+.#{$ti-prefix}-manual-gearbox:before {
+  content: $ti-icon-manual-gearbox;
+}
+.#{$ti-prefix}-map-pin:before {
+  content: $ti-icon-map-pin;
+}
+.#{$ti-prefix}-medical-cross:before {
+  content: $ti-icon-medical-cross;
+}
+.#{$ti-prefix}-message-circle-2:before {
+  content: $ti-icon-message-circle-2;
+}
+.#{$ti-prefix}-mickey:before {
+  content: $ti-icon-mickey;
+}
+.#{$ti-prefix}-microphone:before {
+  content: $ti-icon-microphone;
+}
+.#{$ti-prefix}-microwave:before {
+  content: $ti-icon-microwave;
+}
+.#{$ti-prefix}-mood-confuzed:before {
+  content: $ti-icon-mood-confuzed;
+}
+.#{$ti-prefix}-mood-empty:before {
+  content: $ti-icon-mood-empty;
+}
+.#{$ti-prefix}-mood-happy:before {
+  content: $ti-icon-mood-happy;
+}
+.#{$ti-prefix}-mood-kid:before {
+  content: $ti-icon-mood-kid;
+}
+.#{$ti-prefix}-mood-neutral:before {
+  content: $ti-icon-mood-neutral;
+}
+.#{$ti-prefix}-mood-sad:before {
+  content: $ti-icon-mood-sad;
+}
+.#{$ti-prefix}-mood-smile:before {
+  content: $ti-icon-mood-smile;
+}
+.#{$ti-prefix}-moon:before {
+  content: $ti-icon-moon;
+}
+.#{$ti-prefix}-mouse:before {
+  content: $ti-icon-mouse;
+}
+.#{$ti-prefix}-mushroom:before {
+  content: $ti-icon-mushroom;
+}
+.#{$ti-prefix}-navigation:before {
+  content: $ti-icon-navigation;
+}
+.#{$ti-prefix}-octagon:before {
+  content: $ti-icon-octagon;
+}
+.#{$ti-prefix}-oval:before {
+  content: $ti-icon-oval;
+}
+.#{$ti-prefix}-oval-vertical:before {
+  content: $ti-icon-oval-vertical;
+}
+.#{$ti-prefix}-paint:before {
+  content: $ti-icon-paint;
+}
+.#{$ti-prefix}-paw:before {
+  content: $ti-icon-paw;
+}
+.#{$ti-prefix}-pennant:before {
+  content: $ti-icon-pennant;
+}
+.#{$ti-prefix}-pennant-2:before {
+  content: $ti-icon-pennant-2;
+}
+.#{$ti-prefix}-pentagon:before {
+  content: $ti-icon-pentagon;
+}
+.#{$ti-prefix}-phone:before {
+  content: $ti-icon-phone;
+}
+.#{$ti-prefix}-photo:before {
+  content: $ti-icon-photo;
+}
+.#{$ti-prefix}-pin:before {
+  content: $ti-icon-pin;
+}
+.#{$ti-prefix}-pinned:before {
+  content: $ti-icon-pinned;
+}
+.#{$ti-prefix}-player-eject:before {
+  content: $ti-icon-player-eject;
+}
+.#{$ti-prefix}-player-pause:before {
+  content: $ti-icon-player-pause;
+}
+.#{$ti-prefix}-player-play:before {
+  content: $ti-icon-player-play;
+}
+.#{$ti-prefix}-player-record:before {
+  content: $ti-icon-player-record;
+}
+.#{$ti-prefix}-player-skip-back:before {
+  content: $ti-icon-player-skip-back;
+}
+.#{$ti-prefix}-player-skip-forward:before {
+  content: $ti-icon-player-skip-forward;
+}
+.#{$ti-prefix}-player-stop:before {
+  content: $ti-icon-player-stop;
+}
+.#{$ti-prefix}-player-track-next:before {
+  content: $ti-icon-player-track-next;
+}
+.#{$ti-prefix}-player-track-prev:before {
+  content: $ti-icon-player-track-prev;
+}
+.#{$ti-prefix}-point:before {
+  content: $ti-icon-point;
+}
+.#{$ti-prefix}-pointer:before {
+  content: $ti-icon-pointer;
+}
+.#{$ti-prefix}-polaroid:before {
+  content: $ti-icon-polaroid;
+}
+.#{$ti-prefix}-puzzle:before {
+  content: $ti-icon-puzzle;
+}
+.#{$ti-prefix}-radar:before {
+  content: $ti-icon-radar;
+}
+.#{$ti-prefix}-radioactive:before {
+  content: $ti-icon-radioactive;
+}
+.#{$ti-prefix}-rectangle:before {
+  content: $ti-icon-rectangle;
+}
+.#{$ti-prefix}-rectangle-vertical:before {
+  content: $ti-icon-rectangle-vertical;
+}
+.#{$ti-prefix}-relation-many-to-many:before {
+  content: $ti-icon-relation-many-to-many;
+}
+.#{$ti-prefix}-relation-one-to-many:before {
+  content: $ti-icon-relation-one-to-many;
+}
+.#{$ti-prefix}-relation-one-to-one:before {
+  content: $ti-icon-relation-one-to-one;
+}
+.#{$ti-prefix}-replace:before {
+  content: $ti-icon-replace;
+}
+.#{$ti-prefix}-rosette:before {
+  content: $ti-icon-rosette;
+}
+.#{$ti-prefix}-rosette-discount-check:before {
+  content: $ti-icon-rosette-discount-check;
+}
+.#{$ti-prefix}-section:before {
+  content: $ti-icon-section;
+}
+.#{$ti-prefix}-settings:before {
+  content: $ti-icon-settings;
+}
+.#{$ti-prefix}-shield:before {
+  content: $ti-icon-shield;
+}
+.#{$ti-prefix}-shield-check:before {
+  content: $ti-icon-shield-check;
+}
+.#{$ti-prefix}-shield-checkered:before {
+  content: $ti-icon-shield-checkered;
+}
+.#{$ti-prefix}-shield-half:before {
+  content: $ti-icon-shield-half;
+}
+.#{$ti-prefix}-shield-lock:before {
+  content: $ti-icon-shield-lock;
+}
+.#{$ti-prefix}-shirt:before {
+  content: $ti-icon-shirt;
+}
+.#{$ti-prefix}-shopping-cart:before {
+  content: $ti-icon-shopping-cart;
+}
+.#{$ti-prefix}-sign-left:before {
+  content: $ti-icon-sign-left;
+}
+.#{$ti-prefix}-sign-right:before {
+  content: $ti-icon-sign-right;
+}
+.#{$ti-prefix}-soup:before {
+  content: $ti-icon-soup;
+}
+.#{$ti-prefix}-spade:before {
+  content: $ti-icon-spade;
+}
+.#{$ti-prefix}-square:before {
+  content: $ti-icon-square;
+}
+.#{$ti-prefix}-square-arrow-down:before {
+  content: $ti-icon-square-arrow-down;
+}
+.#{$ti-prefix}-square-arrow-left:before {
+  content: $ti-icon-square-arrow-left;
+}
+.#{$ti-prefix}-square-arrow-right:before {
+  content: $ti-icon-square-arrow-right;
+}
+.#{$ti-prefix}-square-arrow-up:before {
+  content: $ti-icon-square-arrow-up;
+}
+.#{$ti-prefix}-square-asterisk:before {
+  content: $ti-icon-square-asterisk;
+}
+.#{$ti-prefix}-square-check:before {
+  content: $ti-icon-square-check;
+}
+.#{$ti-prefix}-square-chevron-down:before {
+  content: $ti-icon-square-chevron-down;
+}
+.#{$ti-prefix}-square-chevron-left:before {
+  content: $ti-icon-square-chevron-left;
+}
+.#{$ti-prefix}-square-chevron-right:before {
+  content: $ti-icon-square-chevron-right;
+}
+.#{$ti-prefix}-square-chevron-up:before {
+  content: $ti-icon-square-chevron-up;
+}
+.#{$ti-prefix}-square-chevrons-down:before {
+  content: $ti-icon-square-chevrons-down;
+}
+.#{$ti-prefix}-square-chevrons-left:before {
+  content: $ti-icon-square-chevrons-left;
+}
+.#{$ti-prefix}-square-chevrons-right:before {
+  content: $ti-icon-square-chevrons-right;
+}
+.#{$ti-prefix}-square-chevrons-up:before {
+  content: $ti-icon-square-chevrons-up;
+}
+.#{$ti-prefix}-square-dot:before {
+  content: $ti-icon-square-dot;
+}
+.#{$ti-prefix}-square-f0:before {
+  content: $ti-icon-square-f0;
+}
+.#{$ti-prefix}-square-f1:before {
+  content: $ti-icon-square-f1;
+}
+.#{$ti-prefix}-square-f2:before {
+  content: $ti-icon-square-f2;
+}
+.#{$ti-prefix}-square-f3:before {
+  content: $ti-icon-square-f3;
+}
+.#{$ti-prefix}-square-f4:before {
+  content: $ti-icon-square-f4;
+}
+.#{$ti-prefix}-square-f5:before {
+  content: $ti-icon-square-f5;
+}
+.#{$ti-prefix}-square-f6:before {
+  content: $ti-icon-square-f6;
+}
+.#{$ti-prefix}-square-f7:before {
+  content: $ti-icon-square-f7;
+}
+.#{$ti-prefix}-square-f8:before {
+  content: $ti-icon-square-f8;
+}
+.#{$ti-prefix}-square-f9:before {
+  content: $ti-icon-square-f9;
+}
+.#{$ti-prefix}-square-letter-a:before {
+  content: $ti-icon-square-letter-a;
+}
+.#{$ti-prefix}-square-letter-b:before {
+  content: $ti-icon-square-letter-b;
+}
+.#{$ti-prefix}-square-letter-c:before {
+  content: $ti-icon-square-letter-c;
+}
+.#{$ti-prefix}-square-letter-d:before {
+  content: $ti-icon-square-letter-d;
+}
+.#{$ti-prefix}-square-letter-e:before {
+  content: $ti-icon-square-letter-e;
+}
+.#{$ti-prefix}-square-letter-f:before {
+  content: $ti-icon-square-letter-f;
+}
+.#{$ti-prefix}-square-letter-g:before {
+  content: $ti-icon-square-letter-g;
+}
+.#{$ti-prefix}-square-letter-h:before {
+  content: $ti-icon-square-letter-h;
+}
+.#{$ti-prefix}-square-letter-i:before {
+  content: $ti-icon-square-letter-i;
+}
+.#{$ti-prefix}-square-letter-j:before {
+  content: $ti-icon-square-letter-j;
+}
+.#{$ti-prefix}-square-letter-k:before {
+  content: $ti-icon-square-letter-k;
+}
+.#{$ti-prefix}-square-letter-l:before {
+  content: $ti-icon-square-letter-l;
+}
+.#{$ti-prefix}-square-letter-m:before {
+  content: $ti-icon-square-letter-m;
+}
+.#{$ti-prefix}-square-letter-n:before {
+  content: $ti-icon-square-letter-n;
+}
+.#{$ti-prefix}-square-letter-o:before {
+  content: $ti-icon-square-letter-o;
+}
+.#{$ti-prefix}-square-letter-p:before {
+  content: $ti-icon-square-letter-p;
+}
+.#{$ti-prefix}-square-letter-q:before {
+  content: $ti-icon-square-letter-q;
+}
+.#{$ti-prefix}-square-letter-r:before {
+  content: $ti-icon-square-letter-r;
+}
+.#{$ti-prefix}-square-letter-s:before {
+  content: $ti-icon-square-letter-s;
+}
+.#{$ti-prefix}-square-letter-t:before {
+  content: $ti-icon-square-letter-t;
+}
+.#{$ti-prefix}-square-letter-u:before {
+  content: $ti-icon-square-letter-u;
+}
+.#{$ti-prefix}-square-letter-v:before {
+  content: $ti-icon-square-letter-v;
+}
+.#{$ti-prefix}-square-letter-w:before {
+  content: $ti-icon-square-letter-w;
+}
+.#{$ti-prefix}-square-letter-x:before {
+  content: $ti-icon-square-letter-x;
+}
+.#{$ti-prefix}-square-letter-y:before {
+  content: $ti-icon-square-letter-y;
+}
+.#{$ti-prefix}-square-letter-z:before {
+  content: $ti-icon-square-letter-z;
+}
+.#{$ti-prefix}-square-minus:before {
+  content: $ti-icon-square-minus;
+}
+.#{$ti-prefix}-square-number-0:before {
+  content: $ti-icon-square-number-0;
+}
+.#{$ti-prefix}-square-number-1:before {
+  content: $ti-icon-square-number-1;
+}
+.#{$ti-prefix}-square-number-2:before {
+  content: $ti-icon-square-number-2;
+}
+.#{$ti-prefix}-square-number-3:before {
+  content: $ti-icon-square-number-3;
+}
+.#{$ti-prefix}-square-number-4:before {
+  content: $ti-icon-square-number-4;
+}
+.#{$ti-prefix}-square-number-5:before {
+  content: $ti-icon-square-number-5;
+}
+.#{$ti-prefix}-square-number-6:before {
+  content: $ti-icon-square-number-6;
+}
+.#{$ti-prefix}-square-number-7:before {
+  content: $ti-icon-square-number-7;
+}
+.#{$ti-prefix}-square-number-8:before {
+  content: $ti-icon-square-number-8;
+}
+.#{$ti-prefix}-square-number-9:before {
+  content: $ti-icon-square-number-9;
+}
+.#{$ti-prefix}-square-rotated:before {
+  content: $ti-icon-square-rotated;
+}
+.#{$ti-prefix}-square-rounded:before {
+  content: $ti-icon-square-rounded;
+}
+.#{$ti-prefix}-square-rounded-arrow-down:before {
+  content: $ti-icon-square-rounded-arrow-down;
+}
+.#{$ti-prefix}-square-rounded-arrow-left:before {
+  content: $ti-icon-square-rounded-arrow-left;
+}
+.#{$ti-prefix}-square-rounded-arrow-right:before {
+  content: $ti-icon-square-rounded-arrow-right;
+}
+.#{$ti-prefix}-square-rounded-arrow-up:before {
+  content: $ti-icon-square-rounded-arrow-up;
+}
+.#{$ti-prefix}-square-rounded-check:before {
+  content: $ti-icon-square-rounded-check;
+}
+.#{$ti-prefix}-square-rounded-chevron-down:before {
+  content: $ti-icon-square-rounded-chevron-down;
+}
+.#{$ti-prefix}-square-rounded-chevron-left:before {
+  content: $ti-icon-square-rounded-chevron-left;
+}
+.#{$ti-prefix}-square-rounded-chevron-right:before {
+  content: $ti-icon-square-rounded-chevron-right;
+}
+.#{$ti-prefix}-square-rounded-chevron-up:before {
+  content: $ti-icon-square-rounded-chevron-up;
+}
+.#{$ti-prefix}-square-rounded-chevrons-down:before {
+  content: $ti-icon-square-rounded-chevrons-down;
+}
+.#{$ti-prefix}-square-rounded-chevrons-left:before {
+  content: $ti-icon-square-rounded-chevrons-left;
+}
+.#{$ti-prefix}-square-rounded-chevrons-right:before {
+  content: $ti-icon-square-rounded-chevrons-right;
+}
+.#{$ti-prefix}-square-rounded-chevrons-up:before {
+  content: $ti-icon-square-rounded-chevrons-up;
+}
+.#{$ti-prefix}-square-rounded-letter-a:before {
+  content: $ti-icon-square-rounded-letter-a;
+}
+.#{$ti-prefix}-square-rounded-letter-b:before {
+  content: $ti-icon-square-rounded-letter-b;
+}
+.#{$ti-prefix}-square-rounded-letter-c:before {
+  content: $ti-icon-square-rounded-letter-c;
+}
+.#{$ti-prefix}-square-rounded-letter-d:before {
+  content: $ti-icon-square-rounded-letter-d;
+}
+.#{$ti-prefix}-square-rounded-letter-e:before {
+  content: $ti-icon-square-rounded-letter-e;
+}
+.#{$ti-prefix}-square-rounded-letter-f:before {
+  content: $ti-icon-square-rounded-letter-f;
+}
+.#{$ti-prefix}-square-rounded-letter-g:before {
+  content: $ti-icon-square-rounded-letter-g;
+}
+.#{$ti-prefix}-square-rounded-letter-h:before {
+  content: $ti-icon-square-rounded-letter-h;
+}
+.#{$ti-prefix}-square-rounded-letter-i:before {
+  content: $ti-icon-square-rounded-letter-i;
+}
+.#{$ti-prefix}-square-rounded-letter-j:before {
+  content: $ti-icon-square-rounded-letter-j;
+}
+.#{$ti-prefix}-square-rounded-letter-k:before {
+  content: $ti-icon-square-rounded-letter-k;
+}
+.#{$ti-prefix}-square-rounded-letter-l:before {
+  content: $ti-icon-square-rounded-letter-l;
+}
+.#{$ti-prefix}-square-rounded-letter-m:before {
+  content: $ti-icon-square-rounded-letter-m;
+}
+.#{$ti-prefix}-square-rounded-letter-n:before {
+  content: $ti-icon-square-rounded-letter-n;
+}
+.#{$ti-prefix}-square-rounded-letter-o:before {
+  content: $ti-icon-square-rounded-letter-o;
+}
+.#{$ti-prefix}-square-rounded-letter-p:before {
+  content: $ti-icon-square-rounded-letter-p;
+}
+.#{$ti-prefix}-square-rounded-letter-q:before {
+  content: $ti-icon-square-rounded-letter-q;
+}
+.#{$ti-prefix}-square-rounded-letter-r:before {
+  content: $ti-icon-square-rounded-letter-r;
+}
+.#{$ti-prefix}-square-rounded-letter-s:before {
+  content: $ti-icon-square-rounded-letter-s;
+}
+.#{$ti-prefix}-square-rounded-letter-t:before {
+  content: $ti-icon-square-rounded-letter-t;
+}
+.#{$ti-prefix}-square-rounded-letter-u:before {
+  content: $ti-icon-square-rounded-letter-u;
+}
+.#{$ti-prefix}-square-rounded-letter-v:before {
+  content: $ti-icon-square-rounded-letter-v;
+}
+.#{$ti-prefix}-square-rounded-letter-w:before {
+  content: $ti-icon-square-rounded-letter-w;
+}
+.#{$ti-prefix}-square-rounded-letter-x:before {
+  content: $ti-icon-square-rounded-letter-x;
+}
+.#{$ti-prefix}-square-rounded-letter-y:before {
+  content: $ti-icon-square-rounded-letter-y;
+}
+.#{$ti-prefix}-square-rounded-letter-z:before {
+  content: $ti-icon-square-rounded-letter-z;
+}
+.#{$ti-prefix}-square-rounded-minus:before {
+  content: $ti-icon-square-rounded-minus;
+}
+.#{$ti-prefix}-square-rounded-number-0:before {
+  content: $ti-icon-square-rounded-number-0;
+}
+.#{$ti-prefix}-square-rounded-number-1:before {
+  content: $ti-icon-square-rounded-number-1;
+}
+.#{$ti-prefix}-square-rounded-number-2:before {
+  content: $ti-icon-square-rounded-number-2;
+}
+.#{$ti-prefix}-square-rounded-number-3:before {
+  content: $ti-icon-square-rounded-number-3;
+}
+.#{$ti-prefix}-square-rounded-number-4:before {
+  content: $ti-icon-square-rounded-number-4;
+}
+.#{$ti-prefix}-square-rounded-number-5:before {
+  content: $ti-icon-square-rounded-number-5;
+}
+.#{$ti-prefix}-square-rounded-number-6:before {
+  content: $ti-icon-square-rounded-number-6;
+}
+.#{$ti-prefix}-square-rounded-number-7:before {
+  content: $ti-icon-square-rounded-number-7;
+}
+.#{$ti-prefix}-square-rounded-number-8:before {
+  content: $ti-icon-square-rounded-number-8;
+}
+.#{$ti-prefix}-square-rounded-number-9:before {
+  content: $ti-icon-square-rounded-number-9;
+}
+.#{$ti-prefix}-square-rounded-plus:before {
+  content: $ti-icon-square-rounded-plus;
+}
+.#{$ti-prefix}-square-rounded-x:before {
+  content: $ti-icon-square-rounded-x;
+}
+.#{$ti-prefix}-square-x:before {
+  content: $ti-icon-square-x;
+}
+.#{$ti-prefix}-squares:before {
+  content: $ti-icon-squares;
+}
+.#{$ti-prefix}-stack:before {
+  content: $ti-icon-stack;
+}
+.#{$ti-prefix}-stack-2:before {
+  content: $ti-icon-stack-2;
+}
+.#{$ti-prefix}-stack-3:before {
+  content: $ti-icon-stack-3;
+}
+.#{$ti-prefix}-star:before {
+  content: $ti-icon-star;
+}
+.#{$ti-prefix}-star-half:before {
+  content: $ti-icon-star-half;
+}
+.#{$ti-prefix}-stars:before {
+  content: $ti-icon-stars;
+}
+.#{$ti-prefix}-sun:before {
+  content: $ti-icon-sun;
+}
+.#{$ti-prefix}-table:before {
+  content: $ti-icon-table;
+}
+.#{$ti-prefix}-thumb-down:before {
+  content: $ti-icon-thumb-down;
+}
+.#{$ti-prefix}-thumb-up:before {
+  content: $ti-icon-thumb-up;
+}
+.#{$ti-prefix}-timeline-event:before {
+  content: $ti-icon-timeline-event;
+}
+.#{$ti-prefix}-transform:before {
+  content: $ti-icon-transform;
+}
+.#{$ti-prefix}-transition-bottom:before {
+  content: $ti-icon-transition-bottom;
+}
+.#{$ti-prefix}-transition-left:before {
+  content: $ti-icon-transition-left;
+}
+.#{$ti-prefix}-transition-right:before {
+  content: $ti-icon-transition-right;
+}
+.#{$ti-prefix}-transition-top:before {
+  content: $ti-icon-transition-top;
+}
+.#{$ti-prefix}-trash:before {
+  content: $ti-icon-trash;
+}
+.#{$ti-prefix}-trash-x:before {
+  content: $ti-icon-trash-x;
+}
+.#{$ti-prefix}-triangle:before {
+  content: $ti-icon-triangle;
+}
+.#{$ti-prefix}-triangle-inverted:before {
+  content: $ti-icon-triangle-inverted;
+}
+.#{$ti-prefix}-triangle-square-circle:before {
+  content: $ti-icon-triangle-square-circle;
+}
+.#{$ti-prefix}-trophy:before {
+  content: $ti-icon-trophy;
+}
+.#{$ti-prefix}-umbrella:before {
+  content: $ti-icon-umbrella;
+}
+.#{$ti-prefix}-user:before {
+  content: $ti-icon-user;
+}
+.#{$ti-prefix}-versions:before {
+  content: $ti-icon-versions;
+}
+.#{$ti-prefix}-windmill:before {
+  content: $ti-icon-windmill;
+}
+.#{$ti-prefix}-woman:before {
+  content: $ti-icon-woman;
+}
+.#{$ti-prefix}-xbox-a:before {
+  content: $ti-icon-xbox-a;
+}
+.#{$ti-prefix}-xbox-b:before {
+  content: $ti-icon-xbox-b;
+}
+.#{$ti-prefix}-xbox-x:before {
+  content: $ti-icon-xbox-x;
+}
+.#{$ti-prefix}-xbox-y:before {
+  content: $ti-icon-xbox-y;
+}
+.#{$ti-prefix}-yin-yang:before {
+  content: $ti-icon-yin-yang;
+}
+.#{$ti-prefix}-zeppelin:before {
+  content: $ti-icon-zeppelin;
+}
+.#{$ti-prefix}-zoom:before {
+  content: $ti-icon-zoom;
+}
+.#{$ti-prefix}-zoom-cancel:before {
+  content: $ti-icon-zoom-cancel;
+}
+.#{$ti-prefix}-zoom-check:before {
+  content: $ti-icon-zoom-check;
+}
+.#{$ti-prefix}-zoom-code:before {
+  content: $ti-icon-zoom-code;
+}
+.#{$ti-prefix}-zoom-exclamation:before {
+  content: $ti-icon-zoom-exclamation;
+}
+.#{$ti-prefix}-zoom-in:before {
+  content: $ti-icon-zoom-in;
+}
+.#{$ti-prefix}-zoom-in-area:before {
+  content: $ti-icon-zoom-in-area;
+}
+.#{$ti-prefix}-zoom-money:before {
+  content: $ti-icon-zoom-money;
+}
+.#{$ti-prefix}-zoom-out:before {
+  content: $ti-icon-zoom-out;
+}
+.#{$ti-prefix}-zoom-out-area:before {
+  content: $ti-icon-zoom-out-area;
+}
+.#{$ti-prefix}-zoom-pan:before {
+  content: $ti-icon-zoom-pan;
+}
+.#{$ti-prefix}-zoom-question:before {
+  content: $ti-icon-zoom-question;
+}
+.#{$ti-prefix}-zoom-scan:before {
+  content: $ti-icon-zoom-scan;
+}
+
+// Aliases
+.#{$ti-prefix}-discount-check:before {
+  content: $ti-icon-rosette-discount-check;
+}

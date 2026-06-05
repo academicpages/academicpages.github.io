@@ -1,0 +1,18 @@
+{% if site.wechat_qr %}
+  <!-- WeChat Modal -->
+
+  <script>
+    var wechatModal = document.getElementById('WeChatMod');
+    var wechatBtn = document.getElementById('WeChatBtn');
+
+    wechatBtn.onclick = function () {
+      wechatModal.style.display = 'block';
+    };
+
+    window.onclick = function (event) {
+      if (event.target == wechatModal) {
+        wechatModal.style.display = 'none';
+      }
+    };
+  </script>
+{% endif %}

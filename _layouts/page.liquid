@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% if page._styles %}
+  <!-- Page/Post style -->
+  <style type="text/css">
+    {{ page._styles }}
+  </style>
+{% endif %}
+
+<div class="post">
+  <header class="post-header">
+    {% if page.project_intro %}
+      {% include project_intro.liquid img=page.img title=page.title icons=page.icons description=page.description %}
+      <hr>
+      {% if page.repository %}
+        <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+          {% for repo in page.repository %}
+            {% include repository/repo.liquid repository=repo %}
+          {% endfor %}
+        </div>
+        <hr>
+      {% endif %}
+    {% else %}
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <article>
+    {{ content }}
+  </article>
+
+  {% if page.related_publications %}
+    <h2>References</h2>
+    <div class="publications">
+      {% bibliography --cited_in_order %}
+    </div>
+  {% endif %}
+
+  {% if site.giscus and page.giscus_comments %}
+    {% include giscus.liquid %}
+  {% endif %}
+</div>

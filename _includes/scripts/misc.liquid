@@ -1,0 +1,43 @@
+{% if site.enable_tooltips %}
+  <!-- Enable Tooltips -->
+  <script type="text/javascript">
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip();
+    });
+  </script>
+{% endif %}
+{% if site.enable_medium_zoom %}
+  <!-- Medium Zoom JS -->
+  <script
+    defer
+    src="{{ site.third_party_libraries.medium_zoom.url.js }}"
+    integrity="{{ site.third_party_libraries.medium_zoom.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+  <script defer src="{{ '/assets/js/zoom.js' | relative_url | bust_file_cache }}"></script>
+{% endif %}
+{% if page.toc and page.toc.sidebar %}
+  <!-- Sidebar Table of Contents -->
+  <script defer src="{{ '/assets/js/bootstrap-toc.min.js' | relative_url | bust_file_cache }}"></script>
+{% endif %}
+
+<!-- Bootstrap Table -->
+{% if page.pretty_table %}
+  <!-- Bootstrap Table doesn't go well with diff2html -->
+  <script
+    defer
+    src="{{ site.third_party_libraries.bootstrap-table.url.js }}"
+    integrity="{{ site.third_party_libraries.bootstrap-table.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+{% endif %}
+
+<!-- Load Common JS -->
+<script src="{{ '/assets/js/no_defer.js' | relative_url | bust_file_cache }}"></script>
+<script defer src="{{ '/assets/js/common.js' | relative_url | bust_file_cache }}"></script>
+<script defer src="{{ '/assets/js/copy_code.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
+
+<!-- Jupyter Open External Links New Tab -->
+<script defer src="{{ '/assets/js/jupyter_new_tab.js' | relative_url | bust_file_cache }}"></script>
+
+{% assign site.test-library.url = site.test-library.url | append: 'teste' %}

@@ -1,0 +1,18 @@
+name: Comment on pull request
+
+on:
+  repository_dispatch:
+    types: [prettier-failed-on-pr]
+
+jobs:
+  comment:
+    # available images: https://github.com/actions/runner-images#available-images
+    runs-on: ubuntu-latest
+    steps:
+      - name: PR comment with html diff 💬
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          comment_tag: prettier-failed
+          pr_number: ${{ github.event.client_payload.pr_number }}
+          message: |
+            Failed [prettier code check](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.event.client_payload.run_id }}). Check [this file](${{ github.event.client_payload.artifact_url }}) for more information.

@@ -1,0 +1,133 @@
+{% if site.email %}
+  <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+{% endif %}
+{% if site.telegram_username %}
+  <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
+{% endif %}
+{% if site.whatsapp_number %}
+  <a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
+{% endif %}
+{% if site.orcid_id %}
+  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
+{% endif %}
+{% if site.scholar_userid %}
+  <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+{% endif %}
+{% if site.inspirehep_id %}
+  <a href="https://inspirehep.net/authors/{{ site.inspirehep_id }}" title="Inspire HEP"><i class="ai ai-inspire"></i></a>
+{% endif %}
+{% if site.semanticscholar_id %}
+  <a href="https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
+{% endif %}
+{% if site.publons_id %}
+  <a href="https://publons.com/a/{{ site.publons_id }}/" title="Publons"><i class="ai ai-publons"></i></a>
+{% endif %}
+{% if site.lattes_id %}
+  <a href="http://lattes.cnpq.br/{{ site.lattes_id }}" target="_blank" title="Lattes"><i class="ai ai-lattes"></i></a>
+{% endif %}
+{% if site.osf_id %}
+  <a href="https://osf.io/{{ site.osf_id }}/" title="Open Science Framework"><i class="ai ai-osf"></i></a>
+{% endif %}
+{% if site.research_gate_profile %}
+  <a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+{% endif %}
+{% if site.ieee_id %}
+  <a href="https://ieeexplore.ieee.org/author/{{site.ieee_id}}/" title="IEEE Xplore"><i class="ai ai-ieee"></i></a>
+{% endif %}
+{% if site.acm_id %}
+  <a href="https://dl.acm.org/profile/{{site.acm_id}}/" title="ACM DL"><i class="ai ai-acm"></i></a>
+{% endif %}
+{% if site.scopus_id %}
+  <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i class="ai ai-scopus"></i></a>
+{% endif %}
+{% if site.github_username %}
+  <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
+{% endif %}
+{% if site.linkedin_username %}
+  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+{% endif %}
+{% if site.x_username %}
+  <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+{% endif %}
+{% if site.mastodon_username %}
+  <a rel="me" href="https://{{ site.mastodon_username  }}" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
+{% endif %}
+{% if site.medium_username %}
+  <a href="https://medium.com/@{{ site.medium_username }}" title="Medium"><i class="fa-brands fa-medium"></i></a>
+{% endif %}
+{% if site.quora_username %}
+  <a href="https://www.quora.com/profile/{{ site.quora_username }}" title="Quora"><i class="fa-brands fa-quora"></i></a>
+{% endif %}
+{% if site.flickr_id %}
+  <a href="https://www.flickr.com/{{ site.flickr_id }}" title="Flickr"><i class="fa-brands fa-flickr"></i></a>
+{% endif %}
+{% if site.blogger_url %}
+  <a href="{{ site.blogger_url }}" title="Blogger"><i class="fa-brands fa-blogger-b"></i></a>
+{% endif %}
+{% if site.work_url %}
+  <a href="{{ site.work_url }}" title="Work"><i class="fa-solid fa-briefcase"></i></a>
+{% endif %}
+{% if site.wikidata_id %}
+  <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata"><i class="fa-solid fa-barcode"></i></a>
+{% endif %}
+{% if site.wikipedia_id %}
+  <a href="https://wikipedia.org/wiki/User:{{ site.wikipedia_id }}" title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></a>
+{% endif %}
+{% if site.strava_userid %}
+  <a href="https://www.strava.com/athletes/{{ site.strava_userid }}" title="Strava"><i class="fa-brands fa-strava"></i></a>
+{% endif %}
+{% if site.keybase_username %}
+  <a href="https://keybase.io/{{ site.keybase_username }}" title="Keybase"><i class="fa-brands fa-keybase"></i></a>
+{% endif %}
+{% if site.gitlab_username %}
+  <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab"><i class="fa-brands fa-gitlab"></i></a>
+{% endif %}
+{% if site.dblp_url %}
+  <a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>
+{% endif %}
+{% if site.stackoverflow_id %}
+  <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fa-brands fa-stack-overflow"></i></a>
+{% endif %}
+{% if site.kaggle_id %}
+  <a href="https://www.kaggle.com/{{ site.kaggle_id }}" title="Kaggle"><i class="fa-brands fa-kaggle"></i></a>
+{% endif %}
+{% if site.lastfm_id %}
+  <a href="https://www.last.fm/user/{{ site.lastfm_id }}" title="Last FM"><i class="fa-brands fa-lastfm"></i></a>
+{% endif %}
+{% if site.spotify_id %}
+  <a href="https://open.spotify.com/user/{{ site.spotify_id }}" title="Spotify"><i class="fa-brands fa-spotify"></i></a>
+{% endif %}
+{% if site.pinterest_id %}
+  <a href="https://www.pinterest.com/{{ site.pinterest_id }}" title="Pinterest"><i class="fa-brands fa-pinterest"></i></a>
+{% endif %}
+{% if site.unsplash_id %}
+  <a href="https://unsplash.com/@{{ site.unsplash_id }}" title="Unsplash"><i class="fa-brands fa-unsplash"></i></a>
+{% endif %}
+{% if site.instagram_id %}
+  <a href="https://instagram.com/{{ site.instagram_id }}" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+{% endif %}
+{% if site.facebook_id %}
+  <a href="https://facebook.com/{{ site.facebook_id }}" title="Facebook"><i class="fa-brands fa-facebook"></i></a>
+{% endif %}
+{% if site.bluesky_url %}
+  <a href="https://bsky.app/profile/{{ site.bluesky_url }}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
+{% endif %}
+{% if site.youtube_id %}
+  <a href="https://youtube.com/@{{ site.youtube_id }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+{% endif %}
+{% if site.discord_id %}
+  <a href="https://discord.com/users/{{ site.discord_id }}" title="Discord"><i class="fa-brands fa-discord"></i></a>
+{% endif %}
+{% if site.zotero_username %}
+  <a href="https://www.zotero.org/{{ site.zotero_username }}" title="Zotero"><i class="ai ai-zotero"></i></a>
+{% endif %}
+{% if site.rss_icon %}
+  <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
+{% endif %}
+{% if site.wechat_qr %}
+  <a id="WeChatBtn" title="WeChat"><i class="fa-brands fa-weixin"></i></a>
+  <div id="WeChatMod" class="wechat-modal">
+    <img src="{{ site.wechat_qr | prepend: 'assets/img/' | relative_url }}" alt="WeChat QR" id="WeChatQR">
+  </div>
+  {% include scripts/wechatModal.liquid %}
+{% endif %}
