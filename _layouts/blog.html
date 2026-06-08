@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blog | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/blog-cosmic.css' | relative_url }}">
+</head>
+<body>
+
+<canvas id="stars"></canvas>
+
+<nav class="cosmic-nav">
+  <a href="{{ '/' | relative_url }}" class="nav-logo">{{ site.first_name }} {{ site.last_name }}</a>
+  <ul class="nav-links">
+    <li><a href="{{ '/' | relative_url }}">About</a></li>
+    <li><a href="{{ '/blog/' | relative_url }}" class="active">Blog ✦</a></li>
+  </ul>
+</nav>
+
+<main class="cosmic-page">
+  {{ content }}
+</main>
+
+<script src="{{ '/assets/js/starfield.js' | relative_url }}"></script>
+</body>
+</html>

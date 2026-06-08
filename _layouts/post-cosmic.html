@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/blog-cosmic.css' | relative_url }}">
+</head>
+<body>
+
+<canvas id="stars"></canvas>
+
+<nav class="cosmic-nav">
+  <a href="{{ '/' | relative_url }}" class="nav-logo">{{ site.first_name }} {{ site.last_name }}</a>
+  <ul class="nav-links">
+    <li><a href="{{ '/' | relative_url }}">About</a></li>
+    <li><a href="{{ '/blog/' | relative_url }}" class="active">Blog ✦</a></li>
+  </ul>
+</nav>
+
+<main class="cosmic-page">
+  <div class="post-container">
+    <a href="{{ '/blog/' | relative_url }}" class="post-back">← Blog</a>
+
+    <h1 class="post-title-large">{{ page.title }}</h1>
+
+    <div class="post-meta-row">
+      <span class="meta-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+      {%- if page.tags and page.tags.size > 0 -%}
+        {%- for tag in page.tags limit: 1 -%}
+          <span class="meta-tag">{{ tag }}</span>
+        {%- endfor -%}
+      {%- endif -%}
+    </div>
+
+    <hr class="post-divider">
+
+    <div class="post-body">
+      {{ content }}
+    </div>
+  </div>
+</main>
+
+<script src="{{ '/assets/js/starfield.js' | relative_url }}"></script>
+</body>
+</html>
