@@ -250,13 +250,17 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - markdown_generator/
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - talkmap.ipynb
+  - talkmap_out.ipynb
   - vendor
+  - assets/jupyter/
 keep_files:
   - CNAME
   - .nojekyll
