@@ -1,0 +1,89 @@
+---
+layout: default
+---
+
+{%- assign profile = page.profile -%}
+
+<!-- Hero Section -->
+<div class="hero-section">
+  <div class="hero-content">
+    {%- if profile -%}
+    <div class="hero-photo">
+      {%- if profile.image -%}
+        <img
+          src="{{ profile.image | prepend: '/assets/img/' | relative_url }}"
+          alt="{{ site.first_name }} {{ site.last_name }}"
+        >
+      {%- endif -%}
+    </div>
+    {%- endif -%}
+
+    <div class="hero-info">
+      <h1 class="hero-name">
+        {{ site.first_name }} {{ site.last_name }}
+        {%- if page.name_zh %} <span style="font-size:1.1rem;font-weight:400;color:#64748b;">/ {{ page.name_zh }}</span>{%- endif -%}
+      </h1>
+      {%- if page.subtitle -%}
+        <p class="hero-subtitle">{{ page.subtitle }}</p>
+      {%- endif -%}
+      {%- if page.research_tags -%}
+        <p class="hero-research">{{ page.research_tags }}</p>
+      {%- endif -%}
+
+      <div class="hero-links">
+        {%- if site.email -%}
+          <a href="mailto:{{ site.email }}" class="btn-primary-link">✉ Email</a>
+        {%- endif -%}
+        {%- if site.github_username -%}
+          <a href="https://github.com/{{ site.github_username }}" class="btn-outline-link" target="_blank" rel="noopener">GitHub</a>
+        {%- endif -%}
+        {%- if site.scholar_userid and site.scholar_userid != "" -%}
+          <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" class="btn-outline-link" target="_blank" rel="noopener">Scholar</a>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Two-Column Body -->
+<div class="about-body">
+
+  <!-- Left: main content (bio + sections) -->
+  <div class="about-main">
+    {{ content }}
+  </div>
+
+  <!-- Right: sidebar -->
+  <div class="about-sidebar">
+
+    {%- if page.news and site.announcements.enabled -%}
+      <h3 class="sidebar-heading">📣 News</h3>
+      {%- assign news_size = site.data.news | size -%}
+      {%- if news_size > 0 -%}
+        {%- assign limit = site.announcements.limit | default: 5 -%}
+        {%- for item in site.data.news limit: limit -%}
+          <div class="news-item">
+            <span class="news-date">{{ item.date }}</span>
+            <span class="news-text">{{ item.content }}</span>
+          </div>
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endif -%}
+
+    {%- if page.latest_posts and site.latest_posts.enabled -%}
+      {%- assign recent_posts = site.posts | sort: "date" | reverse -%}
+      {%- assign recent_size = recent_posts | size -%}
+      {%- if recent_size > 0 -%}
+        <h3 class="sidebar-heading">✍️ Latest Posts</h3>
+        {%- assign post_limit = site.latest_posts.limit | default: 2 -%}
+        {%- for post in recent_posts limit: post_limit -%}
+          <a href="{{ post.url | relative_url }}" class="latest-post-card">
+            <div class="post-title">{{ post.title }}</div>
+            <div class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</div>
+          </a>
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endif -%}
+
+  </div>
+</div>
