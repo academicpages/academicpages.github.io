@@ -1,0 +1,28 @@
+backend:
+  name: github
+  repo: lihan0421/lihan0421.github.io
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: "assets/img/posts"
+public_folder: "/assets/img/posts"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        options: ["研究感悟", "技术思考", "日常随笔"]
+      - { label: "Excerpt", name: "excerpt", widget: "text", required: false, hint: "显示在博客列表的摘要（可选）" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post-cosmic" }
+      - { label: "Body", name: "body", widget: "markdown" }
