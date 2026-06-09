@@ -80,7 +80,7 @@ In my spare time, I like to be in nature, working on my partner's farm in Somers
 
 Since joining [AISI](https://www.aisi.gov.uk/) as its first technical hire in November 2023, I've enjoyed building AISI's AI evaluation capabilities. In this role, I've built out AISI's autonomous and cyber evaluations, primarily involving capture-the-flag-style agentic evals. I've also been directly involved in 20+ frontier model pre-deployment evaluation cycles, working closely with labs such as Anthropic, OpenAI, and Google DeepMind to evaluate harmful capabilities of their models before public release (see our [2025 Frontier AI Trends Report](https://www.aisi.gov.uk/frontier-ai-trends-report) for a redacted overview of these evaluations). To enable this line of work, I have also been involved with open-source evaluation software such as [Inspect AI](https://inspect.aisi.org.uk/), [Hibayes](https://ukgovernmentbeis.github.io/hibayes/), and [Inspect Scout](https://meridianlabs-ai.github.io/inspect_scout/). I've been delighted to see AISI become a world-leading lab, attracting great talent — now 170+ technical individuals — and demonstrating new ways of operating effectively within government.
 
-A significant amount of my time has also been spent improving the science of AI evaluation, ensuring our measures are good indicators of latent capability. A subset of this work which is now public covers a [rigorous framework for agentic benchmarks](https://arxiv.org/pdf/2507.02825), also using [generalised linear models to investigate LLM judge biases](https://arxiv.org/pdf/2507.03772), and more recently on [best practices for scalable oversight or transcription analysis](https://d197for5662m48.cloudfront.net/documents/publicationstatus/309764/preprint_pdf/3ababe0455f322db1773dee4f1c59434.pdf). Internally, I have worked on inference time scaling laws, real world human uplift trials, automatic jailbreak methods and measuring the robustness properties.
+A significant amount of my time has also been spent improving the science of AI evaluation, ensuring our measures are good indicators of latent capability. A subset of this work which is now public covers a [rigorous framework for agentic benchmarks](https://arxiv.org/pdf/2507.02825), also using [generalised linear models to investigate LLM judge biases](https://arxiv.org/pdf/2507.03772), and more recently on [best practices for scalable oversight or transcription analysis](https://d197for5662m48.cloudfront.net/documents/publicationstatus/309764/preprint_pdf/3ababe0455f322db1773dee4f1c59434.pdf). Internally, I have worked on inference time scaling laws, real world human uplift trials and measuring AI robustness properties.
 
 <figure class="paper-figure">
 <img src="images/figure1_combined%20(1).png" alt="Sandbox escape evaluation architecture and scenarios">
@@ -88,7 +88,7 @@ A significant amount of my time has also been spent improving the science of AI 
 </figure>
 
 
-A recent paper I enjoyed working on released one of our agentic evals: [Quantifying Frontier LM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277). SandboxEscapeBench is a benchmark that measures LLM capacity to breach container sandboxes across a range of vulnerabilities — from misconfigurations and privilege errors to kernel flaws and runtime weaknesses.
+A recent paper I enjoyed working on released one of our agentic evals: [Quantifying Frontier LM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277) (Oral at ICML). SandboxEscapeBench is a benchmark that measures LLM capacity to breach container sandboxes across a range of vulnerabilities — from misconfigurations and privilege errors to kernel flaws and runtime weaknesses.
 <div class="photo-grid-10ds">
 <img src="images/aisi-all.jpg" alt="The AISI team">
 </div>
@@ -127,11 +127,18 @@ Teaching is something I enjoy, and I'm fortunate to have taught the Deep Learnin
 :::
 
 ::: {#health .content-section}
-## AI for Health
+<div class="section-header">
+<img src="images/nhs.png" class="section-header-img nhs-logo" alt="NHS">
+<span class="section-header-role">AI for Health</span>
+</div>
+
+---
 
 Ensuring the public has access to the best possible healthcare through the NHS is a key objective of mine. I actively work towards this goal by pursuing advancements in AI for healthcare, rigorously validating their clinical utility, and working to position the NHS to maximise its chances of adopting these technological advances for public benefit.
 
-A example contribution of mine was a paper in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00773-8) demonstrating that a widely accepted technology — with hundreds of millions of pounds invested — purporting to diagnose COVID status from respiratory audio was in fact driven by confounders and provided no additional clinical utility over simple symptom checkers.
+In May 2026 I was commissioned by the Permanent Secretary of the Department of Health and Social Care to conduct an independent review of the NHS's AI preparedness. Given current and forecast AI capabilities, the review examines the main blockers to ensuring that the National Health Service maximally benefits from this technology and will provide a series of recommendations.
+
+An example contribution of mine was a paper in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00773-8) demonstrating that a widely accepted technology — with hundreds of millions of pounds invested — purporting to diagnose COVID status from respiratory audio was in fact driven by confounders and provided no additional clinical utility over simple symptom checkers.
 
 I have also led a [study](https://arxiv.org/pdf/2512.21127) in the NHS investigating barriers to using frontier LLMs for medication safety reviews ([demo of use case](https://hcoppockno10.github.io/nhfm-demo/)). Medication errors account for half of all avoidable medication-related harm, making this an important area of work. However, we found poor translation from synthetic and medical-style QA benchmarks to real-world clinical workflows, as illustrated in the figure below. Next, I hope to work on progressing post-training methods, addressing the spiky capability landscape of current AI, ensuring better and more robust real-world outcomes for AI.
 

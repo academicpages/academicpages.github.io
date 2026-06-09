@@ -283,6 +283,11 @@ body {
   flex-shrink: 0;
 }
 
+/* NHS logo rendered 40% smaller than other section logos */
+.section-header-img.nhs-logo {
+  max-width: 168px;
+}
+
 .section-header-role {
   font-size: 1.2rem;
   font-weight: 600;
