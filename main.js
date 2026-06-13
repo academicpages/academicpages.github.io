@@ -486,7 +486,14 @@ function setupGraph() {
       .force("x", d3.forceX().x((node) => groupAnchor(node.group).x).strength((node) => node.kind === "domain" ? 0.28 : 0.12))
       .force("y", d3.forceY().y((node) => groupAnchor(node.group).y).strength((node) => node.kind === "domain" ? 0.28 : 0.12))
       .force("center", d3.forceCenter(state.width / 2, state.height / 2))
-      .on("tick", ticked);
+      .stop();
+
+    // Pre-run the simulation so the graph appears already settled on load (no entrance animation).
+    for (let i = 0; i < 300; i += 1) {
+      state.simulation.tick();
+    }
+    ticked();
+    state.simulation.on("tick", ticked);
 
     state.svg.on("click", () => {
       state.activeId = null;
@@ -499,7 +506,6 @@ function setupGraph() {
       });
       defaultPanel();
       updateGraphState();
-      state.simulation.alpha(0.5).restart();
     });
 
     defaultPanel();
@@ -543,8 +549,7 @@ function setupGraph() {
     });
     defaultPanel();
     updateGraphState();
-    state.svg.transition().duration(300).call(state.zoom.transform, d3.zoomIdentity);
-    state.simulation.alpha(0.9).restart();
+    state.svg.call(state.zoom.transform, d3.zoomIdentity);
   });
 
   buildGraph();
