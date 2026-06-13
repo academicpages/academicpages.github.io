@@ -24,31 +24,31 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 
 /* Other basic settings for the template */
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$global-transition          : all 0.2s ease-in-out;
+$border-radius              : 0;
+$box-shadow                 : none;
+$global-transition          : none;
 $masthead-height            : 70px;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Dark theme for the site */
+/* Fixed dark palette (identical to :root) so data-theme can never differ */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$background};
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$background-light};
-    --global-text-color                 : #{$text};
-    --global-text-color-light           : #f3f3f3;
-    --global-thead-color                : #{$background-lighter};
+    --global-base-color                 : #2c2c2c;
+    --global-bg-color                   : #0e0e0e;
+    --global-footer-bg-color            : #0e0e0e;
+    --global-border-color               : #2c2c2c;
+    --global-dark-border-color          : #2c2c2c;
+    --global-code-background-color      : #161616;
+    --global-code-text-color            : #e3e3e3;
+    --global-fig-caption-color          : #9a9a9a;
+    --global-link-color                 : #d2a15a;
+    --global-link-color-hover           : #e0b878;
+    --global-link-color-visited         : #a98a55;
+    --global-masthead-link-color        : #e3e3e3;
+    --global-masthead-link-color-hover  : #d2a15a;
+    --global-text-color                 : #e3e3e3;
+    --global-text-color-light           : #9a9a9a;
+    --global-thead-color                : #161616;
 }
