@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Junru Ren"
 title_separator          : "-"
 name                     : &name "Junru Ren"
-description              : &description "Student at MIT"
+description              : &description "AI, autonomy, simulation, and product-building."
 url                      : "https://junruren.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junruren/junruren.github.io"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Junru Ren 任俊儒"
-  bio              : "MIT EECS M.S. and MBA Candidate, MIT LGO '26"
-  location         : "Cambridge, MA"
-  employer         : "MIT"
+  bio              : "Recent MIT EECS S.M. + MBA graduate, LGO '26 | Incoming PM at Waymo"
+  location         : "SF Bay Area, CA"
+  employer         : "Waymo (Incoming)"
   uri              : # URL
   email            : "junru@computer.org"
 
