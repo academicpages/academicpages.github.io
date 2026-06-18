@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ian Roma"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/him"  
+  bio              : "I am 3rd year political science graduate student at UB"
+  location         : "Buffalo, New York"
+  employer         : "University at Buffalo SUNY"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ianroma@buffalo.edu" 
 
   # Academic websites
   academia         : # URL
