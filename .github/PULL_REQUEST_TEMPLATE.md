@@ -19,6 +19,10 @@ Provide a description of what your pull request changes.
 
 Is this related to any GitHub issue(s)?
 
+## Version
+
+What commit hash did you branch off of?
+
 <!--
   Please confirm that you want to submit this Pull Request to Academic Pages by deleting this comment block.
 -->
