@@ -4,8 +4,9 @@
 
 /*jslint es6 */
 
-// Constants
+// Constants for CDNs
 const PLOTLY_URL = "https://cdn.jsdelivr.net/npm/plotly.js@3.6.0/dist/plotly.min.js";
+const MERMAID_URL = "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
 
 // Detect OS/browser preference
 const browserPref = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
@@ -49,6 +50,22 @@ function toggleTheme() {
   const new_theme = current_theme === "dark" ? "light" : "dark";
   localStorage.setItem("theme", new_theme);
   setTheme(new_theme);
+}
+
+// Defer the loading of Mermaid to only if there is a field on the page to be rendered
+let mermaidElements = document.querySelectorAll("pre>code.language-mermaid");
+if (mermaidElements.length > 0) {
+  document.addEventListener("readystatechange", function() {
+    // Append the Mermaid module to the DOM
+    const moduleScript = document.createElement('script');
+    moduleScript.type = 'module';
+    moduleScript.textContent = `
+      import mermaid from '${MERMAID_URL}';
+      mermaid.initialize({startOnLoad:true, theme:'default'});
+      await mermaid.run({querySelector:'code.language-mermaid'});
+    `;
+    document.body.appendChild(moduleScript);
+  });
 }
 
 /* ==========================================================================
