@@ -118,9 +118,6 @@ $(document).ready(function () {
   var didResize = false;
   bumpIt();
 
-  // FitVids init
-  fitvids();
-
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function () {
     $(".author__urls").fadeToggle("fast", function () { });
