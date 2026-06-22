@@ -30,6 +30,7 @@
     "plotly.js-dist-min": "^3.3.0"
   },
   "devDependencies": {
+    "jslint": "^0.12.1",
     "onchange": "^7.1.0",
     "uglify-js": "^3.17.4"
   },
