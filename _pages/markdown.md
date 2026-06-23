@@ -384,7 +384,7 @@ The HTML `<details>` tag works well with Markdown and allows you to include coll
 
 The source code:
 
-```HTML
+```html
 <details>
   <summary>Collapsed by default</summary>
   This section was collapsed by default!
