@@ -75,7 +75,8 @@ if (mermaidElements.length > 0) {
 // Read the Plotly data from the code block, hide it, and render the chart as new node. This allows for the
 // JSON data to be retrieve when the theme is switched. The listener should only be added if the data is
 // actually present on the page.
-import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';
+//
+// NOTE that plotlyDarkLayout and plotlyLightLayout will be exposed in the minimized file
 let plotlyElements = document.querySelectorAll("pre>code.language-plotly");
 if (plotlyElements.length > 0) {
   document.addEventListener("readystatechange", () => {
