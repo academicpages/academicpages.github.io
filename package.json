@@ -30,7 +30,7 @@
   "devDependencies": {
     "jslint": "^0.12.1",
     "onchange": "^7.1.0",
-    "uglify-js": "^3.17.4"
+    "uglify-js": "^3.19.3"    
   },
   "scripts": {
     "uglify": "uglifyjs node_modules/jquery/dist/jquery.min.js assets/js/plugins/jquery.greedy-navigation.js assets/js/_main.js -c -m -o assets/js/main.min.js",
