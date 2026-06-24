@@ -93,7 +93,7 @@ graph TD;
 ```
 
 ## Plotly
-Academic Pages includes support for Plotly diagrams via a hook in the Markdown code elements, although those that are comfortable with HTML and JavaScript can also access it [via those routes](https://plotly.com/javascript/getting-started/). Plotly is included via an `npm` [package](https://www.npmjs.com/package/plotly.js?activeTab=readme) and is lazy-loading is used in the template to retrieve the minimized JavaScript via a content delivery network (CDN) when a plot needs to be rendered on a page in the template.
+Academic Pages includes support for Plotly diagrams via a hook in the Markdown code elements, although those that are comfortable with HTML and JavaScript can also access it directly [via those routes](https://plotly.com/javascript/getting-started/). Plotly is included via an `npm` [package](https://www.npmjs.com/package/plotly.js?activeTab=readme) and is lazy loading is used in the template to retrieve the minimized JavaScript via a content delivery network (CDN) when a plot needs to be rendered on a page in the template.
 
 In order to render a Plotly plot via Markdown the relevant plot data need to be added as follows:
 
