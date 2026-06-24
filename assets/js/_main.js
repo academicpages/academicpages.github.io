@@ -11,17 +11,13 @@ const MERMAID_URL = "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.mi
 // Detect OS/browser preference
 const browserPref = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
 
-// Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
-function determineThemeSetting() {
-  let themeSetting = localStorage.getItem("theme");
-  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
-}
-
-// Determine the computed theme, which can be "dark" or "light". If the theme setting is
-// "system", the computed theme is determined based on the user's system preference.
+// Determine the computed theme, which can be "dark" or "light".
 function determineComputedTheme() {
-  let themeSetting = determineThemeSetting();
+  // Determine the expected state of the theme toggle, which can be "dark", "light", or default "system"
+  let themeSetting = localStorage.getItem("theme");
+  themeSetting = (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
+
+  // Return the setting if set, or use the browser preference
   if (themeSetting != "system") {
     return themeSetting;
   }
