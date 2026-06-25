@@ -1,152 +1,134 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia@inf.ethz.ch",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://procedure2012.github.io/SGarcia-Page",
+    "summary": "Third-year PhD candidate at ETH Zurich Robotics Systems Lab. Research focuses on robot learning and control, including Reinforcement Learning for Legged Locomotion, Sim-to-Real Transfer, and Dexterous Manipulation.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Zurich",
+      "countryCode": "CH",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Sofia Garcia",
+        "url": "https://scholar.google.com/citations?user=SofiaGarciaRobot"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "sofiagarcia-rl",
+        "url": "https://github.com/sofiagarcia-rl"
+      },
+      {
+        "network": "X (Twitter)",
+        "username": "@sofia_robotics",
+        "url": "https://twitter.com/sofia_robotics"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "NVIDIA",
+      "position": "Research Intern",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "summary": "Research Intern at NVIDIA Robotics"
+    },
+    {
+      "name": "Boston Dynamics AI Institute",
+      "position": "Research Intern",
+      "startDate": "2023-05",
+      "endDate": "2023-11",
+      "summary": "Research Intern at Boston Dynamics AI Institute"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "ETH Zurich",
+      "area": "Ph.D. in Robotics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2021",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Technical University of Munich (TUM)",
+      "area": "M.Sc.",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2019",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Technical University of Munich (TUM)",
+      "area": "B.Sc.",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Reinforcement Learning for Legged Locomotion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sim-to-Real Transfer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Dexterous Manipulation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robot Learning and Control",
+      "level": "",
+      "keywords": []
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Robot Learning",
+      "keywords": ["Reinforcement Learning", "Legged Locomotion", "Sim-to-Real Transfer", "Dexterous Manipulation"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "AnyTerrain: Robust Legged Locomotion across Unstructured Terrain",
+      "publisher": "CoRL 2024",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "First author. Published at the Conference on Robot Learning (CoRL) 2024."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "GraspGap: Closing the Sim-to-Real Gap for Dexterous Grasping",
+      "publisher": "RSS 2025",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "First author. Published at Robotics: Science and Systems (RSS) 2025."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "PolicyDistill: Compressing Locomotion Controllers",
+      "publisher": "ICRA 2023",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "Co-author. Published at the IEEE International Conference on Robotics and Automation (ICRA) 2023."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
