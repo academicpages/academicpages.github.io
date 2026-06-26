@@ -1,0 +1,34 @@
+name: Cleanup bad PR
+
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  close-pr:
+    permissions:
+      pull-requests: write
+    runs-on: ubuntu-latest
+    if: "contains(github.event.pull_request.body, 'by deleting this comment block') || github.event.pull_request.body == ''"
+    steps:
+      - uses: actions-ecosystem/action-add-labels@v1
+        with:
+          labels: |
+            invalidpr
+      - uses: superbrothers/close-pull-request@v3
+        with:
+          # Post a comment just before closing a pull request
+          comment: |
+            It looks like you are attempting to push a change to the [Academic Pages][1] template repository, for help with deploying your own website please [start a new thread in the discussions][2] or see the [GitHub Docs: About pull requests][3] if you need help.
+
+              [1]: https://github.com/academicpages/academicpages.github.io
+              [2]: https://github.com/academicpages/academicpages.github.io/discussions
+              [3]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+      - uses: sudo-bot/action-pull-request-lock@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          number: ${{ github.event.pull_request.number }}
+          lock-reason: spam

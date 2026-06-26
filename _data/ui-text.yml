@@ -27,6 +27,7 @@ en: &DEFAULT_EN
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent Posts"
+  site_map                   : "Sitemap"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
   comment_form_comment_label : "Comment"
@@ -75,6 +76,7 @@ es: &DEFAULT_ES
   website_label              : "Sitio web"
   email_label                : "Correo"
   recent_posts               : "Entradas recientes"
+  site_map                   :
   undefined_wpm              : "Parámetro words_per_minute (palabras por minuto) no definido en _config.yml"
   comment_form_info          : "No se publicará tu correo electrónico. Véanse marcados los campos obligatorios"
   comment_form_comment_label : "Comentario"
@@ -119,6 +121,7 @@ fr: &DEFAULT_FR
   website_label              : "Site"
   email_label                : "Email"
   recent_posts               : "Posts récents"
+  site_map                   :
   undefined_wpm              : "Le paramètre words_per_minute n'est pas défini dans _config.yml"
   comment_form_info          :
   comment_form_comment_label :
@@ -165,6 +168,7 @@ tr: &DEFAULT_TR
   website_label              : "Web sayfası"
   email_label                : "E-posta"
   recent_posts               : "Son yazılar"
+  site_map                   :
   undefined_wpm              : "_config.yml dosyasında tanımlanmamış words_per_minute parametresi"
   comment_form_info          :
   comment_form_comment_label :
@@ -207,6 +211,7 @@ pt: &DEFAULT_PT
   website_label              : "Site"
   email_label                : "E-mail"
   recent_posts               : "Postagens recentes"
+  site_map                   :
   undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
   comment_form_info          : "Seu endereço de e-mail não será publicado. Campos obrigatórios são marcados"
   comment_form_comment_label : "Comentário"
@@ -251,6 +256,7 @@ it: &DEFAULT_IT
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Articoli Recenti"
+  site_map                   :
   undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
   comment_form_info          :
   comment_form_comment_label :
@@ -293,6 +299,7 @@ zh: &DEFAULT_ZH
   website_label              : "网站"
   email_label                : "电子邮件"
   recent_posts               : "最新文章"
+  site_map                   :
   undefined_wpm              : "_config.yml中未定义words_per_minute参数"
   comment_form_info          : "您的电子邮件地址不会被公开。（必填项已标注）"
   comment_form_comment_label : "评论"
@@ -335,6 +342,7 @@ zh-HK: &DEFAULT_ZH_HK
   website_label              : "網站"
   email_label                : "電子郵件"
   recent_posts               : "最新文章"
+  site_map                   :
   undefined_wpm              : "_config.yml中未定義words_per_minute參數"
   comment_form_info          : "您的電子郵件地址不會被公開。（必填項已標註）"
   comment_form_comment_label : "評論"
