@@ -1,0 +1,112 @@
+---
+layout: single
+title: "Sakktábla – Labor 1"
+permalink: /lab1/
+nav_exclude: true
+---
+
+<!-- _pages/lab1.html -->
+
+<style>
+    #sakktabla {
+        --light-square: #f4e3c1;
+        --dark-square: #8b451f;
+        --board-border: #21170f;
+        width: min(92vw, 576px);
+        height: min(92vw, 576px);
+        table-layout: fixed;
+        border: 6px solid var(--board-border);
+        border-radius: 6px;
+        box-shadow: 0 12px 24px rgba(33, 23, 15, 0.3);
+        background: var(--board-border);
+    }
+
+    #sakktabla td {
+        width: 12.5%;
+        height: 12.5%;
+        padding: 0;
+        transition: transform 160ms ease, box-shadow 160ms ease, filter 160ms ease;
+    }
+
+    #sakktabla tr:nth-child(odd) td:nth-child(odd),
+    #sakktabla tr:nth-child(even) td:nth-child(even) {
+        background-color: var(--light-square);
+    }
+
+    #sakktabla tr:nth-child(odd) td:nth-child(even),
+    #sakktabla tr:nth-child(even) td:nth-child(odd) {
+        background-color: var(--dark-square);
+    }
+
+    #sakktabla td:hover {
+        position: relative;
+        z-index: 1;
+        transform: scale(1.06);
+        filter: brightness(1.12) saturate(1.1);
+        box-shadow: 0 0 0 3px #ffd166, 0 4px 10px rgba(0, 0, 0, 0.35);
+    }
+
+    #sakktabla td:focus,
+    #sakktabla td:focus-within {
+        position: relative;
+        z-index: 1;
+        outline: 4px solid #e63946;
+        outline-offset: -4px;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        #sakktabla td {
+            transition: none;
+        }
+    }
+
+    @media (prefers-contrast: more) {
+        #sakktabla {
+            --light-square: #ffffff;
+            --dark-square: #000000;
+            --board-border: #000000;
+            border-width: 8px;
+            box-shadow: none;
+        }
+
+        #sakktabla td:hover {
+            filter: none;
+            box-shadow: 0 0 0 4px #ffff00;
+        }
+    }
+</style>
+
+<table id='sakktabla' cellspacing=0>
+    <tr>
+        <td></td><td></td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td></td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td></td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td></td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td></td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td></td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td></td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td></td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+    </tr>
+</table>

@@ -1,14 +1,70 @@
----
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
----
 
 {% include base_path %}
 
+<style>
+  .student-portfolio {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  .student-portfolio figure {
+    margin: 0;
+    overflow: hidden;
+    border: 1px solid #d6d6d6;
+    background: #fff;
+    box-shadow: 0 5px 16px rgba(0, 0, 0, 0.08);
+  }
+
+  .student-portfolio img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 5 / 3;
+    object-fit: cover;
+  }
+
+  .student-portfolio figcaption {
+    padding: 0.9rem 1rem;
+    font-weight: 700;
+  }
+
+  @media (max-width: 700px) {
+    .student-portfolio {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+    }
+  }
+</style>
+
+<div class="student-portfolio">
+  <figure>
+    <img src="{{ '/images/profile.png' | relative_url }}" alt="Profiloldal előnézete" loading="lazy">
+    <figcaption>Profiloldal</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/images/500x300.png' | relative_url }}" alt="Webes projekt absztrakt előnézete" loading="lazy">
+    <figcaption>Webes projekt</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/images/editing-talk.png' | relative_url }}" alt="Markdown-szerkesztési útmutató előnézete" loading="lazy">
+    <figcaption>Dokumentáció</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/images/wiki/plotly_example.png' | relative_url }}" alt="Interaktív adatvizualizáció előnézete" loading="lazy">
+    <figcaption>Adatvizualizáció</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/images/themes/homepage-mint-light.png' | relative_url }}" alt="Világos webes témaváltozat előnézete" loading="lazy">
+    <figcaption>UI-kísérlet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/images/themes/homepage-dirt-dark.png' | relative_url }}" alt="Sötét webes témaváltozat előnézete" loading="lazy">
+    <figcaption>Tématervezés</figcaption>
+  </figure>
+</div>
 
