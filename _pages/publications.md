@@ -108,20 +108,3 @@ Ruike Zhang, Yuan Tian, **Penghui Wei**†, Daniel Zeng, Wenji Mao
 **Penghui Wei**, Junjie Lin, Wenji Mao  
 **SIGIR ’18**: Proceedings of the 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pages 1229-1232. Ann Arbor, MI, USA, July 8-12, 2018.  
 
-* **A Knowledge Enhanced Learning and Semantic Composition Model for Multi-Claim Fact Checking**  
-Shuai Wang, **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-Knowledge-Based Systems, 2024.  
-
-* **Knowledge Structure driven Prototype Learning and Verification for Fact Checking**  
-Shuai Wang, Wenji Mao, **Penghui Wei**, Daniel Zeng  
-Knowledge-Based Systems, 2021.  
-
-* **MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks**  
-Nan Xu, Wenji Mao, **Penghui Wei**, Daniel Zeng  
-IEEE Intelligent Systems, Volume 36, Issue 6, 2020: 3-12.
-
-**Robustness in NLP**
-
-* **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
-Jiahao Zhao, **Penghui Wei**, Wenji Mao  
-**SIGIR ’21**: Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1778-1782. Virtual Event, Canada, July 11-15, 2021.    
