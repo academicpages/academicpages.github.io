@@ -17,6 +17,7 @@ My research interests are in **Computational Advertising** and **Generative AI**
 
 News
 =====
+* Aug. 2026: Two papers about ad text generation with multi-turn agentic RL and parallel generation architecture were accepted at EMNLP 2026 Industry Track.  
 * Jan. 2025: My paper about latent diffusion for diversifying ad text generation was accepted at WWW 2025 Companion.  
 * Jul. 2024: Our GenAI-powered Ad Creative team was named a Top-8 candidate for the 2024 Baidu Highest Award ("百度最高奖"候选Top8). 
 
@@ -67,4 +68,4 @@ Misc
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Updated: Jun. 2025_
+_Last Updated: Aug. 2026_
