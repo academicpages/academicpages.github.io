@@ -11,7 +11,12 @@ author_profile: true
 
 (\*Equal contribution. †Corresponding author.)
 
+
 **Generation**
+
+* **From Diverse Outputs to Structured Set: Semantic Planning Enables Parallel Advertising Text Generation**  
+**Penghui Wei** and Jiayu Wu  
+**EMNLP ’26**, Industry Track: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track. Budapest, Hungary, October 24-29, 2026.  
 
 * **Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search**  
 **Penghui Wei**, Jiayu Wu, Chao Ye, Zhi Guo, Shuanglong Li, Lin Liu  
