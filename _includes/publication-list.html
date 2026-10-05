@@ -1,0 +1,37 @@
+{% assign ordered_publications = site.publications | sort: "date" | reverse %}
+{% assign quantum_publications = ordered_publications | where_exp: "paper", "paper.research_area == 'quantum-machine-learning'" %}
+{% assign other_publications = ordered_publications | where_exp: "paper", "paper.research_area != 'quantum-machine-learning'" %}
+{% assign other_publications_by_year = other_publications | group_by_exp: "paper", "paper.date | date: '%Y'" | sort: "name" | reverse %}
+
+{% if quantum_publications.size > 0 %}
+  {% if include.format == "cv" %}
+    <h3>Quantum Machine Learning</h3>
+    <ul>
+      {% for post in quantum_publications %}
+        {% include archive-single-cv.html %}
+      {% endfor %}
+    </ul>
+  {% else %}
+    <h2>Quantum Machine Learning</h2><hr />
+    {% for post in quantum_publications %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+{% for year in other_publications_by_year %}
+  {% assign year_publications = year.items | sort: "date" | reverse %}
+  {% if include.format == "cv" %}
+    <h3>{{ year.name }}</h3>
+    <ul>
+      {% for post in year_publications %}
+        {% include archive-single-cv.html %}
+      {% endfor %}
+    </ul>
+  {% else %}
+    <h2>{{ year.name }}</h2><hr />
+    {% for post in year_publications %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}

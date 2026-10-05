@@ -7,29 +7,20 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * **Ph.D. (ongoing)** — Centre of Studies in Resources Engineering (CSRE), IIT Bombay
-<!-- Earlier degrees: add verified B.Tech/M.Tech degree, institution, and year when provided. -->
+* **M.Tech. (Data Science)** — Pandit Deendayal Energy University; 2024–2026; CGPA: 9.08
+* **B.Tech. (Information Technology)** — KIIT DU, Bhubaneswar; 2024; CGPA: 8.58
+* **Class XII (CBSE, Science)** — Atomic Energy Central School, KAPS; 2020; 92.8% aggregate
+* **Class X (CBSE)** — Atomic Energy Central School, KAPS; 2018; 84.2% aggregate
 
-Work & research experience
+Work Experience
 ======
-* **Doctoral Researcher**, CSRE, IIT Bombay
-  * Research interests: deep learning for remote sensing, quantum machine learning, computer vision, and foundation models.
-
-Skills
-======
-* **Deep learning:** PyTorch, transformers, computer vision
-* **Research applications:** remote sensing, foundation models
-* **Machine learning:** linear/ridge/lasso & polynomial regression, decision trees, random forest, gradient boosting (XGBoost, GBR), AdaBoost, KNN, SVM
-* **Data science:** PCA & dimensionality reduction, feature engineering, model evaluation (R², MSE, RMSE, MAE)
-* **Programming & tools:** Python, Jupyter notebooks, pandas, scikit-learn
-<!-- TODO(Ayush): add anything else, e.g. C/C++, MATLAB, SQL, AutoCAD, LaTeX -->
+* **Research Intern** — Space Applications Centre (SAC), ISRO, Ahmedabad (June 2025 – May 2026)
+  * Worked on applications of Quantum Machine Learning (QML) and Hybrid Quantum Deep Learning techniques for classification and enhancement of high-resolution satellite imagery.
+  * Developed a technique to pretrain classical models using quantum properties (Quantum Self-Supervised Learning).
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% include publication-list.html format="cv" %}

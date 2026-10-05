@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -18,14 +18,9 @@ Research interests
 * Computer vision
 * Foundation models
 
-Selected projects
+Selected Publications
 ======
-* **[Strength of Concrete — Regression Study](https://github.com/Ayush253/Strength-of-Concrete-Regression)** — The notebook behind my IEEE INDICON 2022 paper: eleven ML regressors compared on concrete compressive strength, with XGBoost reaching an R² of 0.9206.
-* **[Easy Ping-Pong Game (Python)](https://github.com/Ayush253/Easy-Ping-Pong-Game-Python)** — A classic two-player ping-pong game built with Python's Turtle module, designed to teach classes, objects, and inheritance to beginners.
+* **[QMC-Net: Data-aware quantum representations for remote sensing image classification](/publication/qmc-net)** — *International Conference on Pattern Recognition*, 2026.
+* **[HQ-JEPA: Hybrid Quantum Joint-Embedding Predictive Architecture for Cross-Modal Remote Sensing Representation Learning](/publication/hq-jepa)** — *arXiv preprint arXiv:2605.31068*, 2026.
 
 More of my work is on [GitHub](https://github.com/Ayush253).
-
-<!-- TODO(Ayush): optional sections you can add later —
-     * "News" timeline (paper accepted, talks, awards)
-     * teaching or mentoring experience
-     -->

@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-11-24-duplex-method-concrete-strength
 excerpt: 'A dual-approach study benchmarking eleven machine-learning regressors for predicting concrete strength — with all features and after PCA dimensionality reduction. XGBoost achieved the best performance with an R² of 0.9206.'
-date: 2022-11-24
+date: "2022-11-24"
 venue: '2022 IEEE 19th India Council International Conference (INDICON), Kochi, India'
 paperurl: 'https://ieeexplore.ieee.org/document/10040218'
 bibtexurl: 'https://ayush253.github.io/files/bibtex-indicon2022.bib'
