@@ -11,17 +11,18 @@ redirect_from:
 
 Education
 ======
-<!-- TODO(Ayush): replace the placeholder below with your real degrees, newest first -->
-* Degree in Field, University Name, Year
+* **Ph.D. (ongoing)** — Centre of Studies in Resources Engineering (CSRE), IIT Bombay
+<!-- Earlier degrees: add verified B.Tech/M.Tech degree, institution, and year when provided. -->
 
 Work & research experience
 ======
-<!-- TODO(Ayush): replace the placeholder below with your positions, newest first -->
-* Role, Institution/Company, Period
-  * Brief description of what you did or achieved.
+* **Doctoral Researcher**, CSRE, IIT Bombay
+  * Research interests: deep learning for remote sensing, quantum machine learning, computer vision, and foundation models.
 
 Skills
 ======
+* **Deep learning:** PyTorch, transformers, computer vision
+* **Research applications:** remote sensing, foundation models
 * **Machine learning:** linear/ridge/lasso & polynomial regression, decision trees, random forest, gradient boosting (XGBoost, GBR), AdaBoost, KNN, SVM
 * **Data science:** PCA & dimensionality reduction, feature engineering, model evaluation (R², MSE, RMSE, MAE)
 * **Programming & tools:** Python, Jupyter notebooks, pandas, scikit-learn
