@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ayush V. Patel"
 title_separator          : "-"
 name                     : &name "Ayush V. Patel"
-description              : &description "Personal website of Ayush V. Patel — researcher applying machine learning to civil engineering problems."
+description              : &description "Personal website of Ayush V. Patel — Doctoral Researcher at CSRE, IIT Bombay, working on deep learning, remote sensing, computer vision, and quantum machine learning."
 url                      : https://ayush253.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ayush253/ayush.github.io"
@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Ayush V. Patel"
   pronouns         : # example: "he/him"
-  bio              : "Researcher applying machine learning to civil engineering problems. Published at IEEE INDICON 2022."
-  location         : "India"
-  employer         : # TODO(Ayush): add your institution/company, e.g. "IIT Bombay"
+  bio              : "Doctoral Researcher at CSRE, IIT Bombay — deep learning, computer vision, quantum machine learning, remote sensing"
+  location         : "Mumbai, India"
+  employer         : "IIT Bombay"
   uri              : # URL
-  email            : # TODO(Ayush): add your email, e.g. "ayush@example.com"
+  email            : "ayu020503@gmail.com"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # TODO(Ayush): add your Google Scholar profile URL
+  googlescholar    : "https://scholar.google.com/citations?user=-2PNnMIAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # TODO(Ayush): add your ORCID URL, e.g. "https://orcid.org/0000-..."
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # TODO(Ayush): add your LinkedIn username
+  linkedin         : "ayush-patel-ds"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -83,8 +83,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  preprints:
+    title: 'Preprints'
   books:
-    title: 'Books'
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'    
   conferences:

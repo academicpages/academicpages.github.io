@@ -7,19 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher working at the intersection of **machine learning** and **civil engineering**. My work focuses on building predictive machine-learning models for real-world infrastructure problems — from regression ensembles for material strength prediction to feature-engineering and dimensionality-reduction studies.
+I am a **Doctoral Researcher at CSRE (Centre of Studies in Resources Engineering), IIT Bombay**. My research interests span deep learning for remote sensing, quantum machine learning, computer vision, and foundation models.
 
-<!-- TODO(Ayush): add 1-2 sentences about your current institution/role once ready,
-     e.g. "I am currently a <position> at <institution>, where I work on ..." -->
-
-My research has been published at **IEEE INDICON 2022**, where our team benchmarked eleven regression algorithms — with and without PCA-based dimensionality reduction — for predicting the compressive strength of concrete. See the [Publications](/publications/) page for details.
+My publications cover remote sensing and quantum-classical learning, alongside earlier work on applied machine learning. See the [Publications](/publications/) page for my research papers and preprints.
 
 Research interests
 ======
-* Applied machine learning for civil engineering and construction materials
-* Regression modelling and ensemble methods (XGBoost, Random Forest, Gradient Boosting)
-* Dimensionality reduction and feature engineering (PCA)
-* Scientific computing with Python (pandas, scikit-learn, Jupyter)
+* Deep learning for remote sensing
+* Quantum machine learning
+* Computer vision
+* Foundation models
 
 Selected projects
 ======
