@@ -1,18 +1,12 @@
 # Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+#
+# Optional: define co-authors or guest post authors here. Pages that set an
+# `author:` field in their front matter look up that key in this file.
+# Example:
+#
+# Jane Doe:
+#   name  : "Jane Doe"
+#   uri   : "https://janedoe.example.com"
+#   email : "jane@example.com"
+#   bio   : "Short bio shown in the sidebar."
+#   avatar: "bio-photo-2.jpg"
