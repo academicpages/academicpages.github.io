@@ -1,3 +1,5 @@
+@use 'sass:math';
+
 //////////////////////////////
 // Converts the input value to Base EMs
 //////////////////////////////
@@ -25,16 +27,16 @@
   $unit: unit($value);
 
   @if $unit == 'px' {
-    @return $value / 16px * 1em;
+    @return math.div($value, 16px) * 1em;
   }
   @else if $unit == '%' {
-    @return $value / 100% * 1em;
+    @return math.div($value, 100%) * 1em;
   }
   @else if $unit == 'em' {
     @return $value;
   }
   @else if $unit == 'pt' {
-    @return $value / 12pt * 1em;
+    @return math.div($value, 12pt) * 1em;
   }
   @else {
     @return $value;

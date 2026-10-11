@@ -1,6 +1,6 @@
 // Gutter Syntax
 // =============
-
+@use 'sass:math';
 
 // Gutters
 // -------
@@ -77,7 +77,7 @@
     } @else {
       $_columns : susy-get(columns, $context);
       $_spread  : if(is-split($context), wide, susy-get(spread, $context));
-      $_gutter  : percentage($_gutters / susy-sum($_columns, $_gutters, $_spread));
+      $_gutter  : percentage(math.div($_gutters, susy-sum($_columns, $_gutters, $_spread)));
     }
   }
 
