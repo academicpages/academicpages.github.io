@@ -28,12 +28,12 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    faraday (2.13.1)
+    faraday (2.14.3)
       faraday-net_http (>= 2.0, < 3.5)
       json
       logger
-    faraday-net_http (3.4.0)
-      net-http (>= 0.5.0)
+    faraday-net_http (3.4.4)
+      net-http (~> 0.5)
     ffi (1.17.2)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -75,7 +75,7 @@ GEM
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (2.11.3)
+    json (3.0.2)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -84,12 +84,15 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    logger (1.6.6)
+    logger (1.7.0)
     mercenary (0.3.6)
     minitest (5.25.5)
     mutex_m (0.3.0)
-    net-http (0.6.0)
-      uri
+    net-http (0.10.0)
+      net-protocol (>= 0.3.0)
+      uri (>= 0.11.1)
+    net-protocol (0.4.0)
+      timeout
     nokogiri (1.17.2-x86_64-linux)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -114,9 +117,10 @@ GEM
       addressable (>= 2.3.5)
       faraday (>= 0.17.3, < 3)
     securerandom (0.3.2)
+    timeout (0.6.1)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    uri (1.0.3)
+    uri (1.1.2)
     webrick (1.9.1)
 
 PLATFORMS
