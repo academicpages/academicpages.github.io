@@ -11,6 +11,7 @@ paperurl: 'https://doi.org/10.1109/CDC57313.2025.11312171'
 ieeeurl: 'https://ieeexplore.ieee.org/document/11312171'
 arxivurl: 'https://arxiv.org/abs/2505.22889'
 codeurl: 'https://github.com/hmon91/Local-stability-of-NN-controlled-systems'
+libraryurl: 'https://github.com/hmon91/nnsector'
 citation: 'H. Montazeri Hedesh, M. K. Wafi, and M. Siami. (2025). "Local Stability and Region of Attraction Analysis for Neural Network Feedback Systems under Positivity Constraints," <i>2025 IEEE 64th Conference on Decision and Control</i>, Rio de Janeiro, Brazil, pp. 1142-1149.'
 ---
 

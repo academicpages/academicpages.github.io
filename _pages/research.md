@@ -16,6 +16,8 @@ author_profile: true
 ## 1. Neural Network Bounding
 A critical step in verifying neural feedback loops is creating accurate, tractable mathematical models of the neural network's non-linear behavior. My research focuses on deriving linear "Sector Bounds" that enclose the network's output.
 
+> **Software:** Both the global and the local sector bounds below are available in my open-source library [nnsector](https://github.com/hmon91/nnsector), for Python and MATLAB. See the [Software]({{ base_path }}/software/) page.
+
 ### Global Sector Bounds
 For global stability analysis, I derived a method to calculate **Global Sector Bounds** for fully connected Feedforward Neural Networks (FFNNs). This method assumes the network has **no bias terms** (or biases are handled separately), ensuring the origin is an equilibrium point.
 

@@ -34,6 +34,7 @@ I develop theory, algorithms, and software for certifying learning-enabled syste
 ### Research Highlights
 * **Scalable Verification:** Developed a scalable stability and robustness verification pipeline for learning-enabled autonomous systems, achieving up to ~\\(10^4 \times\\) speedup over state-of-the-art methods.
 * **Neural Network Bounding:** Introduced novel global and local sector-bounds for Feedforward Neural Networks (FFNNs), enabling depth-agnostic and input-aware bounds with tighter certification than methods like CROWN.
+* **Open-Source Library:** Released [nnsector](https://github.com/hmon91/nnsector), a Python and MATLAB library that computes these local and global sector bounds for FFNNs, ready for stability tests of neural feedback loops. See the [Software]({{ base_path }}/software/) page.
 * **Tool Integration:** Integrated verification tools (AutoLIRPA, JAX-Verify) with classical control analysis (Lyapunov methods, MPC) to build reproducible verification workflows.
 
 I am currently working on my thesis: *"Scalable Method for Stability and Robustness Verification of Systems with NN Feedback using Positivity Constraints"*.

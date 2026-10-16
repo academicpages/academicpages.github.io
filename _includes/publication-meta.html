@@ -10,6 +10,6 @@ Usage: include publication-meta.html post=post
 {% assign pub = include.post %}
 {% if pub.status %}<p class="publication-status">{{ pub.status }}</p>{% endif %}
 {% assign sep = "" %}
-{% capture links %}{% if pub.ieeeurl %}<a href="{{ pub.ieeeurl }}">IEEE Xplore</a>{% assign sep = " &middot; " %}{% endif %}{% if pub.arxivurl %}{{ sep }}<a href="{{ pub.arxivurl }}">arXiv</a>{% assign sep = " &middot; " %}{% endif %}{% if pub.codeurl %}{{ sep }}<a href="{{ pub.codeurl }}">Code</a>{% assign sep = " &middot; " %}{% endif %}{% if pub.slidesurl %}{{ sep }}<a href="{{ pub.slidesurl }}">Slides</a>{% endif %}{% endcapture %}
+{% capture links %}{% if pub.ieeeurl %}<a href="{{ pub.ieeeurl }}">IEEE Xplore</a>{% assign sep = " &middot; " %}{% endif %}{% if pub.arxivurl %}{{ sep }}<a href="{{ pub.arxivurl }}">arXiv</a>{% assign sep = " &middot; " %}{% endif %}{% if pub.codeurl %}{{ sep }}<a href="{{ pub.codeurl }}">Code</a>{% assign sep = " &middot; " %}{% endif %}{% if pub.libraryurl %}{{ sep }}<a href="{{ pub.libraryurl }}">Library</a>{% assign sep = " &middot; " %}{% endif %}{% if pub.slidesurl %}{{ sep }}<a href="{{ pub.slidesurl }}">Slides</a>{% endif %}{% endcapture %}
 {% assign links = links | strip %}
 {% if links != "" %}<p class="publication-links">{{ links }}</p>{% endif %}
