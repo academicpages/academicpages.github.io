@@ -26,6 +26,30 @@
 {% endif %}
 <meta name="description" content="{{ seo_description }}">
 
+{% assign seo_image = false %}
+{% if page.header.image %}
+  {% if page.header.image contains "://" %}
+    {% assign seo_image = page.header.image %}
+  {% else %}
+    {% assign seo_image = page.header.image | prepend: "/images/" | prepend: base_path %}
+  {% endif %}
+{% elsif page.header.overlay_image %}
+  {% if page.header.overlay_image contains "://" %}
+    {% assign seo_image = page.header.overlay_image %}
+  {% else %}
+    {% assign seo_image = page.header.overlay_image | prepend: "/images/" | prepend: base_path %}
+  {% endif %}
+{% elsif site.og_image %}
+  {% assign seo_image = site.og_image | prepend: "/images/" | prepend: base_path %}
+{% else %}
+  {% assign seo_image = "/images/og-image.png" | prepend: base_path %}
+{% endif %}
+{% if seo_image contains "://" %}
+  {% assign seo_image_abs = seo_image %}
+{% else %}
+  {% assign seo_image_abs = seo_image | prepend: base_path %}
+{% endif %}
+
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
   {% if seo_author.twitter %}
@@ -48,22 +72,23 @@
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
+{% if seo_image %}
+  {% assign seo_twitter_card = "summary_large_image" %}
+{% else %}
+  {% assign seo_twitter_card = "summary" %}
+{% endif %}
+<meta name="twitter:card" content="{{ seo_twitter_card }}">
+<meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+<meta name="twitter:description" content="{{ seo_description }}">
+{% if canonical_url %}
+  <meta name="twitter:url" content="{{ canonical_url }}">
+{% endif %}
+{% if seo_image_abs %}
+  <meta name="twitter:image" content="{{ seo_image_abs }}">
+{% endif %}
+
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
-  <meta name="twitter:description" content="{{ seo_description }}">
-  <meta name="twitter:url" content="{{ canonical_url }}">
-
-  {% if page.header.image %}
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-  {% else %}
-    <meta name="twitter:card" content="summary">
-    {% if site.og_image %}
-      <meta name="twitter:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
-    {% endif %}
-  {% endif %}
-
   {% if seo_author_twitter %}
     <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
   {% endif %}
@@ -116,16 +141,18 @@
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}"> 
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
-{% if page.date %}
-  <meta property="og:type" content="article">
-{% endif %}
-{% if page.excerpt %}
-  <meta property="og:description" name="description" content="{{ seo_description }}">
-{% elsif site.og_description %}
-  <meta property="og:description" name="description" content="{{ site.og_description }}">
+<meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+{% if seo_description %}
+  <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 {% if seo_url %}
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
+{% endif %}
+{% if seo_image_abs %}
+  <meta property="og:image" content="{{ seo_image_abs }}">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
 {% endif %}
 
 {% if site.og_image %}
@@ -139,9 +166,4 @@
   </script>
 {% endif %}
 
-{% if page.header.image %}
-  <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% elsif page.header.overlay_image %}
-  <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% endif %}
 <!-- end Open Graph protocol -->
