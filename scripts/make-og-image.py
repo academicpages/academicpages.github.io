@@ -53,7 +53,9 @@ def main():
     if os.path.exists(logo_path):
         logo = Image.open(logo_path).convert("RGBA")
         logo.thumbnail((210, 210), Image.Resampling.LANCZOS)
-        img.paste(logo, (W - 210 - 70, 40), logo)
+        # Align the logo's top edge with the top of the "Academic Pages" title
+        # (title is drawn at y=190 below), per maintainer review.
+        img.paste(logo, (W - 210 - 70, 172), logo)
     else:
         # Fallback: simple graduation-cap motif if the favicon is missing
         mx, my = W - 230, 130
