@@ -1,23 +1,17 @@
 {% include base_path %}
 
-<!-- begin SEO -->
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
+  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
-
 {% if seo_title %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
-
-{% if site.url %}
-  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
-{% endif %}
-
 <title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
@@ -28,8 +22,8 @@
 
 {% comment %} ===== Social share image =====
 Priority: page.header.image > page.header.overlay_image > site.og_image > default /images/og-image.png.
-Absolute URLs (containing "://") are used as-is; relative paths are resolved
-under /images/ and prepended with base_path so the result is always absolute.
+Absolute URLs (containing "://") are used as-is; relative paths are resolved under /images/ and prepended
+with base_path so the result is always absolute.
 {% endcomment %}
 {% assign seo_image_abs = false %}
 {% if page.header.image %}
@@ -73,7 +67,8 @@ under /images/ and prepended with base_path so the result is always absolute.
 {% endif %}
 
 {% comment %} Twitter/X card tags are only emitted when the site configures a
-Twitter username (site.twitter.username), matching upstream behavior. {% endcomment %}
+Twitter username (site.twitter.username), matching upstream behavior.
+{% endcomment %}
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
   <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
@@ -133,17 +128,15 @@ Twitter username (site.twitter.username), matching upstream behavior. {% endcomm
 {% if site.yandex_site_verification %}
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
-<!-- end SEO -->
 
-<!-- Open Graph protocol data (https://ogp.me/), used by social media -->
+{% comment %} Open Graph protocol data (https://ogp.me/), used by social media {% endcomment %}
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}"> 
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 {% if page.date %}
   <meta property="og:type" content="article">
 {% endif %}
-{% comment %} Restore upstream description logic: og:description comes from the
-page excerpt, or falls back to site.og_description; it is not emitted otherwise. {% endcomment %}
+{% comment %} og:description comes from the page excerpt, or falls back to site.og_description; it is not emitted otherwise. {% endcomment %}
 {% if page.excerpt %}
   <meta property="og:description" name="description" content="{{ seo_description }}">
 {% elsif site.og_description %}
@@ -171,5 +164,3 @@ page excerpt, or falls back to site.og_description; it is not emitted otherwise.
     }
   </script>
 {% endif %}
-
-<!-- end Open Graph protocol -->
