@@ -1,6 +1,6 @@
 # scripts/
 
-Utility scripts for this repository.
+Utility scripts for the Academic Pages template.
 
 ## `make-og-image.py`
 
