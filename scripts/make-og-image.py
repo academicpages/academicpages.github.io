@@ -54,8 +54,8 @@ def main():
         logo = Image.open(logo_path).convert("RGBA")
         logo.thumbnail((210, 210), Image.Resampling.LANCZOS)
         # Align the logo's top edge with the top of the "Academic Pages" title
-        # (title is drawn at y=190 below), per maintainer review.
-        img.paste(logo, (W - 210 - 70, 172), logo)
+        # (title is drawn at y=32 below), per maintainer review.
+        img.paste(logo, (W - 210 - 70, 14), logo)
     else:
         # Fallback: simple graduation-cap motif if the favicon is missing
         mx, my = W - 230, 130
@@ -63,18 +63,20 @@ def main():
         d.polygon([(mx - 90, my), (mx, my + 55), (mx - 90, my + 110), (mx - 180, my + 55)], fill=(130, 160, 215))
         d.polygon([(mx - 90, my + 110), (mx - 180, my + 55), (mx - 180, my + 110), (mx - 90, my + 165)], fill=(130, 160, 215))
 
-    # Title + subtitle (left)
-    d.text((70, 190), "Academic Pages", font=f_title, fill=DARK)
-    d.text((70, 290), "A Jekyll theme for academic", font=f_sub, fill=GREY)
-    d.text((70, 340), "personal websites", font=f_sub, fill=GREY)
+    # Title + subtitle (left). Vertical rhythm: 44px padding above the title
+    # matches the 44px padding below the footer domain chip (maintainer review
+    # 2026-10-18). Content band 44..586 (542px) split into even 58px gaps.
+    d.text((70, 32), "Academic Pages", font=f_title, fill=DARK)
+    d.text((70, 164), "A Jekyll theme for academic", font=f_sub, fill=GREY)
+    d.text((70, 258), "personal websites", font=f_sub, fill=GREY)
 
     # separator
-    d.line([70, 410, W - 70, 410], fill=(230, 230, 230), width=2)
+    d.line([70, 362, W - 70, 362], fill=(230, 230, 230), width=2)
 
     # content pills
     pills = ["Publications", "Talks", "Teaching", "Portfolio", "CV"]
     x = 70
-    y = 440
+    y = 422
     for p_ in pills:
         fw = d.textlength(p_, font=f_pill) + 44
         if x + fw > 1130:
