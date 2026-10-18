@@ -2,11 +2,20 @@
 """Generate the default 1200x630 OG image for Academic Pages (academicpages.github.io).
 
 Pillow-only, byte-reproducible. Clean academic card matching the template:
-white ground, #36c link-blue accent (the site's favicon/icon color), a simple
-graduation-cap motif, title + subtitle + content pills + domain chip.
+white ground, #36c link-blue accent (the site's favicon/icon color), the site's
+actual favicon logo (images/favicon-512x512.png, the OOjs "academic-progressive"
+icon used across the template), title + subtitle + content pills + domain chip.
+
+Usage:
+    python3 scripts/make-og-image.py
+
+The script writes images/og-image.png. Requires Pillow and a TrueType font
+(default DejaVu Sans; override the font directory with FONT_DIR).
 """
 import os
 from PIL import Image, ImageDraw, ImageFont
+
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 W, H = 1200, 630
 BG = (255, 255, 255)          # white
@@ -38,17 +47,19 @@ def main():
     f_sub = font(36)
     f_pill = font(28, bold=True)
     f_domain = font(30, bold=True)
-    f_foot = font(24)
 
-    # Graduation cap motif (top-right): simple mortarboard + tassel
-    mx = W - 230
-    my = 130
-    d.polygon([(mx - 90, my), (mx, my - 55), (mx + 90, my), (mx, my + 55)], fill=BLUE)
-    d.polygon([(mx - 90, my), (mx, my + 55), (mx - 90, my + 110), (mx - 180, my + 55)], fill=(130, 160, 215))
-    d.line([mx, my - 55, mx, my + 55], fill=(255, 255, 255), width=6)
-    # tassel
-    d.line([mx + 5, my + 48, mx + 40, my + 110], fill=BLUE, width=6)
-    d.ellipse([mx + 32, my + 108, mx + 48, my + 124], fill=BLUE)
+    # Official site logo (top-right): composite the template's real favicon
+    logo_path = os.path.join(REPO_ROOT, "images", "favicon-512x512.png")
+    if os.path.exists(logo_path):
+        logo = Image.open(logo_path).convert("RGBA")
+        logo.thumbnail((210, 210), Image.Resampling.LANCZOS)
+        img.paste(logo, (W - 210 - 70, 40), logo)
+    else:
+        # Fallback: simple graduation-cap motif if the favicon is missing
+        mx, my = W - 230, 130
+        d.polygon([(mx - 90, my), (mx, my - 55), (mx + 90, my), (mx, my + 55)], fill=BLUE)
+        d.polygon([(mx - 90, my), (mx, my + 55), (mx - 90, my + 110), (mx - 180, my + 55)], fill=(130, 160, 215))
+        d.polygon([(mx - 90, my + 110), (mx - 180, my + 55), (mx - 180, my + 110), (mx - 90, my + 165)], fill=(130, 160, 215))
 
     # Title + subtitle (left)
     d.text((70, 190), "Academic Pages", font=f_title, fill=DARK)
@@ -76,7 +87,7 @@ def main():
     d.rounded_rectangle([70, H - 92, 592, H - 44], 24, fill=DARK)
     d.text((104, H - 84), "academicpages.github.io", font=f_domain, fill=(255, 255, 255))
 
-    out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "images", "og-image.png")
+    out = os.path.join(REPO_ROOT, "images", "og-image.png")
     img.save(out, "PNG")
     print("wrote", os.path.normpath(out), img.size)
 
