@@ -1,0 +1,30 @@
+{
+    "news-comment-moderator": {
+        "path": "public/articles/news-comment-moderator/news-comment-moderator.md",
+        "title": "News Comment Moderator",
+        "created_at": "2026-10-21T22:27:13.058Z",
+        "summary": "A pretrained-transformer pipeline that detects the frames used in a news article, then evaluates and gives feedback on comments written in response to it.",
+        "draft": false,
+        "tags": [
+            "nlp",
+            "llm",
+            "research-tool"
+        ],
+        "updated_at": "2026-10-21T22:27:13.058Z",
+        "hash": "e8944f9cc5922090cffd318c2fe9ef9c5dc2f3ceab0d9db4573b5d59f8da95e7"
+    },
+    "climate-narrative-analyzer": {
+        "path": "public/articles/climate-narrative-analyzer/climate-narrative-analyzer.md",
+        "title": "Climate Narrative Analyzer",
+        "created_at": "2026-10-21T22:27:13.056Z",
+        "summary": "A dashboard that collects climate news and uses AI to show how different outlets tell the story: who is responsible, who is affected, and which wider themes appear.",
+        "draft": false,
+        "tags": [
+            "nlp",
+            "llm",
+            "dashboard"
+        ],
+        "updated_at": "2026-10-21T22:27:13.056Z",
+        "hash": "926ebcdff3a03e3f77415f6f9d564de9546289da1772475b5f0f0821b194f9bf"
+    }
+}

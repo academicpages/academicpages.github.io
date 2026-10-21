@@ -1,7 +1,0 @@
-#! /bin/sh
-
-set -e
-
-echo "Time to get set up."
-bundle install
-echo "Boom."

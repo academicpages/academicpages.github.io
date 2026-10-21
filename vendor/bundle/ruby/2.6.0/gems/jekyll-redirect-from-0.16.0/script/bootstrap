@@ -1,4 +1,0 @@
-#! /bin/bash
-set -e
-
-bundle install -j8 || bundle install

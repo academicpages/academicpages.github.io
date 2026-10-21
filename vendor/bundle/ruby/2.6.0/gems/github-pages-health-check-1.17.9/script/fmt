@@ -1,5 +1,0 @@
-#!/bin/bash
-#/ Usage: script/fmt [args]
-#/ Runs rubocop with the given arguments.
-
-bundle exec rubocop -D -S $@

@@ -1,7 +1,0 @@
-#!/bin/sh
-
-set -ex
-
-bundle exec rspec
-bundle exec rubocop -S -D
-bundle exec gem build jekyll-seo-tag.gemspec

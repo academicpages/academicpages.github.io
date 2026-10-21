@@ -1,9 +1,0 @@
----
-  simple: "less is more"
-  whatever: "something %{something}"
-  errors:
-    i18n:
-      undefined_interpolation: "undefined key %{key}"
-      unknown_translation: "translation '%{name}' wasn't found"
-    syntax:
-      oops: "something wasn't right"

@@ -1,8 +1,0 @@
-*.gem
-.bundle
-Gemfile.lock
-.DS_Store
-.yardoc
-doc
-coverage
-.idea

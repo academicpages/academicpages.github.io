@@ -1,0 +1,13 @@
+# =====================================================
+# Configuration settings for Giscus (comments & reactions on article pages)
+#
+# Disabled by default — this repo doesn't have GitHub Discussions set up yet.
+# To enable: visit https://giscus.app, select this repository, enable
+# Discussions on it, and fill in the values below.
+# =====================================================
+
+giscus:
+  repo: "mattguida/mattguida.github.io"
+  repoId: ""
+  category: ""
+  categoryId: ""

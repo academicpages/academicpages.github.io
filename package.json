@@ -1,33 +1,76 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+  "name": "mattguida.github.io",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "prebuild": "npm run build:site-json && npm-run-all --parallel fetch:repos build:article-index convert:config",
+    "build:manual": "tsc -b && vite build",
+    "prebuild:manual": "npm run build:site-json && npm-run-all --parallel fetch:repos build:article-index",
+    "format": "prettier --write 'src/**/*.ts'",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "npm run build && gh-pages -d dist",
+    "deploy:clean": "rm -rf node_modules/.cache/gh-pages/ && npm run deploy",
+    "deploy:manual": "npm run build:manual && gh-pages -d dist",
+    "fetch:repos": "node scripts/fetch-repos.js",
+    "build:article-index": "node scripts/build-article-index.js",
+    "build:site-json": "node scripts/generate-site-json.js config/site.yaml",
+    "convert:config:profile": "node scripts/yaml-to-ts.js config/profile.yaml",
+    "convert:config:pubs": "node scripts/yaml-to-ts.js config/publications.yaml",
+    "convert:config:giscus": "node scripts/yaml-to-ts.js config/giscus.yaml",
+    "convert:config:sidebar": "node scripts/yaml-to-ts.js config/sidebar.yaml",
+    "convert:config:homepage": "node scripts/yaml-to-ts.js config/homepage.yaml",
+    "convert:config": "npm-run-all convert:config:*"
   },
-  "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
-  ],
-  "author": "Michael Rose",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
-  },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
-  "engines": {
-    "node": ">= 0.10.0"
+  "dependencies": {
+    "@giscus/react": "^3.1.0",
+    "@radix-ui/react-avatar": "^1.1.9",
+    "@radix-ui/react-collapsible": "^1.1.10",
+    "@radix-ui/react-dialog": "^1.1.13",
+    "@radix-ui/react-dropdown-menu": "^2.1.14",
+    "@radix-ui/react-scroll-area": "^1.2.9",
+    "@radix-ui/react-select": "^2.2.5",
+    "@radix-ui/react-separator": "^1.1.6",
+    "@radix-ui/react-slot": "^1.2.4",
+    "@radix-ui/react-tooltip": "^1.2.6",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tailwindcss/vite": "^4.1.7",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "js-yaml": "^4.1.1",
+    "lucide-react": "^0.554.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-markdown": "^10.1.0",
+    "react-router": "^7.12.0",
+    "rehype-raw": "^7.0.0",
+    "remark-gfm": "^4.0.1",
+    "sonner": "^2.0.3",
+    "tailwind-merge": "^3.3.0",
+    "tailwindcss": "^4.1.7"
   },
   "devDependencies": {
-    "npm-run-all": "^1.7.0",
-    "onchange": "^2.2.0",
-    "uglify-js": "^2.6.1"
-  },
-  "scripts": {
-    "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
-    "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
-    "build:js": "npm run uglify"
+    "@eslint/js": "^9.25.0",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^5.1.1",
+    "dotenv": "^17.2.3",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "gh-pages": "^6.3.0",
+    "globals": "^16.0.0",
+    "npm-run-all": "^4.1.5",
+    "tw-animate-css": "^1.3.0",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.47.0",
+    "vite": "^7.2.4"
   }
 }

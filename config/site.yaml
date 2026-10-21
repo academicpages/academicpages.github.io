@@ -1,0 +1,10 @@
+# =====================================================
+# Website Configuration
+# This section contains general information about your website.
+# =====================================================
+
+site:
+  name: "Matteo Guida"
+  repoUrl: "https://github.com/mattguida/mattguida.github.io"
+  description: "PhD candidate in NLP and computational social science at the University of Melbourne."
+  author: "Matteo Guida"

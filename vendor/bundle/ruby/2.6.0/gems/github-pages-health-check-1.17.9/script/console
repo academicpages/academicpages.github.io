@@ -1,5 +1,0 @@
-#!/bin/sh
-
-set -ex
-
-bundle exec pry -r "./lib/github-pages-health-check"

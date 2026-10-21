@@ -1,5 +1,0 @@
-#! /usr/bin/env bash
-set -e
-
-script/fmt
-bundle exec rspec

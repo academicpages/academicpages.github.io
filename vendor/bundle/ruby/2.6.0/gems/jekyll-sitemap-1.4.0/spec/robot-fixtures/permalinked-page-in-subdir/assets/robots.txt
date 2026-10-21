@@ -1,5 +1,0 @@
----
-permalink: '/robots.txt'
----
-
-Allow: {{ site.url }}

@@ -1,8 +1,0 @@
-typographic_symbols:
-  hellip: '...'
-  mdash: '---'
-  ndash: '--'
-  laquo: '<<'
-  raquo: '>>'
-  laquo_space: '<< '
-  raquo_space: ' >>'

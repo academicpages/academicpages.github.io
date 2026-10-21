@@ -1,4 +1,0 @@
----
----
-
-December the twelfth, actually.

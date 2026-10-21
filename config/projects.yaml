@@ -1,0 +1,26 @@
+# =====================================================
+# Project data displayed on the Projects page.
+#
+# This section automatically fetches project information from your GitHub repositories.
+#
+# ✔ The `id` field should be the exact repository name
+#    (e.g., from: github.com/<your-username>/<repo-name>)
+#
+# ✔ The `displayName` field controls how the project name appears on the website.
+#
+# ✔ Use the `featured` field to control which projects appear on the homepage.
+#    - featured: true  → shown on the homepage
+#    - featured: false → shown only on the Projects page
+# =====================================================
+
+projects:
+  items:
+    - id: "news-comment-moderator"
+      displayName: "News Comment Moderator"
+      previewImage: "/images/comment-moderator-article.png"
+      featured: true
+
+    - id: "climate-narrative-analyzer"
+      displayName: "Climate Narrative Analyzer"
+      previewImage: "/images/climate-narrative-dashboard.png"
+      featured: true

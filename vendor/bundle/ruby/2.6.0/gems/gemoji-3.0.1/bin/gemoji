@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-require 'emoji/cli'
-
-exit_code = Emoji::CLI.dispatch(ARGV)
-exit exit_code

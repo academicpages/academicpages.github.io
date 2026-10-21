@@ -1,9 +1,0 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-@charset "utf-8";
-
-// Import partials from `sass_dir` and set theme here
-@import
-        "theme-{{ site.theme_color | default: "black" }}.scss"
-;

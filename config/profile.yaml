@@ -1,0 +1,80 @@
+# =====================================================
+# Data displayed on the Home (About Me) page.
+# =====================================================
+
+# =====================================================
+# 👤 Personal Information
+# =====================================================
+
+profile:
+  name: "Matteo Guida"
+  headline: "PhD Candidate @ University of Melbourne"
+  email: "matteo.guidaa@gmail.com"
+  location: "Melbourne, Australia"
+  profileImage: "/images/second_profile.png"
+
+  links:
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=Z4WLFFIAAAAJ&hl=en&oi=ao"
+      icon:
+        name: "FaGoogleScholar"
+        package: "react-icons/fa6"
+
+    - name: "Résumé"
+      url: "/pdf/MatteoGuida_Resume_I.pdf"
+      icon:
+        name: "FaRegIdBadge"
+        package: "react-icons/fa6"
+
+    - name: "Github"
+      url: "https://github.com/mattguida"
+      icon:
+        name: "FaGithub"
+        package: "react-icons/fa6"
+
+  biography: |
+    My research uses computational methods drawing from <em>natural language processing</em> and statistical methods to understand human behaviour through vast collections of online data — looking at how framing, moral values, and argumentation shape the way we read the news, respond to it, and reshape each other's views in the comments.
+    <div class="my-2"></div>
+    I'm a Ph.D. candidate at the University of Melbourne's School of Computing and Information Systems, supervised by <a href="https://www.frermann.de/" target="_blank" rel="noopener noreferrer">Prof. Lea Frermann</a>, <a href="https://findanexpert.unimelb.edu.au/profile/887453-eduard-hovy" target="_blank" rel="noopener noreferrer">Prof. Ed Hovy</a>, and <a href="https://scholar.google.com/citations?user=yzaozUUAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Yulia Otmakhova</a>. Before this, I completed a Masters in Speech and Language Processing at the University of Konstanz.
+    <div class="my-2"></div>
+    I'm currently looking for opportunities to apply my experience in natural language processing, machine learning, and large-scale data analysis — ideally in media intelligence, media analytics, audience insights, or a related field. Feel free to <a href="mailto:matteo.guidaa@gmail.com" target="_blank" rel="noopener noreferrer">reach out</a> to connect.
+
+# =====================================================
+# 🎓 Education Section
+# =====================================================
+
+education:
+  - degree: "Ph.D. in Computer Science (NLP/AI)"
+    school: "University of Melbourne"
+    years: "Apr 2024 - Apr 2027"
+    logo: "https://upload.wikimedia.org/wikipedia/en/b/b4/The_University_of_Melbourne_Coat_of_Arms.svg"
+
+  - degree: "Masters in Speech and Language Processing"
+    school: "University of Konstanz"
+    years: "Oct 2021 - Feb 2024"
+    logo: "https://upload.wikimedia.org/wikipedia/commons/5/55/Universitat_Konstanz_logo.svg"
+
+  - degree: "B.A. in Applied Linguistics"
+    school: "University of Trieste"
+    years: "Oct 2018 - Jul 2021"
+    logo: "https://upload.wikimedia.org/wikipedia/en/a/ad/University_of_Trieste_logo.svg"
+
+# =====================================================
+# 💼 Work Experience Section
+# =====================================================
+
+workExperience:
+  - title: "Casual Software Developer"
+    company: "University of Melbourne"
+    years: "May 2026 - Present"
+    logo: "https://upload.wikimedia.org/wikipedia/en/b/b4/The_University_of_Melbourne_Coat_of_Arms.svg"
+
+  - title: "Working Student — Natural Language Processing"
+    company: "DHL Group"
+    years: "Sep 2023 - Feb 2024"
+    logo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/DHL_Logo.svg"
+
+  - title: "Intern — Linguistic Data Management & NLP Engineering"
+    company: "Deutsche Post DHL Group"
+    years: "Mar 2023 - Aug 2023"
+    logo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/DHL_Logo.svg"
