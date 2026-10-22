@@ -44,6 +44,29 @@ redirect_from:
 
  * The [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/) is a useful guide for those that want to add functionality to the template or to become contributors to the [template on GitHub](https://github.com/academicpages/academicpages.github.io).
 
+## Thumbnail carousel
+
+Archive items, including portfolio entries, can display an optional
+multi-image thumbnail carousel. See the
+[portfolio example]({{ "/portfolio/" | relative_url }}) for a demonstration.
+
+Add a `thumbnails` array to an item's YAML front matter:
+
+```yaml
+thumbnails:
+  - src: "/images/500x300.png"
+    alt: "First image"
+  - src: "/images/og-image.png"
+    alt: "Second image"
+```
+
+The carousel provides previous/next buttons, a slide counter, and
+left/right arrow-key navigation. Entries without `thumbnails`
+continue to use their existing teaser behavior.
+
+See [thumbnail carousel documentation](https://github.com/academicpages/academicpages.github.io/blob/master/docs/thumbnail-carousel.md)
+for configuration details.
+
 ## MathJax 
 
 Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/), [documentation](https://docs.mathjax.org/en/latest/)) is included in the template:
