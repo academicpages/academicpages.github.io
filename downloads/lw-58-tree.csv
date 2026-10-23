@@ -1,0 +1,5 @@
+edge_number,proposal_id,from_code,from_name,to_code,to_name,distance_m
+1,E-07,FOUNDRY,Foundry Court,CANAL,Canal Steps,90
+2,E-05,QUAY,East Quay,GARDEN,Lantern Garden,110
+3,E-02,ARCH,Old Stone Arch,CANAL,Canal Steps,120
+4,E-09,GARDEN,Lantern Garden,FOUNDRY,Foundry Court,130

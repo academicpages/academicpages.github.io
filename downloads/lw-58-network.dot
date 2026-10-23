@@ -1,0 +1,12 @@
+graph LW_58 {
+  graph [label="Stonebridge Lantern Walk Network"];
+  "ARCH" [label="Old Stone Arch"];
+  "CANAL" [label="Canal Steps"];
+  "FOUNDRY" [label="Foundry Court"];
+  "GARDEN" [label="Lantern Garden"];
+  "QUAY" [label="East Quay"];
+  "FOUNDRY" -- "CANAL" [label="90 m", id="E-07"];
+  "QUAY" -- "GARDEN" [label="110 m", id="E-05"];
+  "ARCH" -- "CANAL" [label="120 m", id="E-02"];
+  "GARDEN" -- "FOUNDRY" [label="130 m", id="E-09"];
+}
