@@ -16,11 +16,11 @@ author_profile: true
 
 * **From Diverse Outputs to Structured Set: Semantic Planning Enables Parallel Advertising Text Generation**  
 **Penghui Wei** and Jiayu Wu  
-**EMNLP ’26**, Industry Track: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track. Budapest, Hungary, October 24-29, 2026.  
+**EMNLP ’26**, Industry Track: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track, pages 3127-3136. Budapest, Hungary, October 24-29, 2026.  
 
 * **Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search**  
 **Penghui Wei**, Jiayu Wu, Chao Ye, Zhi Guo, Shuanglong Li, Lin Liu  
-**EMNLP ’26**, Industry Track: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track. Budapest, Hungary, October 24-29, 2026.  
+**EMNLP ’26**, Industry Track: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track, pages 532-544. Budapest, Hungary, October 24-29, 2026.  
 
 * **IDEATION: Diversifying Ad Text Generation in Sponsored Search with Latent Diffusion**  
 **Penghui Wei**  
