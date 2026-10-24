@@ -1,0 +1,32 @@
+name: AT-73 verify
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+      - name: Compare with upstream
+        run: |
+          git fetch --no-tags --depth=1 https://github.com/academicpages/academicpages.github.io.git master:refs/remotes/upstream/master
+          echo "HEAD=$(git rev-parse HEAD)"
+          echo "UPSTREAM=$(git rev-parse refs/remotes/upstream/master)"
+          echo "--- diff name-status ---"
+          git diff --name-status refs/remotes/upstream/master HEAD
+          echo "--- diff stat ---"
+          git diff --stat refs/remotes/upstream/master HEAD
+          actual=$(git diff --name-status refs/remotes/upstream/master HEAD | sort)
+          expected=$(printf '_config.yml\tM\n_data/at-73-audio-trail.json\tA\n_pages/about.md\tM\nmedia/at-73-playlist.m3u8\tA\n' | sort)
+          if [ "$actual" = "$expected" ]; then echo "FILES_OK"; else echo "FILES_MISMATCH"; fi
+          echo "--- repo metadata ---"
+          curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/nextatlas20/Brackenridge-AT73-Audio-Trail | python3 -c 'import json,sys; r=json.load(sys.stdin); print("fork=", r.get("fork"), "private=", r.get("private"), "default=", r.get("default_branch"), "created=", r.get("created_at")); print("parent=", (r.get("parent") or {}).get("full_name"))'
+          echo "--- branches ---"
+          curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/nextatlas20/Brackenridge-AT73-Audio-Trail/branches?per_page=100" | python3 -c 'import json,sys; print([b["name"] for b in json.load(sys.stdin)])'
