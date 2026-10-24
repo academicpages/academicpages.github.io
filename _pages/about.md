@@ -1,17 +1,14 @@
 ---
-title: "Stonebridge LW-58 Lantern Network"
+title: "Brackenridge AT-73 Audio Trail"
 permalink: /
 layout: single
 ---
 
-## Lantern walk
-Stonebridge Night Trust is publishing the approved lantern-walk connection tree.
+## Audio trail
+Brackenridge Garden is publishing a self-guided audio walk across the fernery, pond, and meadow.
 
-## Network method
-Network rule: screen proposals, then use Kruskal ordering without altering labels.
+## Playback
+Playback note: follow the listed route and allow five seconds between recordings.
 
-## Route desk
-Route desk: paths@stonebridge.example
-
-## Published tree
-4 paths connect 5 stops across 450 metres.
+## Visitor desk
+Visitor desk: listen@brackenridge.example
