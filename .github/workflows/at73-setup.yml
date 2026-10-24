@@ -27,7 +27,7 @@ jobs:
           out = []
           replaced = {'title': False, 'description': False, 'email': False}
           for line in lines:
-              key = line.split(':', 1)[0] if ':' in line else ''
+              key = line.split(':', 1)[0].strip() if ':' in line else ''
               if line and not line[0].isspace() and key == 'title':
                   out.append('title: Brackenridge AT-73 Audio Trail\n')
                   replaced['title'] = True
