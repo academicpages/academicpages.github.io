@@ -46,21 +46,23 @@ jobs:
               f.write(''.join(out))
 
           # 2. _pages/about.md
-          about = '''---
-title: "Brackenridge AT-73 Audio Trail"
-permalink: /
-layout: single
----
-
-## Audio trail
-Brackenridge Garden is publishing a self-guided audio walk across the fernery, pond, and meadow.
-
-## Playback
-Playback note: follow the listed route and allow five seconds between recordings.
-
-## Visitor desk
-Visitor desk: listen@brackenridge.example
-'''
+          about_lines = [
+              '---',
+              'title: "Brackenridge AT-73 Audio Trail"',
+              'permalink: /',
+              'layout: single',
+              '---',
+              '',
+              '## Audio trail',
+              'Brackenridge Garden is publishing a self-guided audio walk across the fernery, pond, and meadow.',
+              '',
+              '## Playback',
+              'Playback note: follow the listed route and allow five seconds between recordings.',
+              '',
+              '## Visitor desk',
+              'Visitor desk: listen@brackenridge.example',
+          ]
+          about = '\n'.join(about_lines) + '\n'
           with open('_pages/about.md', 'w', encoding='utf-8', newline='') as f:
               f.write(about)
 
