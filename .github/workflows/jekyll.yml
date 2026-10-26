@@ -42,7 +42,7 @@ jobs:
         run: npm install -g uglify-js
       - name: Minify JS files
         run: |
-          uglifyjs node_modules/jquery/dist/jquery.min.js assets/js/plugins/jquery.greedy-navigation.js assets/js/_main.js assets/js/theme.js -c -m -o assets/js/main.min.js
+          uglifyjs assets/js/plugins/jquery.greedy-navigation.js assets/js/_main.js assets/js/theme.js -c -m -o assets/js/main.min.js
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6.0.0
       - name: Build with Jekyll
