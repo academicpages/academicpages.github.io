@@ -21,3 +21,6 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Ignore the main.min.js since it should be built as part of jekyll-build.yml
+assets/js/main.min.js
