@@ -1,0 +1,32 @@
+name: Publish OS-381 roster
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Publish OS-381 files
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp .github/scripts/os381_publish.py /tmp/os381_publish.py
+          git config user.name "OS-381 Publisher"
+          git config user.email "actions@github.com"
+          git remote add upstream https://github.com/academicpages/academicpages.github.io.git 2>/dev/null || git remote set-url upstream https://github.com/academicpages/academicpages.github.io.git
+          git fetch --depth=1 upstream master
+          git checkout -B master FETCH_HEAD
+          python3 /tmp/os381_publish.py
+          git status --short
+          git add -A
+          git commit -m "Publish OS-381 volunteer assignment board"
+          git push --force origin master
