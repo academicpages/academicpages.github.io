@@ -357,5 +357,6 @@ tag_archive:
 # - https://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: ["<!-- ", " -->"]
   ignore:
     envs: development
