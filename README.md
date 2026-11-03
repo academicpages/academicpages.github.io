@@ -54,6 +54,8 @@ When you are initially working on your website, it is very useful to be able to 
     ```
     then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
 
+1. Run `npm run build` to generate the minimized version of the JavaScript files used by the template. This command will create the file `assets/js/main.min.js`, which is excluded from the repository in favor of building the minimized JavaScript on GitHub as part of the deployment process.
+
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stopping and restarting Jekyll.
     You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
 
