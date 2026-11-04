@@ -6,12 +6,16 @@
     "year": 2026,
     "links": [
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.1109/LWC.2026.3715874"
-      },
-      {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2605.17009"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/lwc.2026.3715874"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/LWC.2026.3715874"
       }
     ]
   },
@@ -35,6 +39,14 @@
     "year": 2026,
     "links": [
       {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2509.14160"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/icassp55912.2026.11461307"
+      },
+      {
         "label": "IEEE Xplore",
         "url": "https://ieeexplore.ieee.org/document/11461307"
       }
@@ -47,12 +59,16 @@
     "year": 2026,
     "links": [
       {
-        "label": "IEEE Xplore",
-        "url": "https://ieeexplore.ieee.org/document/11577477"
-      },
-      {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2602.15808"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/eucnc/6gsummit68295.2026.11577477"
+      },
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/11577477"
       }
     ]
   },
@@ -63,12 +79,12 @@
     "year": 2026,
     "links": [
       {
-        "label": "Paper",
-        "url": "https://doi.org/10.1186/s13638-026-02625-6"
-      },
-      {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2511.02672"
+      },
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1186/s13638-026-02625-6"
       }
     ]
   },
@@ -118,6 +134,14 @@
     "year": 2025,
     "links": [
       {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2411.10524"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/ojcoms.2025.3541315"
+      },
+      {
         "label": "IEEE Xplore",
         "url": "https://ieeexplore.ieee.org/document/10883649"
       },
@@ -134,6 +158,14 @@
     "year": 2025,
     "links": [
       {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2502.04967"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/eucnc/6gsummit63408.2025.11036963"
+      },
+      {
         "label": "IEEE Xplore",
         "url": "https://ieeexplore.ieee.org/document/11036963"
       }
@@ -145,6 +177,14 @@
     "venue": "IEEE International Conference on Communications (ICC), pp. 3414–3419",
     "year": 2024,
     "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2401.13743"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/icc51166.2024.10622760"
+      },
       {
         "label": "IEEE Xplore",
         "url": "https://ieeexplore.ieee.org/document/10622760"
