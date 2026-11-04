@@ -86,6 +86,8 @@ def crossref_records(payload):
             'authors': ', '.join(clean(a.get('given', '') + ' ' + a.get('family', '')) for a in authors),
             'venue': clean((item.get('container-title') or ['Published article'])[0]),
             'year': int(dates[0]),
+            'date': '-'.join(f'{part:04d}' if i == 0 else f'{part:02d}' for i, part in enumerate(dates[:3])),
+            'publisher_url': item.get('resource', {}).get('primary', {}).get('URL', ''),
             'links': [{'label': 'DOI', 'url': 'https://doi.org/' + doi}],
         })
     return records
@@ -112,6 +114,7 @@ def arxiv_records(payload):
             continue
         paper = {'title': title, 'authors': ', '.join(authors), 'venue': 'arXiv',
                  'year': int(year), 'status': 'Preprint',
+                 'preprint_date': entry.findtext('a:published', '', NS)[:10],
                  'links': [{'label': 'arXiv', 'url': 'https://arxiv.org/abs/' + arxiv_id}]}
         doi = entry.findtext('x:doi', '', NS).strip().lower()
         if re.fullmatch(r'10\.\d{4,9}/\S+', doi):
@@ -136,9 +139,11 @@ def merge(records, incoming):
     combined = incoming
     for paper in matches:
         links = combined['links'] + paper['links']
+        metadata = {key: combined.get(key) or paper.get(key) for key in ('date', 'preprint_date', 'publisher_url')}
         # A preprint response must never downgrade a known published paper.
         if combined.get('status') == 'Preprint' and paper.get('status') != 'Preprint':
             combined = copy.deepcopy(paper)
+        combined.update({key: value for key, value in metadata.items() if value})
         combined['links'] = list({link['url']: link for link in links}.values())
         records.remove(paper)
     records.append(combined)
@@ -162,10 +167,39 @@ def reconcile(previous, fetched, curated):
         if result.get('status') == 'Preprint' and published:
             result['venue'], result['year'] = published['venue'], published['year']
             result.pop('status', None)
+        for key in ('date', 'preprint_date', 'publisher_url'):
+            if not result.get(key):
+                value = next((p[key] for p in matches if p.get(key)), None)
+                if value:
+                    result[key] = value
         links.update({link['url']: link for link in result['links']})
         result['links'] = list(links.values())
         records.append(result)
-    return sorted(records, key=lambda p: (-int(p['year']), normalized(p['title'])))
+    for paper in records:
+        prepare_display(paper)
+    return sorted(records, key=lambda p: (int(p['year']), p['sort_date'], normalized(p['title'])), reverse=True)
+
+
+def prepare_display(paper):
+    """Retain DOI identifiers for matching, expose only reading destinations."""
+    links = []
+    for link in paper['links']:
+        url = urllib.parse.urlsplit(link['url'])
+        if url.hostname in ('doi.org', 'dx.doi.org'):
+            doi = urllib.parse.unquote(url.path).strip('/').lower()
+            if doi.startswith(('10.1186/', '10.1007/')):
+                links.append({'label': 'Journal', 'url': 'https://link.springer.com/article/' + doi})
+            continue
+        if url.scheme == 'https':
+            links.append(link)
+    publisher = paper.get('publisher_url', '')
+    destination = urllib.parse.urlsplit(publisher)
+    if destination.scheme in ('http', 'https') and destination.hostname not in ('doi.org', 'dx.doi.org'):
+        publisher = urllib.parse.urlunsplit(destination._replace(scheme='https'))
+        label = 'IEEE Xplore' if destination.hostname == 'ieeexplore.ieee.org' else 'Journal' if 'journal' in paper['venue'].lower() else 'Paper'
+        links.append({'label': label, 'url': publisher})
+    paper['display_links'] = list({link['url']: link for link in links}.values())
+    paper['sort_date'] = paper.get('date') or paper.get('preprint_date') or str(paper['year'])
 
 
 def main():

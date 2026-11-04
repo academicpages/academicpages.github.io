@@ -17,7 +17,7 @@ The existing portrait is displayed with its embedded credit, © RUB, Marquard. U
 
 Content checked on 4 November 2026 against the [university profile](https://www.dks.ruhr-uni-bochum.de/de/profiles/adam-umra/), [LinkedIn profile](https://de.linkedin.com/in/adam-umra-704b941b2), author biography in [Robust Communication Design in RIS-Assisted THz Channels](https://doi.org/10.1109/OJCOMS.2025.3541315), and publisher/arXiv records linked with each paper. The [Google Scholar profile](https://scholar.google.com/citations?user=7jGnTxYAAAAJ&hl=de) was supplied by Adam. Scholar rate-limited automated reading; IEEE Xplore and LinkedIn also restricted direct access, so indexed university and publication records were used to cross-check details. Publication metadata refreshes from Crossref and arXiv; it does not scrape or synchronize with Google Scholar.
 
-No employment start date was inferred. News dates describe public preprint releases or updated acceptance notices, not unverified presentation dates.
+Experience and education dates were supplied by Adam. News dates describe public preprint releases or updated acceptance notices, not unverified presentation dates.
 
 ## Automatic publications
 
@@ -25,7 +25,9 @@ The Pages workflow refreshes publications every Monday at 06:17 UTC (07:17 in Be
 
 The updater queries Crossref for published papers and arXiv for preprints. It requires an exact full-name match (`Adam Umra`), or the matching ORCID in Crossref; a conflicting ORCID is rejected. Initial-only author records without an ORCID, records not indexed by these sources, and some title changes may need a manual entry. No paid service or API key is required.
 
-Records are matched by DOI, arXiv ID, IEEE document ID, or normalized title. Existing publications are retained during source outages. Your curated text takes precedence, with additional paper links retained; a curated `Preprint` can automatically gain a verified publication venue and year. Acceptance notices are not inferred from free-text arXiv comments. To suppress a record, add it to `_data/publications.yml` with `hidden: true` and its identifying title/links.
+Publications are grouped by publication year and ordered newest first within each year. Sorting uses the publisher publication date (`date`), falling back to the first arXiv release (`preprint_date`), then the known year. Dates retain the precision reported by the source; dates for existing entries were checked against their linked abstract/publisher pages. Set a quoted ISO date (YYYY-MM-DD or YYYY-MM) in the curated data to correct a record.
+
+Records are matched by DOI, arXiv ID, IEEE document ID, or normalized title. DOI identifiers remain in the updater’s metadata for matching, while the page only displays arXiv, IEEE, and publisher/journal destinations. Publisher URLs come from Crossref metadata or known journal article routes; IEEE document IDs are never guessed from DOI suffixes. Existing publications are retained during source outages. Your curated text takes precedence, with additional paper links retained; a curated `Preprint` can automatically gain a verified publication venue and year. Acceptance notices are not inferred from free-text arXiv comments. To suppress a record, add it to `_data/publications.yml` with `hidden: true` and its identifying title/links.
 
 After a successful build, the workflow commits changed generated data with `github-actions[bot]` and deploys the refreshed website in the same run. The build job requests `contents: write`; repository rules must allow the bot to commit to the default branch. No force pushes are used. API failures appear as workflow warnings and preserve saved records, so a temporary outage does not empty the page. GitHub may disable scheduled workflows in a public repository after 60 days of inactivity; they can be re-enabled in Actions.
 

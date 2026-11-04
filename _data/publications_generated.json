@@ -1,9 +1,73 @@
 [
   {
+    "title": "Wideband Channel Measurements in the Lower FR3 Band (6–12 GHz) for Industrial Environments",
+    "authors": "Faizan Rauf, Adam Umra, Oways Alsoloh, Aydin Sezgin",
+    "venue": "arXiv",
+    "year": 2026,
+    "preprint_date": "2026-10-30",
+    "status": "Preprint",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2611.00426"
+      }
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2611.00426"
+      }
+    ],
+    "sort_date": "2026-10-30"
+  },
+  {
+    "title": "Generative Large-Array Emulation for DOA Estimation in MIMO Radar via Conditional Diffusion",
+    "authors": "Adam Umra, Aya Mostafa Ahmed, Aydin Sezgin",
+    "venue": "arXiv",
+    "year": 2026,
+    "preprint_date": "2026-09-24",
+    "status": "Preprint",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.30562"
+      }
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.30562"
+      }
+    ],
+    "sort_date": "2026-09-24"
+  },
+  {
+    "title": "Self-Supervised Noise2Noise-Enhanced Denoising for Continuous-Scan Air-Plasma THz Spectroscopy",
+    "authors": "Adam Umra, Oways Alsoloh, Oliver Nagy, Aydin Sezgin, Clara Saraceno",
+    "venue": "International Workshop on Smart Antennas (WSA)",
+    "year": 2026,
+    "preprint_date": "2026-08-17",
+    "status": "Accepted",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2608.16454"
+      }
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2608.16454"
+      }
+    ],
+    "sort_date": "2026-08-17"
+  },
+  {
     "title": "Design and Practical Validation of a Novel Modulation Scheme for RIS Detection and Identification",
     "authors": "Aymen Khaleel, Adam Umra, Aydin Sezgin",
     "venue": "IEEE Wireless Communications Letters, vol. 15, pp. 4255–4259",
     "year": 2026,
+    "preprint_date": "2026-05-16",
     "links": [
       {
         "label": "arXiv",
@@ -17,46 +81,53 @@
         "label": "DOI",
         "url": "https://doi.org/10.1109/LWC.2026.3715874"
       }
-    ]
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2605.17009"
+      }
+    ],
+    "sort_date": "2026-05-16"
   },
   {
-    "title": "Generative Large-Array Emulation for DOA Estimation in MIMO Radar via Conditional Diffusion",
+    "title": "RL-Aided Cognitive ISAC: Robust Detection and Sensing–Communication Trade-offs",
     "authors": "Adam Umra, Aya Mostafa Ahmed, Aydin Sezgin",
-    "venue": "arXiv",
+    "venue": "Journal on Wireless Communications and Networking, article 62",
     "year": 2026,
-    "status": "Preprint",
+    "date": "2026-05-12",
     "links": [
       {
         "label": "arXiv",
-        "url": "https://arxiv.org/abs/2609.30562"
+        "url": "https://arxiv.org/abs/2511.02672"
+      },
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1186/s13638-026-02625-6"
+      },
+      {
+        "label": "Journal",
+        "url": "https://link.springer.com/article/10.1186/s13638-026-02625-6"
       }
-    ]
-  },
-  {
-    "title": "Hardware-Efficient Cognitive Radar: Multi-Target Detection with RL-Driven Transmissive RIS",
-    "authors": "Adam Umra, Aya Mostafa Ahmed, Stefan Roth, Aydin Sezgin",
-    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
-    "year": 2026,
-    "links": [
+    ],
+    "display_links": [
       {
         "label": "arXiv",
-        "url": "https://arxiv.org/abs/2509.14160"
+        "url": "https://arxiv.org/abs/2511.02672"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.1109/icassp55912.2026.11461307"
-      },
-      {
-        "label": "IEEE Xplore",
-        "url": "https://ieeexplore.ieee.org/document/11461307"
+        "label": "Journal",
+        "url": "https://link.springer.com/article/10.1186/s13638-026-02625-6"
       }
-    ]
+    ],
+    "sort_date": "2026-05-12"
   },
   {
     "title": "Measurement-Based Validation of Geometry-Driven RIS Beam Steering in Industrial Environments",
     "authors": "Adam Umra, Simon Tewes, Niklas Beckmann, Niels König, Aydin Sezgin, Robert Schmitt",
     "venue": "European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)",
     "year": 2026,
+    "preprint_date": "2026-02-17",
     "links": [
       {
         "label": "arXiv",
@@ -70,68 +141,78 @@
         "label": "IEEE Xplore",
         "url": "https://ieeexplore.ieee.org/document/11577477"
       }
-    ]
-  },
-  {
-    "title": "RL-Aided Cognitive ISAC: Robust Detection and Sensing–Communication Trade-offs",
-    "authors": "Adam Umra, Aya Mostafa Ahmed, Aydin Sezgin",
-    "venue": "Journal on Wireless Communications and Networking, article 62",
-    "year": 2026,
-    "links": [
+    ],
+    "display_links": [
       {
         "label": "arXiv",
-        "url": "https://arxiv.org/abs/2511.02672"
+        "url": "https://arxiv.org/abs/2602.15808"
       },
       {
-        "label": "Paper",
-        "url": "https://doi.org/10.1186/s13638-026-02625-6"
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/11577477"
       }
-    ]
-  },
-  {
-    "title": "Self-Supervised Noise2Noise-Enhanced Denoising for Continuous-Scan Air-Plasma THz Spectroscopy",
-    "authors": "Adam Umra, Oways Alsoloh, Oliver Nagy, Aydin Sezgin, Clara Saraceno",
-    "venue": "International Workshop on Smart Antennas (WSA)",
-    "year": 2026,
-    "status": "Accepted",
-    "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2608.16454"
-      }
-    ]
+    ],
+    "sort_date": "2026-02-17"
   },
   {
     "title": "Short Blocks, Fast Sensing: Finite Blocklength Tradeoffs in RIS-Assisted ISAC",
     "authors": "Adam Umra, Kevin Weinberger, Aymen Khaleel, Gerald Enzner, Aydin Sezgin",
     "venue": "IEEE Integrated Sensing and Communication Conference (ISAC)",
     "year": 2026,
+    "preprint_date": "2025-11-04",
     "status": "Accepted",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2511.02673"
       }
-    ]
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2511.02673"
+      }
+    ],
+    "sort_date": "2025-11-04"
   },
   {
-    "title": "Wideband Channel Measurements in the Lower FR3 Band (6–12 GHz) for Industrial Environments",
-    "authors": "Faizan Rauf, Adam Umra, Oways Alsoloh, Aydin Sezgin",
-    "venue": "arXiv",
+    "title": "Hardware-Efficient Cognitive Radar: Multi-Target Detection with RL-Driven Transmissive RIS",
+    "authors": "Adam Umra, Aya Mostafa Ahmed, Stefan Roth, Aydin Sezgin",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
     "year": 2026,
-    "status": "Preprint",
+    "preprint_date": "2025-09-17",
     "links": [
       {
         "label": "arXiv",
-        "url": "https://arxiv.org/abs/2611.00426"
+        "url": "https://arxiv.org/abs/2509.14160"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/icassp55912.2026.11461307"
+      },
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/11461307"
       }
-    ]
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2509.14160"
+      },
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/11461307"
+      }
+    ],
+    "sort_date": "2025-09-17"
   },
   {
     "title": "Robust Communication Design in RIS-Assisted THz Channels",
     "authors": "Yasemin Karacora, Adam Umra, Aydin Sezgin",
     "venue": "IEEE Open Journal of the Communications Society, vol. 6, pp. 3029–3043",
     "year": 2025,
+    "date": "2025-02-12",
     "links": [
       {
         "label": "arXiv",
@@ -149,13 +230,25 @@
         "label": "DOI",
         "url": "https://doi.org/10.1109/OJCOMS.2025.3541315"
       }
-    ]
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2411.10524"
+      },
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/10883649"
+      }
+    ],
+    "sort_date": "2025-02-12"
   },
   {
     "title": "Towards Smarter Sensing: 2D Clutter Mitigation in RL-Driven Cognitive MIMO Radar",
     "authors": "Adam Umra, Aya Mostafa Ahmed, Aydin Sezgin",
     "venue": "European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)",
     "year": 2025,
+    "preprint_date": "2025-02-07",
     "links": [
       {
         "label": "arXiv",
@@ -169,13 +262,25 @@
         "label": "IEEE Xplore",
         "url": "https://ieeexplore.ieee.org/document/11036963"
       }
-    ]
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2502.04967"
+      },
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/11036963"
+      }
+    ],
+    "sort_date": "2025-02-07"
   },
   {
     "title": "Intermittency Versus Path Loss in RIS-aided THz Communication: A Data Significance Approach",
     "authors": "Yasemin Karacora, Adam Umra, Aydin Sezgin",
     "venue": "IEEE International Conference on Communications (ICC), pp. 3414–3419",
     "year": 2024,
+    "preprint_date": "2024-01-24",
     "links": [
       {
         "label": "arXiv",
@@ -193,6 +298,17 @@
         "label": "DOI",
         "url": "https://doi.org/10.1109/ICC51166.2024.10622760"
       }
-    ]
+    ],
+    "display_links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2401.13743"
+      },
+      {
+        "label": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/document/10622760"
+      }
+    ],
+    "sort_date": "2024-01-24"
   }
 ]
