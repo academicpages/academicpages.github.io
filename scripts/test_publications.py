@@ -76,6 +76,7 @@ class PublicationsTests(unittest.TestCase):
         papers = sync.crossref_records(payload)
         self.assertEqual(len(papers), 2)
         self.assertEqual(papers[0]['venue'], 'Signals & Systems')
+        self.assertEqual(papers[0]['date'], '2026-04')
         self.assertEqual(papers[0]['title'], 'A paper')
         self.assertEqual(papers[0]['links'][0]['url'], 'https://doi.org/10.1234/test')
 
@@ -88,10 +89,38 @@ class PublicationsTests(unittest.TestCase):
         self.assertEqual(papers[0]['links'][0]['url'], 'https://arxiv.org/abs/2511.02672')
         self.assertEqual(papers[0]['title'], 'A paper')
         self.assertEqual(papers[0]['status'], 'Preprint')
+        self.assertEqual(papers[0]['preprint_date'], '2025-11-04')
         self.assertIn('doi:10.1234/test', sync.identifiers(papers[0]))
         self.assertEqual(sync.arxiv_records(feed.replace('Adam Umra', 'Umra Adam')), [])
         with self.assertRaises(ValueError):
             sync.arxiv_records('<html>Service unavailable</html>')
+
+    def test_dates_sort_within_year_and_survive_curated_merge(self):
+        early = dict(PUBLISHED, date='2026-02-15')
+        late = dict(PUBLISHED, title='A newer paper', date='2026-10-01', links=[])
+        result = sync.reconcile([], [early, late], [PUBLISHED])
+        self.assertEqual(result[0]['title'], 'A newer paper')
+        self.assertEqual(result[1]['sort_date'], '2026-02-15')
+        self.assertEqual(result[1]['date'], '2026-02-15')
+
+    def test_preprint_date_survives_published_upgrade(self):
+        first = dict(PREPRINT, preprint_date='2025-11-04')
+        published = dict(PUBLISHED, date='2026-05-12')
+        result = sync.reconcile([first], [published], [PREPRINT])[0]
+        self.assertEqual(result['preprint_date'], '2025-11-04')
+        self.assertEqual(result['sort_date'], '2026-05-12')
+
+    def test_reading_links_hide_doi_and_deduplicate_journal(self):
+        paper = dict(PUBLISHED, links=[
+            {'label': 'DOI', 'url': 'https://doi.org/10.1186/s13638-026-02625-6'},
+            {'label': 'Paper', 'url': 'https://link.springer.com/article/10.1186/s13638-026-02625-6'},
+            {'label': 'DOI', 'url': 'https://doi.org/10.1109/LWC.2026.3715874'},
+        ], publisher_url='http://ieeexplore.ieee.org/document/12345678')
+        sync.prepare_display(paper)
+        self.assertEqual(len(paper['display_links']), 2)
+        self.assertFalse(any('doi.org' in link['url'] for link in paper['display_links']))
+        self.assertFalse(any('3715874' in link['url'] for link in paper['display_links']))
+        self.assertIn('doi:10.1109/lwc.2026.3715874', sync.identifiers(paper))
 
     def test_outage_keeps_previous_records_and_applies_manual_edits(self):
         with tempfile.TemporaryDirectory() as directory:

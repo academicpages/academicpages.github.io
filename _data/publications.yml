@@ -3,6 +3,7 @@
   authors: "Faizan Rauf, Adam Umra, Oways Alsoloh, Aydin Sezgin"
   venue: "arXiv"
   year: 2026
+  preprint_date: "2026-10-30"
   status: "Preprint"
   links:
     - label: arXiv
@@ -11,6 +12,7 @@
   authors: "Adam Umra, Aya Mostafa Ahmed, Aydin Sezgin"
   venue: "arXiv"
   year: 2026
+  preprint_date: "2026-09-24"
   status: "Preprint"
   links:
     - label: arXiv
@@ -19,6 +21,7 @@
   authors: "Adam Umra, Oways Alsoloh, Oliver Nagy, Aydin Sezgin, Clara Saraceno"
   venue: "International Workshop on Smart Antennas (WSA)"
   year: 2026
+  preprint_date: "2026-08-17"
   status: "Accepted"
   links:
     - label: arXiv
@@ -27,6 +30,7 @@
   authors: "Adam Umra, Kevin Weinberger, Aymen Khaleel, Gerald Enzner, Aydin Sezgin"
   venue: "IEEE Integrated Sensing and Communication Conference (ISAC)"
   year: 2026
+  preprint_date: "2025-11-04"
   status: "Accepted"
   links:
     - label: arXiv
@@ -35,6 +39,7 @@
   authors: "Aymen Khaleel, Adam Umra, Aydin Sezgin"
   venue: "IEEE Wireless Communications Letters, vol. 15, pp. 4255–4259"
   year: 2026
+  preprint_date: "2026-05-16"
   links:
     - label: DOI
       url: https://doi.org/10.1109/LWC.2026.3715874
@@ -44,15 +49,17 @@
   authors: "Adam Umra, Aya Mostafa Ahmed, Aydin Sezgin"
   venue: "Journal on Wireless Communications and Networking, article 62"
   year: 2026
+  date: "2026-05-12"
   links:
-    - label: Paper
-      url: https://doi.org/10.1186/s13638-026-02625-6
+    - label: Journal
+      url: https://link.springer.com/article/10.1186/s13638-026-02625-6
     - label: arXiv
       url: https://arxiv.org/abs/2511.02672
 - title: "Measurement-Based Validation of Geometry-Driven RIS Beam Steering in Industrial Environments"
   authors: "Adam Umra, Simon Tewes, Niklas Beckmann, Niels König, Aydin Sezgin, Robert Schmitt"
   venue: "European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)"
   year: 2026
+  preprint_date: "2026-02-17"
   links:
     - label: IEEE Xplore
       url: https://ieeexplore.ieee.org/document/11577477
@@ -62,6 +69,7 @@
   authors: "Adam Umra, Aya Mostafa Ahmed, Stefan Roth, Aydin Sezgin"
   venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
   year: 2026
+  preprint_date: "2025-09-17"
   links:
     - label: IEEE Xplore
       url: https://ieeexplore.ieee.org/document/11461307
@@ -69,6 +77,7 @@
   authors: "Adam Umra, Aya Mostafa Ahmed, Aydin Sezgin"
   venue: "European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)"
   year: 2025
+  preprint_date: "2025-02-07"
   links:
     - label: IEEE Xplore
       url: https://ieeexplore.ieee.org/document/11036963
@@ -76,6 +85,7 @@
   authors: "Yasemin Karacora, Adam Umra, Aydin Sezgin"
   venue: "IEEE Open Journal of the Communications Society, vol. 6, pp. 3029–3043"
   year: 2025
+  date: "2025-02-12"
   links:
     - label: IEEE Xplore
       url: https://ieeexplore.ieee.org/document/10883649
@@ -85,6 +95,7 @@
   authors: "Yasemin Karacora, Adam Umra, Aydin Sezgin"
   venue: "IEEE International Conference on Communications (ICC), pp. 3414–3419"
   year: 2024
+  preprint_date: "2024-01-24"
   links:
     - label: IEEE Xplore
       url: https://ieeexplore.ieee.org/document/10622760
