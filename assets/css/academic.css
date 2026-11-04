@@ -1,0 +1,71 @@
+/* A compact academic profile, inspired by rikiyat.github.io. */
+:root {
+  color-scheme: light;
+  --ink: #303640;
+  --muted: #656e7b;
+  --link: #3269bd;
+  --line: #e6eaf1;
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: 2rem; }
+body { margin: 0; background: #fff; color: var(--ink); font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+a { color: var(--link); text-decoration: none; text-underline-offset: 3px; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; border-radius: 2px; }
+p { margin: 0 0 1rem; }
+.skip-link { position: absolute; left: 1rem; top: -5rem; padding: .6rem 1rem; background: #fff; z-index: 2; }
+.skip-link:focus { top: .5rem; }
+.site-header { border-bottom: 1px solid var(--line); }
+.site-nav { max-width: 1100px; margin: auto; min-height: 78px; padding: 12px 28px; display: flex; align-items: center; gap: 46px; }
+.site-nav a { color: #555d69; font-weight: 600; }
+.site-nav .site-name { color: var(--ink); font-size: 1.13rem; white-space: nowrap; }
+.site-nav ul { display: flex; flex-wrap: wrap; gap: 30px; list-style: none; padding: 0; margin: 0; }
+.academic-page { max-width: 960px; margin: 48px auto 64px; padding: 0 28px; }
+h1 { font-size: 2rem; line-height: 1.25; letter-spacing: -.025em; margin: 0 0 .45rem; }
+.profile-subtitle { font-weight: 600; color: var(--muted); margin-bottom: 1.45rem; }
+.profile-intro { display: grid; grid-template-columns: minmax(0, 1fr) 270px; gap: 30px; align-items: start; }
+.profile-photo { margin: 0; }
+.profile-photo img { display: block; width: 100%; height: 280px; object-fit: cover; object-position: 56% center; border-radius: 10px; box-shadow: 0 8px 22px #162e4d1a; }
+.profile-photo figcaption { text-align: right; color: var(--muted); font-size: .68rem; margin-top: 5px; }
+.profile-links { justify-content: center; margin: 1rem 0 2.25rem; }
+.profile-links, .publication-links { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 0; font-size: .94rem; }
+.profile-links li + li::before, .publication-links li + li::before { content: "|"; color: #a4acb8; margin: 0 .65rem; }
+.section-heading { display: flex; align-items: center; gap: 18px; font-size: 1.5rem; line-height: 1.3; margin: 2.2rem 0 1.1rem; letter-spacing: -.015em; }
+.section-heading::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, #bbceec, transparent); }
+.news-list { list-style: none; padding: 0; margin: 0; }
+.news-list li { display: grid; grid-template-columns: 95px minmax(0, 1fr); gap: 16px; margin: 0 0 .75rem; }
+.news-list time { font-weight: 600; font-size: .94rem; }
+.section-intro { color: var(--muted); font-size: .94rem; }
+.publication-list, .experience-list { list-style: none; padding: 0; margin: 0; }
+.publication { padding: 0 0 1.2rem; margin: 0 0 1.2rem; border-bottom: 1px solid var(--line); }
+.publication:last-child { border-bottom: 0; }
+h3 { font-size: 1.06rem; line-height: 1.5; margin: 0 0 .25rem; font-weight: 650; }
+.publication p { margin: .1rem 0; }
+.publication-authors, .publication-venue { font-size: .94rem; }
+.publication-venue { color: var(--muted); }
+.publication-status { font-size: .78rem; font-style: normal; border: 1px solid #d7e2f2; border-radius: 4px; padding: 1px 6px; margin-left: 5px; white-space: nowrap; }
+.publication-links { margin: .3rem 0 0; }
+.experience-list li { margin-bottom: 1.4rem; }
+.experience-list p { margin: .15rem 0; }
+.experience-list .entry-meta { color: var(--muted); font-size: .88rem; margin-bottom: .2rem; }
+.site-footer { border-top: 1px solid var(--line); background: #f8f9fb; color: var(--muted); padding: 25px 28px; font-size: .78rem; }
+.site-footer > div { max-width: 904px; margin: auto; }
+.site-footer p { margin: 0 0 .2rem; }
+@media (max-width: 700px) {
+  body { font-size: 16px; }
+  .site-nav { padding: 16px 22px; gap: 8px 24px; flex-wrap: wrap; }
+  .site-nav ul { gap: 20px; font-size: .9rem; }
+  .academic-page { margin-top: 30px; padding: 0 22px; }
+  .profile-intro { grid-template-columns: 1fr; gap: 20px; }
+  .profile-photo { grid-row: 1; width: min(270px, 100%); margin: 0 auto; }
+  .profile-links { justify-content: flex-start; margin-top: .75rem; }
+  .news-list li { grid-template-columns: 82px minmax(0, 1fr); gap: 10px; }
+  .news-list time { font-size: .86rem; }
+  h1 { font-size: 1.9rem; }
+  h3 { overflow-wrap: anywhere; }
+}
+@media print {
+  .site-header, .skip-link { display: none; }
+  .academic-page { margin: 0 auto; }
+  .publication, .experience-list li { break-inside: avoid; }
+}

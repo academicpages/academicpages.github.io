@@ -1,5 +1,5 @@
 # Workflow for building and deploying an Academic Pages / Jekyll site to GitHub Pages
-name: Deploy Academic Pages template site to Pages
+name: Update publications and deploy to Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -8,6 +8,10 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+  # Every Monday at 06:17 UTC. Also refresh on normal pushes/manual builds.
+  schedule:
+    - cron: '17 6 * * 1'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -25,9 +29,24 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+      pages: write
     steps:
       - name: Checkout
         uses: actions/checkout@v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install publication updater dependency
+        run: python -m pip install PyYAML==6.0.3
+      - name: Check publication updater
+        run: python -m unittest discover -s scripts -p 'test_publications.py'
+      - name: Refresh publications
+        run: python scripts/update-publications.py
       - name: Setup Node.js
         uses: actions/setup-node@v7
         with:
@@ -51,6 +70,20 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      # A GITHUB_TOKEN push does not trigger another workflow. This run deploys
+      # the refreshed artifact itself, after the build succeeds.
+      - name: Save refreshed publication data
+        if: github.ref_name == github.event.repository.default_branch
+        env:
+          PUBLICATION_BRANCH: ${{ github.ref_name }}
+        run: |
+          git add _data/publications_generated.json
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "Update publication metadata"
+            git push origin "HEAD:${PUBLICATION_BRANCH}"
+          fi
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v5.0.0
 

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include seo.html %}
+    <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <nav class="site-nav" aria-label="Main navigation">
+        <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <ul>
+          {% for link in site.data.navigation.main %}
+          <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+    <main id="main" class="academic-page">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.name }}.</p>
+        <p>Built with <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>. Design inspired by <a href="https://rikiyat.github.io/">Rikiya Takehi</a>.</p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+# Dates describe public paper updates, not inferred presentation dates.
+- date: "2026-10"
+  label: "Oct. 2026"
+  text: "New preprint on [wideband channel measurements in the lower FR3 band](https://arxiv.org/abs/2611.00426) for industrial environments."
+- date: "2026-10"
+  label: "Oct. 2026"
+  text: "[Short Blocks, Fast Sensing](https://arxiv.org/abs/2511.02673) is accepted at **IEEE ISAC 2026**."
+- date: "2026-09"
+  label: "Sep. 2026"
+  text: "New preprint on [generative large-array emulation for DOA estimation](https://arxiv.org/abs/2609.30562) using conditional diffusion."
+- date: "2026-08"
+  label: "Aug. 2026"
+  text: "Our work on [self-supervised denoising for air-plasma THz spectroscopy](https://arxiv.org/abs/2608.16454) is available on arXiv."
