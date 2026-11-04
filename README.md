@@ -1,6 +1,6 @@
 # Adam Umra — academic website
 
-A compact, responsive academic profile inspired by [Rikiya Takehi’s website](https://rikiyat.github.io/), built on the existing Jekyll/AcademicPages repository. The homepage contains News, Publications, and Experience; it does not include a CV tab, achievements, or selected talks.
+A compact, responsive academic profile, built on the existing Jekyll/AcademicPages repository. The homepage contains News, Publications, and Experience; it does not include a CV tab, achievements, or selected talks.
 
 ## Updating the site
 
