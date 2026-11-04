@@ -1,3 +1,54 @@
+# Adam Umra — academic website
+
+A compact, responsive academic profile inspired by [Rikiya Takehi’s website](https://rikiyat.github.io/), built on the existing Jekyll/AcademicPages repository. The homepage contains News, Publications, and Experience; it does not include a CV tab, achievements, or selected talks.
+
+## Updating the site
+
+- Biography and experience: `_pages/about.md`.
+- Curated papers and overrides: `_data/publications.yml`. Automatic results are saved in `_data/publications_generated.json`; do not edit the generated file.
+- Research updates: `_data/news.yml`.
+- Profile links and metadata: `_config.yml`.
+- Navigation: `_data/navigation.yml`.
+- Layout and styling: `_layouts/academic.html` and `assets/css/academic.css`.
+
+The existing portrait is displayed with its embedded credit, © RUB, Marquard. Unused template pages, sample collections, posts, and sample downloads remain in the repository but are excluded from the generated site. `/publications/` redirects to the homepage’s publication section.
+
+## Content sources
+
+Content checked on 4 November 2026 against the [university profile](https://www.dks.ruhr-uni-bochum.de/de/profiles/adam-umra/), [LinkedIn profile](https://de.linkedin.com/in/adam-umra-704b941b2), author biography in [Robust Communication Design in RIS-Assisted THz Channels](https://doi.org/10.1109/OJCOMS.2025.3541315), and publisher/arXiv records linked with each paper. The [Google Scholar profile](https://scholar.google.com/citations?user=7jGnTxYAAAAJ&hl=de) was supplied by Adam. Scholar rate-limited automated reading; IEEE Xplore and LinkedIn also restricted direct access, so indexed university and publication records were used to cross-check details. Publication metadata refreshes from Crossref and arXiv; it does not scrape or synchronize with Google Scholar.
+
+No employment start date was inferred. News dates describe public preprint releases or updated acceptance notices, not unverified presentation dates.
+
+## Automatic publications
+
+The Pages workflow refreshes publications every Monday at 06:17 UTC (07:17 in Berlin in winter, 08:17 in summer), on pushes to `master`, and when run manually from **Actions → Update publications and deploy to Pages → Run workflow**. GitHub may delay scheduled jobs. This starts only after these changes are pushed to the repository’s default branch with Actions enabled and Pages configured to use GitHub Actions.
+
+The updater queries Crossref for published papers and arXiv for preprints. It requires an exact full-name match (`Adam Umra`), or the matching ORCID in Crossref; a conflicting ORCID is rejected. Initial-only author records without an ORCID, records not indexed by these sources, and some title changes may need a manual entry. No paid service or API key is required.
+
+Records are matched by DOI, arXiv ID, IEEE document ID, or normalized title. Existing publications are retained during source outages. Your curated text takes precedence, with additional paper links retained; a curated `Preprint` can automatically gain a verified publication venue and year. Acceptance notices are not inferred from free-text arXiv comments. To suppress a record, add it to `_data/publications.yml` with `hidden: true` and its identifying title/links.
+
+After a successful build, the workflow commits changed generated data with `github-actions[bot]` and deploys the refreshed website in the same run. The build job requests `contents: write`; repository rules must allow the bot to commit to the default branch. No force pushes are used. API failures appear as workflow warnings and preserve saved records, so a temporary outage does not empty the page. GitHub may disable scheduled workflows in a public repository after 60 days of inactivity; they can be re-enabled in Actions.
+
+Local refresh and checks:
+
+```sh
+python -m pip install PyYAML==6.0.3
+python scripts/update-publications.py
+python -m unittest discover -s scripts -p 'test_publications.py'
+```
+
+## Build
+
+```sh
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
+```
+
+The existing GitHub Pages workflow remains in place. The inherited Sass theme currently emits deprecation warnings during builds.
+
+---
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
