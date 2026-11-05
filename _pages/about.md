@@ -15,12 +15,16 @@ My academic interests sit at the intersection of **statistical learning theory, 
 
 - Building distributed data pipelines with Spark and Hive on HDFS, integrated with LLMs for natural-language querying
 - Exploring statistical learning theory: VC dimension, Rademacher complexity, RKHS, and kernel methods
-- Compiling course notes and cheatsheets across statistics, ML, and deep learning (see [Projects](/portfolio/))
+- Compiling course notes and cheatsheets across statistics, ML, and deep learning
+
+See [Projects](/portfolio/) for details on my Spark pipeline project.
 
 ## Background
 
-Before my MS, I spent summers as a marketing intern at Shanghai Xinhua Lian (analyzing survey data with Python and R), a financial research intern at CITIC Bank (supply-chain analysis of McDonald's in China), and an intern at Bank of China.
+- **Wisconsin Union (UW–Madison):** Student Catering Supervisor since August 2026, after three years as a caterer. I built a Power BI dashboard on menu planning, costing, and forecasting from FoodPRO data for senior management, and analyzed inventory and event-demand data to forecast supplies for recurring events.
+- **Shanghai Xinhua Lian:** Marketing Data Intern (summer 2025). I used SQL to analyze survey data, found that low Gen-Z response rates skewed the results toward Gen-X customers, and changed the collection approach to reduce that bias.
+- **Bank of China:** Operation Data Intern (summer 2023). I built Excel trackers and instructional videos to make onboarding more consistent.
 
 ## Get in touch
 
-Feel free to reach me at [zhanbodai@outlook.com](mailto:zhanbodai@outlook.com), or check out my [GitHub](https://github.com/zhanbodai) and [CV](/cv/).
+Feel free to reach me at [zhanbodai@outlook.com](mailto:zhanbodai@outlook.com), or check out my [GitHub](https://github.com/zhanbodai), [LinkedIn](https://www.linkedin.com/in/zhanbo-dai), and [CV](/cv/).
