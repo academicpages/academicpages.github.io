@@ -3,17 +3,20 @@ layout: null
 permalink: /brainwise/
 ---
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}">
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
 <head>
   {% include head.html %}
+  {% include head/custom.html %}
   <title>Brainwise | Brain, thinking and aging</title>
   <style>
     html, body { margin: 0; min-height: 100%; width: 100%; overflow-x: clip; }
-    #brainwise-frame { display: block; box-sizing: border-box; width: 100%; min-height: 100vh; border: 0; }
+    #brainwise-frame { display: block; box-sizing: border-box; width: 100%; min-height: calc(100vh - 80px); border: 0; }
   </style>
 </head>
-<body>
+<body class="brainwise-page">
+  {% include masthead.html %}
   <iframe id="brainwise-frame" src="{{ '/brainwise-v3.html' | relative_url }}" title="Brainwise interactive guide to brain, thinking and aging"></iframe>
+  {% include scripts.html %}
   <script>
     const frame = document.getElementById('brainwise-frame');
     frame.addEventListener('load', () => {
