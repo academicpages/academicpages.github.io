@@ -19,12 +19,21 @@ permalink: /brainwise/
   {% include scripts.html %}
   <script>
     const frame = document.getElementById('brainwise-frame');
+    function syncBrainwiseTheme() {
+      const doc = frame.contentDocument;
+      if (doc) doc.documentElement.dataset.theme = document.documentElement.dataset.theme || 'light';
+    }
     frame.addEventListener('load', () => {
       const doc = frame.contentDocument;
       if (!doc) return;
+      syncBrainwiseTheme();
       const resize = () => { frame.style.height = Math.ceil(doc.body.scrollHeight + 4) + 'px'; };
       new ResizeObserver(resize).observe(doc.body);
       resize();
+    });
+    new MutationObserver(syncBrainwiseTheme).observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['data-theme']
     });
   </script>
 </body>
