@@ -61,10 +61,9 @@
     });
     function setTheme(theme){root.dataset.theme=theme;try{localStorage.setItem('bw-v3-theme',theme)}catch{} if(explorer.contentDocument)explorer.contentDocument.documentElement.dataset.theme=theme}
     try{setTheme(localStorage.getItem('bw-v3-theme')||'light')}catch{setTheme('light')}
-    document.getElementById('theme-toggle').onclick=()=>setTheme(root.dataset.theme==='dark'?'light':'dark');
-    const menu=document.getElementById('site-nav'),toggle=document.getElementById('menu-toggle');toggle.onclick=()=>{const open=menu.classList.toggle('open');toggle.setAttribute('aria-expanded',open)};
-    const connect=document.querySelector('.connect'),connectButton=document.getElementById('connect-button');connectButton.onclick=()=>{const open=connect.classList.toggle('open');connectButton.setAttribute('aria-expanded',open)};
-    document.addEventListener('click',e=>{if(!connect.contains(e.target)){connect.classList.remove('open');connectButton.setAttribute('aria-expanded','false')}});
+    document.getElementById('theme-toggle')?.addEventListener('click',()=>setTheme(root.dataset.theme==='dark'?'light':'dark'));
+    const menu=document.getElementById('site-nav'),toggle=document.getElementById('menu-toggle');if(menu&&toggle)toggle.onclick=()=>{const open=menu.classList.toggle('open');toggle.setAttribute('aria-expanded',open)};
+    const connect=document.querySelector('.connect'),connectButton=document.getElementById('connect-button');if(connect&&connectButton){connectButton.onclick=()=>{const open=connect.classList.toggle('open');connectButton.setAttribute('aria-expanded',open)};document.addEventListener('click',e=>{if(!connect.contains(e.target)){connect.classList.remove('open');connectButton.setAttribute('aria-expanded','false')}})};
     const evidenceByRegion={
       'Primary visual cortex':{text:'One of the better-preserved areas in the studies cited here. In two studies that scanned the same people repeatedly, its volume did not measurably change over about 2.5 to 5 years. That does not mean it never changes; it means those studies did not detect average change over those intervals.',refs:[['Raz et al. (2005) · 5-year follow-up','https://doi.org/10.1093/cercor/bhi044'],['Raz et al. (2010) · repeated MRI','https://doi.org/10.1016/j.neuroimage.2010.03.020']]},
       'Putamen':{text:'Studies comparing younger and older adults often find age differences in the putamen. Evidence from following the same people is less consistent, so this map does not turn that cross-sectional pattern into a personal “shrinkage” prediction.',refs:[['Walhovd et al. (2011) · age differences across samples','https://doi.org/10.1016/j.neurobiolaging.2009.05.013']]},
