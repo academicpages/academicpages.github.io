@@ -1,7 +1,17 @@
 {% include base_path %}
 
 {% if site.tag_archive.type and page.tags[0] %}
-  {% include tag-list.html %}
+  {% if page.collection == 'publications' %}
+    <p class="page__taxonomy">
+      <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong>
+    </p>
+    {% include publication-tag-chain.html tags=page.tags filterable=false %}
+    <p class="pub-tag-filter__hint">
+      Click a tag to open <a href="{{ base_path }}/publications/">Publications</a> filtered to that area.
+    </p>
+  {% else %}
+    {% include tag-list.html %}
+  {% endif %}
 {% endif %}
 
 {% if site.category_archive.type and page.categories[0] %}

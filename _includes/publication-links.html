@@ -1,0 +1,29 @@
+{% comment %}
+Compact outline action chips for paper assets.
+Uses page or post context via include.item, defaulting to page.
+{% endcomment %}
+{% if include.item %}
+{% assign item = include.item %}
+{% else %}
+{% assign item = page %}
+{% endif %}
+
+{% if item.paperurl or item.posterurl or item.slidesurl or item.codeurl or item.projecturl %}
+<div class="pub-links">
+  {% if item.paperurl %}
+  <a class="pub-link" href="{{ item.paperurl }}" target="_blank" rel="noopener">PDF</a>
+  {% endif %}
+  {% if item.posterurl %}
+  <a class="pub-link" href="{{ item.posterurl }}" target="_blank" rel="noopener">Poster</a>
+  {% endif %}
+  {% if item.slidesurl %}
+  <a class="pub-link" href="{{ item.slidesurl }}" target="_blank" rel="noopener">Slides</a>
+  {% endif %}
+  {% if item.codeurl %}
+  <a class="pub-link" href="{{ item.codeurl }}" target="_blank" rel="noopener">Code</a>
+  {% endif %}
+  {% if item.projecturl %}
+  <a class="pub-link" href="{{ item.projecturl }}" target="_blank" rel="noopener">Project</a>
+  {% endif %}
+</div>
+{% endif %}

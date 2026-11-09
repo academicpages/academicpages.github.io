@@ -1,0 +1,28 @@
+# Stable colors and hierarchy for publication area tags.
+# Order here is broad → narrow within each branch.
+# `parent` encodes the subset relationship (child ⊂ parent).
+
+- name: "Machine Learning"
+  slug: machine-learning
+  color: "#1f5f8b"
+  parent:
+
+- name: "Scientific Machine Learning"
+  slug: scientific-machine-learning
+  color: "#b56a2b"
+  parent: "Machine Learning"
+
+- name: "PINNs"
+  slug: pinns
+  color: "#8f3f24"
+  parent: "Scientific Machine Learning"
+
+- name: "Graph Machine Learning"
+  slug: graph-machine-learning
+  color: "#1f8a70"
+  parent: "Machine Learning"
+
+- name: "Encodings for Graph Machine Learning"
+  slug: encodings-for-graph-machine-learning
+  color: "#3d9a7a"
+  parent: "Graph Machine Learning"

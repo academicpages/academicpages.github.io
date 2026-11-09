@@ -73,15 +73,28 @@
   }
 
   a {
-    text-decoration: underline;
+    color: $link-color;
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 1px;
+    transition: color 0.2s ease, background-size 0.2s ease;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      background-size: 100% 1px;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 8px 24px rgba(#000, 0.12);
       }
     }
+  }
+
+  a.pub-link,
+  a.pub-tag,
+  a.btn {
+    background-image: none;
   }
 
   dt {

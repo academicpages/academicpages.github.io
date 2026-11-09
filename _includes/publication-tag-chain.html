@@ -1,0 +1,49 @@
+{% comment %}
+  Hierarchical publication tags as interlocking chevron pieces.
+  Expects:
+    include.tags — array of tag names (broad → narrow)
+    include.filterable — if true, emit filter buttons; otherwise links to /publications/?tag=
+{% endcomment %}
+{% include base_path %}
+{% if include.tags and include.tags.size > 0 %}
+  <div class="pub-tag-chain" itemprop="keywords">
+    {% for tag_name in include.tags %}
+      {% assign tag_meta = nil %}
+      {% for candidate in site.data.publication_tags %}
+        {% if candidate.name == tag_name %}
+          {% assign tag_meta = candidate %}
+        {% endif %}
+      {% endfor %}
+      {% assign tag_slug = tag_name | slugify %}
+      {% assign tag_color = "#5a6a72" %}
+      {% if tag_meta %}
+        {% assign tag_slug = tag_meta.slug %}
+        {% assign tag_color = tag_meta.color %}
+      {% endif %}
+      {% unless forloop.first %}
+        <span class="pub-tag-chain__join" aria-hidden="true" title="narrower area within previous tag"></span>
+      {% endunless %}
+      {% if include.filterable %}
+        <button
+          type="button"
+          class="pub-tag pub-tag--{{ tag_slug }}"
+          style="--pub-tag-color: {{ tag_color }};"
+          data-tag-filter="{{ tag_slug }}"
+          data-tag-name="{{ tag_name | escape }}"
+          title="Filter publications by {{ tag_name | escape }}"
+        >
+          <span class="pub-tag__label">{{ tag_name }}</span>
+        </button>
+      {% else %}
+        <a
+          class="pub-tag pub-tag--{{ tag_slug }}"
+          style="--pub-tag-color: {{ tag_color }};"
+          href="{{ base_path }}/publications/?tag={{ tag_slug }}"
+          title="Show publications tagged {{ tag_name | escape }}"
+        >
+          <span class="pub-tag__label">{{ tag_name }}</span>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
