@@ -109,7 +109,7 @@ Twitter username (site.twitter.username), matching upstream behavior.
     {
       "@context" : "http://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
+      "name" : {{ site.social.name | default: site.name | append: "" | jsonify | replace: "<", '\u003c' }},
       "url" : {{ seo_url | jsonify }},
       "sameAs" : {{ site.social.links | jsonify }}
     }
