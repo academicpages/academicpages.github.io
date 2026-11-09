@@ -2,7 +2,7 @@
 title: "Transfer Learning with Physics-Informed Neural Networks for Efficient Simulation of Branched Flows"
 collection: publications
 permalink: /publication/pinns-for-branched-flows
-excerpt: 'This paper is about PINNS for branched flows.'
+excerpt: 'Transfer learning with physics-informed neural networks for efficient simulation of branched flows.'
 date: 2022-11-19
 venue: 'NeurIPS, Machine Learning and the Physical Sciences Workshop'
 paperurl: https://raphaelpellegrin.github.io/files/Branched_Flows_PINNs_Workshop_camera.pdf

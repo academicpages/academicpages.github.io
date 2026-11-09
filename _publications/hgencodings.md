@@ -2,7 +2,7 @@
 title: "Enhancing the Utility of Higher-Order Information in Relational Learning"
 collection: publications
 permalink: /publication/2025-02-13-paper-title-number-1
-excerpt: 'This paper is about higher-order information in relational learning.'
+excerpt: 'Hypergraph encodings that make higher-order structure useful for graph neural networks in relational learning.'
 date: 2025-02-13
 venue: 'NeurIPS'
 paperurl: https://openreview.net/pdf?id=oeMK0Js4lq
