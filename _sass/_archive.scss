@@ -15,15 +15,22 @@
   }
 
   a {
-    text-decoration: underline;
+    color: $link-color;
+    text-decoration: none;
+    transition: color 0.2s ease;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 8px 24px rgba(#000, 0.12);
       }
     }
+  }
+
+  a.pub-link,
+  a.pub-tag {
+    color: inherit;
   }
 }
 
@@ -76,12 +83,18 @@
 
 .archive__item:hover {
   .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    box-shadow: 0 8px 24px rgba(#000, 0.12);
   }
 
-  .archive__item-title {
-    text-decoration: underline;
+  .archive__item-title a {
+    color: $link-color;
   }
+}
+
+.archive__item-title a {
+  color: $darker-gray;
+  font-weight: 600;
+  text-decoration: none;
 }
 
 
