@@ -1,0 +1,26 @@
+name: Lock Closed Issues and Pull Requests
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  lock-threads:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lock Threads
+        uses: dessant/lock-threads@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Configuration for issues
+          issue-inactive-days: '30'
+          issue-comment: 'This thread has been automatically locked since there has not been any recent activity after it was closed.'
+
+          # Configuration for pull requests
+          pr-inactive-days: '15'
