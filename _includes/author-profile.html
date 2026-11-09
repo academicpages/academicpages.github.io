@@ -44,6 +44,9 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
+      {% if author.alphaxiv %}
+        <li><a href="{{ author.alphaxiv }}"><i class="fas fa-fw fa-book-open icon-pad-right" aria-hidden="true"></i>AlphaXiv</a></li>
+      {% endif %}
       {% if author.semantic %}
         <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
       {% endif %}
