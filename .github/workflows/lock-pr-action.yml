@@ -1,4 +1,4 @@
-name: lock pull-request
+name: Lock Pull Request on Closure
 on:
   pull_request:
     types:
