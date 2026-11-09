@@ -14,3 +14,6 @@ package-lock.json
 # Local Python packaging artifacts
 *.egg-info/
 .venv/
+
+# Draft slides kept locally until polished
+files/talk_geoml_sigma.pptx
