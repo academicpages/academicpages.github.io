@@ -1,0 +1,19 @@
+name: lock pull-request
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  lock:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - name: lock pull request
+        uses: sudo-bot/action-pull-request-lock@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          number: ${{ github.event.pull_request.number }}
+          lock-reason: resolved
