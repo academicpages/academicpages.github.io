@@ -6,6 +6,10 @@ excerpt: 'This paper is about PINNS for branched flows.'
 date: 2022-11-19
 venue: 'NeurIPS, Machine Learning and the Physical Sciences Workshop'
 paperurl: https://raphaelpellegrin.github.io/files/Branched_Flows_PINNs_Workshop_camera.pdf
+tags:
+  - Machine Learning
+  - Scientific Machine Learning
+  - PINNs
 ---
 
 [Machine Learning and the Physical Sciences Workshop](https://ml4physicalsciences.github.io/2022/) at the 36th conference on Neural Information Processing Systems (NeurIPS) December 3, 2022. 
