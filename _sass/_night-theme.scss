@@ -4,9 +4,11 @@
 
 html[data-theme="night"] {
   color-scheme: dark;
+  background-color: #12151a;
 
   body {
     color: #c5ccd3;
+    min-height: 100vh;
     background:
       radial-gradient(1200px 480px at 12% -10%, rgba(110, 168, 254, 0.08), transparent 60%),
       radial-gradient(900px 420px at 100% 0%, rgba(72, 166, 140, 0.06), transparent 55%),
