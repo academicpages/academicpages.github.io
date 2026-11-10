@@ -42,6 +42,9 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
+        {% if page.slidesurl %}
+          <p>You can find the slides <a href="{{ page.slidesurl }}">here</a>.</p>
+        {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
