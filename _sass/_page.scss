@@ -209,28 +209,58 @@
    ========================================================================== */
 
 .page__share {
-  margin-top: 2em;
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  margin-top: 1.75em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
-
-  @include breakpoint(max-width $small) {
-    .btn span {
-      border: 0;
-      clip: rect(0 0 0 0);
-      height: 1px;
-      margin: -1px;
-      overflow: hidden;
-      padding: 0;
-      position: absolute;
-      width: 1px;
-    }
-  }
 }
 
 .page__share-title {
-  margin-bottom: 10px;
-  font-size: $type-size-6;
+  margin: 0;
+  font-size: $type-size-7;
+  font-weight: 600;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
+  color: $gray;
+}
+
+.page__share-links {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.page__share-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid mix(#fff, $gray, 78%);
+  border-radius: 999px;
+  color: $dark-gray !important;
+  background: transparent;
+  text-decoration: none !important;
+  transition:
+    color 0.15s ease,
+    border-color 0.15s ease,
+    background-color 0.15s ease;
+
+  &:hover,
+  &:focus-visible {
+    color: $link-color !important;
+    border-color: mix(#fff, $link-color, 55%);
+    background: rgba(21, 101, 192, 0.06);
+    outline: none;
+  }
+
+  .fab,
+  .fas {
+    font-size: 0.85rem;
+    line-height: 1;
+  }
 }
 
 
