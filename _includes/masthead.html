@@ -4,7 +4,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <button type="button" class="greedy-nav__toggle" aria-label="Toggle menu">
+          <div class="navicon"></div>
+        </button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
@@ -15,24 +17,32 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__menu-item--theme">
+            <button
+              type="button"
+              id="theme-toggle"
+              class="theme-toggle"
+              aria-label="Switch to night theme"
+              aria-pressed="false"
+              title="Toggle night theme"
+            >
+              <span class="theme-toggle__icon theme-toggle__icon--moon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="14" height="14" focusable="false">
+                  <path fill="currentColor" d="M16.5 2.2a9.8 9.8 0 0 0-3.2-.5A10 10 0 1 0 22.3 15a8 8 0 0 1-5.8-12.8z"/>
+                </svg>
+              </span>
+              <span class="theme-toggle__icon theme-toggle__icon--sun" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="14" height="14" focusable="false">
+                  <path fill="currentColor" d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm0-5h1.2v3.2H12V2zm0 16.8h1.2V22H12v-3.2zM2 11h3.2v1.2H2V11zm16.8 0H22v1.2h-3.2V11zM5.1 4.3l2.3 2.3-.8.9-2.3-2.3.8-.9zm12.3 12.3 2.3 2.3-.9.8-2.2-2.3.8-.8zM5.1 19.7l.8-.9 2.3 2.3-.8.9-2.3-2.3zm12.3-12.3.8-.9 2.3 2.3-.9.8-2.2-2.2z"/>
+                </svg>
+              </span>
+              <span class="theme-toggle__label theme-toggle__label--to-night">Night</span>
+              <span class="theme-toggle__label theme-toggle__label--to-day">Day</span>
+            </button>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
-      <button
-        type="button"
-        id="theme-toggle"
-        class="theme-toggle"
-        aria-label="Switch to night theme"
-        aria-pressed="false"
-        title="Toggle night theme"
-      >
-        <span class="theme-toggle__icon theme-toggle__icon--moon" aria-hidden="true">
-          <i class="fas fa-moon"></i>
-        </span>
-        <span class="theme-toggle__icon theme-toggle__icon--sun" aria-hidden="true">
-          <i class="fas fa-sun"></i>
-        </span>
-      </button>
     </div>
   </div>
 </div>

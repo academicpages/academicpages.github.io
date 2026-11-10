@@ -249,14 +249,20 @@ html[data-theme="night"] {
 
   .theme-toggle {
     color: #d5d9de;
-    border-color: #2a313a;
-    background: rgba(255, 255, 255, 0.04);
 
-    &:hover {
+    &:hover,
+    &:focus-visible {
       color: #8ec0f5;
-      border-color: #3a4450;
-      background: rgba(142, 192, 245, 0.08);
     }
+  }
+
+  .sidebar,
+  .author__urls-wrapper button {
+    color: #c5ccd3;
+  }
+
+  .author__avatar img {
+    border-color: #2a313a;
   }
 }
 
@@ -264,55 +270,71 @@ html[data-theme="night"] {
   appearance: none;
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  width: 2.25rem;
-  height: 2.25rem;
-  margin: 0 0 0 0.75rem;
-  padding: 0;
-  border: 1px solid mix(#fff, $gray, 78%);
-  border-radius: 999px;
-  background: rgba(0, 0, 0, 0.03);
-  color: $dark-gray;
+  gap: 0.4em;
+  margin: 0;
+  padding: 0.5rem 0;
+  border: 0;
+  background: transparent;
+  color: $masthead-link-color;
+  font-family: $sans-serif-narrow;
+  font-size: inherit;
+  font-weight: 600;
+  line-height: 1;
   cursor: pointer;
-  vertical-align: middle;
-  transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease;
 
-  &:hover {
-    color: $link-color;
-    border-color: mix(#fff, $gray, 65%);
-    background: rgba(21, 101, 192, 0.06);
+  &:hover,
+  &:focus-visible {
+    color: $masthead-link-color-hover;
+    outline: none;
   }
 
   &:focus-visible {
-    outline: 2px solid $link-color;
-    outline-offset: 2px;
+    box-shadow: 0 0 0 2px rgba(21, 101, 192, 0.25);
+    border-radius: 0.25rem;
   }
 
   .theme-toggle__icon {
-    font-size: 0.95rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     line-height: 1;
   }
 
-  .theme-toggle__icon--sun {
+  .theme-toggle__icon--sun,
+  .theme-toggle__label--to-day {
     display: none;
+  }
+
+  .theme-toggle__label {
+    font-size: $type-size-6;
+    letter-spacing: 0.02em;
   }
 }
 
 html[data-theme="night"] .theme-toggle {
-  .theme-toggle__icon--moon {
+  .theme-toggle__icon--moon,
+  .theme-toggle__label--to-night {
     display: none;
   }
 
-  .theme-toggle__icon--sun {
-    display: inline-block;
+  .theme-toggle__icon--sun,
+  .theme-toggle__label--to-day {
+    display: inline-flex;
   }
 }
 
-.masthead__menu {
-  display: flex;
-  align-items: center;
+.masthead__menu-item--theme {
+  padding-left: 0.35em;
 }
 
-.masthead__menu .greedy-nav {
-  flex: 1 1 auto;
+.greedy-nav .visible-links .theme-toggle {
+  margin: 0 1rem;
+}
+
+.greedy-nav .hidden-links .theme-toggle {
+  display: flex;
+  width: 100%;
+  margin: 0;
+  padding: 10px 20px;
+  text-align: left;
 }
