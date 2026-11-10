@@ -1,16 +1,33 @@
 {% include base_path %}
 
 {% if page.previous or page.next %}
-  <nav class="pagination">
+  <nav class="pagination pagination--adjacent" aria-label="Adjacent pages">
     {% if page.previous %}
-      <a href="{{ base_path }}{{ page.previous.url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+      {% capture prev_title %}{{ page.previous.title | markdownify | strip_html }}{% endcapture %}
+      <a
+        href="{{ base_path }}{{ page.previous.url }}"
+        class="pagination__adj pagination__adj--prev"
+        title="{{ prev_title | strip }}"
+      >
+        <span class="pagination__adj-label">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span>
+        <span class="pagination__adj-title">{{ prev_title | strip | truncate: 72 }}</span>
+      </a>
     {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+      <span class="pagination__adj pagination__adj--prev is-empty" aria-hidden="true"></span>
     {% endif %}
+
     {% if page.next %}
-      <a href="{{ base_path }}{{ page.next.url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+      {% capture next_title %}{{ page.next.title | markdownify | strip_html }}{% endcapture %}
+      <a
+        href="{{ base_path }}{{ page.next.url }}"
+        class="pagination__adj pagination__adj--next"
+        title="{{ next_title | strip }}"
+      >
+        <span class="pagination__adj-label">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</span>
+        <span class="pagination__adj-title">{{ next_title | strip | truncate: 72 }}</span>
+      </a>
     {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+      <span class="pagination__adj pagination__adj--next is-empty" aria-hidden="true"></span>
     {% endif %}
   </nav>
 {% endif %}

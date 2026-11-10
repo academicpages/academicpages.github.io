@@ -197,14 +197,44 @@ html[data-theme="night"] {
     }
   }
 
-  .btn {
+  .pagination__adj {
+    border-color: #2a313a;
+    background: rgba(28, 33, 40, 0.9);
+
+    &:hover,
+    &:focus-visible {
+      border-color: rgba(142, 192, 245, 0.45);
+      background: rgba(142, 192, 245, 0.06);
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+    }
+  }
+
+  .pagination__adj-label {
+    color: #8b949e;
+  }
+
+  .pagination__adj-title {
     color: #e8eaed;
   }
 
-  .page__share .btn--twitter,
-  .page__share .btn--facebook,
-  .page__share .btn--linkedin {
-    color: #fff;
+  .page__share-title {
+    color: #8b949e;
+  }
+
+  .page__share-link {
+    color: #d5d9de !important;
+    border-color: #2a313a;
+
+    &:hover,
+    &:focus-visible {
+      color: #8ec0f5 !important;
+      border-color: #3a4450;
+      background: rgba(142, 192, 245, 0.08);
+    }
+  }
+
+  .btn {
+    color: #e8eaed;
   }
 
   .notice {
