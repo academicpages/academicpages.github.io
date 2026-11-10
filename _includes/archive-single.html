@@ -42,6 +42,9 @@
           <p class="pub-meta"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p class="pub-meta"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if post.authors %}
+            <p class="pub-authors">{{ post.authors }}</p>
+          {% endif %}
           {% if post.tags %}
             {% include publication-tag-chain.html tags=post.tags filterable=false %}
           {% endif %}

@@ -5,6 +5,7 @@ permalink: /publication/2025-02-13-paper-title-number-1
 excerpt: 'Hypergraph encodings that make higher-order structure useful for graph neural networks in relational learning.'
 date: 2025-02-13
 venue: 'NeurIPS'
+authors: 'Raphaël Pellegrin, Lukas Fesser, Melanie Weber'
 paperurl: https://openreview.net/pdf?id=oeMK0Js4lq
 posterurl: https://raphaelpellegrin.github.io/files/NeurIPS_2025_Poster.pdf
 tags:
