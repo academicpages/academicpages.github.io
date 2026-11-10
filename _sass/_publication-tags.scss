@@ -262,10 +262,24 @@ a.pub-tag {
   }
 
   .pub-meta {
-    margin: 0 0 0.35em;
+    margin: 0 0 0.2em;
     color: $gray;
     font-size: $type-size-6;
   }
+
+  .pub-authors {
+    margin: 0 0 0.45em;
+    color: mix(#fff, $dark-gray, 8%);
+    font-size: $type-size-6;
+    line-height: 1.45;
+  }
+}
+
+.pub-authors {
+  margin: 0.15em 0 0.55em;
+  color: mix(#fff, $dark-gray, 8%);
+  font-size: $type-size-6;
+  line-height: 1.45;
 }
 
 .pub-tag-filter {
