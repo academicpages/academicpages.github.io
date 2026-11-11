@@ -196,6 +196,23 @@ html[data-theme="night"] {
     color: #8b949e;
   }
 
+  .pub-tag-fold {
+    border-color: #2a313a;
+    background: #1c2128;
+    color: #c5ccd3;
+
+    &:hover,
+    &:focus-visible {
+      border-color: rgba(142, 192, 245, 0.45);
+      background: rgba(142, 192, 245, 0.12);
+      color: #8ec0f5;
+    }
+  }
+
+  .pub-tag-level[data-tag-level="2"] .pub-tag-col__subgroup {
+    border-left-color: #2a313a;
+  }
+
   .pub-tag-chain__join::before {
     background: linear-gradient(
       90deg,
