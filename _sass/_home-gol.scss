@@ -1,0 +1,63 @@
+/* ==========================================================================
+   Homepage Game of Life + night-safe plot handling
+   ========================================================================== */
+
+.home-gol {
+  position: relative;
+  margin: 1.4em 0 1.1em;
+  height: clamp(140px, 22vw, 210px);
+  border-radius: 0.85rem;
+  overflow: hidden;
+  border: 1px solid mix(#fff, $gray, 82%);
+  background:
+    radial-gradient(ellipse at 12% 0%, rgba(31, 95, 139, 0.1), transparent 55%),
+    radial-gradient(ellipse at 100% 80%, rgba(31, 138, 112, 0.08), transparent 50%),
+    linear-gradient(180deg, #f7f9fb 0%, #eef3f7 100%);
+}
+
+.home-gol__canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.home-gol__label {
+  position: absolute;
+  right: 0.7rem;
+  bottom: 0.55rem;
+  margin: 0;
+  color: $gray;
+  font-size: $type-size-6;
+  letter-spacing: 0.02em;
+  pointer-events: none;
+  opacity: 0.85;
+}
+
+.home-plots {
+  margin: 0.75em 0 0;
+}
+
+.home-plots img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 0 1em;
+}
+
+html[data-theme="night"] {
+  .home-gol {
+    border-color: #2a313a;
+    background:
+      radial-gradient(ellipse at 12% 0%, rgba(142, 192, 245, 0.12), transparent 55%),
+      radial-gradient(ellipse at 100% 80%, rgba(72, 166, 140, 0.1), transparent 50%),
+      linear-gradient(180deg, #171b22 0%, #12151a 100%);
+  }
+
+  .home-gol__label {
+    color: #9aa3ad;
+  }
+
+  .home-plots {
+    display: none;
+  }
+}

@@ -1,5 +1,6 @@
 /* ==========================================================================
    CV skills — foldable chips + native word cloud
+   (Avoid Sass mix()/color-mix() with CSS variables — breaks GH Pages Sass 3.7.)
    ========================================================================== */
 
 .skills {
@@ -15,13 +16,9 @@
 
 .skills-group {
   border: 1px solid mix(#fff, $gray, 82%);
+  border-left: 3px solid var(--skills-color, #5a6a72);
   border-radius: 0.75rem;
-  background:
-    linear-gradient(
-      135deg,
-      rgba(255, 255, 255, 0.96),
-      color-mix(in srgb, var(--skills-color, #5a6a72) 8%, #fff)
-    );
+  background: linear-gradient(180deg, #fff 0%, #f7f9fb 100%);
   box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);
   overflow: hidden;
 }
@@ -72,7 +69,8 @@
   min-width: 1.5rem;
   padding: 0.12rem 0.45rem;
   border-radius: 999px;
-  background: color-mix(in srgb, var(--skills-color, #5a6a72) 16%, #fff);
+  border: 1px solid var(--skills-color, #5a6a72);
+  background: #fff;
   color: var(--skills-color, $dark-gray);
   font-size: $type-size-6;
   font-weight: 700;
@@ -102,19 +100,25 @@
   align-items: baseline;
   gap: 0.3rem 0.45rem;
   padding: 0.32rem 0.7rem;
-  border: 1px solid color-mix(in srgb, var(--skills-color, #5a6a72) 35%, #fff);
+  border: 1px solid var(--skills-color, #5a6a72);
   border-radius: 999px;
-  background: color-mix(in srgb, var(--skills-color, #5a6a72) 12%, #fff);
-  color: mix(#000, var(--skills-color, #5a6a72), 28%);
+  background: #fff;
+  color: $darker-gray;
   font-size: $type-size-6;
   font-weight: 600;
   line-height: 1.3;
+  box-shadow: inset 0 0 0 999px rgba(255, 255, 255, 0.001);
+  background-image: linear-gradient(
+    rgba(255, 255, 255, 0.82),
+    rgba(255, 255, 255, 0.82)
+  ),
+  linear-gradient(var(--skills-color, #5a6a72), var(--skills-color, #5a6a72));
 }
 
 .skills-chip__detail {
-  color: mix(#fff, $dark-gray, 8%);
+  color: $gray;
   font-weight: 500;
-  opacity: 0.9;
+  opacity: 0.95;
 
   &::before {
     content: "· ";
@@ -168,12 +172,7 @@
 html[data-theme="night"] {
   .skills-group {
     border-color: #2a313a;
-    background:
-      linear-gradient(
-        135deg,
-        rgba(28, 33, 40, 0.98),
-        color-mix(in srgb, var(--skills-color, #8ec0f5) 14%, #151920)
-      );
+    background: linear-gradient(180deg, #1c2128 0%, #151920 100%);
   }
 
   .skills-group__toggle {
@@ -181,13 +180,16 @@ html[data-theme="night"] {
   }
 
   .skills-group__count {
-    background: color-mix(in srgb, var(--skills-color, #8ec0f5) 22%, #12151a);
+    background: #12151a;
     color: #e8eaed;
   }
 
   .skills-chip {
-    border-color: color-mix(in srgb, var(--skills-color, #8ec0f5) 40%, #2a313a);
-    background: color-mix(in srgb, var(--skills-color, #8ec0f5) 18%, #12151a);
+    background-image: linear-gradient(
+      rgba(18, 21, 26, 0.72),
+      rgba(18, 21, 26, 0.72)
+    ),
+    linear-gradient(var(--skills-color, #8ec0f5), var(--skills-color, #8ec0f5));
     color: #e8eaed;
   }
 

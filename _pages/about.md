@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 <p style="text-align:justify"> I am a Machine Learning Engineer at PhysicsX, working on scientific ML. Previously, I was a Quantitative Researcher in Cambridge, MA. I worked at QLS Advisors, an investment manager that is dedicated to improving outcomes for both healthcare investors and patients.  </p>
 
 <p style="text-align:justify"> I have previous experiences in software engineering, teaching and research. </p>
@@ -20,16 +22,15 @@ redirect_from:
 
 My Erdős number is 4 and my Einstein number is 6. To the best of my knowledge, I do not have a Bacon number.
 
-![Burger](https://raphaelpellegrin.github.io/images/Burger.png)
+<div class="home-gol" aria-hidden="true">
+  <canvas class="home-gol__canvas" data-home-gol></canvas>
+  <p class="home-gol__label">Game of Life</p>
+</div>
 
+<div class="home-plots">
+  <p><img src="{{ base_path }}/images/Burger.png" alt="Burger"></p>
+  <p><img src="{{ base_path }}/images/graph.png" alt="Graph"></p>
+  <p><img src="{{ base_path }}/images/hypergraph_random_walk.gif" alt="Hypergraph"></p>
+</div>
 
-![Graph](https://raphaelpellegrin.github.io/images/graph.png)
-
-![Hypergraph](https://raphaelpellegrin.github.io/images/hypergraph_random_walk.gif)
-
-
-
-
-
-
-
+<script src="{{ base_path }}/assets/js/home-gol.js"></script>
