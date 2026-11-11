@@ -1,0 +1,54 @@
+{% include base_path %}
+
+<section class="skills" aria-label="Skills">
+  <div class="skills__groups">
+    {% for group in site.data.skills %}
+      <div class="skills-group" data-skills-group="{{ group.slug }}" style="--skills-color: {{ group.color }};">
+        <button
+          type="button"
+          class="skills-group__toggle"
+          data-skills-fold="{{ group.slug }}"
+          aria-expanded="true"
+          aria-controls="skills-panel-{{ group.slug }}"
+        >
+          <span class="skills-group__chevron" aria-hidden="true"></span>
+          <span class="skills-group__title">{{ group.name }}</span>
+          <span class="skills-group__count">{{ group.items | size }}</span>
+        </button>
+        <div
+          id="skills-panel-{{ group.slug }}"
+          class="skills-group__panel"
+          data-skills-panel="{{ group.slug }}"
+        >
+          <ul class="skills-group__list">
+            {% for item in group.items %}
+              <li>
+                <span class="skills-chip">
+                  {{ item.name }}{% if item.detail %}
+                    <span class="skills-chip__detail">{{ item.detail }}</span>
+                  {% endif %}
+                </span>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="skills-cloud" aria-hidden="true">
+    <div class="skills-cloud__canvas" data-skills-cloud>
+      {% for group in site.data.skills %}
+        {% assign cloud_items = group.cloud | default: group.items %}
+        {% for item in cloud_items %}
+          <span
+            class="skills-cloud__word"
+            style="--skills-color: {{ group.color }}; --skills-weight: {{ item.weight | default: 3 }};"
+            data-weight="{{ item.weight | default: 3 }}"
+          >{{ item.name }}</span>
+        {% endfor %}
+      {% endfor %}
+    </div>
+    <p class="skills-cloud__caption">A little skills map — generated on this page.</p>
+  </div>
+</section>

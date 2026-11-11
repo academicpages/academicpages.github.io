@@ -1,0 +1,25 @@
+# Education for the CV page (same timeline layout as experience).
+
+- title: "ME in Computational Science and Engineering"
+  org: "Harvard University"
+  location: "Cambridge, MA"
+  start: "Sep 2020"
+  end: "May 2022"
+  summary: "Thesis advised by Pavlos Protopapas and Marios Mattheakis on scientific ML."
+  logo: "harvard.jpg"
+
+- title: "MSc in Mathematical Sciences"
+  org: "University of Oxford"
+  location: "Oxford, UK"
+  start: "Oct 2019"
+  end: "Sep 2020"
+  summary: ""
+  logo: "oxford.jpg"
+
+- title: "BSc in Mathematics"
+  org: "Imperial College London"
+  location: "London, UK"
+  start: "Oct 2016"
+  end: "Jun 2019"
+  summary: ""
+  logo: "imperial.jpg"
