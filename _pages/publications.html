@@ -11,58 +11,31 @@ author_profile: true
 
 {% include base_path %}
 
+{% include view-toggle.html storage_key="publications-view" %}
+
 {% include tag-filter.html items=site.publications empty_label="No publications match this area yet." %}
 
-<div data-vignette-list data-publications-list>
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
+<div data-view-panel="vignette">
+  <div data-vignette-list data-publications-list>
     {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% assign tag_slugs = "" %}
-      {% for tag_name in post.tags %}
-        {% assign matched_slug = tag_name | slugify %}
-        {% for candidate in site.data.publication_tags %}
-          {% if candidate.name == tag_name %}
-            {% assign matched_slug = candidate.slug %}
-          {% endif %}
-        {% endfor %}
-        {% if tag_slugs != "" %}
-          {% assign tag_slugs = tag_slugs | append: "," %}
-        {% endif %}
-        {% assign tag_slugs = tag_slugs | append: matched_slug %}
-      {% endfor %}
-      <div class="publication-item vignette-item" data-tags="{{ tag_slugs }}">
+      {% include item-tag-slugs.html %}
+      <div class="publication-item vignette-item" data-filter-item data-tags="{{ tag_slugs }}">
         {% include archive-single.html %}
       </div>
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% assign tag_slugs = "" %}
-    {% for tag_name in post.tags %}
-      {% assign matched_slug = tag_name | slugify %}
-      {% for candidate in site.data.publication_tags %}
-        {% if candidate.name == tag_name %}
-          {% assign matched_slug = candidate.slug %}
-        {% endif %}
-      {% endfor %}
-      {% if tag_slugs != "" %}
-        {% assign tag_slugs = tag_slugs | append: "," %}
-      {% endif %}
-      {% assign tag_slugs = tag_slugs | append: matched_slug %}
+  </div>
+</div>
+
+<div data-view-panel="list" hidden>
+  <div data-list-root>
+    {% for post in site.publications reversed %}
+      {% include item-tag-slugs.html %}
+      <div data-filter-item data-tags="{{ tag_slugs }}">
+        {% include archive-single-list.html %}
+      </div>
     {% endfor %}
-    <div class="publication-item vignette-item" data-tags="{{ tag_slugs }}">
-      {% include archive-single.html %}
-    </div>
-  {% endfor %}
-{% endif %}
+  </div>
 </div>
 
 <script src="{{ base_path }}/assets/js/publication-tags.js"></script>
+<script src="{{ base_path }}/assets/js/view-toggle.js"></script>

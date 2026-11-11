@@ -31,6 +31,10 @@
     } catch (err) {
       // Ignore storage write errors.
     }
+
+    document.dispatchEvent(
+      new CustomEvent("view-toggle:changed", { detail: { view: next } })
+    );
   }
 
   /**

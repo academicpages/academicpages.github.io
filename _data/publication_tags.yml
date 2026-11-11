@@ -27,6 +27,11 @@
   color: "#3d9a7a"
   parent: "Geometric Machine Learning"
 
+- name: "GNN architecture"
+  slug: gnn-architecture
+  color: "#2f7f6a"
+  parent: "Geometric Machine Learning"
+
 - name: "Mathematics"
   slug: mathematics
   color: "#5b4b8a"
@@ -42,7 +47,17 @@
   color: "#8a6fb8"
   parent: "Geometry"
 
+- name: "Differential Geometry"
+  slug: differential-geometry
+  color: "#7d63ad"
+  parent: "Geometry"
+
 - name: "Computational Algebra"
   slug: computational-algebra
   color: "#7a4e8c"
   parent: "Mathematics"
+
+- name: "Network Science"
+  slug: network-science
+  color: "#3f6f8f"
+  parent:

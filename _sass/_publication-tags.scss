@@ -163,7 +163,9 @@ a.pub-tag {
   padding: 0.32em 0.85em;
 }
 
-.publication-item.is-hidden {
+.publication-item.is-hidden,
+.vignette-item.is-hidden,
+[data-filter-item].is-hidden {
   display: none;
 }
 

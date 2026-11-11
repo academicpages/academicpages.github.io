@@ -121,6 +121,16 @@ html[data-theme="night"] {
     color: #8ec0f5;
   }
 
+  /* GitHub brand color is near-black; force a light mark in the sidebar. */
+  .sidebar .fa-github,
+  .sidebar .fa-github-alt,
+  .sidebar .fa-github-square,
+  .author__urls .fa-github,
+  .author__urls .fa-github-alt,
+  .author__urls .fa-github-square {
+    color: #ffffff;
+  }
+
   .archive__item-title a {
     color: #e8eaed;
   }

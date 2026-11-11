@@ -1,0 +1,34 @@
+{% comment %}
+  Compact list-row preview for publications / portfolio / reviewing-style items.
+  Expects the usual `post` loop variable.
+{% endcomment %}
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h2>
+    {% if post.collection == 'publications' and post.venue %}
+      <p class="archive__item-excerpt" itemprop="description">
+        <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+      </p>
+    {% elsif post.collection == 'portfolio' and post.date %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: "%Y" }}</p>
+    {% elsif post.date %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: "%B %d, %Y" }}</p>
+    {% endif %}
+    {% if post.excerpt and post.excerpt != blank %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+    {% if post.paperurl or post.slidesurl or post.posterurl or post.projecturl or post.paperpage %}
+      {% include publication-links.html item=post %}
+    {% endif %}
+  </article>
+</div>

@@ -2,6 +2,7 @@
   Area tag filter bar.
   Expects:
     include.items — collection array to derive used tags from
+    include.tag_names — optional explicit tag-name array to show
     include.empty_label — empty-state message
 {% endcomment %}
 {% include base_path %}
@@ -12,7 +13,11 @@
     <button type="button" class="pub-tag pub-tag--all is-active" data-tag-filter="" aria-pressed="true">All</button>
     {% for tag in site.data.publication_tags %}
       {% assign tag_used = false %}
-      {% if include.items %}
+      {% if include.tag_names %}
+        {% if include.tag_names contains tag.name %}
+          {% assign tag_used = true %}
+        {% endif %}
+      {% elsif include.items %}
         {% for post in include.items %}
           {% if post.tags contains tag.name %}
             {% assign tag_used = true %}
