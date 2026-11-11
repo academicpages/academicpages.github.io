@@ -2,9 +2,11 @@
 
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
-  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
+{% if seo_url %}
+  {% assign canonical_url = page.url | replace: "/index.html", "/" | prepend: seo_url %}
+{% endif %}
 
 {% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
@@ -62,8 +64,8 @@ with base_path so the result is always absolute.
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 {% endif %}
 
-{% if seo_url %}
-  <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
+{% if canonical_url %}
+  <link rel="canonical" href="{{ canonical_url }}">
 {% endif %}
 
 {% comment %} Twitter/X card tags are only emitted when the site configures a
@@ -142,8 +144,8 @@ Twitter username (site.twitter.username), matching upstream behavior.
 {% elsif site.og_description %}
   <meta property="og:description" name="description" content="{{ site.og_description }}">
 {% endif %}
-{% if seo_url %}
-  <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
+{% if canonical_url %}
+  <meta property="og:url" content="{{ canonical_url }}">
 {% endif %}
 {% if seo_image_abs %}
   <meta property="og:image" content="{{ seo_image_abs }}">
