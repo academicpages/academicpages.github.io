@@ -6,7 +6,7 @@
   start: "Jan 2026"
   end: "Present"
   summary: "Working on scientific ML."
-  logo: "physicsx.svg"
+  logo: "physicsx.jpg"
 
 - title: "Quantitative Researcher"
   org: "QLS Advisors"
@@ -14,7 +14,7 @@
   start: "Aug 2023"
   end: "Dec 2025"
   summary: "Quant research. Low/mid frequency healthcare equities."
-  logo: "qls.svg"
+  logo: "qls.jpg"
 
 - title: "Software Engineer"
   org: "Siemens Digital Industries Software"
@@ -22,7 +22,7 @@
   start: "Jul 2022"
   end: "Aug 2023"
   summary: "Computational geometry."
-  logo: "siemens.svg"
+  logo: "siemens.jpg"
 
 - title: "Computational Sciences and Engineering ME Student"
   org: "Harvard University"
@@ -30,7 +30,7 @@
   start: "Sep 2020"
   end: "May 2022"
   summary: "Thesis advised by Pavlos Protopapas and Marios Mattheakis on scientific ML."
-  logo: "harvard.svg"
+  logo: "harvard.jpg"
 
 - title: "Mathematical Sciences MSc Student"
   org: "University of Oxford"
@@ -38,15 +38,15 @@
   start: "Oct 2019"
   end: "Sep 2020"
   summary: ""
-  logo: "oxford.svg"
+  logo: "oxford.jpg"
 
 - title: "Summer Researcher"
-  org: "Max Planck Institute"
+  org: "Max Planck Institute for Mathematics in the Sciences"
   location: "Leipzig, Germany"
   start: "Jul 2019"
   end: "Aug 2019"
   summary: "Worked on SDPs."
-  logo: "mpi.svg"
+  logo: "mpi.jpg"
 
 - title: "Mathematics BSc Student"
   org: "Imperial College London"
@@ -54,7 +54,7 @@
   start: "Oct 2016"
   end: "Jun 2019"
   summary: ""
-  logo: "imperial.svg"
+  logo: "imperial.jpg"
 
 - title: "Summer Researcher"
   org: "École Polytechnique"
@@ -62,4 +62,4 @@
   start: "Jul 2018"
   end: "Aug 2018"
   summary: "Worked on tropical geometry."
-  logo: "polytechnique.svg"
+  logo: "polytechnique.jpg"

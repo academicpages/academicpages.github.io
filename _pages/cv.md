@@ -16,9 +16,9 @@ redirect_from:
 ## Education
 
 <div class="cv-edu-inline" aria-label="Universities">
-  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/imperial.svg" alt="">Imperial College London · BSc 2019</span>
-  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/oxford.svg" alt="">Oxford · MSc 2020</span>
-  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/harvard.svg" alt="">Harvard · ME 2022</span>
+  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/imperial.jpg" alt="">Imperial College London · BSc 2019</span>
+  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/oxford.jpg" alt="">Oxford · MSc 2020</span>
+  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/harvard.jpg" alt="">Harvard · ME 2022</span>
 </div>
 
 * BSc in Mathematics, Imperial College London, 2019
