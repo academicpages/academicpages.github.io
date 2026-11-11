@@ -1,0 +1,168 @@
+/* ==========================================================================
+   CV experience timeline (AlphaXiv-inspired)
+   ========================================================================== */
+
+.experience {
+  margin: 0 0 2em;
+}
+
+.experience__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.experience__item {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1fr);
+  gap: 0.9rem 1rem;
+  position: relative;
+  padding: 0 0 1.35rem;
+
+  &:not(:last-child)::before {
+    content: "";
+    position: absolute;
+    left: 21px;
+    top: 48px;
+    bottom: 0;
+    width: 2px;
+    background: mix(#fff, $gray, 82%);
+  }
+
+  &:last-child {
+    padding-bottom: 0.2rem;
+  }
+}
+
+.experience__logo {
+  width: 44px;
+  height: 44px;
+  border-radius: 0.7rem;
+  overflow: hidden;
+  border: 1px solid mix(#fff, $gray, 82%);
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+  z-index: 1;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.experience__logo-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: mix(#fff, $link-color, 88%);
+  color: $link-color;
+  font-family: $sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.experience__body {
+  min-width: 0;
+}
+
+.experience__top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.25rem 1rem;
+}
+
+.experience__title {
+  margin: 0;
+  font-size: 1.05em;
+  font-weight: 700;
+  line-height: 1.3;
+  color: $darker-gray;
+}
+
+.experience__dates {
+  margin: 0;
+  color: $gray;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.experience__org {
+  margin: 0.2rem 0 0;
+  color: mix(#fff, $dark-gray, 8%);
+  font-size: $type-size-6;
+  font-weight: 600;
+}
+
+.experience__summary {
+  margin: 0.35rem 0 0;
+  color: mix(#fff, $dark-gray, 18%);
+  font-size: $type-size-6;
+  line-height: 1.5;
+}
+
+.cv-edu-inline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0.35rem 0 1.25rem;
+}
+
+.cv-edu-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.28rem 0.65rem 0.28rem 0.3rem;
+  border: 1px solid mix(#fff, $gray, 82%);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.75);
+  color: $dark-gray;
+  font-size: $type-size-6;
+  font-weight: 600;
+  text-decoration: none !important;
+
+  img {
+    width: 22px;
+    height: 22px;
+    border-radius: 0.35rem;
+    object-fit: cover;
+  }
+}
+
+html[data-theme="night"] {
+  .experience__item:not(:last-child)::before {
+    background: #2a313a;
+  }
+
+  .experience__logo {
+    border-color: #2a313a;
+    background: #1c2128;
+  }
+
+  .experience__title {
+    color: #e8eaed;
+  }
+
+  .experience__dates,
+  .experience__summary {
+    color: #9aa3ad;
+  }
+
+  .experience__org {
+    color: #c5ccd3;
+  }
+
+  .cv-edu-chip {
+    border-color: #2a313a;
+    background: rgba(28, 33, 40, 0.9);
+    color: #d5d9de;
+  }
+}

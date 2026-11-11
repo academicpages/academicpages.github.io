@@ -9,13 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+## Experience
+
+{% include experience.html %}
+
 ## Education
-* BSc in Mathematics, Imperial College London, 2019,
-* MSc in Mathematical Sciences, Oxford University, 2020.
-* ME in Computational Science and Engineering, Harvard University, 2022.
-  
+
+<div class="cv-edu-inline" aria-label="Universities">
+  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/imperial.svg" alt="">Imperial College London · BSc 2019</span>
+  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/oxford.svg" alt="">Oxford · MSc 2020</span>
+  <span class="cv-edu-chip"><img src="{{ base_path }}/images/orgs/harvard.svg" alt="">Harvard · ME 2022</span>
+</div>
+
+* BSc in Mathematics, Imperial College London, 2019
+* MSc in Mathematical Sciences, University of Oxford, 2020
+* ME in Computational Science and Engineering, Harvard University, 2022
+
 ## Skills
-* Programming 
+* Programming
   * Python (with PyTorch, Tensorflow)
   * C++/C
   * R
@@ -32,7 +43,7 @@ redirect_from:
   * French
   * English
   * German
-  
+
 ## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
