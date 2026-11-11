@@ -121,6 +121,16 @@ html[data-theme="night"] {
     color: #8ec0f5;
   }
 
+  /* GitHub brand color is near-black; force a light mark in the sidebar. */
+  .sidebar .fa-github,
+  .sidebar .fa-github-alt,
+  .sidebar .fa-github-square,
+  .author__urls .fa-github,
+  .author__urls .fa-github-alt,
+  .author__urls .fa-github-square {
+    color: #ffffff;
+  }
+
   .archive__item-title a {
     color: #e8eaed;
   }
@@ -133,7 +143,18 @@ html[data-theme="night"] {
     color: #9aa3ad;
   }
 
-  .publication-item .list__item {
+  .travels {
+    .travel-item {
+      border-bottom-color: #2a313a;
+    }
+
+    .travel-photo figcaption {
+      color: #9aa3ad;
+    }
+  }
+
+  .publication-item .list__item,
+  .vignette-item .list__item {
     border-color: #2a313a;
     background: linear-gradient(180deg, rgba(28, 33, 40, 0.98), rgba(22, 26, 32, 0.98));
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);

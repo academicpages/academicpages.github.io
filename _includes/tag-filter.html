@@ -1,0 +1,49 @@
+{% comment %}
+  Area tag filter bar.
+  Expects:
+    include.items — collection array to derive used tags from
+    include.tag_names — optional explicit tag-name array to show
+    include.empty_label — empty-state message
+{% endcomment %}
+{% include base_path %}
+
+<section class="pub-tag-filter" aria-label="Filter by research area">
+  <span class="pub-tag-filter__label">Filter by area</span>
+  <div class="pub-tag-filter__row">
+    <button type="button" class="pub-tag pub-tag--all is-active" data-tag-filter="" aria-pressed="true">All</button>
+    {% for tag in site.data.publication_tags %}
+      {% assign tag_used = false %}
+      {% if include.tag_names %}
+        {% if include.tag_names contains tag.name %}
+          {% assign tag_used = true %}
+        {% endif %}
+      {% elsif include.items %}
+        {% for post in include.items %}
+          {% if post.tags contains tag.name %}
+            {% assign tag_used = true %}
+          {% endif %}
+        {% endfor %}
+      {% else %}
+        {% assign tag_used = true %}
+      {% endif %}
+      {% if tag_used %}
+        <button
+          type="button"
+          class="pub-tag pub-tag--{{ tag.slug }}"
+          style="--pub-tag-color: {{ tag.color }};"
+          data-tag-filter="{{ tag.slug }}"
+          data-tag-name="{{ tag.name | escape }}"
+          title="{% if tag.parent %}Part of {{ tag.parent }} — {% endif %}Show items tagged {{ tag.name | escape }}"
+          aria-pressed="false"
+        >
+          <span class="pub-tag__label">{{ tag.name }}</span>
+        </button>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <p class="pub-tag-filter__hint">
+    Tags nest from broad to narrow (for example, Geometric Machine Learning ⊂ Machine Learning). Click a tag to filter; click again to clear.
+  </p>
+</section>
+
+<p class="pub-tag-empty">{{ include.empty_label | default: "No items match this area yet." }}</p>

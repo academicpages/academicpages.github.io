@@ -1,4 +1,4 @@
-# Stable colors and hierarchy for publication area tags.
+# Stable colors and hierarchy for area tags (publications, talks, portfolio).
 # Order here is broad → narrow within each branch.
 # `parent` encodes the subset relationship (child ⊂ parent).
 
@@ -17,12 +17,47 @@
   color: "#8f3f24"
   parent: "Scientific Machine Learning"
 
-- name: "Graph Machine Learning"
-  slug: graph-machine-learning
+- name: "Geometric Machine Learning"
+  slug: geometric-machine-learning
   color: "#1f8a70"
   parent: "Machine Learning"
 
-- name: "Encodings for Graph Machine Learning"
-  slug: encodings-for-graph-machine-learning
+- name: "Encodings for GNNs"
+  slug: encodings-for-gnns
   color: "#3d9a7a"
-  parent: "Graph Machine Learning"
+  parent: "Geometric Machine Learning"
+
+- name: "GNN architecture"
+  slug: gnn-architecture
+  color: "#2f7f6a"
+  parent: "Geometric Machine Learning"
+
+- name: "Mathematics"
+  slug: mathematics
+  color: "#5b4b8a"
+  parent:
+
+- name: "Geometry"
+  slug: geometry
+  color: "#6f5aa3"
+  parent: "Mathematics"
+
+- name: "Tropical Geometry"
+  slug: tropical-geometry
+  color: "#8a6fb8"
+  parent: "Geometry"
+
+- name: "Differential Geometry"
+  slug: differential-geometry
+  color: "#7d63ad"
+  parent: "Geometry"
+
+- name: "Computational Algebra"
+  slug: computational-algebra
+  color: "#7a4e8c"
+  parent: "Mathematics"
+
+- name: "Network Science"
+  slug: network-science
+  color: "#3f6f8f"
+  parent:

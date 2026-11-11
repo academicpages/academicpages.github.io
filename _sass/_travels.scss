@@ -1,0 +1,36 @@
+/* ==========================================================================
+   Travels
+   ========================================================================== */
+
+.travels {
+  .travel-item {
+    margin-bottom: 2em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid $border-color;
+
+    &:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+  }
+
+  .travel-photo {
+    margin: 1.1em 0 0;
+    padding: 0;
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: $border-radius;
+    }
+
+    figcaption {
+      margin-top: 0.55em;
+      font-size: $type-size-6;
+      color: $gray;
+      line-height: 1.4;
+    }
+  }
+}

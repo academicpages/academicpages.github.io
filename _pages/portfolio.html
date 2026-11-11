@@ -7,8 +7,31 @@ author_profile: true
 
 {% include base_path %}
 
+{% include view-toggle.html storage_key="portfolio-view" %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include tag-filter.html items=site.portfolio empty_label="No portfolio items match this area yet." %}
 
+<div data-view-panel="vignette">
+  <div data-vignette-list>
+    {% for post in site.portfolio %}
+      {% include item-tag-slugs.html %}
+      <div class="publication-item vignette-item" data-filter-item data-tags="{{ tag_slugs }}">
+        {% include archive-single.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div data-view-panel="list" hidden>
+  <div data-list-root>
+    {% for post in site.portfolio %}
+      {% include item-tag-slugs.html %}
+      <div data-filter-item data-tags="{{ tag_slugs }}">
+        {% include archive-single-list.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script src="{{ base_path }}/assets/js/publication-tags.js"></script>
+<script src="{{ base_path }}/assets/js/view-toggle.js"></script>

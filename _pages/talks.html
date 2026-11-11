@@ -11,6 +11,33 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% include base_path %}
+
+{% include view-toggle.html storage_key="talks-view" %}
+
+{% include tag-filter.html items=site.talks empty_label="No talks match this area yet." %}
+
+<div data-view-panel="vignette">
+  <div data-vignette-list>
+    {% for post in site.talks reversed %}
+      {% include item-tag-slugs.html %}
+      <div class="publication-item vignette-item" data-filter-item data-tags="{{ tag_slugs }}">
+        {% include archive-single.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div data-view-panel="list" hidden>
+  <div data-list-root>
+    {% for post in site.talks reversed %}
+      {% include item-tag-slugs.html %}
+      <div data-filter-item data-tags="{{ tag_slugs }}">
+        {% include archive-single-talk.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script src="{{ base_path }}/assets/js/publication-tags.js"></script>
+<script src="{{ base_path }}/assets/js/view-toggle.js"></script>
