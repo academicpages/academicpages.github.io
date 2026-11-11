@@ -9,9 +9,17 @@
   background: linear-gradient(180deg, #f7f9fb 0%, #fff 100%);
 }
 
+.pub-tag-filter__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65em 0.85em;
+  margin: 0 0 0.85em;
+}
+
 .pub-tag-filter__label {
   display: block;
-  margin: 0 0 0.65em;
+  margin: 0;
   font-size: $type-size-6;
   font-weight: 700;
   letter-spacing: 0.02em;
@@ -30,6 +38,101 @@
   margin: 0.75em 0 0;
   font-size: $type-size-6;
   color: $gray;
+}
+
+.pub-tag-tree {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55em;
+}
+
+.pub-tag-level {
+  display: grid;
+  grid-template-columns: 1.75rem minmax(0, 1fr);
+  gap: 0.45rem 0.55rem;
+  align-items: start;
+}
+
+.pub-tag-level.is-collapsed .pub-tag-level__body {
+  display: none;
+}
+
+.pub-tag-fold {
+  appearance: none;
+  width: 1.75rem;
+  height: 1.75rem;
+  margin: 0.1rem 0 0;
+  padding: 0;
+  border: 1px solid mix(#fff, $gray, 78%);
+  border-radius: 0.4rem;
+  background: #fff;
+  color: $dark-gray;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+
+  &:hover,
+  &:focus-visible {
+    border-color: mix(#fff, $link-color, 55%);
+    background: mix(#fff, $link-color, 92%);
+    outline: none;
+  }
+
+  &[aria-expanded="false"] .pub-tag-fold__icon {
+    transform: rotate(-90deg);
+  }
+}
+
+.pub-tag-fold__icon {
+  display: block;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg);
+  transition: transform 0.18s ease;
+}
+
+.pub-tag-level__body {
+  min-width: 0;
+}
+
+.pub-tag-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11.5rem, 1fr));
+  gap: 0.65rem 1rem;
+  align-items: start;
+}
+
+.pub-tag-col {
+  min-width: 0;
+}
+
+.pub-tag-col__group,
+.pub-tag-col__subgroup {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45em 0.5em;
+  align-items: center;
+}
+
+.pub-tag-col__subcolumns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 0.85rem;
+  align-items: start;
+}
+
+.pub-tag-level[data-tag-level="1"] .pub-tag-col,
+.pub-tag-level[data-tag-level="2"] .pub-tag-col {
+  padding-left: 0.35rem;
+}
+
+.pub-tag-level[data-tag-level="2"] .pub-tag-col__subgroup {
+  border-left: 2px solid mix(#fff, $gray, 82%);
+  padding-left: 0.55rem;
 }
 
 .pub-tag-chain {

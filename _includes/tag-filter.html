@@ -1,5 +1,5 @@
 {% comment %}
-  Area tag filter bar.
+  Foldable hierarchical area filter.
   Expects:
     include.items — collection array to derive used tags from
     include.tag_names — optional explicit tag-name array to show
@@ -7,42 +7,206 @@
 {% endcomment %}
 {% include base_path %}
 
-<section class="pub-tag-filter" aria-label="Filter by research area">
-  <span class="pub-tag-filter__label">Filter by area</span>
-  <div class="pub-tag-filter__row">
-    <button type="button" class="pub-tag pub-tag--all is-active" data-tag-filter="" aria-pressed="true">All</button>
-    {% for tag in site.data.publication_tags %}
-      {% assign tag_used = false %}
-      {% if include.tag_names %}
-        {% if include.tag_names contains tag.name %}
-          {% assign tag_used = true %}
+{% assign used_tag_csv = "" %}
+{% if include.tag_names %}
+  {% for name in include.tag_names %}
+    {% assign used_tag_csv = used_tag_csv | append: name | append: "||" %}
+  {% endfor %}
+{% elsif include.items %}
+  {% for post in include.items %}
+    {% for name in post.tags %}
+      {% assign used_tag_csv = used_tag_csv | append: name | append: "||" %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for tag in site.data.publication_tags %}
+    {% assign used_tag_csv = used_tag_csv | append: tag.name | append: "||" %}
+  {% endfor %}
+{% endif %}
+
+{% assign has_level_0 = false %}
+{% assign has_level_1 = false %}
+{% assign has_level_2 = false %}
+{% for tag in site.data.publication_tags %}
+  {% assign needle = tag.name | append: "||" %}
+  {% if used_tag_csv contains needle %}
+    {% if tag.parent == nil or tag.parent == "" %}
+      {% assign has_level_0 = true %}
+    {% else %}
+      {% assign parent_tag = nil %}
+      {% for candidate in site.data.publication_tags %}
+        {% if candidate.name == tag.parent %}
+          {% assign parent_tag = candidate %}
         {% endif %}
-      {% elsif include.items %}
-        {% for post in include.items %}
-          {% if post.tags contains tag.name %}
-            {% assign tag_used = true %}
-          {% endif %}
-        {% endfor %}
+      {% endfor %}
+      {% if parent_tag and parent_tag.parent and parent_tag.parent != "" %}
+        {% assign has_level_2 = true %}
       {% else %}
-        {% assign tag_used = true %}
+        {% assign has_level_1 = true %}
       {% endif %}
-      {% if tag_used %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<section class="pub-tag-filter" aria-label="Filter by research area">
+  <div class="pub-tag-filter__header">
+    <span class="pub-tag-filter__label">Filter by area</span>
+    <button type="button" class="pub-tag pub-tag--all is-active" data-tag-filter="" aria-pressed="true">All</button>
+  </div>
+
+  <div class="pub-tag-tree">
+    {% if has_level_0 %}
+      <div class="pub-tag-level" data-tag-level="0">
         <button
           type="button"
-          class="pub-tag pub-tag--{{ tag.slug }}"
-          style="--pub-tag-color: {{ tag.color }};"
-          data-tag-filter="{{ tag.slug }}"
-          data-tag-name="{{ tag.name | escape }}"
-          title="{% if tag.parent %}Part of {{ tag.parent }} — {% endif %}Show items tagged {{ tag.name | escape }}"
-          aria-pressed="false"
+          class="pub-tag-fold"
+          data-tag-fold="0"
+          aria-expanded="true"
+          aria-controls="pub-tag-level-0"
+          title="Fold top-level areas"
         >
-          <span class="pub-tag__label">{{ tag.name }}</span>
+          <span class="pub-tag-fold__icon" aria-hidden="true"></span>
+          <span class="sr-only">Fold top-level areas</span>
         </button>
-      {% endif %}
-    {% endfor %}
+        <div id="pub-tag-level-0" class="pub-tag-level__body" data-tag-fold-panel="0">
+          <div class="pub-tag-columns">
+            {% for tag in site.data.publication_tags %}
+              {% assign needle = tag.name | append: "||" %}
+              {% if used_tag_csv contains needle %}
+                {% if tag.parent == nil or tag.parent == "" %}
+                  <div class="pub-tag-col" data-tag-branch="{{ tag.slug }}">
+                    <button
+                      type="button"
+                      class="pub-tag pub-tag--{{ tag.slug }}"
+                      style="--pub-tag-color: {{ tag.color }};"
+                      data-tag-filter="{{ tag.slug }}"
+                      data-tag-name="{{ tag.name | escape }}"
+                      title="Show items tagged {{ tag.name | escape }}"
+                      aria-pressed="false"
+                    >
+                      <span class="pub-tag__label">{{ tag.name }}</span>
+                    </button>
+                  </div>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    {% endif %}
+
+    {% if has_level_1 %}
+      <div class="pub-tag-level" data-tag-level="1">
+        <button
+          type="button"
+          class="pub-tag-fold"
+          data-tag-fold="1"
+          aria-expanded="true"
+          aria-controls="pub-tag-level-1"
+          title="Fold mid-level areas"
+        >
+          <span class="pub-tag-fold__icon" aria-hidden="true"></span>
+          <span class="sr-only">Fold mid-level areas</span>
+        </button>
+        <div id="pub-tag-level-1" class="pub-tag-level__body" data-tag-fold-panel="1">
+          <div class="pub-tag-columns">
+            {% for root in site.data.publication_tags %}
+              {% assign root_needle = root.name | append: "||" %}
+              {% if used_tag_csv contains root_needle %}
+                {% if root.parent == nil or root.parent == "" %}
+                  <div class="pub-tag-col" data-tag-branch="{{ root.slug }}">
+                    <div class="pub-tag-col__group">
+                      {% for tag in site.data.publication_tags %}
+                        {% assign needle = tag.name | append: "||" %}
+                        {% if used_tag_csv contains needle and tag.parent == root.name %}
+                          <button
+                            type="button"
+                            class="pub-tag pub-tag--{{ tag.slug }}"
+                            style="--pub-tag-color: {{ tag.color }};"
+                            data-tag-filter="{{ tag.slug }}"
+                            data-tag-name="{{ tag.name | escape }}"
+                            title="Part of {{ tag.parent }} — Show items tagged {{ tag.name | escape }}"
+                            aria-pressed="false"
+                          >
+                            <span class="pub-tag__label">{{ tag.name }}</span>
+                          </button>
+                        {% endif %}
+                      {% endfor %}
+                    </div>
+                  </div>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    {% endif %}
+
+    {% if has_level_2 %}
+      <div class="pub-tag-level" data-tag-level="2">
+        <button
+          type="button"
+          class="pub-tag-fold"
+          data-tag-fold="2"
+          aria-expanded="true"
+          aria-controls="pub-tag-level-2"
+          title="Fold specialist areas"
+        >
+          <span class="pub-tag-fold__icon" aria-hidden="true"></span>
+          <span class="sr-only">Fold specialist areas</span>
+        </button>
+        <div id="pub-tag-level-2" class="pub-tag-level__body" data-tag-fold-panel="2">
+          <div class="pub-tag-columns">
+            {% for root in site.data.publication_tags %}
+              {% assign root_needle = root.name | append: "||" %}
+              {% if used_tag_csv contains root_needle %}
+                {% if root.parent == nil or root.parent == "" %}
+                  <div class="pub-tag-col" data-tag-branch="{{ root.slug }}">
+                    <div class="pub-tag-col__subcolumns">
+                      {% for mid in site.data.publication_tags %}
+                        {% if mid.parent == root.name %}
+                          {% assign mid_has_used_child = false %}
+                          {% for leaf in site.data.publication_tags %}
+                            {% assign leaf_needle = leaf.name | append: "||" %}
+                            {% if used_tag_csv contains leaf_needle and leaf.parent == mid.name %}
+                              {% assign mid_has_used_child = true %}
+                            {% endif %}
+                          {% endfor %}
+                          {% if mid_has_used_child %}
+                            <div class="pub-tag-col__subgroup" data-tag-parent="{{ mid.slug }}">
+                              {% for leaf in site.data.publication_tags %}
+                                {% assign leaf_needle = leaf.name | append: "||" %}
+                                {% if used_tag_csv contains leaf_needle and leaf.parent == mid.name %}
+                                  <button
+                                    type="button"
+                                    class="pub-tag pub-tag--{{ leaf.slug }}"
+                                    style="--pub-tag-color: {{ leaf.color }};"
+                                    data-tag-filter="{{ leaf.slug }}"
+                                    data-tag-name="{{ leaf.name | escape }}"
+                                    title="Part of {{ leaf.parent }} — Show items tagged {{ leaf.name | escape }}"
+                                    aria-pressed="false"
+                                  >
+                                    <span class="pub-tag__label">{{ leaf.name }}</span>
+                                  </button>
+                                {% endif %}
+                              {% endfor %}
+                            </div>
+                          {% endif %}
+                        {% endif %}
+                      {% endfor %}
+                    </div>
+                  </div>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    {% endif %}
   </div>
+
   <p class="pub-tag-filter__hint">
-    Tags nest from broad to narrow (for example, Geometric Machine Learning ⊂ Machine Learning). Click a tag to filter; click again to clear.
+    Broad areas sit on the first row; narrower areas nest underneath. Use the arrows to fold a row. Click a tag to filter; click again to clear.
   </p>
 </section>
 

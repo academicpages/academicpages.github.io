@@ -114,6 +114,88 @@
   }
 
   /**
+   * Storage key for folded filter rows.
+   * @returns {string}
+   */
+  function foldStorageKey() {
+    return "pub-tag-fold:" + window.location.pathname;
+  }
+
+  /**
+   * Read folded level ids from localStorage.
+   * @returns {Object<string, boolean>}
+   */
+  function readFoldState() {
+    try {
+      var raw = localStorage.getItem(foldStorageKey());
+      return raw ? JSON.parse(raw) : {};
+    } catch (err) {
+      return {};
+    }
+  }
+
+  /**
+   * Persist folded level ids.
+   * @param {Object<string, boolean>} state Fold map.
+   * @returns {void}
+   */
+  function writeFoldState(state) {
+    try {
+      localStorage.setItem(foldStorageKey(), JSON.stringify(state));
+    } catch (err) {
+      // Ignore quota / private-mode failures.
+    }
+  }
+
+  /**
+   * Apply expanded/collapsed state to one filter row.
+   * @param {string} level Level id.
+   * @param {boolean} expanded Whether the row is open.
+   * @returns {void}
+   */
+  function setFoldExpanded(level, expanded) {
+    var button = document.querySelector('[data-tag-fold="' + level + '"]');
+    var panel = document.querySelector('[data-tag-fold-panel="' + level + '"]');
+    var row = document.querySelector('[data-tag-level="' + level + '"]');
+    if (!button || !panel || !row) {
+      return;
+    }
+    button.setAttribute("aria-expanded", expanded ? "true" : "false");
+    row.classList.toggle("is-collapsed", !expanded);
+  }
+
+  /**
+   * Wire foldable hierarchy rows.
+   * @returns {void}
+   */
+  function initFolds() {
+    var state = readFoldState();
+    document.querySelectorAll("[data-tag-fold]").forEach(function (button) {
+      var level = button.getAttribute("data-tag-fold") || "";
+      var expanded = state[level] !== false;
+      setFoldExpanded(level, expanded);
+    });
+
+    document.addEventListener("click", function (event) {
+      var target = event.target;
+      if (!(target instanceof Element)) {
+        return;
+      }
+      var foldButton = target.closest("[data-tag-fold]");
+      if (!foldButton) {
+        return;
+      }
+      event.preventDefault();
+      var level = foldButton.getAttribute("data-tag-fold") || "";
+      var expanded = foldButton.getAttribute("aria-expanded") !== "true";
+      setFoldExpanded(level, expanded);
+      var nextState = readFoldState();
+      nextState[level] = expanded;
+      writeFoldState(nextState);
+    });
+  }
+
+  /**
    * Wire filter controls for archive pages.
    * @returns {void}
    */
@@ -122,9 +204,14 @@
       return;
     }
 
+    initFolds();
+
     document.addEventListener("click", function (event) {
       var target = event.target;
       if (!(target instanceof Element)) {
+        return;
+      }
+      if (target.closest("[data-tag-fold]")) {
         return;
       }
       var button = target.closest("[data-tag-filter]");
