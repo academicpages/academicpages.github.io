@@ -45,6 +45,8 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% include translation-switcher.html %}
+
         {{ content }}
 
         {% include /components/citations.html

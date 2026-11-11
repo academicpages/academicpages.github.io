@@ -1,0 +1,16 @@
+{% if page.translation_key %}
+  {% assign translations = site.posts | where: "translation_key", page.translation_key | sort: "lang" %}
+  {% if translations.size > 1 %}
+    <nav class="page__translation-switcher" aria-label="Language versions">
+      <span class="page__translation-switcher-label">Read in:</span>
+      {% for translation in translations %}
+        {% assign label = translation.language_label | default: translation.lang %}
+        {% if translation.url == page.url %}
+          <span lang="{{ translation.lang }}" aria-current="page">{{ label }}</span>
+        {% else %}
+          <a href="{{ translation.url | relative_url }}" lang="{{ translation.lang }}" hreflang="{{ translation.lang }}">{{ label }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  {% endif %}
+{% endif %}
