@@ -107,6 +107,48 @@
   }
 }
 
+.page__content,
+.archive {
+  :is(h1, h2, h3, h4, h5, h6)[id] {
+    scroll-margin-block-start: $masthead-height;
+
+    > a[href^="#"]:empty {
+      display: inline-block;
+      margin-inline-end: 0.35em;
+      padding-inline: 0.2em;
+      font-size: 0.8em;
+      text-decoration: none;
+
+      &.heading-permalink {
+        margin-inline: 0.35em 0;
+      }
+
+      &::before {
+        font: var(--fa-font-solid);
+        content: "\f0c1";
+        content: "\f0c1" / "Permalink";
+      }
+
+      &:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 2px;
+      }
+    }
+
+    @media (hover: hover) {
+      > a[href^="#"]:empty {
+        opacity: 0;
+        transition: opacity 0.2s ease-in-out;
+      }
+
+      &:hover > a[href^="#"]:empty,
+      > a[href^="#"]:empty:focus-visible {
+        opacity: 1;
+      }
+    }
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
