@@ -17,12 +17,12 @@
   color: "#8f3f24"
   parent: "Scientific Machine Learning"
 
-- name: "Graph Machine Learning"
-  slug: graph-machine-learning
+- name: "Geometric Machine Learning"
+  slug: geometric-machine-learning
   color: "#1f8a70"
   parent: "Machine Learning"
 
-- name: "Encodings for Graph Machine Learning"
-  slug: encodings-for-graph-machine-learning
+- name: "Encodings for Geometric Machine Learning"
+  slug: encodings-for-geometric-machine-learning
   color: "#3d9a7a"
-  parent: "Graph Machine Learning"
+  parent: "Geometric Machine Learning"
