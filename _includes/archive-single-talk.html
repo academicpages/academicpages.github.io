@@ -43,5 +43,8 @@
     {% if post.slidesurl %}
       <p class="archive__item-excerpt">You can find the slides <a href="{{ post.slidesurl }}">here</a>.</p>
     {% endif %}
+    {% if post.paperpage %}
+      <p class="archive__item-excerpt">Related <a href="{% if post.paperpage contains '://' %}{{ post.paperpage }}{% else %}{{ base_path }}{{ post.paperpage }}{% endif %}">paper</a>.</p>
+    {% endif %}
   </article>
 </div>

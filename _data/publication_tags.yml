@@ -27,6 +27,11 @@
   color: "#3d9a7a"
   parent: "Geometric Machine Learning"
 
+- name: "GNN architecture"
+  slug: gnn-architecture
+  color: "#2f7f6a"
+  parent: "Geometric Machine Learning"
+
 - name: "Mathematics"
   slug: mathematics
   color: "#5b4b8a"
