@@ -24,22 +24,6 @@
   summary: "Computational geometry."
   logo: "siemens.jpg"
 
-- title: "Computational Sciences and Engineering ME Student"
-  org: "Harvard University"
-  location: "Cambridge, MA"
-  start: "Sep 2020"
-  end: "May 2022"
-  summary: "Thesis advised by Pavlos Protopapas and Marios Mattheakis on scientific ML."
-  logo: "harvard.jpg"
-
-- title: "Mathematical Sciences MSc Student"
-  org: "University of Oxford"
-  location: "Oxford, UK"
-  start: "Oct 2019"
-  end: "Sep 2020"
-  summary: ""
-  logo: "oxford.jpg"
-
 - title: "Summer Researcher"
   org: "Max Planck Institute for Mathematics in the Sciences"
   location: "Leipzig, Germany"
@@ -47,14 +31,6 @@
   end: "Aug 2019"
   summary: "Worked on SDPs."
   logo: "mpi.jpg"
-
-- title: "Mathematics BSc Student"
-  org: "Imperial College London"
-  location: "London, UK"
-  start: "Oct 2016"
-  end: "Jun 2019"
-  summary: ""
-  logo: "imperial.jpg"
 
 - title: "Summer Researcher"
   org: "École Polytechnique"
