@@ -1,10 +1,12 @@
 {% comment %}
-  Hierarchical publication tags as interlocking chevron pieces.
+  Hierarchical area tags as interlocking chevron pieces.
   Expects:
     include.tags — array of tag names (broad → narrow)
-    include.filterable — if true, emit filter buttons; otherwise links to /publications/?tag=
+    include.filterable — if true, emit filter buttons; otherwise links
+    include.filter_path — path for non-filterable links (default /publications/)
 {% endcomment %}
 {% include base_path %}
+{% assign filter_path = include.filter_path | default: "/publications/" %}
 {% if include.tags and include.tags.size > 0 %}
   <div class="pub-tag-chain" itemprop="keywords">
     {% for tag_name in include.tags %}
@@ -30,7 +32,7 @@
           style="--pub-tag-color: {{ tag_color }};"
           data-tag-filter="{{ tag_slug }}"
           data-tag-name="{{ tag_name | escape }}"
-          title="Filter publications by {{ tag_name | escape }}"
+          title="Filter by {{ tag_name | escape }}"
         >
           <span class="pub-tag__label">{{ tag_name }}</span>
         </button>
@@ -38,8 +40,8 @@
         <a
           class="pub-tag pub-tag--{{ tag_slug }}"
           style="--pub-tag-color: {{ tag_color }};"
-          href="{{ base_path }}/publications/?tag={{ tag_slug }}"
-          title="Show publications tagged {{ tag_name | escape }}"
+          href="{{ base_path }}{{ filter_path }}?tag={{ tag_slug }}"
+          title="Show items tagged {{ tag_name | escape }}"
         >
           <span class="pub-tag__label">{{ tag_name }}</span>
         </a>

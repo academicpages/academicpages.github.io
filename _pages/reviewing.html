@@ -7,5 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
-- Reviewer for NPGML workshop at NeurIPS 2025, <a
-  href="https://neurips.cc/virtual/2025/loc/san-diego/workshop/109579">New Perspectives in Graph Machine Learning</a>
+<div class="publication-item vignette-item">
+  <div class="list__item">
+    <article class="archive__item">
+      <h2 class="archive__item-title">
+        Reviewer, NPGML workshop at NeurIPS 2025
+      </h2>
+      <p class="pub-meta"><i>New Perspectives in Graph Machine Learning</i>, 2025</p>
+      {% assign reviewing_tags = "Machine Learning,Geometric Machine Learning" | split: "," %}
+      {% include publication-tag-chain.html tags=reviewing_tags filterable=false filter_path="/publications/" %}
+      <div class="pub-links">
+        <a
+          class="pub-link"
+          href="https://neurips.cc/virtual/2025/loc/san-diego/workshop/109579"
+          target="_blank"
+          rel="noopener"
+        >Workshop</a>
+      </div>
+      <p class="archive__item-excerpt">
+        Peer reviewer for the NeurIPS 2025 workshop on new perspectives in graph machine learning.
+      </p>
+    </article>
+  </div>
+</div>

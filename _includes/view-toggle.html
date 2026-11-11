@@ -1,0 +1,13 @@
+{% comment %}
+  Vignette / list view toggle.
+  Expects:
+    include.storage_key — localStorage key, e.g. talks-view
+{% endcomment %}
+<div class="view-toggle" data-view-toggle="{{ include.storage_key | default: 'view' }}" role="group" aria-label="Choose list layout">
+  <button type="button" class="view-toggle__btn is-active" data-view="vignette" aria-pressed="true">
+    Cards
+  </button>
+  <button type="button" class="view-toggle__btn" data-view="list" aria-pressed="false">
+    List
+  </button>
+</div>

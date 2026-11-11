@@ -46,7 +46,21 @@
             <p class="pub-authors">{{ post.authors }}</p>
           {% endif %}
           {% if post.tags %}
-            {% include publication-tag-chain.html tags=post.tags filterable=false %}
+            {% include publication-tag-chain.html tags=post.tags filterable=false filter_path="/publications/" %}
+          {% endif %}
+          {% include publication-links.html item=post %}
+        {% elsif post.collection == 'talks' %}
+          <p class="pub-meta">{{ post.type }}, <i>{{ post.venue }}</i>{% if post.location %}, {{ post.location }}{% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+          {% if post.tags %}
+            {% include publication-tag-chain.html tags=post.tags filterable=false filter_path="/talks/" %}
+          {% endif %}
+          {% include publication-links.html item=post %}
+        {% elsif post.collection == 'portfolio' %}
+          {% if post.date %}
+            <p class="pub-meta">{{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+          {% endif %}
+          {% if post.tags %}
+            {% include publication-tag-chain.html tags=post.tags filterable=false filter_path="/portfolio/" %}
           {% endif %}
           {% include publication-links.html item=post %}
         {% elsif post.date %}
@@ -59,7 +73,7 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.collection != 'publications' %}
+    {% if post.collection != 'publications' and post.collection != 'talks' and post.collection != 'portfolio' %}
       {% if post.citation and post.paperurl and post.slidesurl %}
         <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
       {% elsif post.citation and post.paperurl %}

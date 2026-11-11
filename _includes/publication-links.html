@@ -2,14 +2,18 @@
 Compact outline action chips for paper assets.
 Uses page or post context via include.item, defaulting to page.
 {% endcomment %}
+{% include base_path %}
 {% if include.item %}
 {% assign item = include.item %}
 {% else %}
 {% assign item = page %}
 {% endif %}
 
-{% if item.paperurl or item.posterurl or item.slidesurl or item.codeurl or item.projecturl %}
+{% if item.paperurl or item.posterurl or item.slidesurl or item.codeurl or item.projecturl or item.paperpage or item.workshopurl %}
 <div class="pub-links">
+  {% if item.paperpage %}
+  <a class="pub-link" href="{% if item.paperpage contains '://' %}{{ item.paperpage }}{% else %}{{ base_path }}{{ item.paperpage }}{% endif %}">Paper</a>
+  {% endif %}
   {% if item.paperurl %}
   <a class="pub-link" href="{{ item.paperurl }}" target="_blank" rel="noopener">PDF</a>
   {% endif %}
@@ -24,6 +28,9 @@ Uses page or post context via include.item, defaulting to page.
   {% endif %}
   {% if item.projecturl %}
   <a class="pub-link" href="{{ item.projecturl }}" target="_blank" rel="noopener">Project</a>
+  {% endif %}
+  {% if item.workshopurl %}
+  <a class="pub-link" href="{{ item.workshopurl }}" target="_blank" rel="noopener">Workshop</a>
   {% endif %}
 </div>
 {% endif %}
