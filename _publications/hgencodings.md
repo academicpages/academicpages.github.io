@@ -1,7 +1,10 @@
 ---
 title: "Higher-Order Learning with Graph Neural Networks via Hypergraph Encodings"
 collection: publications
-permalink: /publication/2025-02-13-paper-title-number-1
+permalink: /publication/hypergraph-encodings
+redirect_from:
+  - /publication/2025-02-13-paper-title-number-1
+  - /publication/2025-02-13-paper-title-number-1/
 excerpt: 'Hypergraph encodings that make higher-order structure useful for graph neural networks in relational learning.'
 date: 2025-02-13
 venue: 'NeurIPS'

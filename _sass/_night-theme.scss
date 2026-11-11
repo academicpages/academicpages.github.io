@@ -143,6 +143,16 @@ html[data-theme="night"] {
     color: #9aa3ad;
   }
 
+  .travels {
+    .travel-item {
+      border-bottom-color: #2a313a;
+    }
+
+    .travel-photo figcaption {
+      color: #9aa3ad;
+    }
+  }
+
   .publication-item .list__item,
   .vignette-item .list__item {
     border-color: #2a313a;
