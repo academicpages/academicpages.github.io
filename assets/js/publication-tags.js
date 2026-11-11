@@ -1,5 +1,5 @@
 /**
- * Filter and sort publications by hierarchical area tags.
+ * Filter and sort vignette cards by hierarchical area tags.
  */
 (function () {
   "use strict";
@@ -22,14 +22,14 @@
   }
 
   /**
-   * Apply the active tag filter and optional sort to publication cards.
-   * @param {HTMLElement} root Publications list root.
+   * Apply the active tag filter and optional sort to vignette cards.
+   * @param {HTMLElement} root Vignette list root.
    * @param {string} activeTag Active tag slug, or "" for all.
    * @returns {void}
    */
   function applyFilter(root, activeTag) {
     var items = Array.prototype.slice.call(
-      root.querySelectorAll(".publication-item")
+      root.querySelectorAll(".publication-item, .vignette-item")
     );
     var empty = document.querySelector(".pub-tag-empty");
     var visibleCount = 0;
@@ -58,7 +58,6 @@
         if (bIdx === -1) {
           return -1;
         }
-        // Narrower tags (later in chain) first when sorting within a filter.
         return bIdx - aIdx;
       });
       items.forEach(function (item) {
@@ -91,11 +90,13 @@
   }
 
   /**
-   * Wire filter controls for the publications page.
+   * Wire filter controls for vignette archive pages.
    * @returns {void}
    */
   function init() {
-    var root = document.querySelector("[data-publications-list]");
+    var root =
+      document.querySelector("[data-vignette-list]") ||
+      document.querySelector("[data-publications-list]");
     if (!root) {
       return;
     }

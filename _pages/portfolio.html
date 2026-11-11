@@ -7,8 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
+{% include tag-filter.html items=site.portfolio empty_label="No portfolio items match this area yet." %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<div data-vignette-list>
+  {% for post in site.portfolio %}
+    {% assign tag_slugs = "" %}
+    {% for tag_name in post.tags %}
+      {% assign matched_slug = tag_name | slugify %}
+      {% for candidate in site.data.publication_tags %}
+        {% if candidate.name == tag_name %}
+          {% assign matched_slug = candidate.slug %}
+        {% endif %}
+      {% endfor %}
+      {% if tag_slugs != "" %}
+        {% assign tag_slugs = tag_slugs | append: "," %}
+      {% endif %}
+      {% assign tag_slugs = tag_slugs | append: matched_slug %}
+    {% endfor %}
+    <div class="publication-item vignette-item" data-tags="{{ tag_slugs }}">
+      {% include archive-single.html %}
+    </div>
+  {% endfor %}
+</div>
 
+<script src="{{ base_path }}/assets/js/publication-tags.js"></script>

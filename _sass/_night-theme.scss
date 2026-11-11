@@ -133,7 +133,8 @@ html[data-theme="night"] {
     color: #9aa3ad;
   }
 
-  .publication-item .list__item {
+  .publication-item .list__item,
+  .vignette-item .list__item {
     border-color: #2a313a;
     background: linear-gradient(180deg, rgba(28, 33, 40, 0.98), rgba(22, 26, 32, 0.98));
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);

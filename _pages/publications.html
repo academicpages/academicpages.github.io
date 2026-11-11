@@ -11,32 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-<section class="pub-tag-filter" aria-label="Filter publications by research area">
-  <span class="pub-tag-filter__label">Filter by area</span>
-  <div class="pub-tag-filter__row">
-    <button type="button" class="pub-tag pub-tag--all is-active" data-tag-filter="" aria-pressed="true">All</button>
-    {% for tag in site.data.publication_tags %}
-      <button
-        type="button"
-        class="pub-tag pub-tag--{{ tag.slug }}"
-        style="--pub-tag-color: {{ tag.color }};"
-        data-tag-filter="{{ tag.slug }}"
-        data-tag-name="{{ tag.name | escape }}"
-        title="{% if tag.parent %}Part of {{ tag.parent }} — {% endif %}Show papers tagged {{ tag.name | escape }}"
-        aria-pressed="false"
-      >
-        <span class="pub-tag__label">{{ tag.name }}</span>
-      </button>
-    {% endfor %}
-  </div>
-  <p class="pub-tag-filter__hint">
-    Tags nest from broad to narrow (for example, Graph Machine Learning ⊂ Machine Learning). Click a tag to filter and sort; click again to clear.
-  </p>
-</section>
+{% include tag-filter.html items=site.publications empty_label="No publications match this area yet." %}
 
-<p class="pub-tag-empty">No publications match this area yet.</p>
-
-<div data-publications-list>
+<div data-vignette-list data-publications-list>
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -61,7 +38,7 @@ author_profile: true
         {% endif %}
         {% assign tag_slugs = tag_slugs | append: matched_slug %}
       {% endfor %}
-      <div class="publication-item" data-tags="{{ tag_slugs }}">
+      <div class="publication-item vignette-item" data-tags="{{ tag_slugs }}">
         {% include archive-single.html %}
       </div>
     {% endfor %}
@@ -81,7 +58,7 @@ author_profile: true
       {% endif %}
       {% assign tag_slugs = tag_slugs | append: matched_slug %}
     {% endfor %}
-    <div class="publication-item" data-tags="{{ tag_slugs }}">
+    <div class="publication-item vignette-item" data-tags="{{ tag_slugs }}">
       {% include archive-single.html %}
     </div>
   {% endfor %}
