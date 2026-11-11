@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/sigma
 excerpt: 'A gated hybrid GNN that adapts message-passing and attention to graph-level heterogeneity.'
 date: 2026-11-10
-venue: 'Preprint'
+venue: 'Proceedings of the Fifth Learning on Graphs Conference (LoG 2026)'
 authors: 'Raphaël Pellegrin, Lukas Fesser, Melanie Weber'
 paperurl: https://openreview.net/attachment?id=OgURj8X2sT&name=pdf
 tags:
