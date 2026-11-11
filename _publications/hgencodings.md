@@ -1,5 +1,5 @@
 ---
-title: "Enhancing the Utility of Higher-Order Information in Relational Learning"
+title: "Higher-Order Learning with Graph Neural Networks via Hypergraph Encodings"
 collection: publications
 permalink: /publication/2025-02-13-paper-title-number-1
 excerpt: 'Hypergraph encodings that make higher-order structure useful for graph neural networks in relational learning.'
