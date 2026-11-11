@@ -1,0 +1,35 @@
+{% include base_path %}
+
+<section class="experience" aria-label="Education">
+  <ol class="experience__list">
+    {% for item in site.data.education %}
+      <li class="experience__item">
+        <div class="experience__logo" aria-hidden="true">
+          {% if item.logo %}
+            <img
+              src="{{ base_path }}/images/orgs/{{ item.logo }}"
+              alt=""
+              width="44"
+              height="44"
+              loading="lazy"
+            >
+          {% else %}
+            <span class="experience__logo-fallback">{{ item.org | slice: 0 }}</span>
+          {% endif %}
+        </div>
+        <div class="experience__body">
+          <div class="experience__top">
+            <h3 class="experience__title">{{ item.title }}</h3>
+            <p class="experience__dates">{{ item.start }} – {{ item.end }}</p>
+          </div>
+          <p class="experience__org">
+            {{ item.org }}{% if item.location %} · {{ item.location }}{% endif %}
+          </p>
+          {% if item.summary and item.summary != "" %}
+            <p class="experience__summary">{{ item.summary }}</p>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+</section>

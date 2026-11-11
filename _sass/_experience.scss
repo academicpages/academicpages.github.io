@@ -110,34 +110,6 @@
   line-height: 1.5;
 }
 
-.cv-edu-inline {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
-  margin: 0.35rem 0 1.25rem;
-}
-
-.cv-edu-chip {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.45rem;
-  padding: 0.28rem 0.65rem 0.28rem 0.3rem;
-  border: 1px solid mix(#fff, $gray, 82%);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.75);
-  color: $dark-gray;
-  font-size: $type-size-6;
-  font-weight: 600;
-  text-decoration: none !important;
-
-  img {
-    width: 22px;
-    height: 22px;
-    border-radius: 0.35rem;
-    object-fit: cover;
-  }
-}
-
 html[data-theme="night"] {
   .experience__item:not(:last-child)::before {
     background: #2a313a;
@@ -161,9 +133,4 @@ html[data-theme="night"] {
     color: #c5ccd3;
   }
 
-  .cv-edu-chip {
-    border-color: #2a313a;
-    background: rgba(28, 33, 40, 0.9);
-    color: #d5d9de;
-  }
 }
