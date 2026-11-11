@@ -1,0 +1,214 @@
+/* ==========================================================================
+   CV skills — foldable chips + native word cloud
+   ========================================================================== */
+
+.skills {
+  margin: 0 0 2em;
+}
+
+.skills__groups {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  margin: 0 0 1.35rem;
+}
+
+.skills-group {
+  border: 1px solid mix(#fff, $gray, 82%);
+  border-radius: 0.75rem;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.96),
+      color-mix(in srgb, var(--skills-color, #5a6a72) 8%, #fff)
+    );
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);
+  overflow: hidden;
+}
+
+.skills-group__toggle {
+  appearance: none;
+  width: 100%;
+  margin: 0;
+  padding: 0.7rem 0.85rem;
+  border: 0;
+  background: transparent;
+  display: grid;
+  grid-template-columns: 1.1rem minmax(0, 1fr) auto;
+  gap: 0.55rem;
+  align-items: center;
+  cursor: pointer;
+  text-align: left;
+  color: $darker-gray;
+  font-family: $sans-serif;
+
+  &:focus-visible {
+    outline: 2px solid var(--skills-color, $link-color);
+    outline-offset: -2px;
+  }
+}
+
+.skills-group__chevron {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-right: 2px solid var(--skills-color, $dark-gray);
+  border-bottom: 2px solid var(--skills-color, $dark-gray);
+  transform: rotate(45deg);
+  transition: transform 0.18s ease;
+  justify-self: center;
+}
+
+.skills-group.is-collapsed .skills-group__chevron {
+  transform: rotate(-45deg);
+}
+
+.skills-group__title {
+  font-size: $type-size-5;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.skills-group__count {
+  min-width: 1.5rem;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--skills-color, #5a6a72) 16%, #fff);
+  color: var(--skills-color, $dark-gray);
+  font-size: $type-size-6;
+  font-weight: 700;
+  text-align: center;
+}
+
+.skills-group__panel {
+  padding: 0 0.85rem 0.85rem;
+}
+
+.skills-group.is-collapsed .skills-group__panel {
+  display: none;
+}
+
+.skills-group__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.skills-chip {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.3rem 0.45rem;
+  padding: 0.32rem 0.7rem;
+  border: 1px solid color-mix(in srgb, var(--skills-color, #5a6a72) 35%, #fff);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--skills-color, #5a6a72) 12%, #fff);
+  color: mix(#000, var(--skills-color, #5a6a72), 28%);
+  font-size: $type-size-6;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.skills-chip__detail {
+  color: mix(#fff, $dark-gray, 8%);
+  font-weight: 500;
+  opacity: 0.9;
+
+  &::before {
+    content: "· ";
+  }
+}
+
+.skills-cloud {
+  position: relative;
+  margin: 0.35rem 0 0;
+  padding: 1rem 1rem 0.75rem;
+  border: 1px solid mix(#fff, $gray, 82%);
+  border-radius: 0.9rem;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse at 18% 20%, rgba(31, 95, 139, 0.12), transparent 42%),
+    radial-gradient(ellipse at 82% 18%, rgba(31, 138, 112, 0.11), transparent 40%),
+    radial-gradient(ellipse at 70% 78%, rgba(91, 75, 138, 0.1), transparent 45%),
+    linear-gradient(180deg, #f7f9fb 0%, #eef3f7 100%);
+}
+
+.skills-cloud__canvas {
+  position: relative;
+  width: 100%;
+  min-height: 220px;
+  height: clamp(220px, 36vw, 320px);
+}
+
+.skills-cloud__word {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--skills-color, $dark-gray);
+  font-family: $sans-serif-narrow;
+  font-weight: 700;
+  line-height: 1;
+  white-space: nowrap;
+  opacity: 0.92;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.35);
+  user-select: none;
+  pointer-events: none;
+}
+
+.skills-cloud__caption {
+  margin: 0.55rem 0 0;
+  color: $gray;
+  font-size: $type-size-6;
+  text-align: center;
+}
+
+html[data-theme="night"] {
+  .skills-group {
+    border-color: #2a313a;
+    background:
+      linear-gradient(
+        135deg,
+        rgba(28, 33, 40, 0.98),
+        color-mix(in srgb, var(--skills-color, #8ec0f5) 14%, #151920)
+      );
+  }
+
+  .skills-group__toggle {
+    color: #e8eaed;
+  }
+
+  .skills-group__count {
+    background: color-mix(in srgb, var(--skills-color, #8ec0f5) 22%, #12151a);
+    color: #e8eaed;
+  }
+
+  .skills-chip {
+    border-color: color-mix(in srgb, var(--skills-color, #8ec0f5) 40%, #2a313a);
+    background: color-mix(in srgb, var(--skills-color, #8ec0f5) 18%, #12151a);
+    color: #e8eaed;
+  }
+
+  .skills-chip__detail {
+    color: #9aa3ad;
+  }
+
+  .skills-cloud {
+    border-color: #2a313a;
+    background:
+      radial-gradient(ellipse at 18% 20%, rgba(142, 192, 245, 0.14), transparent 42%),
+      radial-gradient(ellipse at 82% 18%, rgba(72, 166, 140, 0.12), transparent 40%),
+      radial-gradient(ellipse at 70% 78%, rgba(167, 139, 250, 0.1), transparent 45%),
+      linear-gradient(180deg, #171b22 0%, #12151a 100%);
+  }
+
+  .skills-cloud__word {
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.35);
+  }
+
+  .skills-cloud__caption {
+    color: #9aa3ad;
+  }
+}

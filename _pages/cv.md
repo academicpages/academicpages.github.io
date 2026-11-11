@@ -18,28 +18,15 @@ redirect_from:
 {% include education.html %}
 
 ## Skills
-* Programming
-  * Python (with PyTorch, Tensorflow)
-  * C++/C
-  * R
-  * Matlab
-  * Lisp
-* Cloud computing Platforms
-  * AWS
-  * Microsoft Azure
-* Dev tools
-  * Git/Github
-* Misc
-  * Latex
-* Languages
-  * French
-  * English
-  * German
+
+{% include skills.html %}
 
 ## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+<script src="{{ base_path }}/assets/js/cv-skills.js"></script>
 
 ## Service and leadership
 * Reviewing: New Perspectives in Graph Machine Learning (NPGML) workshop, NeurIPS 2025.
