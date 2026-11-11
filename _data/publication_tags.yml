@@ -56,3 +56,8 @@
   slug: computational-algebra
   color: "#7a4e8c"
   parent: "Mathematics"
+
+- name: "Network Science"
+  slug: network-science
+  color: "#3f6f8f"
+  parent:
