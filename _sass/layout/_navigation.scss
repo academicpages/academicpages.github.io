@@ -177,7 +177,8 @@
   min-width: 250px;
   background: var(--global-bg-color);
 
-  a {
+  a,
+  #theme-toggle > button {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
@@ -189,8 +190,9 @@
     }
   }
 
-  button {
+  > .greedy-nav__toggle {
     position: absolute;
+    top: 0;
     height: 2.5rem;
     right: 0;
     padding: 0 0.5rem;
@@ -226,15 +228,26 @@
     }
 
     #theme-toggle {
-      a {
+      > button {
+        margin-right: 0;
         width: 25px;
         display: flex;
         justify-content: center;
         cursor: pointer;
+        background: transparent;
+        border: 0;
+        font: inherit;
+        transition: $global-transition;
+
+        &:focus-visible {
+          outline: 2px solid currentColor;
+          outline-offset: 4px;
+        }
       }
     }
 
-    a {
+    a,
+    #theme-toggle > button {
       position: relative;
 
       &:before {
