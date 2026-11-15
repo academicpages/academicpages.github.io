@@ -57,5 +57,5 @@
       url: "/publication/pinns-for-branched-flows"
       external: false
     - label: "Poster"
-      url: "https://raphaelpellegrin.github.io/files/Poster_landscape_2.png"
+      url: "https://raphaelpellegrin.github.io/files/PINNs_branched_flows_Poster.pdf"
       external: true
