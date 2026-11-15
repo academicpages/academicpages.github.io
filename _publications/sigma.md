@@ -7,6 +7,7 @@ date: 2026-11-10
 venue: 'Proceedings of the Fifth Learning on Graphs Conference (LoG 2026)'
 authors: 'Raphaël Pellegrin, Lukas Fesser, Melanie Weber'
 paperurl: https://openreview.net/attachment?id=OgURj8X2sT&name=pdf
+posterurl: https://raphaelpellegrin.github.io/files/LOG_SiGMA_poster.pdf
 tags:
   - Machine Learning
   - Geometric Machine Learning

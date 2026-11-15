@@ -4,15 +4,7 @@
 
 .travels {
   .travel-item {
-    margin-bottom: 2em;
-    padding-bottom: 1.5em;
-    border-bottom: 1px solid $border-color;
-
-    &:last-child {
-      border-bottom: none;
-      margin-bottom: 0;
-      padding-bottom: 0;
-    }
+    margin-bottom: 0;
   }
 
   .travel-photo {
