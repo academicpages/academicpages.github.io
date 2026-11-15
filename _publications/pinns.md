@@ -7,7 +7,7 @@ date: 2022-11-19
 venue: 'NeurIPS, Machine Learning and the Physical Sciences Workshop'
 authors: 'Raphaël Pellegrin, Blake Bullwinkel, Marios Mattheakis, Pavlos Protopapas'
 paperurl: https://raphaelpellegrin.github.io/files/Branched_Flows_PINNs_Workshop_camera.pdf
-posterurl: https://raphaelpellegrin.github.io/files/Poster_landscape_2.png
+posterurl: https://raphaelpellegrin.github.io/files/PINNs_branched_flows_Poster.pdf
 tags:
   - Machine Learning
   - Scientific Machine Learning

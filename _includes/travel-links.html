@@ -1,0 +1,17 @@
+{% comment %}
+  Compact action chips for a travel entry.
+  Expects include.item from site.data.travels.
+{% endcomment %}
+{% include base_path %}
+{% assign item = include.item %}
+{% if item.links and item.links.size > 0 %}
+  <div class="pub-links">
+    {% for link in item.links %}
+      {% if link.external %}
+        <a class="pub-link" href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+      {% else %}
+        <a class="pub-link" href="{{ base_path }}{{ link.url }}"{% unless link.label == "Picture" %} rel="permalink"{% endunless %}>{{ link.label }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}

@@ -1,0 +1,61 @@
+# Travel entries for the Travels page (cards + list views).
+
+- title: "LOGML 2026"
+  meta: "London Geometry and Machine Learning Summer School · London, UK · July 2026"
+  excerpt: "London Geometry and Machine Learning (LOGML) summer school at Imperial College London, including a project on the hypergraph heat method."
+  links:
+    - label: "Summer school"
+      url: "https://www.logml.ai/"
+      external: true
+    - label: "Program"
+      url: "https://www.logml.ai/program.html"
+      external: true
+    - label: "Project"
+      url: "https://github.com/jiriminarcik/LOGML-hypergraph"
+      external: true
+    - label: "Picture"
+      url: "/travels/logml-2026/"
+      external: false
+
+- title: "NeurIPS 2025"
+  meta: "Conference on Neural Information Processing Systems · San Diego, CA · December 2025"
+  excerpt_html: >-
+    Attended NeurIPS 2025 in San Diego, including presenting
+    <a href="/publication/hypergraph-encodings">Higher-Order Learning with Graph Neural Networks via Hypergraph Encodings</a>.
+  links:
+    - label: "Conference"
+      url: "https://neurips.cc/Conferences/2025"
+      external: true
+    - label: "San Diego site"
+      url: "https://neurips.cc/virtual/2025/loc/san-diego/index.html"
+      external: true
+    - label: "Paper"
+      url: "/publication/hypergraph-encodings"
+      external: false
+    - label: "Poster"
+      url: "https://raphaelpellegrin.github.io/files/NeurIPS_2025_Poster.pdf"
+      external: true
+
+- title: "NeurIPS 2022"
+  meta: "Conference on Neural Information Processing Systems · New Orleans, LA · November–December 2022"
+  excerpt_html: >-
+    Attended NeurIPS 2022 in New Orleans, including presenting at the
+    <a href="https://ml4physicalsciences.github.io/2022/" target="_blank" rel="noopener">Machine Learning and the Physical Sciences</a>
+    workshop on
+    <a href="/publication/pinns-for-branched-flows">transfer learning with PINNs for branched flows</a>.
+  links:
+    - label: "Conference"
+      url: "https://neurips.cc/Conferences/2022"
+      external: true
+    - label: "Virtual site"
+      url: "https://nips.cc/virtual/2022/index.html"
+      external: true
+    - label: "ML4PS workshop"
+      url: "https://ml4physicalsciences.github.io/2022/"
+      external: true
+    - label: "Paper"
+      url: "/publication/pinns-for-branched-flows"
+      external: false
+    - label: "Poster"
+      url: "https://raphaelpellegrin.github.io/files/PINNs_branched_flows_Poster.pdf"
+      external: true
