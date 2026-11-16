@@ -1,24 +1,37 @@
-# Shawal Khalid Portfolio — publish to shawalkhalid.github.io
+# Shawal Khalid
 
-Target repository: https://github.com/ShawalKhalid/ShawalKhalid.github.io
-Recommended publishing source: **Deploy from a branch** -> **master** -> **/(root)**.
+**Assistant Professor of Instruction · Division of Data Science · University of Texas at Arlington**
 
-## What this package includes
-- index.html, research.html, publications.html, teaching.html
-- css/style.css (original styling), assets/profile.jpg (original headshot)
-- assets/Shawal-Khalid-CV-2026.pdf (REVIEW DRAFT before public release)
-- other original support PDFs and `.nojekyll`
+[**Personal website**](https://shawalkhalid.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=z175t00AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9445-1280) · [LinkedIn](https://www.linkedin.com/in/shawal-khalid-90892a155/)
 
-## Safe publishing workflow
-1. GitHub Desktop: sign in to the **ShawalKhalid** account and clone the target repository.
-2. Create a new branch named `portfolio-update-2026` from `master`.
-3. In Finder, open the cloned repository folder. Remove the old Jekyll website files, **but preserve the hidden `.git` directory**. The old site remains safe in the remote `master` branch until merge.
-4. Unzip this package, and copy its **contents** into the cloned repository root, with index.html at the top level.
-5. Review file changes in GitHub Desktop, commit to `portfolio-update-2026`, and Publish branch.
-6. Create a pull request with base `master` and compare `portfolio-update-2026`. Review the changed files, then merge.
-7. In GitHub repository Settings > Pages, choose **Deploy from a branch**, branch `master`, folder `/(root)`, and Save.
-8. Open https://shawalkhalid.github.io and test navigation, images, and PDF links.
+## About
 
-This package deliberately omits the optional `.github/workflows/deploy.yml` from the earlier version, since that workflow targeted `main` while the destination repository currently uses `master`.
-The original `shawalkhalid667` repository is not affected by these instructions.
-No repository changes have been published by ChatGPT.
+I am an Assistant Professor of Instruction in the Division of Data Science at the University of Texas at Arlington. I earned my Ph.D. in Computer Science from Virginia Tech in August 2026, where my work with Dr. Chris Brown focused on blockchain-oriented software engineering and AI-assisted security analysis.
+
+My research examines how large language models, multi-agent systems, and empirical evaluation can support more reliable software development and security analysis. My doctoral work includes **ChainSentinel**, a multi-agent approach to smart contract auditing, and an ESEM 2026 study comparing static-analysis and LLM-based auditing tools across **316 smart contracts** from two benchmarks.
+
+At UTA, I teach Python for Data Science and Machine Learning. I also developed **Applied Agentic AI and LLM Systems** (DATA 4392 / ASDS 6300), offered in Spring 2027, where students build LLM applications, retrieval-augmented generation (RAG) systems, and tool-using agents.
+
+## Explore the portfolio
+
+- [**Research**](https://shawalkhalid.github.io/research.html) — ChainSentinel, smart contract security, and empirical software engineering
+- [**Publications**](https://shawalkhalid.github.io/publications.html) — peer-reviewed papers and doctoral dissertation
+- [**Teaching**](https://shawalkhalid.github.io/teaching.html) — courses, teaching award, evaluations, and mentorship
+- [**Curriculum Vitae**](https://shawalkhalid.github.io/assets/Shawal-Khalid-CV-2026.pdf) — education, academic appointments, research, and teaching
+
+## Selected research
+
+**Do Smart Contract Auditing Results Transfer Across Datasets? A Two-Benchmark Empirical Study of Static and LLM-Based Security Tools**  
+*ESEM 2026* · [Paper / DOI](https://doi.org/10.4230/LIPIcs.ESEM.2026.45)
+
+**Advancing Blockchain-Oriented Software Engineering: Empirical Investigations and AI-Augmented Tooling for Secure Development**  
+*Ph.D. dissertation, Virginia Tech, 2026* · [Dissertation](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/5aef5aa3-3f04-4625-8d85-fa3c14ad1d9b/content)
+
+## About this repository
+
+This repository contains the source code for my academic portfolio, a static website built with HTML and CSS and hosted on GitHub Pages. It includes information about my research, publications, teaching, and academic experience.
+
+## Contact
+
+**Email:** [shawal.khalid@uta.edu](mailto:shawal.khalid@uta.edu)  
+**Affiliation:** [Division of Data Science, University of Texas at Arlington](https://www.uta.edu/academics/faculty/profile?user=shawal.khalid)
