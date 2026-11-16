@@ -1,0 +1,6 @@
+{% for post in site.pages %}
+  {% assign url_suffix = post.url | slice: -8, 8 %}
+  {% unless url_suffix == '.css.map' %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
