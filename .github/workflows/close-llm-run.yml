@@ -12,12 +12,11 @@ jobs:
     permissions:
       pull-requests: write
     runs-on: ubuntu-latest
-    if: "contains(github.event.pull_request.body, 'LJT-Homepage') || github.event.pull_request.body == ''"
+    if: "contains(github.event.pull_request.body, 'LJT-Homepage')"
     steps:
       - uses: actions-ecosystem/action-add-labels@v1
         with:
-          labels: |
-            invalidpr
+          labels: invalidpr
       - uses: superbrothers/close-pull-request@v3
         with:
           comment: This appears to be a PR created by an LLM. If that is not the case, please contact the maintainers.
