@@ -1,7 +1,7 @@
 name: Close run created by LLM for testing
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, reopened]
 
 permissions:
