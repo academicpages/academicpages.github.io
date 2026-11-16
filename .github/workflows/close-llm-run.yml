@@ -1,0 +1,28 @@
+name: Close run created by LLM for testing
+
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  close-pr:
+    permissions:
+      pull-requests: write
+    runs-on: ubuntu-latest
+    if: "contains(github.event.pull_request.body, 'LJT-Homepage') || github.event.pull_request.body == ''"
+    steps:
+      - uses: actions-ecosystem/action-add-labels@v1
+        with:
+          labels: |
+            invalidpr
+      - uses: superbrothers/close-pull-request@v3
+        with:
+          comment: This appears to be a PR created by an LLM. If that is not the case, please contact the maintainers.
+      - uses: sudo-bot/action-pull-request-lock@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          number: ${{ github.event.pull_request.number }}
+          lock-reason: spam
