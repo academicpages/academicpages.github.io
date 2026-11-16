@@ -1,0 +1,297 @@
+/* ===== COLOR & FONT VARIABLES ===== */
+:root {
+  --maroon: #861F41;
+  --text: #222;
+  --background: #fff;
+  --link: #861F41;
+  --light-gray: #f7f7f7;
+  --font-serif: 'Lora', serif;
+  --font-sans: 'Open Sans', sans-serif;
+}
+
+/* ===== GLOBAL BODY ===== */
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--background);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+/* ===== TOP NAVIGATION BAR (unused for now) ===== */
+.topnav {
+  background-color: var(--light-gray);
+  border-bottom: 1px solid #ddd;
+  padding: 0.8rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.site-title {
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  color: var(--maroon);
+  margin: 0;
+}
+
+.nav-right ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-right a {
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.nav-right a:hover,
+.nav-right a.active {
+  color: var(--maroon);
+  border-bottom: 2px solid var(--maroon);
+  padding-bottom: 2px;
+}
+
+/* ===== LAYOUT CONTAINER ===== */
+.container {
+  display: flex;
+  max-width: 1200px;
+  margin: 2rem auto;
+  gap: 2rem;
+  padding: 0 2rem;
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+  background: var(--light-gray);
+  width: 270px;
+  padding: 2rem 1.5rem;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.name {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 1.3rem;
+  margin: 0.5rem 0;
+  text-align: center;
+}
+
+.title {
+  color: #555;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.sidebar-info p {
+  margin: 0.4rem 0;
+}
+
+.sidebar-info a {
+  color: var(--maroon);
+  text-decoration: none;
+}
+
+.sidebar-info a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  margin-top: auto;
+  font-size: 0.8rem;
+  text-align: center;
+  color: #777;
+}
+
+/* ===== PAGE MENU (Top links above About Me) ===== */
+main.content nav.page-menu {
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+main.content nav.page-menu ul {
+  all: unset; /* 🔥 removes any inherited list styles completely */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.5rem;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+main.content nav.page-menu li {
+  display: inline;
+  white-space: nowrap;
+}
+
+main.content nav.page-menu li + li::before {
+  content: "|";
+  color: #aaa;
+  margin-right: 1rem;
+}
+
+main.content nav.page-menu a {
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+main.content nav.page-menu a:hover,
+main.content nav.page-menu a.active {
+  color: var(--maroon);
+  border-bottom: 2px solid var(--maroon);
+  padding-bottom: 2px;
+}
+
+
+/* ===== MAIN CONTENT ===== */
+.content {
+  flex: 1;
+  padding: 2rem 3rem;
+}
+
+h2 {
+  font-family: var(--font-serif);
+  color: var(--maroon);
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+.link {
+  color: var(--maroon);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.btn {
+  display: inline-block;
+  background: var(--maroon);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6e1a35;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    box-shadow: none;
+  }
+
+  .content {
+    padding: 1.5rem;
+  }
+
+  .page-menu ul {
+    flex-wrap: wrap !important;
+  }
+
+  /* ===== NEWS / TIMELINE SECTION ===== */
+.news {
+  margin-top: 2.5rem;
+}
+
+.news h2 {
+  color: var(--maroon);
+  font-family: var(--font-serif);
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3rem;
+  margin-bottom: 1.5rem;
+}
+
+.timeline {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-left: 3px solid var(--maroon);
+  margin-left: 1.5rem;
+}
+
+.timeline li {
+  position: relative;
+  margin-bottom: 1.5rem;
+  padding-left: 2rem;
+  line-height: 1.6;
+}
+
+.timeline .icon {
+  position: absolute;
+  left: -1.4rem;
+  top: 0;
+  background: var(--maroon);
+  color: white;
+  border-radius: 50%;
+  width: 1.3rem;
+  height: 1.3rem;
+  text-align: center;
+  line-height: 1.3rem;
+  font-size: 0.8rem;
+}
+
+.timeline .date {
+  display: inline-block;
+  font-weight: 700;
+  color: #555;
+  margin-right: 0.4rem;
+  min-width: 90px;
+}
+
+.timeline li:hover .icon {
+  background: #6e1a35;
+  transform: scale(1.1);
+  transition: 0.2s ease;
+}
+
+.fa-file-pdf {
+  color: #c23b22;
+  margin-right: 4px;
+}
+
+
+
+
+}

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shawal Khalid | Assistant Professor of Instruction - UTA</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  </head>
+  
+  <body>
+      <!-- 🔹 Top Navigation Bar -->
+     
+    
+  
+    <!-- 🔹 Page Layout -->
+    <div class="container">
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <img src="assets/profile.jpg" alt="Shawal Khalid" class="profile-pic">
+        <h2 class="name">Shawal Khalid</h2>
+        <p class="title">Assistant Professor of Instruction<br>Division of Data Science, UTA</p>
+  
+        <div class="sidebar-info">
+          <p><i class="fa-solid fa-location-dot"></i> Arlington, TX</p>
+          <p><i class="fa-solid fa-building-columns"></i> University of Texas at Arlington</p>
+          <p><i class="fa-solid fa-envelope"></i> <a href="mailto:shawal.khalid@uta.edu">shawal.khalid@uta.edu</a></p>
+          <p><i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=z175t00AAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+          <p><i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-9445-1280" target="_blank">ORCID</a></p>
+          <p><i class="fa-brands fa-github"></i> <a href="https://github.com/ShawalKhalid" target="_blank">GitHub</a></p>
+          <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/shawal-khalid-90892a155/" target="_blank">LinkedIn</a></p>
+        </div>
+  
+        <footer>
+          <p>© 2026 Shawal Khalid<br>Built with GitHub Pages</p>
+        </footer>
+      </aside>
+
+    <!-- Main Content -->
+    <main class="content">
+      <!-- Shared Page Menu -->
+      <nav class="page-menu">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="research.html" class="active">Research</a></li>
+          <li><a href="publications.html">Publications</a></li>
+          <li><a href="teaching.html">Teaching</a></li>
+          <li><a href="assets/Shawal-Khalid-CV-2026.pdf" target="_blank"><i class="fa fa-file-pdf"></i> CV</a></li>
+        </ul>
+      </nav>
+
+    
+<!-- Research Projects -->
+<section>
+  <h2>Research Projects</h2>
+
+  <article>
+    <h3>🔹 ChainSentinel: AI-Powered Multi-Agent Framework for Smart Contract Security</h3>
+    <p>
+      <strong>Objective:</strong> Design a domain-specific, multi-agent framework that integrates 
+      large language models (LLMs) with static and dynamic analysis tools (e.g., Slither, Mythril) 
+      to enhance security auditing, reduce false positives, and improve explainability in smart contracts.
+    </p>
+    <ul>
+      <li>Implements <strong>Auditor–Critic–Validator</strong> agent collaboration for iterative and explainable vulnerability detection.</li>
+      <li>Uses annotated datasets from <strong>SmartBugs Curated</strong> and <strong>NotSoSmartContracts</strong> for fine-tuning and benchmarking.</li>
+      <li>Combines formal verification with natural-language reasoning to generate human-readable security reports.</li>
+    </ul>
+  </article>
+
+  <article>
+    <h3>🔹 Benchmarking Smart Contract Auditing Tools — ESEM 2026</h3>
+    <p>
+      <strong>Published at the 20th International Symposium on Empirical Software Engineering and Measurement (ESEM 2026).</strong>
+      This study evaluates <strong>seven</strong> static-analysis and LLM-based smart contract auditing tools
+      on <strong>143 contracts from SmartBugs Curated</strong> and <strong>173 real-world, audit-derived contracts from FORGE</strong>.
+    </p>
+    <p>
+      Using a tool-agnostic evaluation pipeline, we compared vulnerability detection accuracy, top-K detection,
+      execution robustness, and performance across datasets. Static analyzers often over-report vulnerability
+      categories and show stability limitations on real-world contracts; LLM-based tools provide broad detection
+      coverage but can also over-predict. The study highlights the need for <strong>precise and reliable</strong>
+      auditing rather than broad detection alone.
+    </p>
+    <ul>
+      <li><strong>Authors:</strong> Shawal Khalid, Joaquin Tuckett, and Chris Brown.</li>
+      <li><strong>Publication:</strong> ESEM 2026, LIPIcs Vol. 394, Article 45, pp. 45:1–45:21.</li>
+      <li><strong>Paper:</strong> <a href="https://doi.org/10.4230/LIPIcs.ESEM.2026.45" target="_blank" rel="noopener noreferrer">10.4230/LIPIcs.ESEM.2026.45</a> ·
+          <a href="https://github.com/shawalkhalid667/smartcontracts-auditor-benchmark" target="_blank" rel="noopener noreferrer">Benchmarking code</a></li>
+    </ul>
+  </article>
+
+  <article>
+    <h3>🔹 Capabilities of Generative AI for Smart Contract Development</h3>
+    <p>
+      Empirical multi-phase study investigating how generative AI tools such as 
+      <strong>ChatGPT</strong>, <strong>ChainGPT</strong>, and <strong>Gemini</strong> influence blockchain development. 
+      The research focuses on performance, security, and developer trust in AI-generated Solidity code.
+    </p>
+    <ul>
+      <li>Surveyed 114 developers to capture perceptions, usage patterns, and trust dynamics.</li>
+      <li>Evaluated AI-generated contracts for <em>compilation success</em>, <em>unit testing</em>, and <em>static-analysis compliance</em>.</li>
+      <li>Published in <strong>BSCI 2025</strong> and forms the empirical component of dissertation Study 3.</li>
+    </ul>
+  </article>
+</section>
+
+<!-- Other Research Themes -->
+<section>
+  <h2>Other Research Themes</h2>
+  <p>
+    My broader research explores the <strong>intersection of software engineering, artificial intelligence, 
+    and blockchain security</strong>. I have conducted empirical investigations and authored 
+    multiple peer-reviewed publications across topics such as:
+  </p>
+  <ul>
+    <li><strong>Developer Behavior and AI Integration</strong> — analyzing how AI assistance impacts secure software practices.</li>
+    <li><strong>Human-Centric Blockchain Engineering</strong> — understanding developer collaboration, challenges, and workflow design 
+        (<em>SDS 2023</em>, <em>VL/HCC 2024</em>).</li>
+    <li><strong>Crypto Signal Analysis</strong> — examining how social media signals influence blockchain developer activity and 
+        repository behavior (<em>IEEE Blockchain 2024</em>, <em>SANER 2025</em>).</li>
+  </ul>
+</section>
+
+
+<section>
+  <ul>
+    <li><i class="fa-solid fa-user-graduate"></i> <strong>Rishan Biju</strong> — Undergraduate Researcher, Fall 2025</li>
+    <li><i class="fa-solid fa-user-graduate"></i> <strong>Joaquin Tuckett</strong> — Undergraduate Researcher, Summer 2025</li>
+    <li><i class="fa-solid fa-user-tie"></i> <strong>Huayu Liang</strong> — M.S. Research Assistant, Spring–Fall 2022</li>
+  </ul>
+</section>
+
+<!-- Future Directions -->
+<section>
+  <h2>Future Directions</h2>
+  <p>
+    My upcoming research will advance <strong>ChainSentinel</strong> into a continuously learning AI-auditor ecosystem, 
+    integrating active alignment for evolving smart contract standards and improved natural language explanations for developers.
+  </p>
+  <p>
+    Long-term, I aim to develop <strong>transparent and adaptive AI systems</strong> that enable human-AI collaboration 
+    in security-critical software engineering domains.
+  </p>
+</section>
+
+    </main>
+  </div>
+</body>
+</html>
