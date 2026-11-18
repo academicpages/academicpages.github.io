@@ -10,18 +10,6 @@ redirect_from:
 
 I am a Research Associate at the <a href='https://www.hsph.harvard.edu/' target="_blank">Harvard T.H. Chan School of Public Health</a> and Harvard University's Data Science Initiative, <a href='https://datascience.harvard.edu/' target="_blank">HDSI</a>, in Cambridge, MA. I completed a postdoctoral fellowship at <a href='https://cpree.princeton.edu/people/lisa-thalheimer' target="_blank">Princeton University</a>, advised by Prof Michael Oppenheimer. I obtained my DPhil (PhD) in Climate Science with a focus on <a href='https://www.eci.ox.ac.uk/research/climate-change-attribution' target="_blank">climate attribution</a> and <a href='https://www.climateeconometrics.org/' target="_blank">climate econometrics</a> from the University of Oxford, and obtained a MS in <a href='https://www.sustainability.ei.columbia.edu/' target="_blank">Sustainability Management</a> from Columbia University.
 
-My research approach is strongly interdisciplinary and collaborative, integrating numerical models and data science methods from probabilistic event attribution and econometrics to answer research questions related to estimating socio-economic impacts of extreme weather and climate change, and, more recently, the rapid build-out of AI infrastructure. The main questions that underlie my ongoing research activities include: 
-\
-1)	Whether and to what extent does anthropogenic climate change impact the frequency and intensity of extreme weather events and resulting human activities and economic outcomes? 
-\
-2)	What are the human responses and health-related sensitivities to climate change? 
-\
-3)	What disaster risk reduction mechanisms prepare populations and infrastructure before natural hazards turn into disasters?
-\
-4)	How is the rapid growth of AI-driven electricity demand reshaping electricity markets, grid reliability, and the distribution of environmental and health costs and benefits across communities?
-\
-5)	Can we predict the energy and health impacts of a proposed AI data center before it is built, to give communities, regulators, utilities, and developers a scientific, rigorous, and unbiased basis for deciding where facilities should &mdash; and should not &mdash; be sited? (See this <a href="https://hsph.harvard.edu/news/predicting-data-centers-energy-and-health-impacts/" target="_blank">Harvard Chan School write-up</a> of our Frontiers of Innovation for Societal Impact-funded project with Francesca Dominici and Le Xie.)
-
 At the Dominici Lab, I also serve as Guest Editor, with Francesca Dominici and Shaolei Ren (UC Riverside), of a collection in the Nature Portfolio journal <em>npj Climate Action</em> on the health and environmental impacts of AI data centers.
 
 ## Latest Research 
