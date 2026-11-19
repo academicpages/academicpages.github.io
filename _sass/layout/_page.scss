@@ -5,18 +5,25 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  position: fixed;
+  top: 40px;
+  right: 0;
+  bottom: 40px;
+  left: 0;
+  max-width: none;
+  margin-top: 0;
   padding-left: 1em;
   padding-right: 1em;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
 }
 
 .page {
+  display: flow-root;
+
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);

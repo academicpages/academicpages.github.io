@@ -18,12 +18,27 @@
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    // Size the scroll area between the sticky top offset and the viewport bottom.
+    // Keep the sidebar within the space between the fixed masthead and footer.
     height: auto;
-    bottom: 0;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
-    padding-top: $masthead-height;
+    top: 40px;
+    bottom: 40px;
+    margin-bottom: 0;
+    padding-top: 0;
+    overflow-y: auto;
+  }
+
+  &.sticky {
+    @include breakpoint($large) {
+      top: 40px;
+    }
+
+    @media screen and (min-width: $large) and (max-width: 1023px) {
+      top: 0;
+      max-height: calc(100vh - 80px - 2em);
+      max-height: calc(100dvh - 80px - 2em);
+      overflow-y: auto;
+    }
   }
 
   @include breakpoint($large) {
@@ -59,6 +74,12 @@
 
   img {
     width: 100%;
+  }
+}
+
+#main > .sidebar {
+  @include breakpoint(max-width $medium) {
+    display: none;
   }
 }
 

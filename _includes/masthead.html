@@ -1,4 +1,15 @@
 {% include base_path %}
+{% assign header_author = site.author %}
+{% if page.author and site.data.authors[page.author] %}
+  {% assign header_author = site.data.authors[page.author] %}
+{% endif %}
+{% if header_author.avatar %}
+  {% assign header_avatar = header_author.avatar %}
+  {% unless header_avatar contains "://" %}
+    {% assign header_avatar = header_avatar | prepend: "/images/" | prepend: base_path %}
+  {% endunless %}
+{% endif %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -7,21 +18,30 @@
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            </li>
-          {% endfor %}
+          <li class="masthead__nav-links">
+            <ul class="masthead__nav-link-list">
+              {% for link in site.data.navigation.main %}
+                {% if link.url contains 'http' %}
+                  {% assign domain = '' %}
+                {% else %}
+                  {% assign domain = base_path %}
+                {% endif %}
+                <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
+                  <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <button type="button" aria-label="Toggle color theme"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></button>
           </li>
         </ul>
         <button class="greedy-nav__toggle" type="button"><span class="navicon"></span></button>
+        {% if header_author.avatar %}
+          <a class="masthead__avatar" href="{{ base_path }}/" aria-label="{{ header_author.name | escape }}">
+            <img src="{{ header_avatar }}" alt="" />
+          </a>
+        {% endif %}
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>

@@ -5,7 +5,7 @@
 .masthead {
   position: fixed;
   background: var(--global-bg-color);
-  height: fit-content;
+  height: 40px;
   top: 0;
   width: 100%;
 
@@ -27,12 +27,12 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
+    width: 100%;
+    max-width: none;
+    height: 40px;
+    margin: 0;
+    padding: 1px 0;
     font-family: $sans-serif-narrow;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
 
     nav {
       z-index: 10;
