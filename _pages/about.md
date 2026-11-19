@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+description: "Hamidreza Montazeri Hedesh, Ph.D. researcher at Northeastern University, builds fast, provable stability and safety certificates for neural network controllers."
 excerpt: "About me"
 author_profile: true
 mathjax: true

@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research Projects"
+description: "Research on neural network controllers: sector bounds for networks, and fast tests for stability, region of attraction, robustness and time delays."
 permalink: /research/
 author_profile: true
 ---
