@@ -15,6 +15,37 @@
 
 See more info at https://academicpages.github.io/
 
+## Linking translated posts
+
+Posts can automatically link to their translations. Give every version the
+same `translation_key`, then set its language code and the label readers should
+see:
+
+```yaml
+---
+title: "Research update"
+lang: en
+language_label: English
+translation_key: research-update
+---
+```
+
+For example, a Chinese version can use the same key with different language
+metadata and its own permalink:
+
+```yaml
+---
+title: "研究进展"
+lang: zh
+language_label: 中文
+translation_key: research-update
+permalink: /zh/posts/research-update/
+---
+```
+
+When two or more posts share a key, the post layout displays links for every
+language version. Posts without a `translation_key` are unchanged.
+
 ### Additional Tutorials
 
 Additional tutorials for working with the Academic Pages template can be found at the following sites:
