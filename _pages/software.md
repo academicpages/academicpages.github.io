@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Software"
+description: "nnsector and nnstab: open-source Python and MATLAB libraries for sector bounds of neural networks and stability checks of neural feedback loops."
 permalink: /software/
 author_profile: true
 ---

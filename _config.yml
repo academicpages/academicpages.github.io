@@ -12,11 +12,11 @@ site_theme               : "oxford" # The available themes options are "default"
 title                    : "Hamidreza Montazeri Hedesh"
 title_separator          : "-"
 name                     : &name "Hamidreza Montazeri Hedesh"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Hamidreza Montazeri Hedesh, Ph.D. researcher at Northeastern University: fast stability, robustness and safety certificates for neural network controllers."   # Default description of the site, used when a page does not set its own
 url                      : https://hmon91.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hmon91/hmon91.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -39,7 +39,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-0041-830X"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/2319925824"
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -129,7 +129,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # no blog posts, so the footer does not link to an empty feed
   path                   : # blank (default) uses feed.xml
 
 
@@ -152,9 +152,15 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Person
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: # Profiles of the same person, so search engines can link them to this site
+    - "https://scholar.google.com/citations?user=5k1HFTkAAAAJ"
+    - "https://orcid.org/0009-0007-0041-830X"
+    - "https://www.semanticscholar.org/author/2319925824"
+    - "https://openalex.org/A5099177989"
+    - "https://github.com/hmon91"
+    - "https://www.linkedin.com/in/hamidreza-montazeri/"
 
 
 # Analytics
@@ -196,6 +202,15 @@ exclude:
   - README
   - tmp
   - vendor
+  # Template tools and their sample data: kept in the repository, not published on the site
+  - markdown_generator
+  - scripts
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
+  - CONTRIBUTING.md
+  - docker-compose.yaml
 keep_files:
   - .git
   - .svn

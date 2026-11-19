@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+description: "CV of Hamidreza Montazeri Hedesh: education, research, open-source software, experience, teaching and service."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -50,7 +51,7 @@ You can download a PDF copy of my complete CV [here](/files/cv.pdf).
     * Built and configured Hardware-in-the-Loop (HIL) and Software-in-the-Loop (SIL) testbeds to support system integration.
     * Developed digital models for satellite attitude and position estimation using EKF and UKF.
     * Designed and executed sensor calibration procedures for magnetometers, gyroscopes, and magnetorquers.
-* **R&D Engineer**, Sharif Technology Services (Aerospace Systems Manufacturing) (Jan 2017 – May 2017)
+* **R&D Engineering Intern**, Sharif Technology Services (Satellite Reaction Wheel Project) (Jan 2017 – May 2017)
     * Conducted R&D for a satellite reaction wheel; drafted verification and calibration procedures.
 
 ## Selected Projects
