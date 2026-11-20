@@ -59,6 +59,9 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-size: $ui-font-size;
+  font-weight: 700;
+  font-style: italic;
 
   &--lg {
     padding-right: 2em;

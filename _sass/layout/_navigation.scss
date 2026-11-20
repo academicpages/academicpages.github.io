@@ -191,6 +191,9 @@
     margin: 0 1rem;
     padding: 0;
     height: 38px;
+    font-size: $ui-font-size;
+    font-weight: 700;
+    font-style: italic;
     color: var(--global-masthead-link-color);
     text-decoration: none;
 
@@ -298,6 +301,7 @@
         background: transparent;
         border: 0;
         font: inherit;
+        font-style: normal;
         transition: $global-transition;
 
         &:focus-visible {

@@ -59,7 +59,9 @@
 .page__footer-copyright {
   flex: 0 0 auto;
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: $ui-font-size;
+  font-weight: 700;
+  font-style: italic;
   line-height: 1;
   white-space: nowrap;
 
@@ -71,8 +73,11 @@
 .page__footer-follow {
   flex: 1 1 auto;
   white-space: nowrap;
+  font-size: $ui-font-size;
+  font-weight: 700;
+  font-style: italic;
 
-  ul {
+  .social-icons {
     display: flex;
     align-items: center;
     height: 16px;
@@ -80,16 +85,15 @@
     width: 400px;
     max-width: 100%;
     gap: 0.75rem;
-    font-size: $type-size-7;
-    line-height: 16px;
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
+    font-size: inherit;
+    line-height: 1.2;
   }
 
-  li {
+  .social-icons__item {
     display: flex;
+    flex: 1 1 0;
     align-items: center;
+    justify-content: center;
     padding: 0;
     font-family: $sans-serif-narrow;
     font-size: inherit;
@@ -97,23 +101,17 @@
     text-transform: uppercase;
   }
 
-  li + li:before {
-    content: none;
-  }
-
   a {
     padding: 0;
     font-weight: bold;
   }
 
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
+  .social-icons a {
+    white-space: nowrap;
   }
 }
 
-@media (width < 900px) {
+@media (max-width: 1400px) {
   .page__footer-copyright-full {
     display: none;
   }
