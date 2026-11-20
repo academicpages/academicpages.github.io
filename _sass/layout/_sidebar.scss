@@ -7,55 +7,20 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
-
   @include clearfix();
-  margin-bottom: 1em;
-
-  @media (orientation: portrait) {
-    margin-top: 1em;
-  }
-
-  @media screen and (min-width: $sidebar-screen-min-width) {
-    // Keep the sidebar within the space between the fixed masthead and footer.
-    height: auto;
-    position: fixed;
-    top: 40px;
-    bottom: 40px;
-    margin-bottom: 0;
-    padding-top: 0;
-    overflow-y: auto;
-  }
-
-  &.sticky {
-    @include breakpoint($large) {
-      top: 40px;
-    }
-
-    @media screen and (min-width: $large) and (max-width: 1023px) {
-      top: 0;
-      max-height: calc(100vh - 80px - 2em);
-      max-height: calc(100dvh - 80px - 2em);
-      overflow-y: auto;
-    }
-  }
-
-  @include breakpoint($large) {
-    @include span(2 of 12);
-    opacity: 1;
-    -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
-
-    &:hover {
-      opacity: 1;
-    }
-  }
-
-  @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
-    padding-right: 0;
-  }
+  position: sticky;
+  top: 0;
+  align-self: start;
+  width: 100%;
+  min-width: 0;
+  max-height: calc(100vh - 80px - 2rem);
+  max-height: calc(100dvh - 80px - 2rem);
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  opacity: 1;
+  -webkit-transition: opacity 0.2s ease-in-out;
+          transition: opacity 0.2s ease-in-out;
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
@@ -77,9 +42,22 @@
   }
 }
 
-#main > .sidebar {
+#main.layout-shell--with-sidebar {
   @include breakpoint(max-width $medium) {
-    display: none;
+    grid-template-columns: minmax(0, 1fr);
+
+    > .sidebar {
+      position: static;
+      grid-column: 1;
+      grid-row: auto;
+      max-height: none;
+      overflow: visible;
+    }
+
+    > .layout-main {
+      grid-column: 1;
+      grid-row: auto;
+    }
   }
 }
 
