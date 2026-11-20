@@ -75,12 +75,13 @@
   ul {
     display: flex;
     align-items: center;
-    height: 1.36em;
+    height: 16px;
     justify-content: center;
-    width: 100%;
+    width: 400px;
+    max-width: 100%;
     gap: 0.75rem;
     font-size: $type-size-7;
-    line-height: 1.36;
+    line-height: 16px;
     margin: 0;
     padding: 0;
     list-style-type: none;
