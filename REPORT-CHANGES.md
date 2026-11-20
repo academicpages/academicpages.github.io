@@ -158,7 +158,7 @@ https://github.com/simoouahbi
 
 ## 👤 06 — Responsive Profile Experience
 
-- 🖼️ Added the profile avatar to the mobile header.
+- 🖼️ Added the profile  avatar to the mobile header.
 - 🔍 Selected a page-specific author avatar when available.
 - 🏠 Used the site-author avatar when no page-specific author exists.
 - 📱 Positioned the avatar beside the theme control.
@@ -264,3 +264,6 @@ Future contributions can document additional ECO-inspired stages of the transfor
 [![GitHub](https://img.shields.io/badge/GitHub-simoouahbi-181717?style=for-the-badge&logo=github)](https://github.com/simoouahbi)
 
 </div>
+
+
+
