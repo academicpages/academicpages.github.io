@@ -16,9 +16,15 @@
   padding-right: 1em;
   overflow-x: hidden;
   overflow-y: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
   overscroll-behavior: contain;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
 }
 
 .page {
@@ -27,7 +33,6 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
