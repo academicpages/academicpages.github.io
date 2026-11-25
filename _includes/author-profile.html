@@ -98,7 +98,10 @@
       {% endif %}
       {% if author.goodreads %}
         <li><a href="https://www.goodreads.com/{{ author.goodreads }}"><i class="fab fa-fw fa-goodreads icon-pad-right" aria-hidden="true"></i>Goodreads</a></li>
-      {% endif %}            
+      {% endif %}
+      {% if author.imdb %}
+        <li><a href="https://www.imdb.com/{{ author.imdb }}"><i class="fab fa-fw fa-imdb icon-pad-right" aria-hidden="true"></i>IMDb</a></li>
+      {% endif %}
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus-g icon-pad-right" aria-hidden="true"></i>Google+</a></li>
       {% endif %}            
