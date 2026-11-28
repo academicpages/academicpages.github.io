@@ -45,6 +45,7 @@ See the [Publications](/publications/) page for details.
 
 * **Graduate Teaching Assistant**, EK 125: Introduction to Programming for Engineers, Boston University (Spring 2026)
 * **RISE Mentor**, Boston University Research in Science & Engineering (Summer 2025)
+* Robotics Club Chairman, Egypt-Japan University of Science and Technology (2021–2022)
 
 ## Service
 
