@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in [Systems Engineering](https://www.bu.edu/systems/) at Boston University, advised by [Prof. Roberto Tron](https://sites.bu.edu/tron/) and [Prof. Sean B. Andersson](https://www.bu.edu/anderssonlab/). I am a member of the [BU Robotics Lab](https://sites.bu.edu/robotics/) and I also collaborate closely with [Prof. Renato Mancuso](https://cs-people.bu.edu/rmancuso/) at the [Cyber-Physical Systems Lab](https://cpslab.bu.edu/) Lab.
+I am a third-year PhD candidate in [Systems Engineering](https://www.bu.edu/systems/) at Boston University, advised by [Prof. Roberto Tron](https://sites.bu.edu/tron/) and [Prof. Sean B. Andersson](https://www.bu.edu/anderssonlab/). I am a member of the [BU Robotics Lab](https://sites.bu.edu/robotics/) and I also collaborate closely with [Prof. Renato Mancuso](https://cs-people.bu.edu/rmancuso/) at the [Cyber-Physical Systems Lab](https://cpslab.bu.edu/) Lab.
 
 My research focuses on making **neural network controllers practically certifiable** for safety-critical robotic systems. I develop methods at the intersection of control theory, machine learning, and formal verification — with the goal of enabling resource-constrained robots to learn and execute complex behaviors while providing formal stability and safety guarantees.
 
@@ -17,6 +17,7 @@ My research focuses on making **neural network controllers practically certifiab
 
 ## News
 
+- **[Jun 2026]** Started ADAS Algorithms Engineering internship at **Magna International** (Lowell, MA)
 - **[Jan 2026]** Paper accepted at **ACC 2026**: *Accelerating Lyapunov-Stable Neural Control using Fulfillment Priority Logic*
 - **[Oct 2025]** Paper published at **IROS 2025**: *Closing the Intent-to-Behavior Gap via Fulfillment Priority Logic*
 - **[May 2025]** Passed PhD Qualifying Exam
