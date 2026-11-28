@@ -3,7 +3,7 @@ title: "Accelerating Lyapunov-Stable Neural Control using Fulfillment Priority L
 collection: publications
 category: conferences
 permalink: /publication/2026-acc-fpl-lyapunov
-date: 2026-07-01
+date: 2026-05-26
 venue: 'American Control Conference (ACC)'
 citation: '<b>A. Abdelgawad</b>, B. El Mabsout, Z. Wang, R. Mancuso, S. B. Andersson, R. Tron. &quot;Accelerating Lyapunov-Stable Neural Control using Fulfillment Priority Logic.&quot; <i>American Control Conference (ACC)</i>, 2026.'
 ---
