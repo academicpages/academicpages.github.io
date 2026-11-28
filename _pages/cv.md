@@ -27,10 +27,11 @@ You can download my full CV [here](/files/Abdelrahman_Abdelgawad_CV.pdf).
 * **Graduate Researcher**, Boston University (Sep 2024 – Present)
   * Developed Fulfillment Priority Logic (FPL), a framework for multi-objective RL that replaces hand-tuned reward weights with logical specifications, achieving up to 5× sample efficiency over Soft Actor-Critic.
   * Accelerated neural Lyapunov-stable controller synthesis by using FPL to approximate stability conditions before formal verification, reducing training time by up to 95% while preserving formal guarantees.
+  * Co-developed a composable, model-free RL method for navigation with unknown input-affine systems, learning reusable goal-reaching and obstacle-avoidance behaviors and composing them via a QCQP with formal obstacle-avoidance guarantees (WAFR 2026).
 
 ## Professional Experience
 
-* **ADAS Algorithms Engineering Intern**, Magna Electronics Inc., Lowell, MA (Jun 2026 – Present)
+* **ADAS Algorithms Engineering Intern**, Magna Electronics Inc., Lowell, MA (Jun 2026 – Dec 2026)
   * Researching and developing AI-based path planning methods for ADAS applications, including planner design, model training, performance evaluation, and comparative analysis against state-of-the-art approaches.
 
 * **Production Engineer**, Si-Ware Systems, Cairo, Egypt (Jul 2023 – Aug 2024)
