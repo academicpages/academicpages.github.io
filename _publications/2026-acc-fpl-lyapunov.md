@@ -9,5 +9,3 @@ citation: '<b>A. Abdelgawad</b>, B. El Mabsout, Z. Wang, R. Mancuso, S. B. Ander
 ---
 
 We present a two-stage approach for learning stability-certified neural controllers that achieves up to ~95% reduction in training time compared to existing methods. Our method combines monotonic neural Lyapunov functions with Fulfillment Priority Logic (FPL) to efficiently initialize controllers before formal MILP-based verification.
-
-**Status:** Accepted, January 2026.
