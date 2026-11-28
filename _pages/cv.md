@@ -30,8 +30,8 @@ You can download my full CV [here](/files/Abdelrahman_Abdelgawad_CV.pdf).
 
 ## Professional Experience
 
-* **ADAS Algorithms Engineering Intern**, Magna International, Lowell, MA (Jun 2026 – Dec 2026)
-  * Developed a real-time video stream-processing service using NVIDIA DeepStream 8.0 / GStreamer in Python, containerized with Docker, and added static type-checking infrastructure.
+* **ADAS Algorithms Engineering Intern**, Magna Electronics Inc., Lowell, MA (Jun 2026 – Present)
+  * Researching and developing AI-based path planning methods for ADAS applications, including planner design, model training, performance evaluation, and comparative analysis against state-of-the-art approaches.
 
 * **Production Engineer**, Si-Ware Systems, Cairo, Egypt (Jul 2023 – Aug 2024)
   * Automated Optical Core Module index detection with a YOLOv8-based vision system, reaching 100% testing accuracy.
