@@ -18,6 +18,8 @@ My research focuses on making **neural network controllers practically certifiab
 ## News
 
 - **[Jun 2026]** Started ADAS Algorithms Engineering internship at **Magna International** (Lowell, MA)
+- **[May 2026]** Presented our paper at **ACC 2026**
+- **[Mar 2026]** Paper accepted at **WAFR 2026**: *Composable Model-Free RL for Navigation with Input-Affine Systems*
 - **[Jan 2026]** Paper accepted at **ACC 2026**: *Accelerating Lyapunov-Stable Neural Control using Fulfillment Priority Logic*
 - **[Oct 2025]** Paper published at **IROS 2025**: *Closing the Intent-to-Behavior Gap via Fulfillment Priority Logic*
 - **[May 2025]** Passed PhD Qualifying Exam
