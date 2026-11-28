@@ -48,7 +48,6 @@ See the [Publications](/publications/) page for details.
 ## Service
 
 * Student Host, CISE Seminar Series, Boston University (Fall 2026 – Present)
-* Reviewer, WAFR 2026
 
 ## Honors & Awards
 
